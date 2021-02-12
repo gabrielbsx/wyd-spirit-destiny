@@ -1,4 +1,5 @@
 #pragma once
+#include <string>
 class CHook;
 class CMain
 {
@@ -7,10 +8,11 @@ public:
 	~CMain();
 
 	bool Initialize();
+	void SafeMessage(const char* Message, ...);
 private:
 	bool LoadFiles();
-
-
+	void StartupConsole();
+	std::string currentDateTime();
 private:
 	CHook* HookMgr;
 };

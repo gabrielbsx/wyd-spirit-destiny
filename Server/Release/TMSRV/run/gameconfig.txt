@@ -69,7 +69,7 @@ kingdomfield 1
 ItemDeleteMode 0
 GameBleMoney 0
 CreateHardCharactor 1
-KhepraGuld 67 RuneGate 67
+KhepraGuld 67 RuneGate 0
 AGBlue 0 Read 0
 EventCoupon 2 
 Gr4State 0 Mantle 7 Day 0
