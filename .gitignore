@@ -1,0 +1,11 @@
+
+*.pdb
+Server/Release/DBSRV/run/log/*.txt
+.vs/
+*.ilk
+Server/Release/DBSRV/run/output/**
+Server/Release/TMSRV/run/output/**
+src/Database/Debug/*
+*.bak
+src/GamePatch/Debug/*
+src/GameServer/Debug/*

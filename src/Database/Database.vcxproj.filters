@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Arquivos de Cabeçalho">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Manager">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Manager\Core">
+      <UniqueIdentifier>{e86e9747-abca-47b9-9396-56fcc470d23c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Core\CMain">
+      <UniqueIdentifier>{15f0c39c-e69f-4ac4-860f-fb60ef718ab0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Core\HookMgr">
+      <UniqueIdentifier>{9db79938-bd58-40ca-9d76-4227abba9373}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="CHook.h">
+      <Filter>Manager\Core\HookMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CMain.h">
+      <Filter>Manager\Core\CMain</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CHook.cpp">
+      <Filter>Manager\Core\HookMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CMain.cpp">
+      <Filter>Manager\Core\CMain</Filter>
+    </ClCompile>
+    <ClCompile Include="NakedHooks.cpp">
+      <Filter>Manager\Core\HookMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="StartupConstants.cpp">
+      <Filter>Manager\Core\HookMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="pch.cpp" />
+  </ItemGroup>
+</Project>
