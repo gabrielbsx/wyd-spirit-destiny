@@ -1,6 +1,10 @@
 #include "pch.h"
 #include "CHook.h"
 #include <PEHook.h>
+#include "CUser.h"
+#include "CMob.h"
+CUser* pUser;
+CMob* pMob;
 bool CHook::StartupConstants()
 {
 	DWORD dwOldProtectFlag_text{};
@@ -10,6 +14,8 @@ bool CHook::StartupConstants()
 
 	VirtualProtect((void*)(peHeader->OptionalHeader.BaseOfCode + MAIN_MODULE_IMAGEBASE), peHeader->OptionalHeader.SizeOfCode, PAGE_READWRITE, &dwOldProtectFlag_text);
 
+	pUser = reinterpret_cast<CUser*>(0x61AAAB4);
+	pMob = reinterpret_cast<CMob*>(0x7D84AC0);
 	//Load Hellgate infos
 	PEHook::SETDWORD((DWORD)"./Settings/hellgate/HellGateRate_Weapon.txt", 0x04E4E3D + 1);
 	PEHook::SETDWORD((DWORD)"./Settings/hellgate/HellGateRate_Armor.txt", 0x04E54CD + 1);
@@ -47,7 +53,8 @@ bool CHook::StartupConstants()
 	PEHook::SETDWORD((DWORD)"./Settings/IDprehibit.txt", 0x057ED0D + 1);
 	PEHook::SETDWORD((DWORD)"./Settings/mobname.csv", 0x056BCE7 + 1);
 
-
+	PEHook::SETDWORD(778, 0x64759C);
+	PEHook::SETBYTE(0xEB, 0x0051B78E);
 
 	VirtualProtect((void*)(peHeader->OptionalHeader.BaseOfCode + MAIN_MODULE_IMAGEBASE), peHeader->OptionalHeader.SizeOfCode, dwOldProtectFlag_text, &dwOldProtectFlag_text);
 	return true;

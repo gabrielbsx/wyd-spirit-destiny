@@ -169,13 +169,19 @@
   <ItemGroup>
     <ClInclude Include="CHook.h" />
     <ClInclude Include="CMain.h" />
+    <ClInclude Include="CMob.h" />
+    <ClInclude Include="CUser.h" />
     <ClInclude Include="framework.h" />
+    <ClInclude Include="ILua.h" />
+    <ClInclude Include="LuaVolatile.h" />
+    <ClInclude Include="Native.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CHook.cpp" />
     <ClCompile Include="CMain.cpp" />
     <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="LuaVolatile.cpp" />
     <ClCompile Include="NakedHooks.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>

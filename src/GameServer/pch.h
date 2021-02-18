@@ -10,4 +10,13 @@
 // adicione os cabeçalhos que você deseja pré-compilar aqui
 #include "framework.h"
 
+struct PacketHeader
+{
+    WORD Size;
+    WORD Seq;
+    WORD PacketId;
+    WORD ClientId;
+    DWORD Tick;
+};
+
 #endif //PCH_H

@@ -18,6 +18,12 @@
     <Filter Include="Manager\Core\HookMgr">
       <UniqueIdentifier>{7f1522e2-36b3-45e0-9c0a-f8a43ffd83ca}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ILua">
+      <UniqueIdentifier>{921bea70-9a43-4d19-87f3-0216376d9272}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\LuaVolatile">
+      <UniqueIdentifier>{bf08ca46-07d4-47cd-8d3c-111997f21c85}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -31,6 +37,21 @@
     </ClInclude>
     <ClInclude Include="CMain.h">
       <Filter>Manager\Core\CMain</Filter>
+    </ClInclude>
+    <ClInclude Include="ILua.h">
+      <Filter>ILua</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaVolatile.h">
+      <Filter>Manager\LuaVolatile</Filter>
+    </ClInclude>
+    <ClInclude Include="Native.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="CMob.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="CUser.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -48,5 +69,8 @@
     </ClCompile>
     <ClCompile Include="dllmain.cpp" />
     <ClCompile Include="pch.cpp" />
+    <ClCompile Include="LuaVolatile.cpp">
+      <Filter>Manager\LuaVolatile</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

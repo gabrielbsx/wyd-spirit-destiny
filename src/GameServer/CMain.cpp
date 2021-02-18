@@ -1,10 +1,12 @@
 #include "pch.h"
 #include "CHook.h"
 #include "CMain.h"
+#include "Native.h"
 #include <io.h>
 #include <fcntl.h>
 #include <cstdio>
 #include <iostream>
+#include "LuaVolatile.h"
 
 CMain* g_pMain = nullptr;
 
@@ -46,6 +48,9 @@ void CMain::SafeMessage(const char* Message, ...)
 
 bool CMain::LoadFiles()
 {
+	if (!LuaVolatile::LoadScripts())
+		return false;
+
 	return true;
 }
 

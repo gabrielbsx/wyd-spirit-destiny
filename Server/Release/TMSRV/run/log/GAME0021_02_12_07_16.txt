@@ -194,3 +194,35 @@
 210212,071624,00000000,-system,etc, guild report 9 - 0 0 0 0 0 
 210212,071624,00000000,system,Complate Server Init 
 210212,071635,00000000,-system,sys,town tax report: 828353687 139300992 18759128 167762637 6546202818 
+210212,071635,00000000,-system,err, mob have kill point - 5256,3 
+210212,071635,00000000,-system,err, mob have kill point - 5259,3 
+210212,071635,00000000,-system,err, mob have kill point - 5259,3 
+210212,071635,00000000,-system,err, mob have kill point - 5265,3 
+210212,071635,00000000,-system,err, mob have kill point - 5265,3 
+210212,071635,00000000,-system,err, mob have kill point - 5268,3 
+210212,071635,00000000,-system,err, mob have kill point - 5280,3 
+210212,071635,00000000,-system,err, mob have kill point - 5308,3 
+210212,071635,00000000,-system,err, mob have kill point - 5352,3 
+210212,071635,00000000,-system,err, mob have kill point - 5352,3 
+210212,071645,00000000,-system,err, mob have kill point - 5260,3 
+210212,071645,00000000,-system,err, mob have kill point - 5269,3 
+210212,071645,00000000,-system,err, mob have kill point - 5269,3 
+210212,071645,00000000,-system,err, mob have kill point - 5272,3 
+210212,071645,00000000,-system,err, mob have kill point - 5281,3 
+210212,071645,00000000,-system,err, mob have kill point - 5297,3 
+210212,071645,00000000,-system,err, mob have kill point - 5297,3 
+210212,071645,00000000,-system,err, mob have kill point - 5314,3 
+210212,071645,00000000,-system,err, mob have kill point - 5353,3 
+210212,071655,00000000,-system,err, mob have kill point - 5255,3 
+210212,071655,00000000,-system,err, mob have kill point - 5258,3 
+210212,071655,00000000,-system,err, mob have kill point - 5258,3 
+210212,071655,00000000,-system,err, mob have kill point - 5273,3 
+210212,071655,00000000,-system,err, mob have kill point - 5282,3 
+210212,071655,00000000,-system,err, mob have kill point - 5324,3 
+210212,071655,00000000,-system,err, mob have kill point - 5345,3 
+210212,071705,00000000,-system,err, mob have kill point - 5287,3 
+210212,071705,00000000,-system,err, mob have kill point - 5351,3 
+210212,080007,00000000,-system,sys,town tax report: 828353687 139300992 18759128 167762637 6546202818 
+210212,090007,00000000,-system,sys,town tax report: 828353687 139300992 18759128 167762637 6546202818 
+210212,100007,00000000,-system,sys,town tax report: 828353687 139300992 18759128 167762637 6546202818 
+210212,110007,00000000,-system,sys,town tax report: 828353687 139300992 18759128 167762637 6546202818 

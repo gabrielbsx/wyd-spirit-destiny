@@ -35,6 +35,8 @@ bool CHook::StartupConstants()
 	PEHook::SETDWORD((DWORD)"./npc/BeastMaster2", 0x0489140 + 1);
 	PEHook::SETDWORD((DWORD)"./npc/Hunter2", 0x04891A7 + 1);
 
+
+
 	VirtualProtect((void*)(peHeader->OptionalHeader.BaseOfCode + MAIN_MODULE_IMAGEBASE), peHeader->OptionalHeader.SizeOfCode, dwOldProtectFlag_text, &dwOldProtectFlag_text);
 	return true;
 }

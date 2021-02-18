@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RegisterVolatiles>
+	<Volatile Type="1" Index="4140" Script="Scripts/teste.lua" />
+</RegisterVolatiles>
