@@ -1,61 +1,134 @@
 #include "pch.h"
 #include "CHook.h"
 #include <PEHook.h>
-#include "CUser.h"
-#include "CMob.h"
-CUser* pUser;
-CMob* pMob;
+#include "HookStrings.h"
+#include "GlobalPointer.h"
+
+
+std::list<SETUP_CONSTANTS> CHook::pConstants = std::list<SETUP_CONSTANTS>();
+
+bool CHook::SetConstants()
+{
+	if (!CHook::StartupConstants())
+		return false;
+
+	if (!HookStrings::Initialize())
+		return false;
+
+	if (!GlobalPointer::Initialize())
+		return false;
+
+
+
+	return true;
+}
+
 bool CHook::StartupConstants()
 {
-	DWORD dwOldProtectFlag_text{};
+	try
+	{
+		std::ostringstream dir{ 0 };
+		dir << "../../Settings/ReplaceConstants" << ".xml";
 
-	int MAIN_MODULE_IMAGEBASE = 0x401000;
-	IMAGE_NT_HEADERS32* peHeader = (IMAGE_NT_HEADERS32*)(MAIN_MODULE_IMAGEBASE + ((IMAGE_DOS_HEADER*)MAIN_MODULE_IMAGEBASE)->e_lfanew);
+		pugi::xml_document file;
 
-	VirtualProtect((void*)(peHeader->OptionalHeader.BaseOfCode + MAIN_MODULE_IMAGEBASE), peHeader->OptionalHeader.SizeOfCode, PAGE_READWRITE, &dwOldProtectFlag_text);
+		pugi::xml_parse_result res = file.load_file(dir.str().c_str());
+		if (res.status == pugi::status_ok)
+		{
+			CHook::pConstants.clear();
+			pugi::xml_node flg = file.child("Constants");
+			for (pugi::xml_node curFlag = flg.first_child(); curFlag; curFlag = curFlag.next_sibling())
+			{
+				SETUP_CONSTANTS consType{};
+				consType.Address = curFlag.attribute("Address").as_uint(0x0);
+				consType.Add = curFlag.attribute("Add").as_uint(0x0);
+				consType.changeType = curFlag.attribute("Type").as_string("");
 
-	pUser = reinterpret_cast<CUser*>(0x61AAAB4);
-	pMob = reinterpret_cast<CMob*>(0x7D84AC0);
-	//Load Hellgate infos
-	PEHook::SETDWORD((DWORD)"./Settings/hellgate/HellGateRate_Weapon.txt", 0x04E4E3D + 1);
-	PEHook::SETDWORD((DWORD)"./Settings/hellgate/HellGateRate_Armor.txt", 0x04E54CD + 1);
-	PEHook::SETDWORD((DWORD)"./Settings/hellgate/HellGateRate_Accessory.txt", 0x04E5B3D + 1);
+				if (!consType.changeType.compare("BYTE"))
+				{
+					consType.ValueByte = static_cast<BYTE>(curFlag.attribute("Value").as_uint(0x0));
+				}
+				else if (!consType.changeType.compare("SHORT"))
+				{
+					consType.ValueShort = static_cast<short>(curFlag.attribute("Value").as_uint(0x0));
+				}
+				else if (!consType.changeType.compare("DWORD"))
+				{
+					consType.ValueDword = static_cast<DWORD>(curFlag.attribute("Value").as_uint(0x0));
+				}
+				else if (!consType.changeType.compare("FLOAT"))
+				{
+					consType.ValueFloat = static_cast<float>(curFlag.attribute("Value").as_float(0.0f));
+				}
+				else if (!consType.changeType.compare("DOUBLE"))
+				{
+					consType.ValueDouble = static_cast<double>(curFlag.attribute("Value").as_double(0.0));
+				}
+				else if (!consType.changeType.compare("INT64"))
+				{
+					consType.ValueInt64 = static_cast<unsigned long long>(curFlag.attribute("Value").as_ullong(0));
+				}
+				else if (!consType.changeType.compare("NOP"))
+				{
+					consType.NopSize = static_cast<DWORD>(curFlag.attribute("Value").as_uint(0));
+				}
+				else
+				{
+					std::cout << "Invalid Type: " << consType.changeType.c_str() << std::endl;
+					continue;
+				}
+				CHook::pConstants.push_back(consType);
+			}
+			return CHook::SetupConstants();
+		}
+		return false;
+	}
+	catch (const std::exception&)
+	{
+		return false;
+	}
+}
 
+bool CHook::SetupConstants()
+{
+	try
+	{
+		for (auto& i : CHook::pConstants)
+		{
+			if (!i.changeType.compare("BYTE"))
+			{
+				PEHook::SETBYTE(i.ValueByte, BaseAddress + i.Address + i.Add);
+			}
+			else if (!i.changeType.compare("SHORT"))
+			{
+				PEHook::SETWORD(i.ValueShort, BaseAddress + i.Address + i.Add);
+			}
+			else if (!i.changeType.compare("DWORD"))
+			{
+				PEHook::SETDWORD(i.ValueDword, BaseAddress + i.Address + i.Add);
+			}
+			else if (!i.changeType.compare("FLOAT"))
+			{
+				PEHook::SETFLOAT(i.ValueFloat, BaseAddress + i.Address + i.Add);
+			}
+			else if (!i.changeType.compare("DOUBLE"))
+			{
+				PEHook::SETDOUBLE(i.ValueDouble, BaseAddress + i.Address + i.Add);
+			}
+			else if (!i.changeType.compare("INT64"))
+			{
 
-	// Load Map files
-	PEHook::SETDWORD((DWORD)"../../Common/Files/heightmap.dat", 0x056BD1E + 1);
-	PEHook::SETDWORD((DWORD)"../../Common/Files/AttributeMap.dat", 0x04C3CB6 + 1);
-	PEHook::SETDWORD((DWORD)"../../Common/Files/InitItem.csv", 0x4C2CFD + 1);
-
-
-	//Load items info
-	PEHook::SETDWORD((DWORD)"../../Common/Files/ItemEffect.h", 0x04C0847 + 1);
-	PEHook::SETDWORD((DWORD)"../../Common/Files/ItemList.csv", 0x04BF7B4 + 1);
-	PEHook::SETDWORD((DWORD)"../../Common/Files/ExtraItem.csv", 0x04BF7EF + 1);
-	PEHook::SETDWORD((DWORD)"../../Common/Files/ItemName.csv", 0x04BF81A + 1);
-
-	///Load Skills Info
-	PEHook::SETDWORD((DWORD)"../../Common/Files/SkillData.csv", 0x04C2FBD + 1);
-
-	//Load Static Info
-	PEHook::SETDWORD((DWORD)"./Settings/StaticData/lvitem.txt", 0x05177ED + 1);
-	PEHook::SETDWORD((DWORD)"./Settings/StaticData/KhepraDropItem.txt", 0x057AA24 + 1);
-	PEHook::SETDWORD((DWORD)"./Settings/StaticData/HadenStepitems.txt", 0x057AC5D + 1);
-	PEHook::SETDWORD((DWORD)"./Settings/StaticData/ChristmasStepItems.txt", 0x057AE12 + 1);
-	PEHook::SETDWORD((DWORD)"./Settings/StaticData/GameRoomDropList.txt", 0x058A0FD + 1);
-
-	PEHook::SETDWORD((DWORD)"./Settings/BLOCKIP.txt", 0x04C491D + 1);
-	PEHook::SETDWORD((DWORD)"./Settings/Chall.txt", 0x056C2C8 + 1);
-	PEHook::SETDWORD((DWORD)"./Settings/Chall.txt", 0x056C383 + 1);
-	PEHook::SETDWORD((DWORD)"./Settings/GameRoomIP.txt", 0x04C46AD + 1);
-	PEHook::SETDWORD((DWORD)"./Settings/Guild.txt", 0x0512307 + 1);
-	PEHook::SETDWORD((DWORD)"./Settings/Guild.txt", 0x05125A3 + 1);
-	PEHook::SETDWORD((DWORD)"./Settings/IDprehibit.txt", 0x057ED0D + 1);
-	PEHook::SETDWORD((DWORD)"./Settings/mobname.csv", 0x056BCE7 + 1);
-
-	PEHook::SETDWORD(778, 0x64759C);
-	PEHook::SETBYTE(0xEB, 0x0051B78E);
-
-	VirtualProtect((void*)(peHeader->OptionalHeader.BaseOfCode + MAIN_MODULE_IMAGEBASE), peHeader->OptionalHeader.SizeOfCode, dwOldProtectFlag_text, &dwOldProtectFlag_text);
-	return true;
+				PEHook::SETLLONG(i.ValueInt64, BaseAddress + i.Address + i.Add);
+			}
+			else if (!i.changeType.compare("NOP"))
+			{
+				PEHook::FillWithNop(BaseAddress + i.Address + i.Add, i.NopSize);
+			}
+		}
+		return true;
+	}
+	catch (const std::exception&)
+	{
+		return false;
+	}
 }

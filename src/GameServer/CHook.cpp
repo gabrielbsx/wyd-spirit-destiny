@@ -12,5 +12,5 @@ CHook::~CHook()
 
 bool CHook::Initialize()
 {
-	return this->StartupConstants() & this->StartupNakeds();
+	return this->SetConstants() & this->SetNakeds();
 }

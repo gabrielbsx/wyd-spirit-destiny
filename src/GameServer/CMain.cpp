@@ -1,13 +1,12 @@
 #include "pch.h"
 #include "CHook.h"
 #include "CMain.h"
-#include "Native.h"
 #include <io.h>
 #include <fcntl.h>
 #include <cstdio>
 #include <iostream>
-#include "LuaVolatile.h"
-
+#include <psapi.h>
+#include <tchar.h>
 CMain* g_pMain = nullptr;
 
 CMain::CMain()
@@ -29,6 +28,9 @@ bool CMain::Initialize()
 	this->SafeMessage("Initializing in debug mode...");
 #endif // _DEBUG
 
+	if (!CMain::StartBaseAddress())
+		return false;
+
 	return this->HookMgr->Initialize() & this->LoadFiles();
 }
 
@@ -48,9 +50,6 @@ void CMain::SafeMessage(const char* Message, ...)
 
 bool CMain::LoadFiles()
 {
-	if (!LuaVolatile::LoadScripts())
-		return false;
-
 	return true;
 }
 
@@ -76,5 +75,53 @@ std::string CMain::currentDateTime()
 	strftime(buf, sizeof(buf), "%d-%m (%X)", &tstruct);
 
 	return buf;
+}
+
+void CMain::GetBaseAddressByName(DWORD processId, TCHAR* processName)
+{
+	TCHAR szProcessName[MAX_PATH] = TEXT("<unknown>");
+
+	HANDLE hProcess = OpenProcess(PROCESS_QUERY_INFORMATION |
+		PROCESS_VM_READ,
+		FALSE, processId);
+
+	if (NULL != hProcess)
+	{
+		HMODULE hMod;
+		DWORD cbNeeded;
+
+		if (EnumProcessModulesEx(hProcess, &hMod, sizeof(hMod),
+			&cbNeeded, LIST_MODULES_32BIT | LIST_MODULES_64BIT))
+		{
+			GetModuleBaseName(hProcess, hMod, szProcessName,
+				sizeof(szProcessName) / sizeof(TCHAR));
+			if (!_tcsicmp(processName, szProcessName)) {
+				//_tprintf(TEXT("0x%p\n"), hMod);
+				BaseAddress = (DWORD)hMod + (DWORD)0xB1000;
+			}
+		}
+	}
+
+	CloseHandle(hProcess);
+}
+
+bool CMain::StartBaseAddress()
+{
+	BaseAddress = 0;
+
+	DWORD aProcesses[1024];
+	DWORD cbNeeded;
+	DWORD cProcesses;
+
+	if (!EnumProcesses(aProcesses, sizeof(aProcesses), &cbNeeded))
+		return false;
+
+	cProcesses = cbNeeded / sizeof(DWORD);
+
+	for (DWORD i = 0; i < cProcesses; i++) {
+		GetBaseAddressByName(aProcesses[i], (TCHAR*)"TMSRVIN.exe");
+	}
+
+	return true;
 }
 

@@ -1,3 +1,4 @@
+#include "..\GameServer\CHook.h"
 #include "pch.h"
 #include "CHook.h"
 #include <PEHook.h>
@@ -9,6 +10,7 @@ bool CHook::StartupConstants()
 	IMAGE_NT_HEADERS32* peHeader = (IMAGE_NT_HEADERS32*)(MAIN_MODULE_IMAGEBASE + ((IMAGE_DOS_HEADER*)MAIN_MODULE_IMAGEBASE)->e_lfanew);
 
 	VirtualProtect((void*)(peHeader->OptionalHeader.BaseOfCode + MAIN_MODULE_IMAGEBASE), peHeader->OptionalHeader.SizeOfCode, PAGE_READWRITE, &dwOldProtectFlag_text);
+
 
 	//Load basic files
 	PEHook::SETDWORD((DWORD)"../../Common/Files/SkillData.csv", 0x0466448 + 1);
@@ -40,3 +42,4 @@ bool CHook::StartupConstants()
 	VirtualProtect((void*)(peHeader->OptionalHeader.BaseOfCode + MAIN_MODULE_IMAGEBASE), peHeader->OptionalHeader.SizeOfCode, dwOldProtectFlag_text, &dwOldProtectFlag_text);
 	return true;
 }
+

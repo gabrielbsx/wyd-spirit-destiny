@@ -18,11 +18,11 @@
     <Filter Include="Manager\Core\HookMgr">
       <UniqueIdentifier>{7f1522e2-36b3-45e0-9c0a-f8a43ffd83ca}</UniqueIdentifier>
     </Filter>
-    <Filter Include="ILua">
-      <UniqueIdentifier>{921bea70-9a43-4d19-87f3-0216376d9272}</UniqueIdentifier>
+    <Filter Include="Manager\Core\HookMgr\Constants">
+      <UniqueIdentifier>{9f03bca6-1cf4-445c-9f2f-df2fe368030d}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Manager\LuaVolatile">
-      <UniqueIdentifier>{bf08ca46-07d4-47cd-8d3c-111997f21c85}</UniqueIdentifier>
+    <Filter Include="Manager\Core\HookMgr\Naked">
+      <UniqueIdentifier>{6a72e275-2061-4de4-b41d-d159024720ba}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -32,25 +32,25 @@
     <ClInclude Include="pch.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
-    <ClInclude Include="CHook.h">
-      <Filter>Manager\Core\HookMgr</Filter>
-    </ClInclude>
-    <ClInclude Include="CMain.h">
-      <Filter>Manager\Core\CMain</Filter>
-    </ClInclude>
-    <ClInclude Include="ILua.h">
-      <Filter>ILua</Filter>
-    </ClInclude>
-    <ClInclude Include="LuaVolatile.h">
-      <Filter>Manager\LuaVolatile</Filter>
-    </ClInclude>
     <ClInclude Include="Native.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
-    <ClInclude Include="CMob.h">
+    <ClInclude Include="CUser.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
-    <ClInclude Include="CUser.h">
+    <ClInclude Include="HookStrings.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalPointer.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="CHook.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="CMain.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="DeactiveOriginals.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
   </ItemGroup>
@@ -61,16 +61,22 @@
     <ClCompile Include="CMain.cpp">
       <Filter>Manager\Core\CMain</Filter>
     </ClCompile>
-    <ClCompile Include="StartupConstants.cpp">
-      <Filter>Manager\Core\HookMgr</Filter>
-    </ClCompile>
-    <ClCompile Include="NakedHooks.cpp">
-      <Filter>Manager\Core\HookMgr</Filter>
-    </ClCompile>
     <ClCompile Include="dllmain.cpp" />
     <ClCompile Include="pch.cpp" />
-    <ClCompile Include="LuaVolatile.cpp">
-      <Filter>Manager\LuaVolatile</Filter>
+    <ClCompile Include="NakedHooks.cpp">
+      <Filter>Manager\Core\HookMgr\Naked</Filter>
+    </ClCompile>
+    <ClCompile Include="StartupConstants.cpp">
+      <Filter>Manager\Core\HookMgr\Constants</Filter>
+    </ClCompile>
+    <ClCompile Include="HookStrings.cpp">
+      <Filter>Manager\Core\HookMgr\Constants</Filter>
+    </ClCompile>
+    <ClCompile Include="GlobalPointer.cpp">
+      <Filter>Manager\Core\HookMgr\Constants</Filter>
+    </ClCompile>
+    <ClCompile Include="DeactiveOriginals.cpp">
+      <Filter>Manager\Core\HookMgr\Constants</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

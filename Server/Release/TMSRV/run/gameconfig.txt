@@ -1,7 +1,7 @@
 Drop Item Event Settings:
   evindex 0  evdelete 0  evon 1  evitem 4055  evrate 400  evstart 1 20000 20000 1
 Etc Event Settings:
-  double 0  deadpoint 1  dungeonevent 1  statsapphire 10  battleroyal 0  VS: 0  translevel: 300
+  double 0  deadpoint 1  dungeonevent 1  statsapphire 10  battleroyal 0  VS: 2  translevel: 300
 Billing Settings:
   billmode 0  freeexp 35  charselbill 0  potioncount 10  partybonus 100  guildboard 0
 Item Drop Bonus Settings:
@@ -69,7 +69,7 @@ kingdomfield 1
 ItemDeleteMode 0
 GameBleMoney 0
 CreateHardCharactor 1
-KhepraGuld 67 RuneGate 0
+KhepraGuld 67 RuneGate 67
 AGBlue 0 Read 0
 EventCoupon 2 
 Gr4State 0 Mantle 7 Day 0

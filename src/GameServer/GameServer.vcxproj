@@ -111,6 +111,7 @@
       <SubSystem>Windows</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <EnableUAC>false</EnableUAC>
+      <AdditionalDependencies>psapi.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -169,19 +170,21 @@
   <ItemGroup>
     <ClInclude Include="CHook.h" />
     <ClInclude Include="CMain.h" />
-    <ClInclude Include="CMob.h" />
     <ClInclude Include="CUser.h" />
+    <ClInclude Include="DeactiveOriginals.h" />
     <ClInclude Include="framework.h" />
-    <ClInclude Include="ILua.h" />
-    <ClInclude Include="LuaVolatile.h" />
+    <ClInclude Include="GlobalPointer.h" />
+    <ClInclude Include="HookStrings.h" />
     <ClInclude Include="Native.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CHook.cpp" />
     <ClCompile Include="CMain.cpp" />
+    <ClCompile Include="DeactiveOriginals.cpp" />
     <ClCompile Include="dllmain.cpp" />
-    <ClCompile Include="LuaVolatile.cpp" />
+    <ClCompile Include="GlobalPointer.cpp" />
+    <ClCompile Include="HookStrings.cpp" />
     <ClCompile Include="NakedHooks.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>

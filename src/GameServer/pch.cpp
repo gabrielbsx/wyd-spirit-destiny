@@ -2,4 +2,6 @@
 
 #include "pch.h"
 
+DWORD BaseAddress;
+
 // Quando você estiver usando cabeçalhos pré-compilados, esse arquivo de origem será necessário para que a compilação seja bem-sucedida.

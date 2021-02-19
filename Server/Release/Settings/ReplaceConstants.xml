@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<Constants>
+	<!--Types = BYTE, SHORT, DWORD, FLOAT, DOUBLE, NOP (using nop, value is a count of bytes to set 0x90) -->
+	<FlagConst Address="0x019659C" Add="0" Type="DWORD" Value="778" />
+</Constants>

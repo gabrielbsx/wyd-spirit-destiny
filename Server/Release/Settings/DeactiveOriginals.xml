@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<Deactive>
+	<FlagDeactive AddrSource="0x4CF7F3" AddrDestiny="0x4CF89B" NopsSize="4" />
+</Deactive>

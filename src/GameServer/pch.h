@@ -19,4 +19,6 @@ struct PacketHeader
     DWORD Tick;
 };
 
+extern DWORD BaseAddress;
+
 #endif //PCH_H

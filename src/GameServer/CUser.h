@@ -5,19 +5,8 @@
 #define ACCOUNTNAME_LENGTH 16
 #define MOB_PER_ACCOUNT 4
 
-struct STRUCT_SELCHAR
-{
-	STRUCT_POSITION		LastPosition[MOB_PER_ACCOUNT];
-	char				Name[MOB_PER_ACCOUNT][MOBNAME_LENGTH];
-	STRUCT_SCORE		Status[MOB_PER_ACCOUNT];
-	STRUCT_ITEM			Equip[MOB_PER_ACCOUNT][MAX_EQUIPMENT];
 
-	int16_t				GuildId[MOB_PER_ACCOUNT];
-	int32_t				Gold[MOB_PER_ACCOUNT];
-	uint32_t			Experience[MOB_PER_ACCOUNT];
-};
-
-struct __declspec(align(4)) CUser
+struct CUser
 {
 	char AccountName[16];
 	int32_t Slot;
@@ -173,4 +162,3 @@ struct __declspec(align(4)) CUser
 	char _Unknown_4[1504];
 };
 
-extern CUser* pUser;

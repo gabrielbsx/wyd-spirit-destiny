@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<Flags>
+	<FlagsSetup Address="0x033E3D" Add="1" Value="./Settings/hellgate/HellGateRate_Weapon.txt" />
+	<FlagsSetup Address="0x0344CD" Add="1" Value="./Settings/hellgate/HellGateRate_Armor.txt" />
+	<FlagsSetup Address="0x034B3D" Add="1" Value="./Settings/hellgate/HellGateRate_Accessory.txt" />
+	<FlagsSetup Address="0x0BAD1E" Add="1" Value="../../Common/Files/heightmap.dat" />
+	<FlagsSetup Address="0x012CB6" Add="1" Value="../../Common/Files/AttributeMap.dat" />
+	<FlagsSetup Address="0x011CFD" Add="1" Value="../../Common/Files/InitItem.csv" />
+	<FlagsSetup Address="0x00F847" Add="1" Value="../../Common/Files/ItemEffect.h" />
+	<FlagsSetup Address="0x00E7B4" Add="1" Value="../../Common/Files/ItemList.csv" />
+	<FlagsSetup Address="0x00E7EF" Add="1" Value="../../Common/Files/ExtraItem.csv" />
+	<FlagsSetup Address="0x00E81A" Add="1" Value="../../Common/Files/ItemName.csv" />
+	<FlagsSetup Address="0x011FBD" Add="1" Value="../../Common/Files/SkillData.csv" />
+	<FlagsSetup Address="0x0667ED" Add="1" Value="./Settings/StaticData/lvitem.txt" />
+	<FlagsSetup Address="0x0C9A24" Add="1" Value="./Settings/StaticData/KhepraDropItem.txt" />
+	<FlagsSetup Address="0x0C9C5D" Add="1" Value="./Settings/StaticData/HadenStepitems.txt" />
+	<FlagsSetup Address="0x0C9E12" Add="1" Value="./Settings/StaticData/ChristmasStepItems.txt" />
+	<FlagsSetup Address="0x0D90FD" Add="1" Value="./Settings/StaticData/GameRoomDropList.txt" />
+	<FlagsSetup Address="0x01391D" Add="1" Value="./Settings/BLOCKIP.txt" />
+	<FlagsSetup Address="0x0BB2C8" Add="1" Value="./Settings/Chall.txt" />
+	<FlagsSetup Address="0x0BB383" Add="1" Value="./Settings/Chall.txt" />
+	<FlagsSetup Address="0x0136AD" Add="1" Value="./Settings/GameRoomIP.txt" />
+	<FlagsSetup Address="0x061307" Add="1" Value="./Settings/Guild.txt" />
+	<FlagsSetup Address="0x0615A3" Add="1" Value="./Settings/Guild.txt" />
+	<FlagsSetup Address="0x0CDD0D" Add="1" Value="./Settings/IDprehibit.txt" />
+	<FlagsSetup Address="0x0BACE7" Add="1" Value="./Settings/mobname.csv" />
+</Flags>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -73,6 +73,15 @@ public:
 		VirtualProtect((LPVOID)dwAddress, sizeof(float), dwOldProtect, &dwOldProtect);
 	}
 
+	static void SETLLONG(unsigned long long value, DWORD dwAddress)
+	{
+		VirtualProtect((LPVOID)dwAddress, sizeof(float), PAGE_EXECUTE_READWRITE, &dwOldProtect);
+
+		*(unsigned long long*)dwAddress = value;
+
+		VirtualProtect((LPVOID)dwAddress, sizeof(float), dwOldProtect, &dwOldProtect);
+	}
+
 	static void SETCALL(void* func, DWORD dwAddress)
 	{
 		VirtualProtect((LPVOID)dwAddress, 5, PAGE_EXECUTE_READWRITE, &dwOldProtect);
