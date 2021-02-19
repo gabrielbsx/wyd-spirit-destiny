@@ -1,5 +1,82 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
 <Constants>
-	<!--Types = BYTE, SHORT, DWORD, FLOAT, DOUBLE, NOP (using nop, value is a count of bytes to set 0x90) -->
+	<!--Types = BYTE, SHORT, DWORD, FLOAT, DOUBLE, NOP (using nop, value is a count of bytes to set 0x90 -->
+	
+	<!-- Setup Client Version -->
 	<FlagConst Address="0x019659C" Add="0" Type="DWORD" Value="778" />
+	<!-- Set MaxLevel Mortal -->
+	<FlagConst Address="0x195EF4" Add="0" Type="DWORD" Value="399" />
+	<!-- Set MaxLevel Mortal -->
+	<FlagConst Address="0x195EFC" Add="0" Type="DWORD" Value="399" />
+	<!-- Set MaxLevel Cele/Sub -->
+	<FlagConst Address="0x195EF8" Add="0" Type="DWORD" Value="199" />
+	
+	<!-- QuestExp Cemitério  -->
+	<FlagConst Address="0x1966CC" Add="0" Type="DWORD" Value="7500" />
+	<!-- QuestExp Jardim     -->
+	<FlagConst Address="0x1966D0" Add="0" Type="DWORD" Value="15000" />
+	<!-- QuestExp Kaizen     -->
+	<FlagConst Address="0x1966D4" Add="0" Type="DWORD" Value="75000" />
+	<!-- QuestExp Hydra      -->
+	<FlagConst Address="0x1966DC" Add="0" Type="DWORD" Value="150000" />
+	<!-- QuestExp Guarda -->
+	<FlagConst Address="0x1966E0" Add="0" Type="DWORD" Value="300000" />
+	
+	<!-- QuestGold Cemitério  -->
+	<FlagConst Address="0x196708" Add="0" Type="DWORD" Value="700" />
+	<!-- QuestGold Jardim     -->
+	<FlagConst Address="0x19670C" Add="0" Type="DWORD" Value="1200" />
+	<!-- QuestGold Kaizen     -->
+	<FlagConst Address="0x196710" Add="0" Type="DWORD" Value="2500" />
+	<!-- QuestGold Hydra      -->
+	<FlagConst Address="0x196714" Add="0" Type="DWORD" Value="3500" />
+	<!-- QuestGold Guarda -->
+	<FlagConst Address="0x196718" Add="0" Type="DWORD" Value="4000" />
+	
+	<!-- Fix Chat Error -->
+	<FlagConst Address="0x7D93F" Add="0" Type="NOP" Value="3" />
+	
+	<!-- Set Secret Stone rate to 100% -->
+	<FlagConst Address="0x906AE" Add="0" Type="BYTE" Value="0x64" />
+	
+	<!-- Allow Mount costumes on trade mode -->
+	<FlagConst Address="0x97892" Add="0" Type="BYTE" Value="0xEB" />
+	
+	<!-- Disable Magic regist to Tower in Erion War -->
+	<FlagConst Address="0x1D40D" Add="0" Type="BYTE" Value="0xEB" />
+	
+	<!-- Fix wall bug in Cube zone -->
+	<FlagConst Address="0x2B45E" Add="3" Type="DWORD" Value="0x686" />
+	
+	<!-- Change checktime at Clue +5 (Barlog) teleport zones -->
+	<FlagConst Address="0xD419B" Add="1" Type="DWORD" Value="3" />
+	
+	<!-- Change register Uxmal to not enable at server start  -->
+	<FlagConst Address="0x195F00" Add="1" Type="DWORD" Value="0" />
+	
+	<!-- Set Multiply Exp Celestial/Sub --> 
+	<!-- Level 350+ -->
+	<FlagConst Address="0xCFDE0" Add="1" Type="DWORD" Value="768" />
+	<!-- Level 300+ -->
+	<FlagConst Address="0xCFDC4" Add="1" Type="DWORD" Value="512" />
+	<!-- Level 250+ -->
+	<FlagConst Address="0xCFD9F" Add="1" Type="DWORD" Value="256" />
+	<!-- Level 190+ -->
+	<FlagConst Address="0xCFD7A" Add="1" Type="DWORD" Value="180" />
+	<!-- Level 180+ -->
+	<FlagConst Address="0xCFD55" Add="1" Type="BYTE" Value="72" />
+	<!-- Level 170+ -->
+	<FlagConst Address="0xCFD30" Add="1" Type="BYTE" Value="51" />
+	<!-- Level 160+ -->
+	<FlagConst Address="0xCFD0B" Add="1" Type="BYTE" Value="32" />
+	<!-- Level 150+ -->
+	<FlagConst Address="0xCFCE6" Add="1" Type="BYTE" Value="16" />
+	<!-- Level 80+ -->
+	<FlagConst Address="0xCFCC1" Add="1" Type="BYTE" Value="8" />
+	<!-- Level 40+ -->
+	<FlagConst Address="0xCFC9C" Add="1" Type="BYTE" Value="4" />
+	<!-- Level 1+ -->
+	<FlagConst Address="0xCFC7A" Add="1" Type="BYTE" Value="2" />
+	<!-- Finish Exp multiply Cele/Sub -->
+	
 </Constants>

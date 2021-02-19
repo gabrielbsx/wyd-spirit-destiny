@@ -13,7 +13,6 @@ CMain::CMain()
 {
 	this->HookMgr = new CHook();
 	g_pMain = this;
-
 }
 
 CMain::~CMain()
@@ -31,6 +30,9 @@ bool CMain::Initialize()
 	if (!CMain::StartBaseAddress())
 		return false;
 
+#ifdef _DEBUG
+	std::cout << "BaseAdress:: 0x" << std::hex << std::uppercase  << BaseAddress << std::endl;
+#endif
 	return this->HookMgr->Initialize() & this->LoadFiles();
 }
 
@@ -124,4 +126,3 @@ bool CMain::StartBaseAddress()
 
 	return true;
 }
-

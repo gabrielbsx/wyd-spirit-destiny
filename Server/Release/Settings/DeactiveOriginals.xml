@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
-<Deactive>
-	<FlagDeactive AddrSource="0x4CF7F3" AddrDestiny="0x4CF89B" NopsSize="4" />
+<Deactive>						 
+	<!-- Allow drop if monster not have experience -->
+	<FlagDeactive AddrSource="0xBFE6C" AddrDestiny="0xBFE72" NopsSize="0" />
+	
+	<!-- Fix Chat Error -->
+	<FlagDeactive AddrSource="0x9AA7B" AddrDestiny="0x9AA8D" NopsSize="4" />
+	<FlagDeactive AddrSource="0x9EA01" AddrDestiny="0x9EA13" NopsSize="4" />
+	
+	<!-- Disable Kingdom damage bonus -->
+	<FlagDeactive AddrSource="0x1E7F3" AddrDestiny="0x1E89B" NopsSize="4" />
 </Deactive>
