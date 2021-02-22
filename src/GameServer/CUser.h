@@ -5,160 +5,128 @@
 #define ACCOUNTNAME_LENGTH 16
 #define MOB_PER_ACCOUNT 4
 
-
-struct CUser
+struct MSG_Trade
 {
-	char AccountName[16];
-	int32_t Slot;
-	uint32_t _IP;
-	uint32_t Other;
-	int Mode;
-	int field_20;
-	int field_24;
-	int field_28;
-	int field_2C;
-	int field_30;
-	int field_34;
-	int field_38;
-	int field_3C;
-	int field_40;
-	int field_44;
-	int field_48;
-	int field_4C;
-	int field_50;
-	int field_54;
-	int field_58;
-	int field_5C;
-	int field_60;
-	int field_64;
-	int field_68;
-	int field_6C;
-	STRUCT_ITEM Storage[128];
-	int _Unknown_2;
-	int field_474;
-	int field_478;
-	int field_47C;
-	int field_480;
-	int field_484;
-	int field_488;
-	int field_48C;
-	int field_490;
-	int field_494;
-	int field_498;
-	int field_49C;
-	int field_4A0;
-	int field_4A4;
-	int field_4A8;
-	int field_4AC;
-	int field_4B0;
-	int field_4B4;
-	int field_4B8;
-	int field_4BC;
-	int field_4C0;
-	int field_4C4;
-	int field_4C8;
-	int field_4CC;
-	int field_4D0;
-	int field_4D4;
-	int field_4D8;
-	int field_4DC;
-	int field_4E0;
-	int field_4E4;
-	int field_4E8;
-	int field_4EC;
-	int field_4F0;
-	int field_4F4;
-	int field_4F8;
-	int field_4FC;
-	int field_500;
-	int field_504;
-	int field_508;
-	int field_50C;
-	int field_510;
-	int field_514;
-	int field_518;
-	int field_51C;
-	int field_520;
-	int field_524;
-	int field_528;
-	int field_52C;
-	int field_530;
-	int field_534;
-	int field_538;
-	int field_53C;
-	int field_540;
-	int field_544;
-	int field_548;
-	int field_54C;
-	int field_550;
-	int field_554;
-	int field_558;
-	int field_55C;
-	int field_560;
-	int field_564;
-	int field_568;
-	int field_56C;
-	int field_570;
-	int field_574;
-	int field_578;
-	int field_57C;
-	int field_580;
-	int field_584;
-	int field_588;
-	int field_58C;
-	int field_590;
-	int field_594;
-	int field_598;
-	int field_59C;
-	int field_5A0;
-	int field_5A4;
-	int field_5A8;
-	int field_5AC;
-	int field_5B0;
-	int field_5B4;
-	int field_5B8;
-	int field_5BC;
-	int field_5C0;
-	int field_5C4;
-	int field_5C8;
-	int field_5CC;
-	int field_5D0;
-	int field_5D4;
-	int field_5D8;
-	int field_5DC;
-	int field_5E0;
-	int field_5E4;
-	int field_5E8;
-	int field_5EC;
-	int field_5F0;
-	STRUCT_SELCHAR SelChar;
-	char _Unknown_3[80];
-	struct {
-		int32_t Whisper;
-		int32_t Guild;
-		int32_t Citzen;
-		int32_t Chat;
-		int32_t UnknownStatus;
-		char AutoTradeName[24];
-		int32_t PK;
-	}AllStatus;
-	struct
-	{
-		int32_t CountHP;
-		int32_t CountMP;
-		int32_t bQuaff;
-	}Potion;
-	int AdapterKeys[4];
-	struct {
-		int32_t Mode;
-		int32_t Index;
-		int32_t ClassId;
-	}Challenger;
-	int LastReceiveTime;
-	int Admin;
-	int Child;
-	int CheckBillingTime;
-	int CharLoginTime;
-	char _Unknown_4[1504];
+	unsigned __int16 Size;
+	unsigned __int8 KeyWord;
+	unsigned __int8 CheckSum;
+	unsigned __int16 Type;
+	unsigned __int16 ID;
+	unsigned int Tick;
+	STRUCT_ITEM Item[15];
+	char CarryPos[15];
+	int TradeMoney;
+	unsigned __int8 MyCheck;
+	unsigned __int16 OpponentID;
 };
 
+struct MSG_AutoTrade
+{
+	unsigned __int16 Size;
+	unsigned __int8 KeyWord;
+	unsigned __int8 CheckSum;
+	unsigned __int16 Type;
+	unsigned __int16 ID;
+	unsigned int Tick;
+	char Desc[24];
+	STRUCT_ITEM Item[12];
+	char CarryPos[12];
+	int TradeMoney[12];
+	unsigned __int16 Tax;
+	unsigned __int16 TargetID;
+};
+
+class CUser
+{
+public:
+	char AccountName[16]; // 0 - 15 = 61AAAB8
+	int Slot; // 16 - 19 = 61AAAC8
+	unsigned int IP; // 20 - 23 = 61AAACC
+	int Mode; // 24 - 27 = 61AAAD0
+	int TradeMode; // 28 - 31 = 61AAAD4
+	CPSock cSock; // 32 - 107 = 61AAAD8
+	STRUCT_ITEM Cargo[128]; // 108 - 1131 = 61AAB24
+	int Coin; // 1132 - 1135 = 61AAF24
+	unsigned short cProgress; // 1136 - 1137 = 61AAF28
+	short UnknowByte_1138; // 1138 - 1139 = 61AAF2A
+	MSG_Trade Trade; // 1140 - 1295 = 61AAF2C
+	MSG_AutoTrade AutoTrade; // 1296 - 1491 = 61AAFC8
+	int LastAttack; // 1492 - 1495 = 61AB08C
+	unsigned int LastAttackTick; // 1496 - 1499 = 61AB090
+	int LastMove; // 1500 - 1503 = 61AB094
+	int LastAction; // 1504 - 1507 = 61AB098
+	unsigned int LastActionTick; // 1508 - 1511 = 61AB09C
+	unsigned int LastIllusionTick; // 1512 - 1515 = 61AB0A0
+	unsigned int NumError; // 1516 - 1519 = 61AB0A4
+	STRUCT_SELCHAR SelChar; // 1520 - 2359 = 61AB0A8
+	char LastChat[16]; // 2360 - 2375 = 61AB3F0
+	char Session[36]; // 2376 - 2411 = 61AB400
+	unsigned char CharShortSkill[16]; // 2412 - 2427 = 61AB424
+	int nTargetX; // 2428 - 2431 = 61AB434
+	int nTargetY; // 2432 - 2435 = 61AB438
+	int Whisper; // 2436 - 2439 = 61AB43C
+	int Guildchat; // 2440 - 2443 = 61AB440
+	int PartyChat; // 2444 - 2447 = 61AB444
+	int Chatting; // 2448 - 2451 = 61AB448
+	int UnknowByte_2452; // 2452 - 2455 = 61AB44C
+	char AutoTradeName[24]; // 2456 - 2479 = 61AB450
+	int PKMode; // 2480 - 2483 = 61AB468
+	int ReqHp; // 2484 - 2487 = 61AB46C
+	int ReqMp; // 2488 - 2491 = 61AB470
+	int bQuaff; // 2492 - 2495 = 61AB474
+	int Mac[4]; // 2496 - 2511 = 61AB478
+	int RankingMode; // 2512 - 2515 = 61AB488
+	int RankingTarget; // 2516 - 2519 = 61AB48C
+	int RankingType; // 2520 - 2523 = 61AB490
+	int LastReceiveTime; // 2524 - 2527 = 61AB494
+	int Admin; // 2528 - 2531 = 61AB498
+	int Child; // 2532 - 2535 = 61AB49C
+	unsigned int CheckBillingTime; // 2536 - 2539 = 61AB4A0
+	int CharLoginTime; // 2540 - 2543 = 61AB4A4
+	int CastleStatus; // 2544 - 2547 = 61AB4A8
+	unsigned int LogoutTime; // 2548 - 2551 = 61AB4AC
+	unsigned int RecallTime; // 2552 - 2555 = 61AB4B0
+	unsigned int RestartTime; // 2556 - 2559 = 61AB4B4
+	int UnknowByte_2560; // 2560 - 2563 = 61AB4B8
+	int UnknowByte_2564; // 2564 - 2567 = 61AB4BC
+	int UnknowByte_2568; // 2568 - 2571 = 61AB4C0
+	char SecretCode[16]; // 2572 - 2587 = 61AB4C4
+	int UnknowByte_2588; // 2588 - 2591 = 61AB4D4
+	int UnknowByte_2592; // 2592 - 2595 = 61AB4D8
+	int UnknowByte_2596; // 2596 - 2599 = 61AB4DC
+	int UnknowByte_2600; // 2600 - 2603 = 61AB4E0
+	int UnknowByte_2604; // 2604 - 2607 = 61AB4E4
+	int UnknowByte_2608; // 2608 - 2611 = 61AB4E8
+	int UnknowByte_2612; // 2612 - 2615 = 61AB4EC
+	int UnknowByte_2616; // 2616 - 2619 = 61AB4F0
+	int UnknowByte_2620; // 2620 - 2623 = 61AB4F4
+	int UnknowByte_2624; // 2624 - 2627 = 61AB4F8
+	int UnknowByte_2628; // 2628 - 2631 = 61AB4FC
+	int UnknowByte_2632; // 2632 - 2635 = 61AB500
+	int UnknowByte_2636; // 2636 - 2639 = 61AB504
+	int UnknowByte_2640; // 2640 - 2643 = 61AB508
+	char dummy[52]; // 2644 - 2695 = 61AB50C
+	int UnknowByte_2696; // 2696 - 2699 = 61AB540
+	int UnknowByte_2700; // 2700 - 2703 = 61AB544
+	char Snd[128]; // 2704 - 2831 = 61AB548
+	int UnknowByte_2832; // 2832 - 2835 = 61AB5C8
+	int UnknowByte_2836; // 2836 - 2839 = 61AB5CC
+	int UnknowByte_2840; // 2840 - 2843 = 61AB5D0
+	int UnknowByte_2844; // 2844 - 2847 = 61AB5D4
+	int UnknowByte_2848; // 2848 - 2851 = 61AB5D8
+	int UnknowByte_2852; // 2852 - 2855 = 61AB5DC
+	int UnknowByte_2856; // 2856 - 2859 = 61AB5E0
+	int UnknowByte_2860; // 2860 - 2863 = 61AB5E4
+	int UnknowByte_2864; // 2864 - 2867 = 61AB5E8
+	int UnknowByte_2868; // 2868 - 2871 = 61AB5EC
+	int UnknowByte_2872; // 2872 - 2875 = 61AB5F0
+	int UnknowByte_2876; // 2876 - 2879 = 61AB5F4
+	int UnknowByte_2880; // 2880 - 2883 = 61AB5F8
+	int UnknowByte_2884; // 2884 - 2887 = 61AB5FC
+	int UnknowByte_2888[36]; // 2888 - 3031 = 61AB600
+	int UnknowByte_3032; // 3032 - 3035 = 61AB690
+	int UnknowByte_3036; // 3036 - 3039 = 61AB694
+	int UnknowByte_3040; // 3040 - 3043 = 61AB698
+	int LastSkillTick[248]; // 3044 - 4035 = 61AB69C
+	int UnknowByte_4036; // 4036 - 4040 = 61ABA7C
+};

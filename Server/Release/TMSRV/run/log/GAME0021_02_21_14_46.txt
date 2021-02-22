@@ -1,0 +1,341 @@
+210221,144626,00000000,-system,sys,log start 
+210221,144626,00000000,-system,sys,KhepraDropItem Read Line 12 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:30 class:0 type:0 item:646 111 1 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:30 class:1 type:0 item:646 111 1 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:30 class:2 type:0 item:646 111 1 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:30 class:3 type:0 item:646 111 1 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:35 class:0 type:0 item:1147 43 1 2 24 72 20 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:35 class:1 type:0 item:1297 43 1 2 24 72 20 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:35 class:2 type:0 item:1456 43 1 2 24 72 20 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:35 class:3 type:0 item:1606 43 1 2 24 72 20 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:35 class:0 type:1 item:1147 43 1 60 8 72 20 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:35 class:1 type:1 item:1297 43 1 60 8 72 20 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:35 class:2 type:1 item:1456 43 1 60 8 72 20 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:34 class:0 type:0 item:1159 43 1 73 24 74 15 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:34 class:1 type:0 item:1309 43 1 73 24 74 15 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:34 class:2 type:0 item:1459 43 1 73 24 74 15 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:34 class:3 type:0 item:1609 43 1 73 24 74 15 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:34 class:0 type:1 item:1159 43 1 73 24 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:34 class:1 type:1 item:1309 43 1 73 24 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:34 class:2 type:1 item:1459 43 1 73 24 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:39 class:0 type:0 item:1111 43 1 26 18 4 40 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:39 class:1 type:0 item:1261 43 1 26 18 4 40 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:39 class:2 type:0 item:1447 43 1 26 18 4 40 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:39 class:3 type:0 item:1597 43 1 26 18 4 40 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:39 class:0 type:1 item:1111 43 1 60 10 3 20 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:39 class:1 type:1 item:1261 43 1 60 10 3 20 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:39 class:2 type:1 item:1447 43 1 60 10 3 20 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:44 class:0 type:0 item:1135 43 1 2 24 71 60 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:44 class:1 type:0 item:1285 43 1 2 24 71 60 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:44 class:2 type:0 item:1453 43 1 2 24 71 60 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:44 class:3 type:0 item:1603 43 1 2 24 71 60 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:44 class:0 type:1 item:1135 43 1 3 25 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:44 class:1 type:1 item:1285 43 1 3 25 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:44 class:2 type:1 item:1453 43 1 3 25 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:49 class:0 type:0 item:1123 43 1 2 24 71 60 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:49 class:1 type:0 item:1273 43 1 2 24 71 60 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:49 class:2 type:0 item:1450 43 1 2 24 71 60 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:49 class:3 type:0 item:1600 43 1 2 24 71 60 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:49 class:0 type:1 item:1123 43 1 3 25 60 10 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:49 class:1 type:1 item:1273 43 1 3 25 60 10 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:49 class:2 type:1 item:1450 43 1 3 25 60 10 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:84 class:0 type:0 item:1186 43 1 2 24 72 25 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:84 class:1 type:0 item:1321 43 1 2 24 72 25 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:84 class:2 type:0 item:1471 43 1 2 24 72 25 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:84 class:3 type:0 item:1621 43 1 2 24 72 25 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:84 class:0 type:1 item:1186 43 1 60 8 72 25 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:84 class:1 type:1 item:1321 43 1 60 8 72 25 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:84 class:2 type:1 item:1471 43 1 60 8 72 25 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:89 class:0 type:0 item:1189 43 1 73 24 74 15 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:89 class:1 type:0 item:1324 43 1 73 24 74 15 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:89 class:2 type:0 item:1474 43 1 73 24 74 15 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:89 class:3 type:0 item:1624 43 1 73 24 74 15 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:89 class:0 type:1 item:1189 43 1 73 24 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:89 class:1 type:1 item:1324 43 1 73 24 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:89 class:2 type:1 item:1474 43 1 73 24 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:94 class:0 type:0 item:1177 43 1 26 18 4 50 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:94 class:1 type:0 item:1312 43 1 26 18 4 50 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:94 class:2 type:0 item:1462 43 1 26 18 4 50 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:94 class:3 type:0 item:1612 43 1 26 18 4 50 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:94 class:0 type:1 item:1177 43 1 60 8 3 25 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:94 class:1 type:1 item:1312 43 1 60 8 3 25 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:94 class:2 type:1 item:1462 43 1 60 8 3 25 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:99 class:0 type:0 item:1183 43 1 2 24 71 60 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:99 class:1 type:0 item:1318 43 1 2 24 71 60 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:99 class:2 type:0 item:1468 43 1 2 24 71 60 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:99 class:3 type:0 item:1618 43 1 2 24 71 60 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:99 class:0 type:1 item:1183 43 1 3 25 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:99 class:1 type:1 item:1318 43 1 3 25 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:99 class:2 type:1 item:1468 43 1 3 25 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:104 class:0 type:0 item:1180 43 1 2 24 71 60 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:104 class:1 type:0 item:1315 43 1 2 24 71 60 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:104 class:2 type:0 item:1465 43 1 2 24 71 60 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:104 class:3 type:0 item:1615 43 1 2 24 71 60 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:104 class:0 type:1 item:1180 43 1 3 25 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:104 class:1 type:1 item:1315 43 1 3 25 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:104 class:2 type:1 item:1465 43 1 3 25 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:108 class:0 type:0 item:884 43 1 2 18 2 18 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:108 class:0 type:1 item:854 43 1 60 8 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:108 class:1 type:0 item:824 43 1 2 18 2 18 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:108 class:1 type:1 item:899 43 1 60 8 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:108 class:2 type:0 item:809 43 1 2 18 2 18 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:108 class:2 type:1 item:854 43 1 60 8 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:108 class:3 type:0 item:824 43 1 2 18 2 18 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:119 class:0 type:0 item:1201 43 1 2 25 72 25 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:119 class:1 type:0 item:1336 43 1 2 25 72 25 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:119 class:2 type:0 item:1486 43 1 2 25 72 25 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:119 class:3 type:0 item:1636 43 1 2 25 72 25 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:119 class:0 type:1 item:1201 43 1 60 8 72 25 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:119 class:1 type:1 item:1336 43 1 60 8 72 25 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:119 class:2 type:1 item:1486 43 1 60 8 72 25 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:124 class:0 type:0 item:1204 43 1 73 25 74 15 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:124 class:1 type:0 item:1339 43 1 73 25 74 15 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:124 class:2 type:0 item:1489 43 1 73 25 74 15 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:124 class:3 type:0 item:1639 43 1 73 25 74 15 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:124 class:0 type:1 item:1204 43 1 73 25 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:124 class:1 type:1 item:1339 43 1 73 25 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:124 class:2 type:1 item:1489 43 1 73 25 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:129 class:0 type:0 item:1192 43 1 26 15 4 40 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:129 class:1 type:0 item:1327 43 1 26 15 4 40 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:129 class:2 type:0 item:1477 43 1 26 15 4 40 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:129 class:3 type:0 item:1627 43 1 26 15 4 40 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:129 class:0 type:1 item:1192 43 1 60 8 3 20 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:129 class:1 type:1 item:1327 43 1 60 8 3 20 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:129 class:2 type:1 item:1477 43 1 60 8 3 20 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:134 class:0 type:0 item:1198 43 1 2 24 71 60 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:134 class:1 type:0 item:1333 43 1 2 24 71 60 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:134 class:2 type:0 item:1483 43 1 2 24 71 60 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:134 class:3 type:0 item:1633 43 1 2 24 71 60 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:134 class:0 type:1 item:1198 43 1 3 25 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:134 class:1 type:1 item:1333 43 1 3 25 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:134 class:2 type:1 item:1483 43 1 3 25 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:139 class:0 type:0 item:1195 43 1 2 24 71 60 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:139 class:1 type:0 item:1330 43 1 2 24 71 60 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:139 class:2 type:0 item:1480 43 1 2 24 71 60 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:139 class:3 type:0 item:1630 43 1 2 24 71 60 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:139 class:0 type:1 item:1195 43 1 3 25 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:139 class:1 type:1 item:1330 43 1 3 25 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:139 class:2 type:1 item:1480 43 1 3 25 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:108 class:0 type:0 item:646 111 111 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:108 class:1 type:0 item:646 111 111 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:108 class:2 type:0 item:646 111 111 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:108 class:3 type:0 item:646 111 111 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:159 class:0 type:0 item:1216 43 3 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:159 class:1 type:0 item:1351 43 3 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:159 class:2 type:0 item:1501 43 3 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:159 class:3 type:0 item:1651 43 3 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:160 class:0 type:0 item:412 0 0 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:160 class:1 type:0 item:412 0 0 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:160 class:2 type:0 item:412 0 0 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:160 class:3 type:0 item:412 0 0 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:159 class:0 type:0 item:2367 30 30 10 10 100 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:159 class:1 type:0 item:2367 30 30 10 10 100 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:159 class:2 type:0 item:2367 30 30 10 10 100 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:159 class:3 type:0 item:2367 30 30 10 10 100 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:169 class:0 type:0 item:1219 43 3 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:169 class:1 type:0 item:1354 43 3 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:169 class:2 type:0 item:1504 43 3 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:169 class:3 type:0 item:1654 43 3 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:179 class:0 type:0 item:1207 43 3 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:179 class:1 type:0 item:1342 43 3 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:179 class:2 type:0 item:1492 43 3 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:179 class:3 type:0 item:1642 43 3 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (23)lv:189 class:0 type:0 item:1213 43 3 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (23)lv:189 class:1 type:0 item:1348 43 3 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (23)lv:189 class:2 type:0 item:1498 43 3 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (23)lv:189 class:3 type:0 item:1648 43 3 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (24)lv:199 class:0 type:0 item:1210 43 3 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (24)lv:199 class:1 type:0 item:1345 43 3 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (24)lv:199 class:2 type:0 item:1495 43 3 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (24)lv:199 class:3 type:0 item:1645 43 3 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (25)lv:200 class:0 type:0 item:412 0 0 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (25)lv:200 class:1 type:0 item:412 0 0 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (25)lv:200 class:2 type:0 item:412 0 0 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (25)lv:200 class:3 type:0 item:412 0 0 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (26)lv:259 class:0 type:0 item:3591 43 1 2 18 2 18 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (26)lv:259 class:0 type:1 item:3566 43 1 60 8 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (26)lv:259 class:1 type:0 item:3556 43 1 2 18 2 18 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (26)lv:259 class:1 type:1 item:3582 43 1 60 8 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (26)lv:259 class:2 type:0 item:3551 43 1 2 18 2 18 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (26)lv:259 class:2 type:1 item:3566 43 1 60 8 60 8 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (26)lv:259 class:3 type:0 item:3556 43 1 2 18 2 18 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (27)lv:355 class:0 type:0 item:4144 0 0 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (27)lv:355 class:1 type:0 item:4144 0 0 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (27)lv:355 class:2 type:0 item:4144 0 0 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (27)lv:355 class:3 type:0 item:4144 0 0 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (28)lv:365 class:0 type:0 item:3314 111 1 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (28)lv:365 class:1 type:0 item:3314 111 1 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (28)lv:365 class:2 type:0 item:3314 111 1 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (28)lv:365 class:3 type:0 item:3314 111 1 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (29)lv:375 class:0 type:0 item:4144 0 0 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (29)lv:375 class:1 type:0 item:4144 0 0 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (29)lv:375 class:2 type:0 item:4144 0 0 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (29)lv:375 class:3 type:0 item:4144 0 0 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (30)lv:385 class:0 type:0 item:3314 111 1 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (30)lv:385 class:1 type:0 item:3314 111 1 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (30)lv:385 class:2 type:0 item:3314 111 1 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (30)lv:385 class:3 type:0 item:3314 111 1 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (31)lv:399 class:0 type:0 item:4144 61 2 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (31)lv:399 class:1 type:0 item:4144 61 2 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (31)lv:399 class:2 type:0 item:4144 61 2 0 0 0 0 
+210221,144626,00000000,-system, TextDataLoad 'lvitem.txt' (31)lv:399 class:3 type:0 item:4144 61 2 0 0 0 0 
+210221,144626,00000000,-system,sys,start initialized 
+210221,144626,00000000,-system,err,Reading Random Quiz error - can't open RandomQuiz.txt 
+210221,144626,00000000,-system,DB set sapphire 0 (26 0) 
+210221,144626,00000000,-system,etc, guild report 0 - 55 55 55 55 55 
+210221,144626,00000000,-system,etc, guild report 1 - 0 0 0 0 0 
+210221,144626,00000000,-system,etc, guild report 2 - 0 0 0 0 0 
+210221,144626,00000000,-system,etc, guild report 3 - 0 0 0 0 0 
+210221,144626,00000000,-system,etc, guild report 4 - 0 0 0 0 0 
+210221,144626,00000000,-system,etc, guild report 5 - 0 0 0 0 0 
+210221,144626,00000000,-system,etc, guild report 6 - 0 0 0 0 0 
+210221,144626,00000000,-system,etc, guild report 7 - 0 0 0 0 0 
+210221,144626,00000000,-system,etc, guild report 8 - 0 0 0 0 0 
+210221,144626,00000000,-system,etc, guild report 9 - 0 0 0 0 0 
+210221,144626,00000000,system,Complate Server Init 
+210221,144628,0100007f,ADMIN,sta,127.0.0.1 BE30FCA4519C446D889E85DF6864A4C6 1 - 0 -115828210 (956) 
+210221,144633,0100007f,ADMIN,etc,Levitem-Nor 1450 
+210221,144633,0100007f,ADMIN,sta,Login char:SummonWarZ exp:600767 level:49 conn:1 money:4800 store:0 fame 0 
+210221,144637,00000000,-system,sys,town tax report: 828355025 139300992 18759128 167762987 6546204506 
+210221,144637,00000000,-system,err, mob have kill point - 5256,3 
+210221,144637,00000000,-system,err, mob have kill point - 5259,3 
+210221,144637,00000000,-system,err, mob have kill point - 5259,3 
+210221,144637,00000000,-system,err, mob have kill point - 5265,3 
+210221,144637,00000000,-system,err, mob have kill point - 5265,3 
+210221,144637,00000000,-system,err, mob have kill point - 5268,3 
+210221,144637,00000000,-system,err, mob have kill point - 5280,3 
+210221,144637,00000000,-system,err, mob have kill point - 5308,3 
+210221,144637,00000000,-system,err, mob have kill point - 5352,3 
+210221,144637,00000000,-system,err, mob have kill point - 5352,3 
+210221,144645,0100007f,ADMIN,sel,NpcName-[Galford] Price-[9625] Item-[1450 43 1 3 25 60 10] 
+210221,144647,0100007f,ADMIN,sel,NpcName-[Galford] Price-[5118] Item-[1456 43 1 60 8 72 20] 
+210221,144647,00000000,-system,err, mob have kill point - 5260,3 
+210221,144647,00000000,-system,err, mob have kill point - 5269,3 
+210221,144647,00000000,-system,err, mob have kill point - 5269,3 
+210221,144647,00000000,-system,err, mob have kill point - 5272,3 
+210221,144647,00000000,-system,err, mob have kill point - 5281,3 
+210221,144647,00000000,-system,err, mob have kill point - 5297,3 
+210221,144647,00000000,-system,err, mob have kill point - 5297,3 
+210221,144647,00000000,-system,err, mob have kill point - 5314,3 
+210221,144647,00000000,-system,err, mob have kill point - 5353,3 
+210221,144648,0100007f,ADMIN,sel,NpcName-[Galford] Price-[1750] Item-[1960 43 0 73 30 60 8] 
+210221,144649,0100007f,ADMIN,sel,NpcName-[Galford] Price-[6475] Item-[1447 43 1 60 10 3 20] 
+210221,144651,0100007f,ADMIN,sel,NpcName-[Galford] Price-[472] Item-[1802 43 0 60 12 59 0] 
+210221,144652,0100007f,ADMIN,sel,NpcName-[Galford] Price-[7087] Item-[1453 43 1 3 25 60 8] 
+210221,144653,0100007f,ADMIN,sel,NpcName-[Galford] Price-[525] Item-[991 43 0 2 36 2 27] 
+210221,144657,00000000,-system,err, mob have kill point - 5255,3 
+210221,144657,00000000,-system,err, mob have kill point - 5258,3 
+210221,144657,00000000,-system,err, mob have kill point - 5258,3 
+210221,144657,00000000,-system,err, mob have kill point - 5273,3 
+210221,144657,00000000,-system,err, mob have kill point - 5282,3 
+210221,144657,00000000,-system,err, mob have kill point - 5324,3 
+210221,144657,00000000,-system,err, mob have kill point - 5345,3 
+210221,144707,00000000,-system,err, mob have kill point - 5287,3 
+210221,144707,00000000,-system,err, mob have kill point - 5351,3 
+210221,144934,0100007f,ADMIN,clo,fd 22-2-32 
+210221,144934,0100007f,ADMIN,clo,fd 22-2 conn:1 num:25 
+210221,144950,0100007f,ADMIN,case 4 : LoginFail_Pass 
+210221,144950,0100007f,ADMIN,clo,fd 2-0 conn:2 num:55 
+210221,144952,0100007f,ADMIN,sta,127.0.0.1 BE30FCA4519C446D889E85DF6864A4C6 3 - 0 -116031746 (952) 
+210221,144957,0100007f,ADMIN,sta,Login char:SummonWarZ exp:600767 level:49 conn:3 money:39456 store:0 fame 0 
+210221,145049,0100007f,ADMIN,clo,fd 22-2-32 
+210221,145049,0100007f,ADMIN,clo,fd 22-2 conn:3 num:25 
+210221,145139,0100007f,ADMIN,case 4 : LoginFail_Pass 
+210221,145139,0100007f,ADMIN,clo,fd 2-0 conn:4 num:55 
+210221,145141,0100007f,ADMIN,sta,127.0.0.1 BE30FCA4519C446D889E85DF6864A4C6 5 - 0 -116141501 (952) 
+210221,145148,0100007f,ADMIN,sta,Login char:SummonWarZ exp:600767 level:49 conn:5 money:39456 store:0 fame 0 
+210221,150007,00000000,-system,sys,town tax report: 828358735 139300992 18759128 167762987 6546208216 
+210221,150030,0100007f,ADMIN,clo,fd 22-2-32 
+210221,150030,0100007f,ADMIN,clo,fd 22-2 conn:5 num:25 
+210221,150354,0100007f,ADMIN,sta,127.0.0.1 BE30FCA4519C446D889E85DF6864A4C6 6 - 0 -116874536 (968) 
+210221,150359,0100007f,ADMIN,sta,Login char:SummonWarZ exp:600767 level:49 conn:6 money:39456 store:0 fame 0 
+210221,150415,0100007f,ADMIN,clo,fd 22-2-32 
+210221,150415,0100007f,ADMIN,clo,fd 22-2 conn:6 num:25 
+210221,150452,0100007f,ADMIN,sta,127.0.0.1 BE30FCA4519C446D889E85DF6864A4C6 7 - 0 -116932547 (544) 
+210221,150458,0100007f,ADMIN,sta,Login char:SummonWarZ exp:600767 level:49 conn:7 money:39456 store:0 fame 0 
+210221,160007,00000000,-system,sys,town tax report: 828358735 139300992 18759128 167762987 6546208216 
+210221,164349,0100007f,ADMIN,clo,fd 22-5-32 
+210221,164349,0100007f,ADMIN,clo,fd 22-5 conn:7 num:25 
+210221,164406,0100007f,ADMIN,case 4 : LoginFail_Pass 
+210221,164406,0100007f,ADMIN,clo,fd 2-0 conn:8 num:55 
+210221,164408,0100007f,ADMIN,sta,127.0.0.1 BE30FCA4519C446D889E85DF6864A4C6 9 - 0 -122888083 (976) 
+210221,164415,0100007f,ADMIN,sta,Login char:SummonWarZ exp:606420 level:49 conn:9 money:38756 store:0 fame 0 
+210221,164428,0100007f,ADMIN,clo,fd 22-2-32 
+210221,164428,0100007f,ADMIN,clo,fd 22-2 conn:9 num:25 
+210221,164438,0100007f,ADMIN,sta,127.0.0.1 BE30FCA4519C446D889E85DF6864A4C6 10 - 0 -122918583 (964) 
+210221,164443,0100007f,ADMIN,sta,Login char:check-idle exp:332720 level:41 conn:10 money:12509 store:0 fame 0 
+210221,164550,0100007f,ADMIN,clo,fd 22-2-32 
+210221,164550,0100007f,ADMIN,clo,fd 22-2 conn:10 num:25 
+210221,164618,0100007f,ADMIN,sta,127.0.0.1 BE30FCA4519C446D889E85DF6864A4C6 11 - 0 -123018592 (976) 
+210221,164625,0100007f,ADMIN,sta,Login char:check-idle exp:332720 level:41 conn:11 money:12509 store:0 fame 0 
+210221,164652,0100007f,ADMIN,clo,fd 22-2-32 
+210221,164652,0100007f,ADMIN,clo,fd 22-2 conn:11 num:25 
+210221,164706,0100007f,ADMIN,sta,127.0.0.1 BE30FCA4519C446D889E85DF6864A4C6 12 - 0 -123066343 (964) 
+210221,164711,0100007f,ADMIN,sta,Login char:check-idle exp:332720 level:41 conn:12 money:12509 store:0 fame 0 
+210221,164810,0100007f,ADMIN,clo,fd 22-2-32 
+210221,164810,0100007f,ADMIN,clo,fd 22-2 conn:12 num:25 
+210221,164837,0100007f,ADMIN,sta,127.0.0.1 BE30FCA4519C446D889E85DF6864A4C6 13 - 0 -123157591 (992) 
+210221,164842,0100007f,ADMIN,sta,Login char:check-idle exp:332720 level:41 conn:13 money:12509 store:0 fame 0 
+210221,164901,0100007f,ADMIN,clo,fd 22-2-32 
+210221,164901,0100007f,ADMIN,clo,fd 22-2 conn:13 num:25 
+210221,164911,0100007f,ADMIN,sta,127.0.0.1 BE30FCA4519C446D889E85DF6864A4C6 14 - 0 -123191094 (984) 
+210221,164915,0100007f,ADMIN,sta,Login char:check-idle exp:332720 level:41 conn:14 money:12509 store:0 fame 0 
+210221,164921,0100007f,ADMIN,clo,fd 22-2-32 
+210221,164921,0100007f,ADMIN,clo,fd 22-2 conn:14 num:25 
+210221,165025,0100007f,ADMIN,sta,127.0.0.1 BE30FCA4519C446D889E85DF6864A4C6 15 - 0 -123265090 (952) 
+210221,165030,0100007f,ADMIN,sta,Login char:check-idle exp:332720 level:41 conn:15 money:12509 store:0 fame 0 
+210221,165035,0100007f,ADMIN,clo,fd 22-2-658833440 
+210221,165035,0100007f,ADMIN,clo,fd 22-2 conn:15 num:25 
+210221,165202,0100007f,ADMIN,sta,127.0.0.1 BE30FCA4519C446D889E85DF6864A4C6 16 - 0 -123362586 (940) 
+210221,165207,0100007f,ADMIN,sta,Login char:check-idle exp:332720 level:41 conn:16 money:12509 store:0 fame 0 
+210221,165224,0100007f,ADMIN,clo,fd 22-2-32 
+210221,165224,0100007f,ADMIN,clo,fd 22-2 conn:16 num:25 
+210221,165838,0100007f,ADMIN,sta,127.0.0.1 BE30FCA4519C446D889E85DF6864A4C6 17 - 0 -123758349 (976) 
+210221,165843,0100007f,ADMIN,sta,Login char:check-idle exp:332720 level:41 conn:17 money:12509 store:0 fame 0 
+210221,165857,0100007f,ADMIN,sys, Logout Char check-idle money:12509, Store :0, conn:17  
+210221,165901,0100007f,ADMIN,sta,Login char:SummonWarZ exp:606420 level:49 conn:17 money:38756 store:0 fame 0 
+210221,170007,00000000,-system,sys,town tax report: 828359085 139300992 18759128 167762987 6546208566 
+210221,170139,0100007f,ADMIN,clo,fd 22-2-658833440 
+210221,170139,0100007f,ADMIN,clo,fd 22-2 conn:17 num:25 
+210221,170244,0100007f,ADMIN,sta,127.0.0.1 BE30FCA4519C446D889E85DF6864A4C6 18 - 0 -124004115 (952) 
+210221,170249,0100007f,ADMIN,sta,Login char:check-idle exp:332720 level:41 conn:18 money:12509 store:0 fame 0 
+210221,170259,0100007f,ADMIN,sys, Logout Char check-idle money:12509, Store :0, conn:18  
+210221,170327,0100007f,ADMIN,clo,fd 11-0-32 
+210221,170327,0100007f,ADMIN,clo,fd 11-0 conn:18 num:25 
+210221,170352,0100007f,ADMIN,sta,127.0.0.1 BE30FCA4519C446D889E85DF6864A4C6 19 - 0 -124072118 (940) 
+210221,170356,0100007f,ADMIN,sta,Login char:SummonWarZ exp:606420 level:49 conn:19 money:38756 store:0 fame 0 
+210221,170417,0100007f,ADMIN,clo,fd 22-2-32 
+210221,170417,0100007f,ADMIN,clo,fd 22-2 conn:19 num:25 
+210221,170427,0100007f,ADMIN,sta,127.0.0.1 BE30FCA4519C446D889E85DF6864A4C6 20 - 0 -124107380 (996) 
+210221,170432,0100007f,ADMIN,sta,Login char:SummonWarZ exp:606420 level:49 conn:20 money:38756 store:0 fame 0 
+210221,170625,0100007f,ADMIN,clo,fd 22-2-32 
+210221,170625,0100007f,ADMIN,clo,fd 22-2 conn:20 num:25 
+210221,171054,0100007f,ADMIN,sta,127.0.0.1 BE30FCA4519C446D889E85DF6864A4C6 21 - 0 -124494624 (996) 
+210221,171059,0100007f,ADMIN,sta,Login char:SummonWarZ exp:606420 level:49 conn:21 money:38756 store:0 fame 0 
+210221,171133,0100007f,ADMIN,clo,fd 22-2-32 
+210221,171133,0100007f,ADMIN,clo,fd 22-2 conn:21 num:25 
+210221,171212,0100007f,ADMIN,sta,127.0.0.1 BE30FCA4519C446D889E85DF6864A4C6 22 - 0 -124572372 (1000) 
+210221,171218,0100007f,ADMIN,sta,Login char:SummonWarZ exp:606420 level:49 conn:22 money:38756 store:0 fame 0 
+210221,171311,0100007f,ADMIN,clo,fd 22-2-32 
+210221,171311,0100007f,ADMIN,clo,fd 22-2 conn:22 num:25 
+210221,171417,0100007f,ADMIN,sta,127.0.0.1 BE30FCA4519C446D889E85DF6864A4C6 23 - 0 -124697123 (1004) 
+210221,171422,0100007f,ADMIN,sta,Login char:check-idle exp:332720 level:41 conn:23 money:12509 store:0 fame 0 
+210221,171441,0100007f,ADMIN,clo,fd 22-2-32 
+210221,171441,0100007f,ADMIN,clo,fd 22-2 conn:23 num:25 
+210221,171451,0100007f,ADMIN,sta,127.0.0.1 BE30FCA4519C446D889E85DF6864A4C6 24 - 0 -124731371 (1000) 
+210221,171457,0100007f,ADMIN,sta,Login char:check-idle exp:332720 level:41 conn:24 money:12509 store:0 fame 0 
+210221,171523,0100007f,ADMIN,clo,fd 22-2-32 
+210221,171523,0100007f,ADMIN,clo,fd 22-2 conn:24 num:25 
+210221,171534,0100007f,ADMIN,sta,127.0.0.1 BE30FCA4519C446D889E85DF6864A4C6 25 - 0 -124774876 (1012) 
+210221,171539,0100007f,ADMIN,sta,Login char:check-idle exp:332720 level:41 conn:25 money:12509 store:0 fame 0 
+210221,171835,0100007f,ADMIN,clo,fd 22-2-32 
+210221,171835,0100007f,ADMIN,clo,fd 22-2 conn:25 num:25 
+210221,172754,0100007f,ADMIN,sta,127.0.0.1 BE30FCA4519C446D889E85DF6864A4C6 26 - 0 -125514614 (1016) 
+210221,172800,0100007f,ADMIN,sta,Login char:check-idle exp:332720 level:41 conn:26 money:12509 store:0 fame 0 
+210221,172957,0100007f,ADMIN,clo,fd 22-2-658833440 
+210221,172957,0100007f,ADMIN,clo,fd 22-2 conn:26 num:25 
+210221,173059,0100007f,ADMIN,sta,127.0.0.1 BE30FCA4519C446D889E85DF6864A4C6 27 - 0 -125699115 (1008) 
+210221,173104,0100007f,ADMIN,sta,Login char:SummonWarZ exp:606420 level:49 conn:27 money:38756 store:0 fame 0 
+210221,173708,0100007f,ADMIN,clo,fd 22-2-32 
+210221,173708,0100007f,ADMIN,clo,fd 22-2 conn:27 num:25 
+210221,173758,0100007f,,clo,fd 1-0 conn:28 num:37 

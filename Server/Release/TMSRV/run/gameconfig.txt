@@ -59,7 +59,7 @@ USE_GUILDWAR_MANTLE: 0 USE_FREE_GAMBLE: 1  casinoticket: 0
 lottoTicket: 0 maxlevel: 400 createchar: 1
 maxlevelticket: 2 eventhour: 18
 duelletterlimit: 0 400
-TownTax: 828353687 139300992 18759128 167762987 6546203168
+TownTax: 828359085 139300992 18759128 167767190 6546212769
 randomquiz: 0 exp: 0 coin: 0
 itemprice: 0 0 sealofsoul: 0
 nightmare: 0
@@ -77,5 +77,5 @@ DropItemEvent 0 Percent 0 Index 0
 NewbieItem1 10000 0 0
 NewbieItem2 10000 0 0
 NewbieItem3 10000 0 0
-RaidState 0
+RaidState 3
 CoinBouns 20

@@ -79,4 +79,6 @@
 	<FlagConst Address="0xCFC7A" Add="1" Type="BYTE" Value="2" />
 	<!-- Finish Exp multiply Cele/Sub -->
 	
+	<!-- Tmp Desable check Key Opcode -->
+	<FlagConst Address="0x25A52" Add="0" Type="BYTE" Value="0xEB" />
 </Constants>
