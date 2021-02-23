@@ -9,7 +9,7 @@
 
 // adicione os cabeçalhos que você deseja pré-compilar aqui
 #include "framework.h"
-
+#include "CLuaScripts.h"
 struct PacketHeader
 {
     WORD Size;

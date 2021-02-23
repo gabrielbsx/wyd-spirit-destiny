@@ -33,6 +33,9 @@
     <Filter Include="Manager\PacketController\SendedPackets">
       <UniqueIdentifier>{a09e0b44-0457-4412-bd75-8cedd6525360}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Manager\PacketController\ReceivedPackets\MSG_UseItem">
+      <UniqueIdentifier>{7108601b-77b2-44e5-b194-d3081c238a78}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -64,6 +67,12 @@
     </ClInclude>
     <ClInclude Include="PacketController.h">
       <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="CUseItem.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="CLuaVolatile.h">
+      <Filter>Manager\PacketController\ReceivedPackets\MSG_UseItem</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -98,6 +107,9 @@
     </ClCompile>
     <ClCompile Include="ReceivedPackets.cpp">
       <Filter>Manager\PacketController\ReceivedPackets</Filter>
+    </ClCompile>
+    <ClCompile Include="CUseItem.cpp">
+      <Filter>Manager\PacketController\ReceivedPackets\MSG_UseItem</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

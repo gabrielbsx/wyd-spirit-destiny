@@ -8,3 +8,5 @@
 #include <sstream>
 #include <string>
 #include <fstream>
+#include <vector>
+#include <pugixml.hpp>
