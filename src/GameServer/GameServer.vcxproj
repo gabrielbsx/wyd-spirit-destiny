@@ -169,7 +169,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="CHook.h" />
-    <ClInclude Include="CLuaVolatile.h" />
+    <ClInclude Include="CLuaScripts.h" />
     <ClInclude Include="CMain.h" />
     <ClInclude Include="CUseItem.h" />
     <ClInclude Include="CUser.h" />
@@ -177,6 +177,12 @@
     <ClInclude Include="framework.h" />
     <ClInclude Include="GlobalPointer.h" />
     <ClInclude Include="HookStrings.h" />
+    <ClInclude Include="LuaExport.h" />
+    <ClInclude Include="LuaGet.h" />
+    <ClInclude Include="LuaItem.h" />
+    <ClInclude Include="LuaMob.h" />
+    <ClInclude Include="LuaSend.h" />
+    <ClInclude Include="LuaUser.h" />
     <ClInclude Include="Native.h" />
     <ClInclude Include="PacketController.h" />
     <ClInclude Include="pch.h" />
@@ -189,6 +195,13 @@
     <ClCompile Include="dllmain.cpp" />
     <ClCompile Include="GlobalPointer.cpp" />
     <ClCompile Include="HookStrings.cpp" />
+    <ClCompile Include="LuaExport.cpp" />
+    <ClCompile Include="LuaGet.cpp" />
+    <ClCompile Include="LuaItem.cpp" />
+    <ClCompile Include="LuaMob.cpp" />
+    <ClCompile Include="LuaSend.cpp" />
+    <ClCompile Include="LuaUser.cpp" />
+    <ClCompile Include="MainLoad.cpp" />
     <ClCompile Include="NakedHooks.cpp" />
     <ClCompile Include="PacketController.cpp" />
     <ClCompile Include="pch.cpp">

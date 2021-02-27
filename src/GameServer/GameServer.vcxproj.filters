@@ -36,6 +36,24 @@
     <Filter Include="Manager\PacketController\ReceivedPackets\MSG_UseItem">
       <UniqueIdentifier>{7108601b-77b2-44e5-b194-d3081c238a78}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Manager\Core\LuaExport">
+      <UniqueIdentifier>{290d348a-4ea8-4cdc-999a-5eedc7321eeb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Core\LuaExport\LuaMob">
+      <UniqueIdentifier>{1cbbe3ec-2568-4d13-9cd8-5a97fdc84fe9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Core\LuaExport\LuaSend">
+      <UniqueIdentifier>{725f6c0f-b64f-4c65-b315-ac7668703e24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Core\LuaExport\LuaGet">
+      <UniqueIdentifier>{af1bb5c8-e1f1-4fa1-8932-8baaee76455c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Core\LuaExport\LuaUser">
+      <UniqueIdentifier>{a21cbb44-c26c-4632-99ec-c87a61931f26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Core\LuaExport\LuaItem">
+      <UniqueIdentifier>{8e595863-805b-4693-8e04-25aa85c54227}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -71,8 +89,26 @@
     <ClInclude Include="CUseItem.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
-    <ClInclude Include="CLuaVolatile.h">
-      <Filter>Manager\PacketController\ReceivedPackets\MSG_UseItem</Filter>
+    <ClInclude Include="CLuaScripts.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaExport.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaMob.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaSend.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaGet.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaUser.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaItem.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -110,6 +146,27 @@
     </ClCompile>
     <ClCompile Include="CUseItem.cpp">
       <Filter>Manager\PacketController\ReceivedPackets\MSG_UseItem</Filter>
+    </ClCompile>
+    <ClCompile Include="MainLoad.cpp">
+      <Filter>Manager\Core\CMain</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaExport.cpp">
+      <Filter>Manager\Core\LuaExport</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaMob.cpp">
+      <Filter>Manager\Core\LuaExport\LuaMob</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaSend.cpp">
+      <Filter>Manager\Core\LuaExport\LuaSend</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaGet.cpp">
+      <Filter>Manager\Core\LuaExport\LuaGet</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaUser.cpp">
+      <Filter>Manager\Core\LuaExport\LuaUser</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaItem.cpp">
+      <Filter>Manager\Core\LuaExport\LuaItem</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

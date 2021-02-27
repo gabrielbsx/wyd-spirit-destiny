@@ -9,16 +9,16 @@
 
 // adicione os cabeçalhos que você deseja pré-compilar aqui
 #include "framework.h"
-#include "CLuaScripts.h"
-struct PacketHeader
-{
-    WORD Size;
-    WORD Seq;
-    WORD PacketId;
-    WORD ClientId;
-    DWORD Tick;
-};
+
+#include "GlobalPointer.h"
 
 extern DWORD BaseAddress;
+
+#pragma region Global defines
+constexpr auto MAX_USER = 1000;
+constexpr auto MAX_MOB = 12800;
+constexpr auto USER_PLAY = 22;
+#pragma endregion
+
 
 #endif //PCH_H

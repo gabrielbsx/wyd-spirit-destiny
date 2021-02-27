@@ -1,6 +1,6 @@
 #include "pch.h"
-#include <tm_structs.h>
 #include "PacketController.h"
+#include "CUseItem.h"
 
 
 int PacketController::ExecuteReceived(int clientID, char* pMsg)
@@ -13,7 +13,8 @@ int PacketController::ExecuteReceived(int clientID, char* pMsg)
 #endif
 	switch (packet->Type)
 	{
-	case 1:
+	case 0x373:
+		return CUseItem::Run(clientID, pMsg);
 	default:
 		break;
 	}

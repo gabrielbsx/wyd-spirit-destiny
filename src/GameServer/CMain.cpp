@@ -50,10 +50,6 @@ void CMain::SafeMessage(const char* Message, ...)
 #endif
 }
 
-bool CMain::LoadFiles()
-{
-	return true;
-}
 
 void CMain::StartupConsole()
 {

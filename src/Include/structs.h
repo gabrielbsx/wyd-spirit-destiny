@@ -18,4 +18,20 @@ struct CPSock
 	int ErrCount;
 };
 
+struct PacketHeader
+{
+	unsigned short Size;
+	unsigned short Seq;
+	unsigned short PacketId;
+	unsigned short ClientId;
+	unsigned int Tick;
+};
+
+
+struct MSG_UseItem : public PacketHeader
+{
+	int SourType, SourPos, DestType, DestPos;
+	unsigned short GridX, GridY, ItemID;
+};
+
 #endif

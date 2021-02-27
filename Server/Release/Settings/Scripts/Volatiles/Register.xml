@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<RegisterVolatile>
+	<Volatile Status="1" ItemID="3322" Volatile="0" Script="/Scripts/teste.lua" />
+</RegisterVolatile>

@@ -1,6 +1,7 @@
 #pragma once
 #include <tm_structs.h>
 #include "CUser.h"
+
 class GlobalPointer
 {
 public:

@@ -15,6 +15,7 @@ private:
 	std::string currentDateTime();
 	void GetBaseAddressByName(DWORD processId, TCHAR* processName);
 	bool StartBaseAddress();
+
 private:
 	CHook* HookMgr;
 };

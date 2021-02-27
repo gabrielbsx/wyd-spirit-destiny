@@ -9,4 +9,6 @@
 #include <string>
 #include <fstream>
 #include <vector>
-#include <pugixml.hpp>
+#include <ItemEffect.h>
+#include <assert.h>
+#include <structs.h>
