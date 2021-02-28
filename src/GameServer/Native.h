@@ -8,6 +8,7 @@
 static STRUCT_ITEM* (*GetItemPointer)(CMob* mob, STRUCT_ITEM* cargo, int slotType, int Slot) = (STRUCT_ITEM * (__cdecl*)(CMob*, STRUCT_ITEM*, int, int))  0x004BA5C0;
 static int (*GetItemAbility)(STRUCT_ITEM* item, int effect) = (int(__cdecl*)(STRUCT_ITEM*, int)) 0x004B7FD0; // 
 static void	(*SendClientMessage)(int connId, const char* message) = (void(__cdecl*)(int, const char*)) 0x05016D0;
+static void	(*SendNotice)(const char* message) = (void(__cdecl*)(const char*)) 0x0;
 // int GetCityzen(int connId); 0x4DFCE0
 // int GetCreateMob(int connId, char* pMsg); 0x4DD640
 // int GetCreateMobTrade(int connId, char* pMsg); 0x4DE0D0

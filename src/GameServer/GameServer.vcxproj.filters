@@ -51,14 +51,20 @@
     <Filter Include="Manager\Core\LuaExport\LuaUser">
       <UniqueIdentifier>{a21cbb44-c26c-4632-99ec-c87a61931f26}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Manager\Core\LuaExport\LuaItem">
-      <UniqueIdentifier>{8e595863-805b-4693-8e04-25aa85c54227}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Manager\Core\LuaExport\LuaExtra">
       <UniqueIdentifier>{736b86ef-3123-42a5-a108-2764ad72949c}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Manager\Core\LuaExport\LuaPosition">
-      <UniqueIdentifier>{b4eafb90-7838-4118-ba87-32558283944d}</UniqueIdentifier>
+    <Filter Include="Manager\Core\LuaExport\LuaSet">
+      <UniqueIdentifier>{e47e91ae-ce27-47fe-be9e-9df1c5fa1d94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Core\LuaExport\LuaLog">
+      <UniqueIdentifier>{e7c9cb33-9826-46b8-8806-30b17f19908a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Core\LuaExport\LuaItem">
+      <UniqueIdentifier>{5e69b086-0ba1-46a1-8465-b4e8e8af57ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Core\LuaExport\LuaItemList">
+      <UniqueIdentifier>{924f6579-b6c9-4a32-807d-8c02dee4253e}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -113,13 +119,19 @@
     <ClInclude Include="LuaUser.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
-    <ClInclude Include="LuaItem.h">
-      <Filter>Arquivos de Cabeçalho</Filter>
-    </ClInclude>
     <ClInclude Include="LuaExtra.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
-    <ClInclude Include="LuaPosition.h">
+    <ClInclude Include="LuaSet.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaLog.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaItem.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaItemList.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
   </ItemGroup>
@@ -174,17 +186,23 @@
     <ClCompile Include="LuaUser.cpp">
       <Filter>Manager\Core\LuaExport\LuaUser</Filter>
     </ClCompile>
-    <ClCompile Include="LuaItem.cpp">
-      <Filter>Manager\Core\LuaExport\LuaItem</Filter>
-    </ClCompile>
     <ClCompile Include="PacketController.cpp">
       <Filter>Manager\PacketController</Filter>
     </ClCompile>
     <ClCompile Include="LuaExtra.cpp">
       <Filter>Manager\Core\LuaExport\LuaExtra</Filter>
     </ClCompile>
-    <ClCompile Include="LuaPosition.cpp">
-      <Filter>Manager\Core\LuaExport\LuaPosition</Filter>
+    <ClCompile Include="LuaSet.cpp">
+      <Filter>Manager\Core\LuaExport\LuaSet</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaLog.cpp">
+      <Filter>Manager\Core\LuaExport\LuaLog</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaItem.cpp">
+      <Filter>Manager\Core\LuaExport\LuaItem</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaItemList.cpp">
+      <Filter>Manager\Core\LuaExport\LuaItemList</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

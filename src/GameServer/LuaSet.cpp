@@ -3,6 +3,50 @@
 
 void LuaSet::Initialize_MetaTable(lua_State* L)
 {
+	lua_newtable(L);
+	int sendTableID = lua_gettop(L);
+	lua_pushvalue(L, sendTableID);
+
+	// atribui a variavel global
+	lua_setglobal(L, "tSet");
+#pragma region Exports functions
+	lua_pushcfunction(L, Lua_SetItemAmount); lua_setfield(L, -2, "SetItemAmount");
+	lua_pushcfunction(L, Lua_SetItemSanc); lua_setfield(L, -2, "SetItemSanc");
+	lua_pushcfunction(L, Lua_SetItemTime); lua_setfield(L, -2, "SetItemTime");
+	lua_pushcfunction(L, Lua_SetQuestBit); lua_setfield(L, -2, "SetQuestBit");
+	lua_pushcfunction(L, Lua_SetItemBonus); lua_setfield(L, -2, "SetItemBonus");
+	lua_pushcfunction(L, Lua_SetCitizenship); lua_setfield(L, -2, "SetCitizenship");
+	lua_pushcfunction(L, Lua_SetReqHp); lua_setfield(L, -2, "SetReqHp");
+	lua_pushcfunction(L, Lua_SetReqMp); lua_setfield(L, -2, "SetReqMp");
+	lua_pushcfunction(L, Lua_SetAffect); lua_setfield(L, -2, "SetAffect");
+	lua_pushcfunction(L, Lua_SetKillCount); lua_setfield(L, -2, "SetKillCount");
+	lua_pushcfunction(L, Lua_SetCP); lua_setfield(L, -2, "SetCP");
+	lua_pushcfunction(L, Lua_SetQuestInfo); lua_setfield(L, -2, "SetQuestInfo");
+	lua_pushcfunction(L, Lua_RemoveTrade); lua_setfield(L, -2, "RemoveTrade");
+	lua_pushcfunction(L, Lua_RemoveAffect); lua_setfield(L, -2, "RemoveAffect");
+	lua_pushcfunction(L, Lua_FinishCastleWar); lua_setfield(L, -2, "FinishCastleWar");
+	lua_pushcfunction(L, Lua_GenerateMob); lua_setfield(L, -2, "GenerateMob");
+	lua_pushcfunction(L, Lua_AddCrackError); lua_setfield(L, -2, "AddCrackError");
+	lua_pushcfunction(L, Lua_ClearItem); lua_setfield(L, -2, "ClearItem");
+	lua_pushcfunction(L, Lua_ClearItem); lua_setfield(L, -2, "ClearItem");
+	lua_pushcfunction(L, Lua_AddGuildFame); lua_setfield(L, -2, "AddGuildFame");
+	lua_pushcfunction(L, Lua_DeleteMob); lua_setfield(L, -2, "DeleteMob");
+	lua_pushcfunction(L, Lua_DeleteGenerMob); lua_setfield(L, -2, "DeleteGenerMob");
+	lua_pushcfunction(L, Lua_ClearArea); lua_setfield(L, -2, "ClearArea");
+	lua_pushcfunction(L, Lua_ClearAreaLevel); lua_setfield(L, -2, "ClearAreaLevel");
+	lua_pushcfunction(L, Lua_ClearAreaGuild); lua_setfield(L, -2, "ClearAreaGuild");
+	lua_pushcfunction(L, Lua_ClearAreaTeleport); lua_setfield(L, -2, "ClearAreaTeleport");
+	lua_pushcfunction(L, Lua_StartKephra); lua_setfield(L, -2, "StartKephra");
+	lua_pushcfunction(L, Lua_AddTownTax); lua_setfield(L, -2, "AddTownTax");
+	lua_pushcfunction(L, Lua_UpdateItem); lua_setfield(L, -2, "UpdateItem");
+	lua_pushcfunction(L, Lua_Return); lua_setfield(L, -2, "Return");
+	lua_pushcfunction(L, Lua_GenerateItem); lua_setfield(L, -2, "GenerateItem");
+#pragma endregion
+	luaL_newmetatable(L, "SendMetaTable");
+
+	lua_pushstring(L, "__index");
+	lua_pushvalue(L, sendTableID);
+	lua_settable(L, -3);
 }
 
 int LuaSet::Lua_SetItemAmount(lua_State* L)

@@ -21,7 +21,6 @@ private:
 	static int Lua_GetUserByName(lua_State* L);
 	static int Lua_GetCP(lua_State* L);
 	static int Lua_IsPlayerInArea(lua_State* L);
-	static int Lua_CanCarry_7556(lua_State* L);
 	static int Lua_IsJoinableItem(lua_State* L);
 	static int Lua_CanCargo(lua_State* L);
 	static int Lua_CheckQuestBit(lua_State* L);

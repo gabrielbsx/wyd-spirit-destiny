@@ -36,5 +36,4 @@ private:
 	static int Lua_DoPartyTeleport(lua_State* L);
 	static int Lua_CreateMob(lua_State* L);
 	static int Lua_MountProcess(lua_State* L);
-	static int Lua_DeliveryItemDrop(lua_State* L);
 };

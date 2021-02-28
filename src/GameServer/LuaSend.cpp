@@ -10,11 +10,40 @@ void LuaSend::Initialize_MetaTable(lua_State* L)
 
 	// atribui a variavel global
 	lua_setglobal(L, "tSend");
-
-
-	lua_pushcfunction(L, Lua_SendClientMessage);
-	lua_setfield(L, -2, "Message");
-
+#pragma region Exports functions
+	lua_pushcfunction(L, Lua_SendClientMessage); lua_setfield(L, -2, "SendClientMessage");
+	lua_pushcfunction(L, Lua_SendHpMode); lua_setfield(L, -2, "SendHpMode");
+	lua_pushcfunction(L, Lua_SendAddParty); lua_setfield(L, -2, "SendAddParty");
+	lua_pushcfunction(L, Lua_SendCarry); lua_setfield(L, -2, "SendCarry");
+	lua_pushcfunction(L, Lua_SendSetHpMp); lua_setfield(L, -2, "SendSetHpMp");
+	lua_pushcfunction(L, Lua_SendEmotion); lua_setfield(L, -2, "SendEmotion");
+	lua_pushcfunction(L, Lua_SendItem); lua_setfield(L, -2, "SendItem");
+	lua_pushcfunction(L, Lua_SendEquip); lua_setfield(L, -2, "SendEquip");
+	lua_pushcfunction(L, Lua_SendShopList); lua_setfield(L, -2, "SendShopList");
+	lua_pushcfunction(L, Lua_SendRandomQuiz); lua_setfield(L, -2, "SendRandomQuiz");
+	lua_pushcfunction(L, Lua_SendEtc); lua_setfield(L, -2, "SendEtc");
+	lua_pushcfunction(L, Lua_SendScore); lua_setfield(L, -2, "SendScore");
+	lua_pushcfunction(L, Lua_SendAffect); lua_setfield(L, -2, "SendAffect");
+	lua_pushcfunction(L, Lua_SendSay); lua_setfield(L, -2, "SendSay");
+	lua_pushcfunction(L, Lua_SendNotice); lua_setfield(L, -2, "SendNotice");
+	lua_pushcfunction(L, Lua_SendNoticeArea); lua_setfield(L, -2, "SendNoticeArea");
+	lua_pushcfunction(L, Lua_SendClientSignal); lua_setfield(L, -2, "SendClientSignal");
+	lua_pushcfunction(L, Lua_SendClientSignalParm); lua_setfield(L, -2, "SendClientSignalParm");
+	lua_pushcfunction(L, Lua_SendClientSignalParm2); lua_setfield(L, -2, "SendClientSignalParm2");
+	lua_pushcfunction(L, Lua_SendGridMob); lua_setfield(L, -2, "SendGridMob");
+	lua_pushcfunction(L, Lua_SendDoRecall); lua_setfield(L, -2, "SendDoRecall");
+	lua_pushcfunction(L, Lua_SendCharLogOut); lua_setfield(L, -2, "SendCharLogOut");
+	lua_pushcfunction(L, Lua_SendPutItem); lua_setfield(L, -2, "SendPutItem");
+	lua_pushcfunction(L, Lua_SendRegenMob); lua_setfield(L, -2, "SendRegenMob");
+	lua_pushcfunction(L, Lua_CloseUser); lua_setfield(L, -2, "SendCloseUser");
+	lua_pushcfunction(L, Lua_SaveUser); lua_setfield(L, -2, "SendSaveUser");
+	lua_pushcfunction(L, Lua_RemoveParty); lua_setfield(L, -2, "SendRemoveParty");
+	lua_pushcfunction(L, Lua_DoTeleport); lua_setfield(L, -2, "SendTeleport");
+	lua_pushcfunction(L, Lua_DoPartyTeleport); lua_setfield(L, -2, "SendPartyTeleport");
+	lua_pushcfunction(L, Lua_CreateMob); lua_setfield(L, -2, "CreateMob");
+	lua_pushcfunction(L, Lua_MountProcess); lua_setfield(L, -2, "SendMountProcess");
+	lua_pushcfunction(L, Lua_MountProcess); lua_setfield(L, -2, "SendMountProcess");
+#pragma endregion
 	luaL_newmetatable(L, "SendMetaTable");
 
 	lua_pushstring(L, "__index");
@@ -186,11 +215,6 @@ int LuaSend::Lua_CreateMob(lua_State* L)
 }
 
 int LuaSend::Lua_MountProcess(lua_State* L)
-{
-	return 0;
-}
-
-int LuaSend::Lua_DeliveryItemDrop(lua_State* L)
 {
 	return 0;
 }

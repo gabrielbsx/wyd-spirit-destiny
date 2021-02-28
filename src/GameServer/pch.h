@@ -18,6 +18,7 @@ extern DWORD BaseAddress;
 constexpr auto MAX_USER = 1000;
 constexpr auto MAX_MOB = 12800;
 constexpr auto USER_PLAY = 22;
+constexpr auto MAX_ITEMLIST = 6500;
 #pragma endregion
 
 

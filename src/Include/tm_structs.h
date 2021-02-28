@@ -40,6 +40,33 @@ struct STRUCT_BONUSEFFECT
 /* 2226 */
 struct STRUCT_ITEM
 {
+	
+	STRUCT_ITEM(short id, BYTE ef1, BYTE efv1, BYTE ef2, BYTE efv2, BYTE ef3, BYTE efv3)
+	{
+		this->sIndex = id;
+		this->stEffect[0].cEffect = ef1;
+		this->stEffect[0].cValue = efv1;
+
+		this->stEffect[1].cEffect = ef2;
+		this->stEffect[1].cValue = efv2;
+
+
+		this->stEffect[2].cEffect = ef3;
+		this->stEffect[2].cValue = efv3;
+	}
+	STRUCT_ITEM()
+	{
+		this->sIndex = 0;
+		this->stEffect[0].cEffect = 0;
+		this->stEffect[0].cValue = 0;
+
+		this->stEffect[1].cEffect = 0;
+		this->stEffect[1].cValue = 0;
+
+
+		this->stEffect[2].cEffect = 0;
+		this->stEffect[2].cValue = 0;
+	}
 	short sIndex;
 	STRUCT_BONUSEFFECT stEffect[3];
 };

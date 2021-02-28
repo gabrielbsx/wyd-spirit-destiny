@@ -180,8 +180,12 @@
     <ClInclude Include="LuaExport.h" />
     <ClInclude Include="LuaExtra.h" />
     <ClInclude Include="LuaGet.h" />
+    <ClInclude Include="LuaItem.h" />
+    <ClInclude Include="LuaItemList.h" />
+    <ClInclude Include="LuaLog.h" />
     <ClInclude Include="LuaMob.h" />
     <ClInclude Include="LuaSend.h" />
+    <ClInclude Include="LuaSet.h" />
     <ClInclude Include="LuaUser.h" />
     <ClInclude Include="Native.h" />
     <ClInclude Include="PacketController.h" />
@@ -198,8 +202,12 @@
     <ClCompile Include="LuaExport.cpp" />
     <ClCompile Include="LuaExtra.cpp" />
     <ClCompile Include="LuaGet.cpp" />
+    <ClCompile Include="LuaItem.cpp" />
+    <ClCompile Include="LuaItemList.cpp" />
+    <ClCompile Include="LuaLog.cpp" />
     <ClCompile Include="LuaMob.cpp" />
     <ClCompile Include="LuaSend.cpp" />
+    <ClCompile Include="LuaSet.cpp" />
     <ClCompile Include="LuaUser.cpp" />
     <ClCompile Include="MainLoad.cpp" />
     <ClCompile Include="NakedHooks.cpp" />
