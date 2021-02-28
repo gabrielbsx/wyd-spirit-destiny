@@ -66,6 +66,9 @@
     <Filter Include="Manager\Core\LuaExport\LuaItemList">
       <UniqueIdentifier>{924f6579-b6c9-4a32-807d-8c02dee4253e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Manager\Core\Extra">
+      <UniqueIdentifier>{2fb52ab2-6ba7-4011-954b-223ad76fbf50}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -132,6 +135,9 @@
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
     <ClInclude Include="LuaItemList.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="CExtra.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
   </ItemGroup>
@@ -203,6 +209,9 @@
     </ClCompile>
     <ClCompile Include="LuaItemList.cpp">
       <Filter>Manager\Core\LuaExport\LuaItemList</Filter>
+    </ClCompile>
+    <ClCompile Include="CExtra.cpp">
+      <Filter>Manager\Core\Extra</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

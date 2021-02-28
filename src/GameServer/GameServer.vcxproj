@@ -168,6 +168,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="CExtra.h" />
     <ClInclude Include="CHook.h" />
     <ClInclude Include="CLuaScripts.h" />
     <ClInclude Include="CMain.h" />
@@ -192,6 +193,7 @@
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CExtra.cpp" />
     <ClCompile Include="CHook.cpp" />
     <ClCompile Include="CMain.cpp" />
     <ClCompile Include="CUseItem.cpp" />
