@@ -54,6 +54,12 @@
     <Filter Include="Manager\Core\LuaExport\LuaItem">
       <UniqueIdentifier>{8e595863-805b-4693-8e04-25aa85c54227}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Manager\Core\LuaExport\LuaExtra">
+      <UniqueIdentifier>{736b86ef-3123-42a5-a108-2764ad72949c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Core\LuaExport\LuaPosition">
+      <UniqueIdentifier>{b4eafb90-7838-4118-ba87-32558283944d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -110,6 +116,12 @@
     <ClInclude Include="LuaItem.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
+    <ClInclude Include="LuaExtra.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaPosition.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CHook.cpp">
@@ -134,9 +146,6 @@
     </ClCompile>
     <ClCompile Include="DeactiveOriginals.cpp">
       <Filter>Manager\Core\HookMgr\Constants</Filter>
-    </ClCompile>
-    <ClCompile Include="PacketController.cpp">
-      <Filter>Manager\PacketController</Filter>
     </ClCompile>
     <ClCompile Include="SendedPackets.cpp">
       <Filter>Manager\PacketController\SendedPackets</Filter>
@@ -167,6 +176,15 @@
     </ClCompile>
     <ClCompile Include="LuaItem.cpp">
       <Filter>Manager\Core\LuaExport\LuaItem</Filter>
+    </ClCompile>
+    <ClCompile Include="PacketController.cpp">
+      <Filter>Manager\PacketController</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaExtra.cpp">
+      <Filter>Manager\Core\LuaExport\LuaExtra</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaPosition.cpp">
+      <Filter>Manager\Core\LuaExport\LuaPosition</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

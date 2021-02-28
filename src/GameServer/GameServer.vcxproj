@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -178,8 +178,8 @@
     <ClInclude Include="GlobalPointer.h" />
     <ClInclude Include="HookStrings.h" />
     <ClInclude Include="LuaExport.h" />
+    <ClInclude Include="LuaExtra.h" />
     <ClInclude Include="LuaGet.h" />
-    <ClInclude Include="LuaItem.h" />
     <ClInclude Include="LuaMob.h" />
     <ClInclude Include="LuaSend.h" />
     <ClInclude Include="LuaUser.h" />
@@ -196,8 +196,8 @@
     <ClCompile Include="GlobalPointer.cpp" />
     <ClCompile Include="HookStrings.cpp" />
     <ClCompile Include="LuaExport.cpp" />
+    <ClCompile Include="LuaExtra.cpp" />
     <ClCompile Include="LuaGet.cpp" />
-    <ClCompile Include="LuaItem.cpp" />
     <ClCompile Include="LuaMob.cpp" />
     <ClCompile Include="LuaSend.cpp" />
     <ClCompile Include="LuaUser.cpp" />
