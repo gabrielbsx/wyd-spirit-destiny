@@ -79,6 +79,7 @@ int LuaSet::Lua_SetCitizenship(lua_State* L)
     return 0;
 }
 
+//sub_576960(signed int a1)
 int LuaSet::Lua_SetReqHp(lua_State* L)
 {
     return 0;
@@ -133,7 +134,7 @@ int LuaSet::Lua_AddCrackError(lua_State* L)
 {
     return 0;
 }
-
+//sub_4BE670(STRUCT_ITEM *a1)
 int LuaSet::Lua_ClearItem(lua_State* L)
 {
     return 0;

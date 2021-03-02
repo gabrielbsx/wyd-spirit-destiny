@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: O diretório intermediário (E:\Github\wyd-spirit-destiny\\Release\output\) contém arquivos compartilhados de outro projeto (GameServer.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  pch.cpp
+  CHook.cpp
+  CMain.cpp
+  dllmain.cpp
+  NakedHooks.cpp
+  StartupConstants.cpp
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 26 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  Database.vcxproj -> E:\Github\wyd-spirit-destiny\Release\Database.dll

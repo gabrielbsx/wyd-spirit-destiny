@@ -92,19 +92,19 @@ int LuaSend::Lua_SendSetHpMp(lua_State* L)
 	SendNotice("Not Implemented: tSend.Lua_SendSetHpMp");
 	return 0;
 }
-
+//sub_503F20(int a1, __int16 a2, __int16 a3)
 int LuaSend::Lua_SendEmotion(lua_State* L)
 {
 	SendNotice("Not Implemented: tSend.Lua_SendEmotion");
 	return 0;
 }
-
+//sub_5045E0(signed int clientId, __int16 type, __int16 slot, STRUCT_ITEM *item)
 int LuaSend::Lua_SendItem(lua_State* L)
 {
 	SendNotice("Not Implemented: tSend.Lua_SendItem");
 	return 0;
 }
-
+//sub_5046F0(signed int clientId, int a2)
 int LuaSend::Lua_SendEquip(lua_State* L)
 {
 	SendNotice("Not Implemented: tSend.Lua_SendEquip");
@@ -129,6 +129,8 @@ int LuaSend::Lua_SendEtc(lua_State* L)
 	return 0;
 }
 
+//sub_4CE1C0(CMob *this, signed int a2) parte 1 (GetCurrentScore)
+//sub_504ED0(signed int a1) parte 2  (SendScore)
 int LuaSend::Lua_SendScore(lua_State* L)
 {
 	SendNotice("Not Implemented: tSend.Lua_SendScore");

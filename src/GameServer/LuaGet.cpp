@@ -56,6 +56,7 @@ int LuaGet::Lua_GetItemAmount(lua_State* L)
 	return 0;
 }
 
+// 0x4B97F0 STRUCT_ITEM* item
 int LuaGet::Lua_GetItemSanc(lua_State* L)
 {
 	SendNotice("Not Implemented: tGet.Lua_GetItemSanc");
@@ -133,7 +134,7 @@ int LuaGet::Lua_GetCP(lua_State* L)
 	SendNotice("Not Implemented: tGet.Lua_GetCP");
 	return 0;
 }
-
+//sub_584030(int clientId, int xMin, int yMin, int xMax, int yMax, int unkFlag)
 int LuaGet::Lua_IsPlayerInArea(lua_State* L)
 {
 	SendNotice("Not Implemented: tGet.Lua_IsPlayerInArea");
@@ -164,6 +165,7 @@ int LuaGet::Lua_Rand(lua_State* L)
 	return 0;
 }
 
+// sub_5AC6A0()
 int LuaGet::Lua_TMSRand(lua_State* L)
 {
 	SendNotice("Not Implemented: tGet.Lua_TMSRand");
