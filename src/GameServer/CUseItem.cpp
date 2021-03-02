@@ -55,10 +55,10 @@ int CUseItem::Run(int conn, char* pMsg)
 		return false;
 
 
-	STRUCT_ITEM* src = GetItemPointer(&pMob[conn], pUser[conn].Cargo, packet->SourType, packet->SourPos);
-	STRUCT_ITEM* dst = GetItemPointer(&pMob[conn], pUser[conn].Cargo, packet->DestType, packet->DestPos);
+	STRUCT_ITEM* src = GetItemPointer(&pMob[conn].Mob, pUser[conn].Cargo, packet->SourType, packet->SourPos);
+	STRUCT_ITEM* dst = GetItemPointer(&pMob[conn].Mob, pUser[conn].Cargo, packet->DestType, packet->DestPos);
 
-	int Vol = GetItemAbility(src, EF_VOLATILE);
+	int Vol = BASE_GetItemAbility(src, EF_VOLATILE);
 
 	for (auto& i : CUseItem::VolatileScripts)
 	{
