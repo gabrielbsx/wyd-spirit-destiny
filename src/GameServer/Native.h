@@ -7,7 +7,7 @@
 #pragma region Basedef
 
 static int (*BASE_WriteItemPrice)() = (int(__cdecl*)()) 0x4B57F0;
-static bool (*BASE_CheckBit)(char, int) = (bool(__cdecl*)(char Quest, int value)) 0x4B5A90;
+static bool (*BASE_CheckBit)(char*, int) = (bool(__cdecl*)(char* Quest, int value)) 0x4B5A90;
 static bool (*BASE_SetBit)(char*, int) = (bool(__cdecl*)(char* Quest, int value)) 0x4B5B00;
 static bool (*BASE_ResetBit)(char*, int) = (bool(__cdecl*)(char* Quest, int value)) 0x4B5B70;
 static bool (*BASE_NeedLog)(STRUCT_ITEM*, int) = (bool(__cdecl*)(STRUCT_ITEM * Quest, int price)) 0x4B5BF0;
@@ -18,8 +18,8 @@ static int (*BASE_GetAC)(STRUCT_MOB*, int) = (int(__cdecl*)(STRUCT_MOB * mob, in
 static int (*BASE_GetHpMp)(STRUCT_MOB*, int) = (int(__cdecl*)(STRUCT_MOB * mob, int face)) 0x4B7060;
 static int (*BASE_GetSpeed)(STRUCT_SCORE*) = (int(__cdecl*)(STRUCT_SCORE * score)) 0x4B7190;
 static int (*BASE_GetDamage)(int, int, int) = (int(__cdecl*)(int dam, int ac, int combat)) 0x4B71F0;
-static int (*BASE_GetSkillDamage)(int, STRUCT_MOB*, int, int, int) = (int(__cdecl*)(int skillnum, STRUCT_MOB * mob, int weather, int weapondamage, int OriginalFace)) 0x4B76A0;
-static int (*BASE_GetSkillDamage)(int, int, int) = (int(__cdecl*)(int dam, int ac, int combat)) 0x4C3DE0;
+static int (*BASE_GetSkillDamage)(int, STRUCT_MOB*, int, int, int) = (int(__cdecl*)(int skillnum, STRUCT_MOB * mob, int weather, int weapondamage, int OriginalFace)) 0x4C3DE0;
+static int (*BASE_GetSkillDamage)(int, int, int) = (int(__cdecl*)(int dam, int ac, int combat)) 0x4B76A0;
 static int (*BASE_GetItemFromString)(STRUCT_ITEM*, char*) = (int(__cdecl*)(STRUCT_ITEM * item, char* str)) 0x4B7790;
 static int (*BASE_GetItemCode)(STRUCT_ITEM*, char*) = (int(__cdecl*)(STRUCT_ITEM * item, char* str)) 0x4B7910;
 static int (*BASE_GetItemAbility)(STRUCT_ITEM*, unsigned char) = (int(__cdecl*)(STRUCT_ITEM * item, unsigned char Type)) 0x4B7FD0;
