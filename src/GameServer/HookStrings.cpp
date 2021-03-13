@@ -38,9 +38,8 @@ bool HookStrings::SetupStrings()
 	}
 	catch (std::exception& ex)
 	{
-#ifdef _DEBUG
 		std::cout << ex.what() << std::endl;
-#endif
+
 	}
 	return false;
 }
@@ -58,9 +57,8 @@ bool HookStrings::StartupStrings()
 	}
 	catch (std::exception& ex)
 	{
-#ifdef _DEBUG
 		std::cout << ex.what() << std::endl;
-#endif
+
 		return false;
 	}
 }

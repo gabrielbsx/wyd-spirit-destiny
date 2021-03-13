@@ -19,7 +19,7 @@ static int (*BASE_GetHpMp)(STRUCT_MOB*, int) = (int(__cdecl*)(STRUCT_MOB * mob, 
 static int (*BASE_GetSpeed)(STRUCT_SCORE*) = (int(__cdecl*)(STRUCT_SCORE * score)) 0x4B7190;
 static int (*BASE_GetDamage)(int, int, int) = (int(__cdecl*)(int dam, int ac, int combat)) 0x4B71F0;
 static int (*BASE_GetSkillDamage)(int, STRUCT_MOB*, int, int, int) = (int(__cdecl*)(int skillnum, STRUCT_MOB * mob, int weather, int weapondamage, int OriginalFace)) 0x4C3DE0;
-static int (*BASE_GetSkillDamage)(int, int, int) = (int(__cdecl*)(int dam, int ac, int combat)) 0x4B76A0;
+static int (*BASE_GetSkillDamage_2)(int, int, int) = (int(__cdecl*)(int dam, int ac, int combat)) 0x4B76A0;
 static int (*BASE_GetItemFromString)(STRUCT_ITEM*, char*) = (int(__cdecl*)(STRUCT_ITEM * item, char* str)) 0x4B7790;
 static int (*BASE_GetItemCode)(STRUCT_ITEM*, char*) = (int(__cdecl*)(STRUCT_ITEM * item, char* str)) 0x4B7910;
 static int (*BASE_GetItemAbility)(STRUCT_ITEM*, unsigned char) = (int(__cdecl*)(STRUCT_ITEM * item, unsigned char Type)) 0x4B7FD0;
@@ -94,6 +94,8 @@ static int (*BASE_GetCouponPrice)(STRUCT_ITEM*) = (int(__cdecl*)(STRUCT_ITEM* cu
 
 #pragma region Server
 static void	(*SendClientMessage)(int connId, const char* message) = (void(__cdecl*)(int, const char*)) 0x05016D0;
+static int	(*SendNotice)(const char* message) = (int(__cdecl*)(const char*)) 0x0501900;
+static int	(*DoTeleport)(int conn, int posX, int posY, int unk) = (int(__cdecl*)(int conn, int posX, int posY, int)) 0x04B2473;
 
 #pragma endregion
 

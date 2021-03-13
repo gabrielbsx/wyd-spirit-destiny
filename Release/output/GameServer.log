@@ -1,72 +1,34 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: O diretório intermediário (E:\Github\wyd-spirit-destiny\\Release\output\) contém arquivos compartilhados de outro projeto (Database.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  pch.cpp
+  CExtra.cpp
+  CHook.cpp
+  CMain.cpp
   CUseItem.cpp
-E:\Github\wyd-spirit-destiny\src\GameServer\CLuaScripts.h(61,32): warning C4101: 'ex': variável local não referenciada
-E:\Github\wyd-spirit-destiny\src\GameServer\CLuaScripts.h(102,32): warning C4101: 'ex': variável local não referenciada
-E:\Github\wyd-spirit-destiny\src\GameServer\Native.h(22,14): error C2116: 'BASE_GetSkillDamage': as listas de parâmetros de função entre as declarações não são correspondentes
-E:\Github\wyd-spirit-destiny\src\GameServer\Native.h(21): message : consulte a declaração de 'BASE_GetSkillDamage'
-E:\Github\wyd-spirit-destiny\src\GameServer\CUseItem.cpp(58,101): error C2664: 'STRUCT_ITEM *(STRUCT_MOB *,STRUCT_ITEM *,int,int)': não é possível converter um argumento 1 de 'CMob *' em 'STRUCT_MOB *'
-E:\Github\wyd-spirit-destiny\src\GameServer\CUseItem.cpp(58,36): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style
-E:\Github\wyd-spirit-destiny\src\GameServer\CUseItem.cpp(59,101): error C2664: 'STRUCT_ITEM *(STRUCT_MOB *,STRUCT_ITEM *,int,int)': não é possível converter um argumento 1 de 'CMob *' em 'STRUCT_MOB *'
-E:\Github\wyd-spirit-destiny\src\GameServer\CUseItem.cpp(59,36): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style
-E:\Github\wyd-spirit-destiny\src\GameServer\CUseItem.cpp(61,12): error C3861: 'GetItemAbility': identificador não encontrado
+  DeactiveOriginals.cpp
+  dllmain.cpp
+  GlobalPointer.cpp
+  HookStrings.cpp
+E:\Github\wyd-spirit-destiny\src\GameServer\HookStrings.cpp(39,25): warning C4101: 'ex': variável local não referenciada
+E:\Github\wyd-spirit-destiny\src\GameServer\HookStrings.cpp(59,25): warning C4101: 'ex': variável local não referenciada
   LuaExport.cpp
-E:\Github\wyd-spirit-destiny\src\GameServer\Native.h(22,14): error C2116: 'BASE_GetSkillDamage': as listas de parâmetros de função entre as declarações não são correspondentes
-E:\Github\wyd-spirit-destiny\src\GameServer\Native.h(21): message : consulte a declaração de 'BASE_GetSkillDamage'
+  LuaExtra.cpp
   LuaGet.cpp
-E:\Github\wyd-spirit-destiny\src\GameServer\Native.h(22,14): error C2116: 'BASE_GetSkillDamage': as listas de parâmetros de função entre as declarações não são correspondentes
-E:\Github\wyd-spirit-destiny\src\GameServer\Native.h(21): message : consulte a declaração de 'BASE_GetSkillDamage'
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaGet.cpp(49,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaGet.cpp(55,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaGet.cpp(62,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaGet.cpp(68,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaGet.cpp(74,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaGet.cpp(80,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaGet.cpp(86,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaGet.cpp(92,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaGet.cpp(98,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaGet.cpp(104,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaGet.cpp(110,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaGet.cpp(116,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaGet.cpp(122,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaGet.cpp(128,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaGet.cpp(134,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaGet.cpp(140,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaGet.cpp(146,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaGet.cpp(152,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaGet.cpp(158,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaGet.cpp(164,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaGet.cpp(171,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaGet.cpp(177,2): error C3861: 'SendNotice': identificador não encontrado
+  LuaItem.cpp
+  LuaItemList.cpp
+  LuaLog.cpp
+  LuaMob.cpp
   LuaSend.cpp
-E:\Github\wyd-spirit-destiny\src\GameServer\Native.h(22,14): error C2116: 'BASE_GetSkillDamage': as listas de parâmetros de função entre as declarações não são correspondentes
-E:\Github\wyd-spirit-destiny\src\GameServer\Native.h(21): message : consulte a declaração de 'BASE_GetSkillDamage'
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(74,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(80,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(86,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(92,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(98,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(104,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(110,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(116,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(122,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(128,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(136,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(142,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(148,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(154,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(160,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(166,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(172,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(178,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(184,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(190,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(196,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(202,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(208,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(214,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(220,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(226,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(232,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(238,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(244,2): error C3861: 'SendNotice': identificador não encontrado
-E:\Github\wyd-spirit-destiny\src\GameServer\LuaSend.cpp(250,2): error C3861: 'SendNotice': identificador não encontrado
+  LuaSet.cpp
+  LuaUser.cpp
+  MainLoad.cpp
+  NakedHooks.cpp
+  Compilando...
+  PacketController.cpp
+  ReceivedPackets.cpp
+  SendedPackets.cpp
+  StartupConstants.cpp
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 518 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  GameServer.vcxproj -> E:\Github\wyd-spirit-destiny\Release\GameServer.dll

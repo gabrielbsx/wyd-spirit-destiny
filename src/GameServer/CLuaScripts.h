@@ -61,9 +61,8 @@ public:
 		catch (const std::exception& ex)
 		{
 
-#ifdef _DEBUG
 			std::cout << "Failed to destruct object CLuaScripts Error: " << ex.what() << std::endl;
-#endif
+
 		}
 	};
 
@@ -101,9 +100,8 @@ public:
 		}
 		catch (const std::exception& ex)
 		{
-#ifdef _DEBUG
 			std::cout << "Failed to load lua script: " << luaFile.c_str() << " Error:  " << ex.what() << std::endl;
-#endif
+
 			return false;
 		}
 	}

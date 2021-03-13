@@ -1,6 +1,7 @@
 #include "pch.h"
 #include "PacketController.h"
 #include "CUseItem.h"
+#include "CAttack.h"
 
 
 int PacketController::ExecuteReceived(int clientID, char* pMsg)
@@ -13,8 +14,16 @@ int PacketController::ExecuteReceived(int clientID, char* pMsg)
 #endif
 	switch (packet->Type)
 	{
+
 	case 0x373:
 		return CUseItem::Run(clientID, pMsg);
+
+	case 0x367:
+	case 0x39D:
+	case 0x39E:
+		return CAttack::Run(clientID, pMsg);
+
+
 	default:
 		break;
 	}

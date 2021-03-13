@@ -69,6 +69,9 @@
     <Filter Include="Manager\Core\Extra">
       <UniqueIdentifier>{2fb52ab2-6ba7-4011-954b-223ad76fbf50}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Manager\PacketController\ReceivedPackets\MSG_Attack">
+      <UniqueIdentifier>{4a3dd7c6-2339-4d61-a21a-3b3383c68bd9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -138,6 +141,9 @@
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
     <ClInclude Include="CExtra.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="CAttack.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
   </ItemGroup>
@@ -212,6 +218,9 @@
     </ClCompile>
     <ClCompile Include="CExtra.cpp">
       <Filter>Manager\Core\Extra</Filter>
+    </ClCompile>
+    <ClCompile Include="CAttack.cpp">
+      <Filter>Manager</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

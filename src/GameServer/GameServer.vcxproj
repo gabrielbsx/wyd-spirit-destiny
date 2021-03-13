@@ -82,7 +82,7 @@
     <IncludePath>$(SolutionDir)\src\Include\;$(IncludePath)</IncludePath>
     <LibraryPath>$(SolutionDir)\src\Lib\;$(LibraryPath)</LibraryPath>
     <OutDir>$(SolutionDir)\Release\</OutDir>
-    <IntDir>$(SolutionDir)\Release\output\</IntDir>
+    <IntDir>$(SolutionDir)\Release\outputTM\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
@@ -168,6 +168,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="CAttack.h" />
     <ClInclude Include="CExtra.h" />
     <ClInclude Include="CHook.h" />
     <ClInclude Include="CLuaScripts.h" />
@@ -193,6 +194,7 @@
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CAttack.cpp" />
     <ClCompile Include="CExtra.cpp" />
     <ClCompile Include="CHook.cpp" />
     <ClCompile Include="CMain.cpp" />

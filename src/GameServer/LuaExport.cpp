@@ -28,8 +28,7 @@ void LuaExport::InitalizeExports(lua_State* L)
 	}
 	catch (const std::exception& ex)
 	{
-#ifdef _DEBUG
 		std::cout << "Failed on register functions Error:  " << ex.what() << std::endl;
-#endif
+
 	}
 }
