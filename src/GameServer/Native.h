@@ -7,7 +7,6 @@
 #pragma region Basedef
 
 static int (*BASE_WriteItemPrice)() = (int(__cdecl*)()) 0x4B57F0;
-static int (*BASE_WriteItemPrice)() = (int(__cdecl*)()) 0x4B57F0;
 static bool (*BASE_CheckBit)(char*, int) = (bool(__cdecl*)(char* Quest, int value)) 0x4B5A90;
 static bool (*BASE_SetBit)(char*, int) = (bool(__cdecl*)(char* Quest, int value)) 0x4B5B00;
 static bool (*BASE_ResetBit)(char*, int) = (bool(__cdecl*)(char* Quest, int value)) 0x4B5B70;
@@ -95,10 +94,99 @@ static int (*BASE_GetCouponPrice)(STRUCT_ITEM*) = (int(__cdecl*)(STRUCT_ITEM* cu
 
 #pragma region Server
 static void	(*SendClientMessage)(int connId, const char* message) = (void(__cdecl*)(int, const char*)) 0x05016D0;
+static void	(*SendItem)(int connId, short Type, short Slot, STRUCT_ITEM* item) = (void(__cdecl*)(int, short, short, STRUCT_ITEM*)) 0x5045E0;
+static int	(*SendEquip)(int connId, int Type) = (int(__cdecl*)(int, int)) 0x5046F0;
+static void	(*SendEtc)(int connId) = (void(__cdecl*)(int)) 0x505470;
 static int	(*SendNotice)(const char* message) = (int(__cdecl*)(const char*)) 0x0501900;
 static int	(*DoTeleport)(int conn, int posX, int posY, int unk) = (int(__cdecl*)(int conn, int posX, int posY, int)) 0x04B2473;
+static int	(*SendEmotion)(int conn, short Param1, short Param2) = (int(__cdecl*)(int conn, short, short)) 0x0503F20;
+static int	(*SendSay)(int conn, const char* msg) = (int(__cdecl*)(int conn, const char*)) 0x0506BF0;
+static int	(*SetAffect)(int conn, int Type, int Time, int AffType) = (int(__cdecl*)(int, int, int, int)) 0x04B2397;
+static int	(*DoRecall)(int conn) = (int(__cdecl*)(int)) 0x0572AE0;
+
+static void CharLogout(INT32 connId)
+{
+	static DWORD callAddr = (DWORD)BaseAddress + 0x9AB;
+
+	__asm
+	{
+		PUSH connId
+		CALL callAddr
+		ADD ESP, 0x4
+	}
+}
 
 #pragma endregion
+
+#pragma region CMobReg
+static void(__stdcall* _GetCurrentScore)(CMob* thisPtr, int clientid) = (void(__stdcall*)(CMob*, int)) 0x04CE1C0;
+static void(__cdecl* SendScore)(int clientid) = (void(__cdecl*)(int clientid)) 0x504ED0;
+static void GetCurrentScore(int32_t client)
+{
+	static DWORD ptrMob = BaseAddress + 0x078D3AC0;
+	__asm
+	{
+		PUSH client
+		MOV ECX, client
+		IMUL ECX, ECX, 0x928
+		ADD ECX, ptrMob
+		CALL _GetCurrentScore
+	}
+}
+
+static void SendAffect(int conn)
+{
+	static DWORD callAddr = (DWORD)BaseAddress + 0x4AB;
+
+	__asm
+	{
+		PUSH conn
+		CALL callAddr
+		ADD ESP, 0x4
+	}
+}
+
+static int PutItem(INT32 connId, STRUCT_ITEM* pItem)
+{
+	DWORD putItemAddr = (DWORD)BaseAddress + 0x825;
+
+	__asm
+	{
+		PUSH[pItem]
+		PUSH connId
+		CALL putItemAddr
+		ADD ESP, 0x8
+	}
+}
+
+static void CloseUser(INT32 connId)
+{
+	DWORD kickUsrAddr = (DWORD)BaseAddress + 0x12CF;
+
+	__asm
+	{
+		PUSH connId
+		CALL kickUsrAddr
+		ADD ESP, 0x4
+	}
+}
+
+static void SaveUser(INT32 connId)
+{
+	static DWORD callAddr = (DWORD)BaseAddress + 0xBA390;
+
+	__asm
+	{
+		PUSH 0
+		PUSH connId
+		CALL callAddr
+		ADD ESP, 0x8
+	}
+}
+
+
+#pragma endregion
+
 
 
 #endif // !_NATIVE_H_

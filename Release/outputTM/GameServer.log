@@ -1,9 +1,7 @@
-﻿  CAttack.cpp
-  CMobKilled.cpp
-  NakedHooks.cpp
+﻿  LuaGet.cpp
   Gerando código
-  6 of 522 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
-    2 functions were new in current compilation
+  2 of 505 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
     1 functions had inline decision re-evaluated but remain unchanged
   Finalizada a geração de código
   GameServer.vcxproj -> E:\Github\wyd-spirit-destiny\Release\GameServer.dll

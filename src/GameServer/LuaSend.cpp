@@ -8,41 +8,24 @@ void LuaSend::Initialize_MetaTable(lua_State* L)
 	int sendTableID = lua_gettop(L);
 	lua_pushvalue(L, sendTableID);
 
-	// atribui a variavel global
 	lua_setglobal(L, "tSend");
 #pragma region Exports functions
 	lua_pushcfunction(L, Lua_SendClientMessage); lua_setfield(L, -2, "SendClientMessage");
-	lua_pushcfunction(L, Lua_SendHpMode); lua_setfield(L, -2, "SendHpMode");
-	lua_pushcfunction(L, Lua_SendAddParty); lua_setfield(L, -2, "SendAddParty");
-	lua_pushcfunction(L, Lua_SendCarry); lua_setfield(L, -2, "SendCarry");
-	lua_pushcfunction(L, Lua_SendSetHpMp); lua_setfield(L, -2, "SendSetHpMp");
 	lua_pushcfunction(L, Lua_SendEmotion); lua_setfield(L, -2, "SendEmotion");
 	lua_pushcfunction(L, Lua_SendItem); lua_setfield(L, -2, "SendItem");
 	lua_pushcfunction(L, Lua_SendEquip); lua_setfield(L, -2, "SendEquip");
-	lua_pushcfunction(L, Lua_SendShopList); lua_setfield(L, -2, "SendShopList");
-	lua_pushcfunction(L, Lua_SendRandomQuiz); lua_setfield(L, -2, "SendRandomQuiz");
 	lua_pushcfunction(L, Lua_SendEtc); lua_setfield(L, -2, "SendEtc");
 	lua_pushcfunction(L, Lua_SendScore); lua_setfield(L, -2, "SendScore");
 	lua_pushcfunction(L, Lua_SendAffect); lua_setfield(L, -2, "SendAffect");
 	lua_pushcfunction(L, Lua_SendSay); lua_setfield(L, -2, "SendSay");
 	lua_pushcfunction(L, Lua_SendNotice); lua_setfield(L, -2, "SendNotice");
-	lua_pushcfunction(L, Lua_SendNoticeArea); lua_setfield(L, -2, "SendNoticeArea");
-	lua_pushcfunction(L, Lua_SendClientSignal); lua_setfield(L, -2, "SendClientSignal");
-	lua_pushcfunction(L, Lua_SendClientSignalParm); lua_setfield(L, -2, "SendClientSignalParm");
-	lua_pushcfunction(L, Lua_SendClientSignalParm2); lua_setfield(L, -2, "SendClientSignalParm2");
-	lua_pushcfunction(L, Lua_SendGridMob); lua_setfield(L, -2, "SendGridMob");
 	lua_pushcfunction(L, Lua_SendDoRecall); lua_setfield(L, -2, "SendDoRecall");
 	lua_pushcfunction(L, Lua_SendCharLogOut); lua_setfield(L, -2, "SendCharLogOut");
 	lua_pushcfunction(L, Lua_SendPutItem); lua_setfield(L, -2, "SendPutItem");
-	lua_pushcfunction(L, Lua_SendRegenMob); lua_setfield(L, -2, "SendRegenMob");
 	lua_pushcfunction(L, Lua_CloseUser); lua_setfield(L, -2, "SendCloseUser");
 	lua_pushcfunction(L, Lua_SaveUser); lua_setfield(L, -2, "SendSaveUser");
-	lua_pushcfunction(L, Lua_RemoveParty); lua_setfield(L, -2, "SendRemoveParty");
 	lua_pushcfunction(L, Lua_DoTeleport); lua_setfield(L, -2, "SendTeleport");
-	lua_pushcfunction(L, Lua_DoPartyTeleport); lua_setfield(L, -2, "SendPartyTeleport");
-	lua_pushcfunction(L, Lua_CreateMob); lua_setfield(L, -2, "CreateMob");
-	lua_pushcfunction(L, Lua_MountProcess); lua_setfield(L, -2, "SendMountProcess");
-	lua_pushcfunction(L, Lua_MountProcess); lua_setfield(L, -2, "SendMountProcess");
+	lua_pushcfunction(L, Lua_SetAffect); lua_setfield(L, -2, "SetAffect");
 #pragma endregion
 	luaL_newmetatable(L, "SendMetaTable");
 
@@ -69,184 +52,128 @@ int LuaSend::Lua_SendClientMessage(lua_State* L)
 	return 0;
 }
 
-int LuaSend::Lua_SendHpMode(lua_State* L)
-{
-	SendNotice("Not Implemented: tSend.Lua_SendHpMode");
-	return 0;
-}
-
-int LuaSend::Lua_SendAddParty(lua_State* L)
-{
-	SendNotice("Not Implemented: tSend.Lua_SendAddParty");
-	return 0;
-}
-
-int LuaSend::Lua_SendCarry(lua_State* L)
-{
-	SendNotice("Not Implemented: tSend.Lua_SendCarry");
-	return 0;
-}
-
-int LuaSend::Lua_SendSetHpMp(lua_State* L)
-{
-	SendNotice("Not Implemented: tSend.Lua_SendSetHpMp");
-	return 0;
-}
-//sub_503F20(int a1, __int16 a2, __int16 a3)
 int LuaSend::Lua_SendEmotion(lua_State* L)
 {
-	SendNotice("Not Implemented: tSend.Lua_SendEmotion");
-	return 0;
+	auto conn = static_cast<int>(lua_tonumber(L, -3));
+	short param1 = static_cast<short>(lua_tonumber(L, -2));
+	short param2 = static_cast<short>(lua_tonumber(L, -1));
+	auto resEmotion = SendEmotion(conn, param1, param2);
+	lua_pushnumber(L, resEmotion);
+	return 1;
 }
-//sub_5045E0(signed int clientId, __int16 type, __int16 slot, STRUCT_ITEM *item)
+
 int LuaSend::Lua_SendItem(lua_State* L)
 {
-	SendNotice("Not Implemented: tSend.Lua_SendItem");
+	auto item = (STRUCT_ITEM*)lua_touserdata(L, -1);
+	short slot = static_cast<short>(lua_tonumber(L, -2));
+	short type = static_cast<short>(lua_tonumber(L, -3));
+	short conn = static_cast<int>(lua_tonumber(L, -4));
+	
+	SendItem(conn, type, slot, item);
 	return 0;
 }
-//sub_5046F0(signed int clientId, int a2)
+
 int LuaSend::Lua_SendEquip(lua_State* L)
 {
-	SendNotice("Not Implemented: tSend.Lua_SendEquip");
-	return 0;
-}
-
-int LuaSend::Lua_SendShopList(lua_State* L)
-{
-	SendNotice("Not Implemented: tSend.Lua_SendShopList");
-	return 0;
-}
-
-int LuaSend::Lua_SendRandomQuiz(lua_State* L)
-{
-	SendNotice("Not Implemented: tSend.Lua_SendRandomQuiz");
-	return 0;
+	short type = static_cast<int>(lua_tonumber(L, -1));
+	int conn = static_cast<int>(lua_tonumber(L, -2));
+	auto resEquip = SendEquip(conn, type);
+	lua_pushnumber(L, resEquip);
+	return 1;
 }
 
 int LuaSend::Lua_SendEtc(lua_State* L)
 {
-	SendNotice("Not Implemented: tSend.Lua_SendEtc");
+	int conn = static_cast<int>(lua_tonumber(L, -1));
+	SendEtc(conn);
 	return 0;
 }
 
-//sub_4CE1C0(CMob *this, signed int a2) parte 1 (GetCurrentScore)
-//sub_504ED0(signed int a1) parte 2  (SendScore)
 int LuaSend::Lua_SendScore(lua_State* L)
 {
-	SendNotice("Not Implemented: tSend.Lua_SendScore");
+
+	int conn = static_cast<int>(lua_tonumber(L, -1));
+	GetCurrentScore(conn);
+	SendScore(conn);
 	return 0;
 }
 
 int LuaSend::Lua_SendAffect(lua_State* L)
 {
-	SendNotice("Not Implemented: tSend.Lua_SendAffect");
+	int conn = static_cast<int>(lua_tonumber(L, -1));
+	SendAffect(conn);
+	return 0;
+}
+
+int LuaSend::Lua_SetAffect(lua_State* L)
+{
+	int conn = static_cast<int>(lua_tonumber(L, -1));
+	int Affect = static_cast<int>(lua_tonumber(L, -2));
+	int Time = static_cast<int>(lua_tonumber(L, -3));
+	int Value = static_cast<int>(lua_tonumber(L, -4));
+	SetAffect(conn, Affect, Time, Value);
 	return 0;
 }
 
 int LuaSend::Lua_SendSay(lua_State* L)
 {
-	SendNotice("Not Implemented: tSend.Lua_SendSay");
+	int conn = static_cast<int>(lua_tonumber(L, -2));
+	auto say = lua_tostring(L, -1);
+	SendSay(conn, say);
 	return 0;
 }
 
 int LuaSend::Lua_SendNotice(lua_State* L)
 {
-	SendNotice("Not Implemented: tSend.Lua_SendNotice");
-	return 0;
-}
 
-int LuaSend::Lua_SendNoticeArea(lua_State* L)
-{
-	SendNotice("Not Implemented: tSend.Lua_SendNoticeArea");
-	return 0;
-}
-
-int LuaSend::Lua_SendClientSignal(lua_State* L)
-{
-	SendNotice("Not Implemented: tSend.Lua_SendClientSignal");
-	return 0;
-}
-
-int LuaSend::Lua_SendClientSignalParm(lua_State* L)
-{
-	SendNotice("Not Implemented: tSend.Lua_SendClientSignalParm");
-	return 0;
-}
-
-int LuaSend::Lua_SendClientSignalParm2(lua_State* L)
-{
-	SendNotice("Not Implemented: tSend.Lua_SendClientSignalParm2");
-	return 0;
-}
-
-int LuaSend::Lua_SendGridMob(lua_State* L)
-{
-	SendNotice("Not Implemented: tSend.Lua_SendGridMob");
+	auto notc = lua_tostring(L, -1);
+	SendNotice(notc);
 	return 0;
 }
 
 int LuaSend::Lua_SendDoRecall(lua_State* L)
 {
-	SendNotice("Not Implemented: tSend.Lua_SendDoRecall");
+	int conn = static_cast<int>(lua_tonumber(L, -1));
+	DoRecall(conn);
 	return 0;
 }
 
 int LuaSend::Lua_SendCharLogOut(lua_State* L)
 {
-	SendNotice("Not Implemented: tSend.Lua_SendCharLogOut");
+	int conn = static_cast<int>(lua_tonumber(L, -1));
+	CharLogout(conn);
 	return 0;
 }
 
 int LuaSend::Lua_SendPutItem(lua_State* L)
 {
-	SendNotice("Not Implemented: tSend.Lua_SendPutItem");
-	return 0;
-}
+	auto item = (STRUCT_ITEM*)lua_touserdata(L, -1);
 
-int LuaSend::Lua_SendRegenMob(lua_State* L)
-{
-	SendNotice("Not Implemented: tSend.Lua_SendRegenMob");
+	int conn = static_cast<int>(lua_tonumber(L, -2));
+	PutItem(conn, item);
 	return 0;
 }
 
 int LuaSend::Lua_CloseUser(lua_State* L)
 {
-	SendNotice("Not Implemented: tSend.Lua_CloseUser");
+	int conn = static_cast<int>(lua_tonumber(L, -1));
+	CloseUser(conn);
 	return 0;
 }
 
 int LuaSend::Lua_SaveUser(lua_State* L)
 {
-	SendNotice("Not Implemented: tSend.Lua_SaveUser");
-	return 0;
-}
 
-int LuaSend::Lua_RemoveParty(lua_State* L)
-{
-	SendNotice("Not Implemented: tSend.Lua_RemoveParty");
+	int conn = static_cast<int>(lua_tonumber(L, -1));
+	SaveUser(conn);
 	return 0;
 }
 
 int LuaSend::Lua_DoTeleport(lua_State* L)
 {
-	SendNotice("Not Implemented: tSend.Lua_DoTeleport");
-	return 0;
-}
-
-int LuaSend::Lua_DoPartyTeleport(lua_State* L)
-{
-	SendNotice("Not Implemented: tSend.Lua_DoPartyTeleport");
-	return 0;
-}
-
-int LuaSend::Lua_CreateMob(lua_State* L)
-{
-	SendNotice("Not Implemented: tSend.Lua_CreateMob");
-	return 0;
-}
-
-int LuaSend::Lua_MountProcess(lua_State* L)
-{
-	SendNotice("Not Implemented: tSend.Lua_MountProcess");
+	int conn = static_cast<int>(lua_tonumber(L, -3));
+	int posX = static_cast<int>(lua_tonumber(L, -2));
+	int posY = static_cast<int>(lua_tonumber(L, -1));
+	DoTeleport(conn, posX, posY, 0);
 	return 0;
 }

@@ -66,7 +66,7 @@ int LuaGet::Lua_GetItemSanc(lua_State* L)
 int LuaGet::Lua_GetItemAbility(lua_State* L)
 {
 	STRUCT_ITEM* item = (STRUCT_ITEM*)lua_touserdata(L, -1);
-	auto eff = static_cast<short>(lua_tonumber(L, -2));
+	auto eff = static_cast<unsigned char>(lua_tonumber(L, -2));
 	int hab = BASE_GetItemAbility(item, eff);
 	lua_pushnumber(L, hab);
 	return 1;
