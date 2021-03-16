@@ -72,6 +72,24 @@
     <Filter Include="Manager\PacketController\ReceivedPackets\MSG_Attack">
       <UniqueIdentifier>{4a3dd7c6-2339-4d61-a21a-3b3383c68bd9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Manager\PacketController\ReceivedPackets\MSG_Whisper">
+      <UniqueIdentifier>{d83cde8a-4257-41c1-ad62-24a5df1b9abb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\PacketController\ReceivedPackets\MSG_Quest">
+      <UniqueIdentifier>{1e2078b8-15ad-45b8-b63d-0ebe0cb5452e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\PacketController\ReceivedPackets\MSG_StoreBuy">
+      <UniqueIdentifier>{6c757aee-8520-4ca9-b7dd-850e9a9b3582}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\PacketController\ReceivedPackets\MSG_RequestSell">
+      <UniqueIdentifier>{45fd6672-b018-482e-a10c-88d02bc58c66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\PacketController\ReceivedPackets\MSG_DeleteItem">
+      <UniqueIdentifier>{6dc4e23b-5d84-463f-9271-b1f727f0e098}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\MobKilled">
+      <UniqueIdentifier>{96b387af-ae94-4e2b-8a21-791594e71f9d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -144,6 +162,24 @@
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
     <ClInclude Include="CAttack.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="CWhisper.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="CQuest.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="CStoreBuy.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="CRequestSell.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="CDeleteItem.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="CMobKilled.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
   </ItemGroup>
@@ -220,7 +256,25 @@
       <Filter>Manager\Core\Extra</Filter>
     </ClCompile>
     <ClCompile Include="CAttack.cpp">
-      <Filter>Manager</Filter>
+      <Filter>Manager\PacketController\ReceivedPackets\MSG_Attack</Filter>
+    </ClCompile>
+    <ClCompile Include="CWhisper.cpp">
+      <Filter>Manager\PacketController\ReceivedPackets\MSG_Whisper</Filter>
+    </ClCompile>
+    <ClCompile Include="CQuest.cpp">
+      <Filter>Manager\PacketController\ReceivedPackets\MSG_Quest</Filter>
+    </ClCompile>
+    <ClCompile Include="CStoreBuy.cpp">
+      <Filter>Manager\PacketController\ReceivedPackets\MSG_StoreBuy</Filter>
+    </ClCompile>
+    <ClCompile Include="CRequestSell.cpp">
+      <Filter>Manager\PacketController\ReceivedPackets\MSG_RequestSell</Filter>
+    </ClCompile>
+    <ClCompile Include="CDeleteItem.cpp">
+      <Filter>Manager\PacketController\ReceivedPackets\MSG_DeleteItem</Filter>
+    </ClCompile>
+    <ClCompile Include="CMobKilled.cpp">
+      <Filter>Manager\MobKilled</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -9,12 +9,9 @@ private:
 	static int Lua_GetItemAmount(lua_State* L);
 	static int Lua_GetItemSanc(lua_State* L);
 	static int Lua_GetItemAbility(lua_State* L);
-	static int Lua_GetNewMantle(lua_State* L);
+	static int Lua_GetClan(lua_State* L);
 	static int Lua_GetVillage(lua_State* L);
 	static int Lua_GetAffectSlotId(lua_State* L);
-	static int Lua_GetAction(lua_State* L);
-	static int Lua_GetCreateMob(lua_State* L);
-	static int Lua_GetCreateMob2(lua_State* L);
 	static int Lua_GetAffect(lua_State* L);
 	static int Lua_GetAttribute(lua_State* L);
 	static int Lua_GetCitizenship(lua_State* L);

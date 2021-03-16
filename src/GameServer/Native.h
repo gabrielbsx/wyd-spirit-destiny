@@ -7,6 +7,7 @@
 #pragma region Basedef
 
 static int (*BASE_WriteItemPrice)() = (int(__cdecl*)()) 0x4B57F0;
+static int (*BASE_WriteItemPrice)() = (int(__cdecl*)()) 0x4B57F0;
 static bool (*BASE_CheckBit)(char*, int) = (bool(__cdecl*)(char* Quest, int value)) 0x4B5A90;
 static bool (*BASE_SetBit)(char*, int) = (bool(__cdecl*)(char* Quest, int value)) 0x4B5B00;
 static bool (*BASE_ResetBit)(char*, int) = (bool(__cdecl*)(char* Quest, int value)) 0x4B5B70;

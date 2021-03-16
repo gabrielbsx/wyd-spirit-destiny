@@ -1,0 +1,10 @@
+E:\Github\wyd-spirit-destiny\src\Tools\CalcAddress\bin\Release\CalcAddress.exe.config
+E:\Github\wyd-spirit-destiny\src\Tools\CalcAddress\bin\Release\CalcAddress.exe
+E:\Github\wyd-spirit-destiny\src\Tools\CalcAddress\bin\Release\CalcAddress.pdb
+E:\Github\wyd-spirit-destiny\src\Tools\CalcAddress\obj\Release\CalcAddress.csprojAssemblyReference.cache
+E:\Github\wyd-spirit-destiny\src\Tools\CalcAddress\obj\Release\CalcAddress.Calc.resources
+E:\Github\wyd-spirit-destiny\src\Tools\CalcAddress\obj\Release\CalcAddress.Properties.Resources.resources
+E:\Github\wyd-spirit-destiny\src\Tools\CalcAddress\obj\Release\CalcAddress.csproj.GenerateResource.cache
+E:\Github\wyd-spirit-destiny\src\Tools\CalcAddress\obj\Release\CalcAddress.csproj.CoreCompileInputs.cache
+E:\Github\wyd-spirit-destiny\src\Tools\CalcAddress\obj\Release\CalcAddress.exe
+E:\Github\wyd-spirit-destiny\src\Tools\CalcAddress\obj\Release\CalcAddress.pdb

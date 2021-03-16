@@ -1372,7 +1372,6 @@ struct  MSG_AttackOne
 	short SkillIndex;
 	STRUCT_DAM Dam[1];
 };
-
 struct  MSG_Attack
 {
 	unsigned short Size;

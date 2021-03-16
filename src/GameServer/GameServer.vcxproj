@@ -169,12 +169,18 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="CAttack.h" />
+    <ClInclude Include="CDeleteItem.h" />
     <ClInclude Include="CExtra.h" />
     <ClInclude Include="CHook.h" />
     <ClInclude Include="CLuaScripts.h" />
     <ClInclude Include="CMain.h" />
+    <ClInclude Include="CMobKilled.h" />
+    <ClInclude Include="CQuest.h" />
+    <ClInclude Include="CRequestSell.h" />
+    <ClInclude Include="CStoreBuy.h" />
     <ClInclude Include="CUseItem.h" />
     <ClInclude Include="CUser.h" />
+    <ClInclude Include="CWhisper.h" />
     <ClInclude Include="DeactiveOriginals.h" />
     <ClInclude Include="framework.h" />
     <ClInclude Include="GlobalPointer.h" />
@@ -195,10 +201,16 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CAttack.cpp" />
+    <ClCompile Include="CDeleteItem.cpp" />
     <ClCompile Include="CExtra.cpp" />
     <ClCompile Include="CHook.cpp" />
     <ClCompile Include="CMain.cpp" />
+    <ClCompile Include="CMobKilled.cpp" />
+    <ClCompile Include="CQuest.cpp" />
+    <ClCompile Include="CRequestSell.cpp" />
+    <ClCompile Include="CStoreBuy.cpp" />
     <ClCompile Include="CUseItem.cpp" />
+    <ClCompile Include="CWhisper.cpp" />
     <ClCompile Include="DeactiveOriginals.cpp" />
     <ClCompile Include="dllmain.cpp" />
     <ClCompile Include="GlobalPointer.cpp" />

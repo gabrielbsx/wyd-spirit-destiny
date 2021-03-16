@@ -9,3 +9,4 @@ src/Database/Debug/*
 *.bak
 src/GamePatch/Debug/*
 src/GameServer/Debug/*
+Release/outputTM/
