@@ -41,6 +41,7 @@ void LuaSet::Initialize_MetaTable(lua_State* L)
 	lua_pushcfunction(L, Lua_UpdateItem); lua_setfield(L, -2, "UpdateItem");
 	lua_pushcfunction(L, Lua_Return); lua_setfield(L, -2, "Return");
 	lua_pushcfunction(L, Lua_GenerateItem); lua_setfield(L, -2, "GenerateItem");
+	lua_pushcfunction(L, Lua_SetLevel); lua_setfield(L, -2, "SetLevel");
 #pragma endregion
 	luaL_newmetatable(L, "SendMetaTable");
 
@@ -51,151 +52,160 @@ void LuaSet::Initialize_MetaTable(lua_State* L)
 
 int LuaSet::Lua_SetItemAmount(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_SetItemSanc(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_SetItemTime(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_SetQuestBit(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_SetItemBonus(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_SetCitizenship(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 //sub_576960(signed int a1)
 int LuaSet::Lua_SetReqHp(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_SetReqMp(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_SetAffect(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_SetKillCount(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_SetCP(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_SetQuestInfo(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_RemoveTrade(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_RemoveAffect(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_FinishCastleWar(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_GenerateMob(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_AddCrackError(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 //sub_4BE670(STRUCT_ITEM *a1)
 int LuaSet::Lua_ClearItem(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_AddGuildFame(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_DeleteMob(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_DeleteGenerMob(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_ClearArea(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_ClearAreaLevel(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_ClearAreaGuild(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_ClearAreaTeleport(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_StartKephra(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_AddTownTax(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_UpdateItem(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_Return(lua_State* L)
 {
-    return 0;
+	return 0;
 }
 
 int LuaSet::Lua_GenerateItem(lua_State* L)
 {
-    return 0;
+	return 0;
+}
+
+int LuaSet::Lua_SetLevel(lua_State* L)
+{
+	short conn = static_cast<short>(lua_tonumber(L, 1));
+	short level = static_cast<short>(lua_tonumber(L, 2));
+	pMob[conn].Mob.CurrentScore.Level = level;
+	pMob[conn].Mob.BaseScore.Level = level;
+	return 0;
 }

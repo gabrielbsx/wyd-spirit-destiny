@@ -7,10 +7,13 @@
 #include "CStoreBuy.h"
 #include "CRequestSell.h"
 #include "CDeleteItem.h"
+
+#define PACKET_RECVSNIF 0
+
 int PacketController::ExecuteReceived(int clientID, char* pMsg)
 {
 	auto packet = reinterpret_cast<MSG_STANDARD*>(pMsg);
-#ifdef _DEBUG
+#if PACKET_RECVSNIF
 	std::cout << "Received Packet [0x" << std::hex << std::uppercase << packet->Type << "] " << std::dec;
 	std::cout << "Size: [" << packet->Size << "] ";
 	std::cout << "ClientID: [" << clientID << "]\n";

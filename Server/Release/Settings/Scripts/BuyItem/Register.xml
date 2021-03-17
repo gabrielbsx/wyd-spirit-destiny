@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<RegisterBuy>
+	<Buy Status="1" SellerName="Aki" Item="0" EF1="0" EFV1="0" EF2="0" EFV2="0" EF3="0" EFV3="0" Script="/Scripts/teste.lua" />
+</RegisterBuy>

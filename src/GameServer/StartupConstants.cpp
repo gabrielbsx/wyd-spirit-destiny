@@ -124,7 +124,12 @@ bool CHook::SetupConstants()
 			{
 				PEHook::FillWithNop(BaseAddress + i.Address + i.Add, i.NopSize);
 			}
+			else
+			{
+				std::cout << "Invalid Constants Type: " << i.changeType << std::endl;
+			}
 		}
+		std::cout << "Total Constants changed: " << CHook::pConstants.size() << std::endl;
 		return true;
 	}
 	catch (const std::exception&)

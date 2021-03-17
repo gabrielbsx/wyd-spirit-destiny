@@ -9,7 +9,7 @@ int CUseItem::TotalScripts = 0;
 
 
 constexpr auto NUM_ARGS_USEITEM = 1;
-constexpr auto NUM_RETURN_USEITEM = 0;
+constexpr auto NUM_RETURN_USEITEM = 1;
 
 bool CUseItem::LoadScripts()
 {
@@ -33,6 +33,7 @@ bool CUseItem::LoadScripts()
 			CUseItem::TotalScripts++;
 		}
 
+		std::cout << "Total CUseItem Scripts: " << CUseItem::TotalScripts << std::endl;
 		return true;
 	}
 	else
@@ -44,14 +45,14 @@ int CUseItem::Run(int conn, char* pMsg)
 	auto* packet = reinterpret_cast<MSG_UseItem*>(pMsg);
 
 	sizeof(CMob);
-	if ((packet->DestType == 0 && (packet->DestPos < 0 || packet->DestPos >= 16)) ||
-		(packet->DestType == 1 && (packet->DestPos < 0 || packet->DestPos >= 64)) ||
-		(packet->DestType == 2 && (packet->DestPos < 0 || packet->DestPos >= 128)))
+	if ((packet->DestType == 0 && (packet->DestPos < 0 || packet->DestPos >= MAX_EQUIP)) ||
+		(packet->DestType == 1 && (packet->DestPos < 0 || packet->DestPos >= MAX_CARRY)) ||
+		(packet->DestType == 2 && (packet->DestPos < 0 || packet->DestPos >= MAX_STORAGE)))
 		return false;
 
-	if ((packet->SourType == 0 && (packet->SourPos < 0 || packet->SourPos >= 16)) ||
-		(packet->SourType == 1 && (packet->SourPos < 0 || packet->SourPos >= 64)) ||
-		(packet->SourType == 2 && (packet->SourPos < 0 || packet->SourPos >= 128)))
+	if ((packet->SourType == 0 && (packet->SourPos < 0 || packet->SourPos >= MAX_EQUIP)) ||
+		(packet->SourType == 1 && (packet->SourPos < 0 || packet->SourPos >= MAX_CARRY)) ||
+		(packet->SourType == 2 && (packet->SourPos < 0 || packet->SourPos >= MAX_STORAGE)))
 		return false;
 
 

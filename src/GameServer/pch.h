@@ -19,6 +19,10 @@ constexpr auto MAX_USER = 1000;
 constexpr auto MAX_MOB = 12800;
 constexpr auto USER_PLAY = 22;
 constexpr auto MAX_ITEMLIST = 6500;
+constexpr auto MAX_EQUIP = 16;
+constexpr auto MAX_CARRY = 64;
+constexpr auto MAX_STORAGE = 128;
+
 #pragma endregion
 
 

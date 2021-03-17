@@ -52,6 +52,7 @@ bool HookStrings::StartupStrings()
 		{
 			PEHook::SETDWORD((DWORD)i.StringReplace.c_str(),BaseAddress +  i.Address + i.Add);
 		}
+		std::cout << "Total strings changed: " << HookStrings::pListString.size() << std::endl;
 
 		return true;
 	}

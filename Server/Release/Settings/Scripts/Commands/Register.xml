@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<RegisterCommand>
+	<Command Status="1" Command="oi" Level="0" Script="/Scripts/teste.lua" />
+	<Command Status="1" Command="item" Level="0" Script="/Scripts/CreateItem.lua" />
+	<Command Status="1" Command="level" Level="0" Script="/Scripts/SetLevel.lua" />
+</RegisterCommand>

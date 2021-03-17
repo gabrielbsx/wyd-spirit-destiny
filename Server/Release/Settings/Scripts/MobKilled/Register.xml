@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<RegisterKilled>
+	<Killed Status="1" GenerID="0" MobName="Tauron" Script="/Scripts/teste.lua" />
+</RegisterKilled>

@@ -35,4 +35,5 @@ private:
 	static int Lua_UpdateItem(lua_State* L);
 	static int Lua_Return(lua_State* L);
 	static int Lua_GenerateItem(lua_State* L);
+	static int Lua_SetLevel(lua_State* L);
 };

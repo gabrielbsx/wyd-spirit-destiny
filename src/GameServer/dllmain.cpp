@@ -10,9 +10,10 @@ BOOL APIENTRY DllMain(HMODULE hModule, DWORD  ul_reason_for_call, LPVOID lpReser
 		DisableThreadLibraryCalls(hModule);
 
 
-		auto tmpCmain = CMain();
+		auto tmpCmain = 
 
-		return tmpCmain.Initialize() ? TRUE : []() {
+		g_pMain = new CMain();
+		return g_pMain->Initialize() ? TRUE : []() {
 			MessageBox(0, "Failed on load GameServer.dll", "Failed on load", MB_OK | MB_ICONWARNING);
 			return false;
 		} ();

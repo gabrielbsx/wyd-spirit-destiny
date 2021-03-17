@@ -38,9 +38,9 @@ struct STRUCT_BONUSEFFECT
 };
 
 /* 2226 */
-struct STRUCT_ITEM
+class STRUCT_ITEM
 {
-	
+public:
 	STRUCT_ITEM(short id, BYTE ef1, BYTE efv1, BYTE ef2, BYTE efv2, BYTE ef3, BYTE efv3)
 	{
 		this->sIndex = id;
@@ -67,6 +67,7 @@ struct STRUCT_ITEM
 		this->stEffect[2].cEffect = 0;
 		this->stEffect[2].cValue = 0;
 	}
+	~STRUCT_ITEM(){};
 	short sIndex;
 	STRUCT_BONUSEFFECT stEffect[3];
 };
@@ -1436,7 +1437,6 @@ struct MSG_USERCOMMAND
 	unsigned short Type;
 	unsigned short ID;
 	unsigned int Tick;
-	int CommandNo;
 	char String[128];
 };
 
@@ -1493,6 +1493,19 @@ struct  MSG_NPAccountInfo
 	STRUCT_ACCOUNTFILE account;
 	short Session;
 	short State;
+};
+
+/* 2397 */
+struct MSG_MessageWhisper
+{
+	unsigned __int16 Size;
+	unsigned __int8 KeyWord;
+	unsigned __int8 CheckSum;
+	unsigned __int16 Type;
+	unsigned __int16 ID;
+	unsigned int Tick;
+	char MobName[16];
+	char String[128];
 };
 
 #define MAX_AFFECT 32

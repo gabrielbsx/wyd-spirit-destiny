@@ -31,8 +31,7 @@ void LuaMob::Initialize_MetaTable(lua_State* L)
 	lua_setfield(L, -2, "new");
 
 	// Exemplo de metodo da "classe"
-	lua_pushcfunction(L, Lua_GetMobFace);
-	lua_setfield(L, -2, "GetFace");
+	lua_pushcfunction(L, Lua_GetMobFace); lua_setfield(L, -2, "GetFace");
 
 
 #pragma endregion
