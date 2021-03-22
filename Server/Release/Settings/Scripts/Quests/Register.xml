@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
 <RegisterQuest>
-	<Quest Status="1" MobName="Kibita" Merchant="0" Level="0"  Script="/Scripts/teste.lua" />
+	<!--Quest Status="1" MobName="Kibita" Merchant="0" Level="0"  Script="/Scripts/teste.lua" /-->
 </RegisterQuest>

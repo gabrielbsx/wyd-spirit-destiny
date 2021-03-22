@@ -1,0 +1,1997 @@
+AbilityMaster/AbilityMaster/0/500/9000/500/53/500/500
+AkeEquipMerc/AkeEquipMerc/0/500/9000/500/59/500/500
+AkeWeaponMerc/AkeWeaponMerc/0/500/9000/500/59/500/500
+Aki/Aki/0/500/9000/500/59/0/0
+Arnod/Arnod/0/500/9000/500/64/0/0
+Balmus/Balmus/0/500/9000/500/60/500/500
+Berseker_Ref/Berseker_Ref/0/2800/25000/3200/181/40000/99999
+BM/BM/0/5/70/4/21/500/500
+Cap.Cavaleiros/Cap.Cavaleiros/0/500/9000/500/60/0/0
+Comb._Judith/Comb._Judith/0/500/9000/500/11 43 0/500/500
+Delegate_Kibita/Delegate_Kibita/0/500/9000/500/51/500/500
+Fame_Abita/Fame_Abita/0/500/9000/500/51/500/500
+FM/FM/0/5/60/4/11/500/500
+FunerSickler/FunerSickler/0/500/9000/500/367/40000/99999
+Galford/Galford/0/500/9000/500/58/0/0
+Gorila_Anciao/Gorila_Anciao/0/3000/27000/5700/375/40000/99999
+HekalEquipMerc/HekalEquipMerc/0/500/9000/500/59/500/500
+HekalMerchant/HekalMerchant/0/500/9000/500/59/500/500
+HekalWeaponMerc/HekalWeaponMerc/0/500/9000/500/59/500/500
+HT/HT/0/5/75/4/31/500/500
+Inhabitant/Inhabitant/0/50/9000/9000/58/0/0
+Kibita/Kibita/0/500/9000/500/51/500/500
+KnightLeader/KnightLeader/0/500/9000/500/60/0/0
+Knights_Leader_/Knights_Leader_/0/500/9000/500/6/40000/99999
+Knight_Leader/Knight_Leader/0/5000/19000/5000/60/0/4
+Laborer/Laborer/0/50/9000/9000/53/0/0
+Lord_Gargula/Lord_Gargula/0/200/9000/500/295 43 8/40000/10000
+Mestre_Hab/Mestre_Hab/0/500/9000/500/53/500/500
+NPC_Ãµ»óTOTO/NPC_Ãµ»óTOTO/0/500/9000/500/305/0/0
+Oraculo/Oraculo/0/500/9000/500/11/40000/99999
+QUEST_Teste/QUEST_Teste/0/500/9000/500/60/9999/25000
+Rapein/Rapein/0/500/9000/500/59/0/0
+Agata/Agata/1/500/9000/500/56/500/500
+Agatha/Agatha/1/500/9000/500/56/500/500
+Aileen/Aileen/1/500/9000/500/55/500/500
+AlchemyOdin/AlchemyOdin/1/500/9000/500/67/500/500
+Alchemy_Jeffi/Alchemy_Jeffi/1/500/9000/500/58/500/500
+Alquimista_Odin/Alquimista_Odin/1/500/9000/500/67/500/500
+Amante/Amante/1/12000/15000/12563/11 43 0 100 7/9999/25000
+Amelia_Priest/Amelia_Priest/1/200/1400/800/51/0/0
+Aranha_Violenta/Aranha_Violenta/1/10/200/100/353 43 233/500/1000
+Archi_Master/Archi_Master/1/500/9000/500/21/40000/99999
+Arnod_/Arnod_/1/500/9000/500/64/0/0
+Arnold/Arnold/1/500/9000/500/59/0/0
+Arnold_/Arnold_/1/200/1400/800/59/0/0
+AuctionManager/AuctionManager/1/500/9000/500/58/0/0
+Auction_Jeffry/Auction_Jeffry/1/500/9000/500/58/0/0
+Aylin/Aylin/1/500/9000/500/55/500/500
+Baldr_King/Baldr_King/1/200/1400/800/304/0/0
+Balmers/Balmers/1/200/1400/800/60/500/500
+Believer_Prona/Believer_Prona/1/500/9000/500/51/500/500
+Bragi/Bragi/1/200/30000/2200/58/500/500
+Camponesa_/Camponesa_/1/12000/15000/12563/140 43 0 100 24/500/500
+Carbunkle_Wind/Carbunkle_Wind/1/4/29000/25000/231 43 0 86 14/500/500
+Carthago/Carthago/1/10/500/10/53/500/500
+Cecilia/Cecilia/1/500/15000/7000/67/500/500
+Compositor/Compositor/1/500/9000/500/54/500/500
+Compounder/Compounder/1/500/9000/500/54/500/500
+Conjurer_Ehre/Conjurer_Ehre/1/500/9000/500/68/500/500
+Conjurer_Rassel/Conjurer_Rassel/1/500/9000/500/54/500/500
+Cons._Real/Cons._Real/1/5000/30000/18000/65 43 1 22 0/500/500
+Coveiro/Coveiro/1/0/10000/8000/58 43 1 86 1 100 0/500/500
+Dark/Dark/1/500/32000/3000/60/500/500
+Dedekinto/Dedekinto/1/500/9000/500/66/500/500
+Deus_Governante/Deus_Governante/1/5000/19000/5000/271 43 0 86 21/500/500
+Dionys/Dionys/1/500/21000/4000/51/0/0
+Diretor_Treina./Diretor_Treina./1/500/9000/9000/58 43 1 100 14/500/500
+Duque_Eros/Duque_Eros/1/256/20000/512/7/1000/1000
+Ehre/Ehre/1/500/9000/500/68/500/500
+ElderForema/ElderForema/1/500/9000/500/61/0/0
+Elizabeth/Elizabeth/1/200/13000/1300/52/500/500
+Erin/Erin/1/500/32000/28000/53/500/500
+Erin_/Erin_/1/500/31500/28000/11/500/500
+Erin__/Erin__/1/500/31500/28000/11/500/500
+Fenix/Fenix/1/500/32000/28000/60/500/500
+Foema_Anciã/Foema_Anciã/1/500/9000/500/61/0/0
+Freyja/Freyja/1/500/9000/500/51/500/500
+Gardener/Gardener/1/200/1400/800/66/0/0
+General_Sig/General_Sig/1/256/20000/512/60/1000/1000
+General_Yin/General_Yin/1/256/20000/512/60/1000/1000
+GodGovernment/GodGovernment/1/1200/32000/2310/271/0/0
+God_Government/God_Government/1/5000/19000/5000/271 43 0 86 21/500/500
+Gravekeeper/Gravekeeper/1/200/1400/800/58/0/0
+Guard__/Guard__/1/200/1400/800/305/0/0
+Heimdall/Heimdall/1/200/30000/2200/58/500/500
+Helena/Helena/1/5000/19000/5000/65 43 1 13 0/500/500
+Irena_/Irena_/1/200/13000/1300/53/500/500
+Jasmine/Jasmine/1/5000/19000/5000/11 43 1 12 0/500/500
+Javi/Javi/1/12000/15000/12563/63/500/500
+Jewels/Jewels/1/5000/19000/5000/16 43 1 15 0/500/500
+Juli/Juli/1/500/15000/7000/51/0/0
+Julius/Julius/1/5000/19000/5000/60 43 1 11 0/500/500
+Jully/Jully/1/500/15000/7000/51/0/0
+Kara/Kara/1/500/9000/28000/52/500/500
+Karah/Karah/1/500/11500/3450/17/500/500
+Karah_/Karah_/1/500/31500/2750/17/500/500
+Karah__/Karah__/1/500/31500/1950/17/500/500
+Kara_/Kara_/1/200/9000/28000/52/500/500
+Kei/Kei/1/500/32000/28000/58/500/500
+Kemi/Kemi/1/500/32000/28000/53/500/500
+Kemi_/Kemi_/1/500/31500/28000/11/500/500
+Kemi__/Kemi__/1/500/31500/28000/11/500/500
+Knight_Leader_/Knight_Leader_/1/500/9000/500/6/40000/99999
+Knight_Master/Knight_Master/1/500/9000/500/60 43 1 99 1/500/500
+Kruno_Priest/Kruno_Priest/1/200/1400/800/59/0/0
+Lainy/Lainy/1/200/13000/1300/51/0/0
+Lainy_/Lainy_/1/500/9000/500/51/0/0
+Leo/Leo/1/500/32000/30000/59/500/500
+Lindy/Lindy/1/5000/19000/5000/67/500/500
+Lord_Greeki/Lord_Greeki/1/256/20000/512/31/1000/1000
+M.Arch_BM/M.Arch_BM/1/500/9000/500/63 43 1 20 0/500/500
+M.Arch_FM/M.Arch_FM/1/500/9000/500/12 43 1 20 0/500/500
+M.Arch_HT/M.Arch_HT/1/500/9000/3000/16 43 1 20 0/500/500
+M.Arch_TK/M.Arch_TK/1/500/9000/500/60 43 1 20 0/500/500
+Master_Learner/Master_Learner/1/500/9000/3000/16 43 1 99 31/500/500
+Master_Lora/Master_Lora/1/200/1400/800/61/0/0
+MercCabuncle/MercCabuncle/1/14/5000/8000/230/500/500
+MercZakum/MercZakum/1/340/5000/8000/259/500/500
+Mestre_Ancian/Mestre_Ancian/1/500/9000/500/12/500/500
+Mestre_Ferreiro/Mestre_Ferreiro/1/5000/19000/5000/58 43 1 14 0/500/500
+Mestre_Halber/Mestre_Halber/1/500/9000/500/63/0/2000
+MileageTrader/MileageTrader/1/200/30000/2200/58/500/500
+MNaomi/MNaomi/1/200/1400/800/53/0/0
+Morcego/Morcego/1/1/50/1/292/500/500
+Naomi/Naomi/1/200/1400/800/53/0/0
+Perzen/Perzen/1/12000/15000/12563/11 43 0 100 10/9999/25000
+Perzen_Arcano/Perzen_Arcano/1/12000/15000/12563/11 43 0 100 9/9999/25000
+Perzen_Mistico/Perzen_Mistico/1/12000/15000/12563/11 43 0 100 8/9999/25000
+Perzen_Normal/Perzen_Normal/1/12000/15000/12563/11 43 0 100 7/9999/25000
+Phenix/Phenix/1/200/9000/2200/60/0/0
+Pombo_Assassino/Pombo_Assassino/1/1/50/1/223 43 230/0/0
+prisang_Nell/prisang_Nell/1/500/9000/500/57/0/0
+quest/quest/1/0/10000/8000/58 43 1 86 1 100 0/1/1
+Rapein_/Rapein_/1/500/9000/500/59/0/0
+Retorno_Azran/Retorno_Azran/1/0/10000/8000/27 43 1 86 19/9999/25000
+RoPerion/RoPerion/1/200/13000/1300/58/0/0
+Rubyen/Rubyen/1/200/1400/800/51/0/0
+Ruse/Ruse/1/500/9000/500/51/500/500
+Rusi/Rusi/1/500/9000/500/51/0/0
+Ruti/Ruti/1/500/9000/500/51/0/0
+Scout/Scout/1/200/1400/800/63/0/0
+Aguia/Aguia/2/6/60/2/206/500/50
+Ailyin/Ailyin/2/0/10000/10000/55/500/500
+Ajudante/Ajudante/2/500/9000/500/230/500/500
+Ajudante_/Ajudante_/2/500/9000/500/230/500/500
+Ajudante__/Ajudante__/2/500/9000/500/230/500/500
+Aki_/Aki_/2/1/19000/800/59/300/300
+Aki__/Aki__/2/5000/50/3000/59 67 1/9999/25000
+Ali/Ali/2/5000/50/3000/59 43 0 101 71/500/500
+Amagos/Amagos/2/500/9000/3000/59/-283572961/-283572961
+Amald_Mercador/Amald_Mercador/2/20000/25000/20000/11/500/500
+Amald_Mercador_/Amald_Mercador_/2/20000/25000/20000/21/500/500
+Amuletos/Amuletos/2/500/9000/3000/11/9999/5
+AmuletosTop/AmuletosTop/2/500/9000/3000/11/9999/5
+Amuletos_/Amuletos_/2/500/9000/3000/59/-283572961/-283572961
+ArchiMaster/ArchiMaster/2/500/9000/500/63/0/0
+Armas/Armas/2/5000/50/3000/367/500/500
+ArmasArch/ArmasArch/2/500/9000/3000/11/9999/5
+ArmasD/ArmasD/2/500/9000/3000/11/9999/5
+ArmasE/ArmasE/2/500/9000/3000/11/9999/5
+Armas_/Armas_/2/1/1000/800/16/500/500
+Armas_Arch/Armas_Arch/2/500/9000/3000/59/-283572961/-283572961
+Armas_Mortal/Armas_Mortal/2/500/9000/3000/59/9999/9999
+Armas_Mortal_/Armas_Mortal_/2/500/9000/3000/59/-283572961/-283572961
+Armeiro_Odalac/Armeiro_Odalac/2/500/9000/500/58/500/500
+Armia_Neil/Armia_Neil/2/5000/28000/28000/59/500/500
+Arqueologo/Arqueologo/2/500/9000/500/1/500/500
+Astaroth/Astaroth/2/20000/25000/20000/246/500/500
+Aylinde/Aylinde/2/500/9000/500/67/500/500
+Azram_Neil/Azram_Neil/2/5000/50/3000/59/500/500
+Base/Base/2/500/9000/3000/11/9999/5
+Berlund/Berlund/2/500/9000/500/59/500/500
+Event_NPC_6/Event_NPC_6/2/1447/29000/3130/230/0/320
+bm22horas/bm22horas/2/5000/50/3000/228/500/500
+bm25horas/bm25horas/2/5000/50/3000/228/500/500
+BM___/BM___/2/500/9000/3000/59/9999/9999
+Brigard/Brigard/2/0/9000/3000/59/0/0
+Bruxa_Nordica/Bruxa_Nordica/2/5000/50/3000/11/500/500
+C._de_Montaria/C._de_Montaria/2/500/9000/500/60/500/500
+Cacador_Paul/Cacador_Paul/2/500/9000/3000/6/-283572961/-283572961
+Carbuncle_Wind/Carbuncle_Wind/2/500/9000/500/230/500/500
+CargoGuard/CargoGuard/2/10/500/10/60/500/500
+CargoGuard_/CargoGuard_/2/10/500/10/60/500/500
+Cav._Jannist/Cav._Jannist/2/500/9000/3000/29/1000/1000
+Chefe_Treina./Chefe_Treina./2/500/9000/9999/58 43 1 86 6/500/500
+Comerciante/Comerciante/2/500/9000/500/58/500/500
+Creta/Creta/2/500/9000/500/68/500/500
+Debi/Debi/2/500/9000/500/301 43 9/500/500
+Diversos1/Diversos1/2/500/9000/3000/11/9999/5
+Diversos2/Diversos2/2/500/9000/3000/11/9999/5
+Diversos3/Diversos3/2/500/9000/3000/11/9999/5
+Diversos4/Diversos4/2/500/9000/3000/11/9999/5
+Diversos5/Diversos5/2/500/9000/3000/11/9999/5
+Domadora/Domadora/2/500/9000/3000/59/-283572961/-283572961
+Duelista_Vince/Duelista_Vince/2/500/9000/3000/7/-283572961/-283572961
+Eliwaru/Eliwaru/2/0/9000/3000/1/0/0
+Empis/Empis/2/500/9000/500/60/500/500
+Erion_Neil/Erion_Neil/2/5000/50/3000/59/500/500
+Escuridao/Escuridao/2/500/32000/28000/60/500/500
+Escuridao_/Escuridao_/2/500/31500/28000/60/500/500
+Escuridao__/Escuridao__/2/500/31500/28000/60/500/500
+Especialista/Especialista/2/500/9000/500/51/9999/25000
+Evento_Neil/Evento_Neil/2/5000/50/3000/59/500/500
+Event_NPC_5/Event_NPC_5/2/1447/29000/3130/67/0/320
+Event_NPC_6/Event_NPC_6/2/1447/29000/3130/230/0/320
+Event_NPC_7/Event_NPC_7/2/1447/29000/3130/60/0/320
+Evoluir/Evoluir/2/500/9000/3000/59/0/0
+Extrações/Extrações/2/500/9000/3000/59/9999/9999
+Fantasma/Fantasma/2/10/50/10/178/500/500
+Farche/Farche/2/500/9000/500/51/0/0
+Fenix_/Fenix_/2/500/31500/28000/1/500/500
+Fenix__/Fenix__/2/500/31500/28000/1/500/500
+Ferreiro_/Ferreiro_/2/500/9000/500/58/500/500
+Ferreiro_Penado/Ferreiro_Penado/2/500/9000/500/260 43 0 100 26/500/500
+fm22horas/fm22horas/2/5000/50/3000/227/500/500
+fm25horas/fm25horas/2/5000/50/3000/227/500/500
+FM___/FM___/2/500/9000/3000/59/9999/9999
+Galaxy_Store/Galaxy_Store/2/5000/50/3000/66 43 0 87 10/500/500
+Galaxy_Store_/Galaxy_Store_/2/5000/50/3000/66 43 0 87 10/500/500
+Galaxy_Store__/Galaxy_Store__/2/5000/50/3000/66 43 0 87 10/500/500
+Garfield/Garfield/2/500/9000/500/64/500/500
+General_Yang/General_Yang/2/1447/29000/3130/175/0/320
+Golem_De_Fogo_r/Golem_De_Fogo_r/2/1/19000/800/297/300/300
+Griphon_Master/Griphon_Master/2/500/9000/500/63/500/500
+Guarda_Carga/Guarda_Carga/2/10/500/10/60/500/500
+Guarda_Carga_/Guarda_Carga_/2/10/500/10/60/500/500
+Guarda_Carga__/Guarda_Carga__/2/10/500/10/53/500/500
+Guarda_Carga___/Guarda_Carga___/2/10/500/10/53/500/500
+h20horas/h20horas/2/5000/50/3000/310/500/500
+h21horas/h21horas/2/5000/50/3000/336/500/500
+h23horas/h23horas/2/5000/50/3000/361/500/500
+h24horas/h24horas/2/5000/50/3000/361/500/500
+Hera/Hera/2/10/500/10/18/500/500
+Holis/Holis/2/5000/50/3000/59/500/500
+ht22horas/ht22horas/2/5000/50/3000/364/500/500
+ht25horas/ht25horas/2/5000/50/3000/364/500/500
+HT___/HT___/2/500/9000/3000/59/9999/9999
+Ir_Cassino/Ir_Cassino/2/1/19000/800/59/300/300
+Itens_novato/Itens_novato/2/0/9000/3000/59/0/0
+Juiz_Celestial/Juiz_Celestial/2/10/500/10/6/500/500
+Kate/Kate/2/20000/25000/20000/31/500/500
+Kei_/Kei_/2/500/31500/28000/58/500/500
+Kei__/Kei__/2/500/31500/28000/58/500/500
+Kenfrith/Kenfrith/2/0/9000/3000/59/0/0
+Ladrao_Fantasma/Ladrao_Fantasma/2/1/50/10/178/500/500
+Event_NPC_5/Event_NPC_5/2/1447/29000/3130/230/0/320
+LeakyZakum/LeakyZakum/2/340/5000/8000/259/500/500
+Leaky_Zakum/Leaky_Zakum/2/340/5000/8000/259/500/500
+Leao/Leao/2/500/11500/28000/1/500/500
+Leao_/Leao_/2/500/31500/28000/1/500/500
+Leao__/Leao__/2/500/31500/28000/1/500/500
+Leiloador/Leiloador/2/500/9000/500/305/500/500
+Lich_Mercador/Lich_Mercador/2/20000/25000/20000/365/500/500
+Lich_Mercador_/Lich_Mercador_/2/20000/25000/20000/364/500/500
+Lider_Amald/Lider_Amald/2/500/9000/3000/7/-283572961/-283572961
+Lider_Aprendiz/Lider_Aprendiz/2/10/500/10/60/500/500
+Lila/Lila/2/500/9000/500/11/500/500
+Lily/Lily/2/20000/25000/20000/12/500/500
+Loja1/Loja1/2/500/9000/3000/59/9999/5
+Loja10/Loja10/2/500/9000/3000/59/9999/5
+Loja11/Loja11/2/500/9000/3000/59/9999/5
+Loja12/Loja12/2/500/9000/3000/59/9999/5
+Loja13/Loja13/2/500/9000/3000/59/9999/5
+Loja14/Loja14/2/500/9000/3000/59/9999/5
+Loja2/Loja2/2/500/9000/3000/59/9999/5
+Loja3/Loja3/2/500/9000/3000/59/9999/5
+Loja4/Loja4/2/500/9000/3000/59/9999/5
+Loja5/Loja5/2/500/9000/3000/59/9999/5
+Loja6/Loja6/2/500/9000/3000/59/9999/5
+Loja7/Loja7/2/500/9000/3000/59/9999/5
+Loja8/Loja8/2/500/9000/3000/59/9999/5
+Loja9/Loja9/2/500/9000/3000/59/9999/5
+Lua/Lua/2/500/9000/3000/59/9999/5
+Lubien/Lubien/2/500/9000/500/31/500/500
+Lucy/Lucy/2/500/9000/500/11/500/500
+Luvian/Luvian/2/500/9000/500/51/0/0
+Mai/Mai/2/500/9000/500/67/0/0
+Martin/Martin/2/500/9000/500/305/500/500
+Martine/Martine/2/500/9000/500/67/500/500
+Martin_/Martin_/2/500/9000/500/67/500/500
+Marujo_Hank/Marujo_Hank/2/500/9000/3000/27/-283572961/-283572961
+Merc._Elfo/Merc._Elfo/2/20000/25000/20000/287/500/500
+Merc._Nordico/Merc._Nordico/2/5000/50/3000/40/500/500
+Mercador/Mercador/2/500/9000/500/260/500/500
+Mercador_Anciao/Mercador_Anciao/2/10/500/10/60/500/500
+Mercador_Noel/Mercador_Noel/2/500/9000/500/356/500/500
+Mercador_Noel_/Mercador_Noel_/2/500/9000/500/356/500/500
+Mercador_Noel__/Mercador_Noel__/2/500/9000/500/356/500/500
+Mercador_Tekki/Mercador_Tekki/2/20000/25000/20000/6/500/500
+Mercenario/Mercenario/2/250/800/150/60/500/500
+Merc_Carbunkle/Merc_Carbunkle/2/14/5000/8000/230/500/500
+Merc_Fantasma/Merc_Fantasma/2/5000/50/3000/260/500/500
+Merc_Zakum/Merc_Zakum/2/340/5000/8000/259/500/500
+Mestre_Archi/Mestre_Archi/2/500/9000/500/63/500/500
+Mestre_Grifo/Mestre_Grifo/2/500/9000/500/63/500/500
+Mestre_Pescador/Mestre_Pescador/2/10/500/10/29/500/500
+Mestre_Shiner/Mestre_Shiner/2/20000/25000/20000/65/500/500
+Montarias/Montarias/2/500/9000/3000/11/9999/5
+Montarias_/Montarias_/2/500/9000/3000/59/-283572961/-283572961
+MountCaptor/MountCaptor/2/500/9000/500/60/0/0
+MountMaster/MountMaster/2/500/9000/500/53/0/0
+Mount_Captor/Mount_Captor/2/500/9000/500/60/9999/25000
+Negociante/Negociante/2/1/30000/30000/59/9999/5
+Neptus/Neptus/2/500/9000/500/59/0/0
+Nipple_Neil/Nipple_Neil/2/5000/50/3000/59/500/500
+Noatun_Neil/Noatun_Neil/2/5000/50/3000/59/500/500
+Nordic_Store/Nordic_Store/2/5000/50/3000/66 101 69/9999/25000
+Nordic_Store_/Nordic_Store_/2/5000/50/3000/66 101 69/9999/25000
+Nordic_Store__/Nordic_Store__/2/5000/50/3000/66 101 69/9999/25000
+Nordic_Store___/Nordic_Store___/2/5000/50/3000/66 101 69/9999/25000
+NPC_Extra/NPC_Extra/2/5000/50/3000/53 43 0 100 26/9999/25000
+Ovos/Ovos/2/500/9000/3000/11/9999/5
+Parche/Parche/2/500/9000/500/11/9999/25000
+Pergaminhos/Pergaminhos/2/500/9000/500/51/9999/25000
+Pescador/Pescador/2/5000/50/3000/59/9999/25000
+Prayer/Prayer/2/0/25000/20000/12/9999/25000
+Prona/Prona/2/500/9000/500/16/9999/25000
+Racoes/Racoes/2/500/9000/3000/59/9999/9999
+Rahe/Rahe/2/0/9000/3000/11/0/0
+Rainy/Rainy/2/500/9000/500/11/9999/25000
+Rainy_/Rainy_/2/500/9000/500/11/9999/25000
+Ramac/Ramac/2/0/9000/3000/1/0/0
+reimers/reimers/2/500/9000/500/64/0/0
+reiners/reiners/2/500/9000/500/59/0/0
+Ropelion/Ropelion/2/500/9000/500/58/0/0
+Rophelion/Rophelion/2/500/9000/500/11/9999/25000
+RoyalGuard/RoyalGuard/2/1447/29000/3130/60/0/320
+RoyalGuard@/RoyalGuard@/2/1447/29000/3130/60/0/320
+Royal_Guard_1/Royal_Guard_1/2/1447/29000/3130/230/0/320
+Seguidor_Grinch/Seguidor_Grinch/2/10/50/10/178/500/500
+Sell/Sell/2/1/19000/800/59/300/300
+SelleArmia/SelleArmia/2/500/15000/15000/51/9999/25000
+SelleAzran/SelleAzran/2/500/15000/15000/51/9999/25000
+SelleErion/SelleErion/2/500/15000/15000/51/9999/25000
+SelleGelo/SelleGelo/2/500/15000/15000/51/9999/25000
+SelleNoatun/SelleNoatun/2/500/15000/15000/51/9999/25000
+Aaryan/Aaryan/3/500/9000/500/11 43 0 86 0 28 2/500/500
+Amon/Amon/3/500/9000/500/11 43 0 86 0 28 2/500/500
+Apprentice/Apprentice/3/500/9000/5000/60/0/0
+Ares/Ares/3/500/9000/500/11 43 0 86 0 28 2/500/500
+Baleia/Baleia/3/7/50/2/205/500/500
+baleia2/baleia2/3/7/50/2/205/500/500
+Balrog_Statue/Balrog_Statue/3/500/9000/500/397/500/500
+Batorero_Statue/Batorero_Statue/3/500/9000/500/361/500/500
+Belaw/Belaw/3/500/9000/500/11 43 0 86 1 28 2/500/500
+BloodyGriffin_S/BloodyGriffin_S/3/500/9000/500/341/500/500
+Bruce/Bruce/3/500/9000/500/58/500/500
+CabuncleWind/CabuncleWind/3/500/9000/5000/231/0/0
+Cap.Explor./Cap.Explor./3/53/3000/800/58/500/500
+Cap.Mercenario/Cap.Mercenario/3/500/9000/500/60/500/500
+Capitao_Elder/Capitao_Elder/3/500/9000/500/60/9999/2000
+Chefe_de_Treino/Chefe_de_Treino/3/500/9000/500/60/500/500
+Compositor_/Compositor_/3/500/9000/500/1/40000/20000
+CursedVerid_S/CursedVerid_S/3/500/9000/500/365 43 233/500/500
+DarkShadow_S/DarkShadow_S/3/500/9000/500/174/500/500
+Dragon_Statue/Dragon_Statue/3/500/9000/500/332/500/500
+Dran/Dran/3/500/9000/500/6 43 0 86 248 28 2/500/500
+Drone/Drone/3/500/9000/500/31 43 0 86 0 28 2/500/500
+Eagle/Eagle/3/6/60/2/206/500/500
+EventMob/EventMob/3/500/9000/500/364/500/500
+ExploitLeader/ExploitLeader/3/53/3000/800/58/500/500
+Exploit_Leader/Exploit_Leader/3/53/3000/800/58/500/500
+Fauness_S/Fauness_S/3/500/9000/500/333/500/500
+Fela/Fela/3/500/9000/500/31 43 0 86 0 28 2/500/500
+FireTiger_S/FireTiger_S/3/500/9000/500/334/500/500
+FirstTrainer/FirstTrainer/3/500/9000/500/60/500/500
+First_Trainer/First_Trainer/3/500/9000/500/4/40000/99999
+ForeLearner/ForeLearner/3/500/9000/500/51/500/500
+FrenzyDemon_S/FrenzyDemon_S/3/500/9000/500/311/500/500
+GateKeeper/GateKeeper/3/10/500/10/60/500/500
+Gate_Keeper/Gate_Keeper/3/10/500/10/60/500/500
+Guard/Guard/3/500/9000/500/60/500/500
+Guarda_/Guarda_/3/500/9000/500/60 43 1 86 8/500/500
+Guard_/Guard_/3/500/9000/500/60/500/500
+HASS_Statue/HASS_Statue/3/500/9000/500/8 43 9 86 40 28 1/500/500
+Horse_Statue/Horse_Statue/3/500/9000/500/343/500/500
+IceQueen_S/IceQueen_S/3/500/9000/500/395/500/500
+Inferno/Inferno/3/500/9000/500/11 43 0 86 0 28 2/500/500
+Javali_/Javali_/3/20/10/15/225/500/500
+Javali__/Javali__/3/20/10/15/225/500/500
+Jeffi/Jeffi/3/500/9000/500/58/500/500
+KnightsLeader/KnightsLeader/3/500/9000/500/60/500/500
+Knights_Leader/Knights_Leader/3/500/9000/500/60/500/500
+LichCrunt_S/LichCrunt_S/3/500/9000/500/364/500/500
+LichVatama_S/LichVatama_S/3/500/9000/500/365/500/500
+M._de_Montaria/M._de_Montaria/3/500/9000/500/53/500/500
+Mestre_de_Hab./Mestre_de_Hab./3/5000/19000/5000/53/500/500
+Mestre_Haby/Mestre_Haby/3/5000/19000/5000/11/500/500
+Missao/Missao/3/500/9000/9999/1 43 0 8 0/9999/25000
+Mount_Master/Mount_Master/3/500/9000/500/18/9999/25000
+Ottoman/Ottoman/3/500/9000/500/31 43 0 86 0 28 2/0/0
+Parade_Statue/Parade_Statue/3/500/9000/500/330/0/0
+Pheonix_Statue/Pheonix_Statue/3/500/9000/500/17 43 0 86 101 28 1/0/0
+Porco/Porco/3/7/70/2/216/5/75
+Porco_/Porco_/3/7/50/2/216/5/75
+Porco_de_Guerra/Porco_de_Guerra/3/7/50/2/216/5/125
+Porco_Enigma/Porco_Enigma/3/7/70/2/216 43 1 100 6/5/2500
+Porco_Enigma_/Porco_Enigma_/3/7/70/2/216 43 1 100 16/5/2500
+RedDragon_S/RedDragon_S/3/500/9000/500/335/0/0
+RujeperBroken_S/RujeperBroken_S/3/500/9000/500/175 43 3/0/0
+Sam/Sam/3/500/9000/500/200 43 253 86 0 28 2/500/500
+Scan/Scan/3/500/9000/500/17 43 0 86 0 28 2/500/500
+SecondTrainer/SecondTrainer/3/500/9000/500/60/500/500
+Alyndi/Alyndi/4/10/500/3000/53/9999/2000
+Angela/Angela/4/10/500/3000/53/500/500
+Coelho/Coelho/4/8/70/4/202/500/500
+Coelho_/Coelho_/4/8/70/4/202/500/500
+Coelho__/Coelho__/4/8/70/4/202/500/500
+Condor/Condor/4/70/390/30/206/500/500
+Condor_Selvagem/Condor_Selvagem/4/40/390/5/206/3200/500
+Gremlin/Gremlin/4/5/120/4/202/500/200
+Gremlin_/Gremlin_/4/5/110/4/202/500/200
+Gremlin_Anct/Gremlin_Anct/4/150/1200/260/222 43 8/500/500
+Gremlin__/Gremlin__/4/11/110/4/202/500/500
+Gremlin___/Gremlin___/4/11/110/4/202/500/500
+Hestia/Hestia/4/500/9000/500/51/0/0
+Judith/Judith/4/500/9000/500/52/500/500
+Porco_Selvagem/Porco_Selvagem/4/40/390/5/315 43 3/3200/500
+BarebackHorse/BarebackHorse/5/35/10000/50/321/500/500
+BarebackHorse_/BarebackHorse_/5/35/10000/50/326/500/500
+BloodGriph/BloodGriph/5/55/20000/50/341/500/500
+Cao_do_Inferno/Cao_do_Inferno/5/50/12000/50/333/0/0
+Copper_Dragon/Copper_Dragon/5/50/15000/50/332/500/500
+Dragon/Dragon/5/50/15000/50/332/500/500
+DragonPappy_/DragonPappy_/5/25/7500/50/318/500/500
+Fenrir/Fenrir/5/50/12000/50/331/500/500
+FireTiger/FireTiger/5/60/23000/50/334/500/500
+Grande_Urso/Grande_Urso/5/40/150/75/227/0/2000
+Griphon/Griphon/5/55/20000/50/339/500/500
+Guarda_Elf/Guarda_Elf/5/500/9000/500/305/40000/99999
+HarnessedHorse/HarnessedHorse/5/50/11000/50/324/500/500
+HarnessedHorse_/HarnessedHorse_/5/50/11000/50/329/500/500
+Heliodon/Heliodon/5/35/10000/50/346/500/500
+HippoGriph/HippoGriph/5/55/20000/50/340/500/500
+Lobo_Alfa/Lobo_Alfa/5/20/3000/65/226 43 9/0/2000
+Lobo_Selvagem/Lobo_Selvagem/5/20/50/15/226/0/2000
+ParadeHorse/ParadeHorse/5/50/12000/50/325/0/0
+ParadeHorse_/ParadeHorse_/5/50/12000/50/330/0/0
+Paunis/Paunis/5/50/12000/50/333/0/0
+Pegasus/Pegasus/5/50/15000/50/337/0/0
+Pig/Pig/5/10/7000/50/315/0/0
+RedDragon/RedDragon/5/60/25000/50/335/0/0
+Rei_Urso/Rei_Urso/5/60/4500/170/227 43 9/0/2000
+Elfo/Elfo/6/500/12000/1600/59/40000/99999
+RageWolf/RageWolf/6/70/450/40/226/0/0
+SavageBear/SavageBear/7/70/800/60/227/500/500
+Crill/Crill/8/4/130/20/203/500/500
+Crill_/Crill_/8/8/130/20/203/500/500
+FinalVerid/FinalVerid/8/600/15000/2050/395/0/0
+Kaizen/Kaizen/8/500/9000/600/59/40000/99999
+Krill/Krill/8/25/180/30/203/500/1000
+Krill_/Krill_/8/25/180/30/203/500/1000
+Krill__/Krill__/8/18/130/20/203/500/500
+Krill___/Krill___/8/18/130/20/203/500/500
+Krill____/Krill____/8/18/130/20/203/500/500
+Boss_A_Carta/Boss_A_Carta/9/500/9000/500/296 43 9/40000/99999
+Boss_M_Carta/Boss_M_Carta/9/500/9000/500/296 43 9/40000/99999
+Boss_N_Carta/Boss_N_Carta/9/500/9000/500/296 43 9/40000/99999
+Legendary/Legendary/9/500/5000/1000/388/40000/25000
+BlackDragon/BlackDragon/10/100/3280/80/307/500/500
+Caveira_Forte/Caveira_Forte/10/100/3300/296/260 43 9/500/3000
+Caveira_Montada/Caveira_Montada/10/150/5300/596/260 43 9/500/7000
+Gorila/Gorila/10/70/500/120/245/0/2000
+Grande_Gorila/Grande_Gorila/10/130/5000/250/245 43 9/0/2000
+Javali/Javali/10/22/130/35/216/500/500
+Morcego_Negro/Morcego_Negro/10/35/5000/35/292/500/500
+Boar/Boar/11/22/130/35/216/500/500
+Lider_Aprend/Lider_Aprend/11/500/9000/500/60/40000/20000
+Serpente/Serpente/12/28/180/28/221/500/1500
+Arvore_Maligna/Arvore_Maligna/15/18/1500/360/351 43 9/500/1500
+Cobra/Cobra/15/28/170/36/221/500/302
+Cobra_/Cobra_/15/28/170/36/221/500/302
+DemonDante/DemonDante/15/1/32000/1/1/500/0
+DragaoSupremo/DragaoSupremo/15/120/7500/350/224 43 9/0/2000
+GiantSnake/GiantSnake/15/28/170/36/221/500/500
+GiantSnake_/GiantSnake_/15/28/170/36/221/500/500
+Giant_Snake/Giant_Snake/15/28/170/36/221/40000/300
+GremlinKing/GremlinKing/15/28/200/60/222/500/500
+GremlinKing_/GremlinKing_/15/32/220/60/222/500/500
+Gremlin_King/Gremlin_King/15/28/200/60/222/40000/200
+Gremlin_King_/Gremlin_King_/15/32/220/60/222/40000/200
+Noelzinho/Noelzinho/15/1/32000/1/191/500/0
+Pequeno_Dragao/Pequeno_Dragao/15/95/350/270/300/0/2000
+Rei_Gremlin/Rei_Gremlin/15/35/200/80/222/150/1800
+Rei_Gremlin_/Rei_Gremlin_/15/32/220/60/222/150/150
+Serpent/Serpent/15/28/170/18/221/500/500
+Reset_Pontos/Reset_Pontos/16/5000/19000/5000/396/9999/25000
+Destiny_Arcano/Destiny_Arcano/17/12000/15000/12563/11/9999/25000
+Destiny_Mistico/Destiny_Mistico/17/12000/15000/12563/11/9999/25000
+Destiny_Normal/Destiny_Normal/17/12000/15000/12563/11/9999/25000
+Infos/Infos/17/500/9000/3000/59/9999/9999
+GremlinDecoy/GremlinDecoy/18/32/600/40/222/500/500
+Gremlin_Artif/Gremlin_Artif/18/32/600/40/222 43 9/500/362
+Gremlin_Decoy/Gremlin_Decoy/18/32/600/40/222/500/500
+Lobo/Lobo/18/34/200/80/299/500/500
+Lobo_/Lobo_/18/38/230/80/299/500/500
+Lobo_Chefe/Lobo_Chefe/18/54/9000/150/299 43 9/500/500
+Second_Trainer/Second_Trainer/19/500/9000/500/4/40000/99999
+Mestre_Alfa/Mestre_Alfa/20/0/10000/8000/58 43 1 2 0/9999/25000
+ChiefCrill/ChiefCrill/22/42/400/100/204/500/500
+ChiefCrill_/ChiefCrill_/22/45/450/100/204/500/500
+Chief_Crill/Chief_Crill/22/42/400/100/204/40000/300
+Chief_Crill_/Chief_Crill_/22/45/450/100/204/40000/300
+Dann/Dann/22/500/9000/500/58/500/500
+Alquimista/Alquimista/23/1474/26840/10/17/300/300
+Asp._Sephira_I/Asp._Sephira_I/23/1474/26840/10/36/300/300
+Asp._Sephira_II/Asp._Sephira_II/23/1474/26840/10/36/300/300
+Cap._Brom/Cap._Brom/23/1474/26840/10/6/300/300
+Capitao_Mendez/Capitao_Mendez/23/1474/26840/10/6/300/300
+Carcereiro/Carcereiro/23/1474/26840/10/21/300/300
+Chefe_Krill/Chefe_Krill/23/50/1000/110/204/500/1500
+Ferreiro/Ferreiro/23/1474/26840/10/58/300/300
+Garimpeiro/Garimpeiro/23/1474/26840/10/26/300/300
+Gen._Lien/Gen._Lien/23/1474/26840/10/17/300/300
+GiantCrill/GiantCrill/23/50/2000/40/204/500/500
+Giant_Crill/Giant_Crill/23/50/2000/40/204/40000/300
+Gov._Armia/Gov._Armia/23/1474/26840/10/28/300/300
+Gov._Noatun/Gov._Noatun/23/1474/26840/10/6/300/300
+Guarda_Albert/Guarda_Albert/23/1474/26840/10/6/300/300
+Guarda_Alfred/Guarda_Alfred/23/1474/26840/10/6/300/300
+Guarda_Real___/Guarda_Real___/23/1202/15000/15000/4/40000/99999
+Guerrilheiro/Guerrilheiro/23/1474/26840/10/28/300/300
+Inst._Karu/Inst._Karu/23/1474/26840/10/11/300/300
+Joalheiro/Joalheiro/23/1474/26840/10/6/300/300
+Krill_Gigante/Krill_Gigante/23/40/2000/40/204 43 9/500/500
+Lider_da_Tropa/Lider_da_Tropa/23/1474/26840/10/6/300/300
+Mestre_Carb_/Mestre_Carb_/23/390/2050/512/230 43 8/9999/18000
+Necromante/Necromante/23/1474/26840/10/26/300/300
+Penny/Penny/23/1474/26840/10/28/300/300
+Evolution/Evolution/24/500/9000/500/1/40000/20000
+Lagarto/Lagarto/24/48/500/100/240/500/500
+Lizard/Lizard/24/48/500/100/240/500/500
+Mestre_Carb__/Mestre_Carb__/24/390/2050/512/230 43 8/9999/18000
+Amon_/Amon_/25/10/400/10/369/500/200
+Amon_Chief_/Amon_Chief_/25/-100/400/10/371/450/200
+Caveira_Novel/Caveira_Novel/25/10/400/10/260/500/200
+Caveira_Novel_/Caveira_Novel_/25/40/400/10/277/500/200
+Chefe_Amon_/Chefe_Amon_/25/-100/400/10/371/450/200
+Chefe_Novel/Chefe_Novel/25/10/400/10/260 43 6/450/200
+Demon_Inf/Demon_Inf/25/20/800/20/295 43 9/500/200
+Gavioes_da_Fiel/Gavioes_da_Fiel/25/1447/24000/3130/60 43 1 100 13/500/4000
+Guarda_Real_I/Guarda_Real_I/25/1447/24000/3130/60 43 1 100 13/500/4000
+Lich_Novel/Lich_Novel/25/20/800/20/364/500/200
+Mestre_Carb___/Mestre_Carb___/25/390/2050/512/230 43 8/9999/18000
+Orc_Arqueiro/Orc_Arqueiro/25/63/500/130/209/250/550
+Orc_Arqueiro_/Orc_Arqueiro_/25/68/520/130/209/250/550
+Guarda_Real_II/Guarda_Real_II/26/1447/24000/3130/60 43 1 100 13/500/4000
+Archer_Orc/Archer_Orc/27/63/500/130/209/40000/300
+Archer_Orc_/Archer_Orc_/27/500/5000/6000/209/40000/30000
+Guarda_Real_III/Guarda_Real_III/27/1447/24000/3130/60 43 1 100 13/500/4000
+Salgueiro/Salgueiro/27/1447/24000/3130/60 43 1 100 13/500/4000
+Guarda_Real_IV/Guarda_Real_IV/28/1447/24000/3130/60 43 1 100 13/500/4000
+Mancha_Verde/Mancha_Verde/28/1447/24000/3130/60 43 1 100 13/500/4000
+Beija-Flor/Beija-Flor/29/1447/24000/3130/60 43 1 100 13/500/4000
+Guarda_Real_V/Guarda_Real_V/29/1447/24000/3130/60 43 1 100 13/500/4000
+Dragao_Menor/Dragao_Menor/30/89/1000/190/300/500/500
+Follower____/Follower____/30/60/700/80/202 43 6/500/500
+Guarda_Real_VI/Guarda_Real_VI/30/1447/24000/3130/60 43 1 100 13/500/4000
+Orc_Cavaleiro/Orc_Cavaleiro/30/78/600/140/207/250/750
+Orc_Cavaleiro_/Orc_Cavaleiro_/30/85/650/140/207/250/750
+Orc_Guerreiro/Orc_Guerreiro/30/78/600/140/207/250/602
+Portela/Portela/30/1447/24000/3130/60 43 1 100 13/500/4000
+Seguidor/Seguidor/30/60/700/80/202 43 6/500/500
+Seguidor_/Seguidor_/30/60/700/80/202 43 6/500/500
+Seguidor__/Seguidor__/30/60/700/80/202 43 6/500/500
+Seguidor___/Seguidor___/30/60/700/80/202 43 6/500/500
+Seguidor____/Seguidor____/30/60/700/80/202 43 6/500/500
+Seguidor_____/Seguidor_____/30/60/700/80/202 43 6/500/500
+Guarda_Real_VII/Guarda_Real_VII/31/1447/24000/3130/60 43 1 100 13/500/4000
+Mangueira/Mangueira/31/1447/24000/3130/60 43 1 100 13/500/4000
+Comp_Pista+0/Comp_Pista+0/32/1447/24000/3130/60 43 1 100 13/500/4000
+Guarda_Real_8/Guarda_Real_8/32/1447/24000/3130/60 43 1 100 13/500/4000
+Meio_Orc/Meio_Orc/32/93/800/200/208/500/500
+Meio_Orc_/Meio_Orc_/32/100/850/200/208/500/500
+Comp_Pista+1/Comp_Pista+1/33/1447/24000/3130/60 43 1 100 13/500/4000
+Criar_Arch/Criar_Arch/33/1600/20000/3400/303/9999/400
+Guarda_Real_9/Guarda_Real_9/33/1447/24000/3130/60 43 1 100 13/500/4000
+Comp_Pista+2/Comp_Pista+2/34/1447/24000/3130/60 43 1 100 13/500/4000
+Guarda_Real_10/Guarda_Real_10/34/1447/24000/3130/60 43 1 100 13/500/4000
+OrcSniper/OrcSniper/34/50/2500/50/209 43 9/80/160
+Sephi_TK/Sephi_TK/34/500/9000/3000/6/9999/9999
+AgmoGremlin/AgmoGremlin/35/90/2000/120/222 43 7/500/500
+Agmo_Gremlin/Agmo_Gremlin/35/90/2000/120/222 43 7/500/500
+Ancient_Grem/Ancient_Grem/35/90/1000/120/222 43 7/500/500
+Comp_Pista+3/Comp_Pista+3/35/1447/24000/3130/60 43 1 100 13/500/4000
+Guarda_Real_11/Guarda_Real_11/35/1447/24000/3130/60 43 1 100 13/500/4000
+Orc_Knight/Orc_Knight/35/78/600/140/207/40000/99999
+Orc_Knight_/Orc_Knight_/35/85/650/140/207/40000/99999
+Orc_Sniper/Orc_Sniper/35/75/2500/100/209 43 9/250/1000
+Sephi_FM/Sephi_FM/35/500/9000/3000/17/9999/9999
+Comp_Pista+4/Comp_Pista+4/36/1447/24000/3130/60 43 1 100 13/500/4000
+Sephi_BM/Sephi_BM/36/500/9000/3000/28/9999/9999
+Comp_Pista+5/Comp_Pista+5/37/1447/24000/3130/60 43 1 100 13/500/4000
+Sephi_HT/Sephi_HT/37/500/9000/3000/39/9999/9999
+Arcanjus/Arcanjus/38/500/9000/3000/28/9999/9999
+Comp_Pista+6/Comp_Pista+6/38/1447/24000/3130/60 43 1 100 13/500/4000
+Helen/Helen/39/10/500/3000/53/9999/25000
+Lac_Trade/Lac_Trade/39/1447/24000/3130/60 43 1 100 13/500/4000
+Chefe_Krill_/Chefe_Krill_/40/45/800/100/204/500/500
+Chefe_Nain/Chefe_Nain/40/135/1200/270/212 43 9/500/500
+Comp_Ideal/Comp_Ideal/40/500/9000/3000/39/9999/9999
+Dragao_Supremo/Dragao_Supremo/40/145/10000/450/200 43 9/0/2000
+Elfo_Guardiao/Elfo_Guardiao/40/200/9000/600/287 43 7/500/4500
+Evento_Drop/Evento_Drop/40/1/100/270/202/500/250
+Nain_Troll/Nain_Troll/40/135/1200/270/212/500/500
+OrcWarrior/OrcWarrior/40/80/2000/80/207/200/240
+Orc_Guerreiro@/Orc_Guerreiro@/40/80/750/80/207/300/802
+Orc_Warrior/Orc_Warrior/40/80/2000/80/207/40000/99999
+Ori_Trade/Ori_Trade/40/1447/24000/3130/60 43 1 100 13/500/4000
+Ajudante_Chefe/Ajudante_Chefe/41/500/9000/3000/230/9999/5
+Carbuncle_XP/Carbuncle_XP/41/500/9000/500/230/0/0
+Quests/Quests/41/12000/15000/12563/32 43 231/9999/25000
+Evento_Arcana/Evento_Arcana/42/5000/30000/18000/65 43 1 22 0/9999/1760
+Guarda_Real__/Guarda_Real__/44/5000/30000/18000/65 43 1 22 0/9999/1760
+Mestre_Carb____/Mestre_Carb____/44/390/2050/512/230 43 8/9999/18000
+Egroj/Egroj/45/35/300/35/63 43 1 100 30/500/500
+Erdna/Erdna/45/35/300/35/64 43 1 100 29/500/500
+Klli/Klli/45/35/300/35/68 43 1 100 27/500/500
+Klli_/Klli_/45/35/300/35/64 43 1 100 27/500/500
+Otaner/Otaner/45/35/300/35/58 43 1 100 28/0/50
+CapaBlue/CapaBlue/46/5000/30000/18000/65 43 1 22 0/9999/1760
+CapaRed/CapaRed/47/5000/30000/18000/65 43 1 22 0/9999/1760
+Guarda_Orc_/Guarda_Orc_/47/200/5000/200/208/500/500
+Orc.Guerreiro/Orc.Guerreiro/47/130/2500/156/208/300/300
+Orc_Guerreiro_/Orc_Guerreiro_/47/130/2500/156/208/300/1200
+Orc_Keeper_/Orc_Keeper_/47/130/3000/156/208/300/1000
+Orc_Warrior_/Orc_Warrior_/47/130/2500/156/208/40000/99999
+Ailyn/Ailyn/49/500/9000/500/68/9999/9999
+Ghoul/Ghoul/49/130/1800/220/228/500/500
+ArcherOrc/ArcherOrc/50/63/500/130/209/500/500
+ArcherOrc_/ArcherOrc_/50/68/520/130/209/500/500
+Chefe_Orc_/Chefe_Orc_/50/250/6500/250/208/500/500
+Fantasma_Novel/Fantasma_Novel/50/10/400/10/271/450/200
+Guardiao/Guardiao/50/150/2200/180/213 43 5/500/500
+Guardiao_/Guardiao_/50/150/2200/180/213 43 5/500/500
+Guardiao__/Guardiao__/50/150/2200/180/213 43 5/500/500
+Guardiao___/Guardiao___/50/150/2200/180/213 43 5/500/500
+Guardiao____/Guardiao____/50/150/2200/180/213 43 5/500/500
+Guardiao_____/Guardiao_____/50/150/2200/180/213 43 5/500/500
+Mini_Ranger/Mini_Ranger/50/10/400/-500/393/450/200
+Mini_Templario/Mini_Templario/50/10/500/-500/390/330/200
+NewbieArchOrc/NewbieArchOrc/50/195/3300/130/209/60/440
+Orc_Guard_/Orc_Guard_/50/250/6000/250/208/300/1200
+AgmoCrill/AgmoCrill/60/190/3000/200/203 43 7/500/500
+Agmo_Crill/Agmo_Crill/60/190/3000/200/203 43 7/9999/25000
+Ancient_Caban/Ancient_Caban/60/190/3000/200/230 43 7/500/500
+Cacador_Troll/Cacador_Troll/60/210/1600/595/213/0/1000
+Cacador_Troll_/Cacador_Troll_/60/165/1700/280/213/500/500
+Cheif_Orc_/Cheif_Orc_/60/97/6000/180/208/40000/10000
+Follower/Follower/60/60/700/80/202 43 6/500/500
+Follower_/Follower_/60/60/700/80/202 43 6/500/500
+Follower__/Follower__/60/60/700/80/202 43 6/500/500
+Follower___/Follower___/60/60/700/80/202 43 6/500/500
+Follower_____/Follower_____/60/60/700/80/202 43 6/500/500
+Hunter_Troll/Hunter_Troll/60/155/1600/280/213/40000/99999
+Hunter_Troll_/Hunter_Troll_/60/165/1700/280/213/40000/99999
+Minotaur/Minotaur/60/191/2200/406/235/500/500
+Minotauro/Minotauro/60/191/2200/406/235/500/500
+Minotauro_/Minotauro_/60/197/2300/406/235/500/500
+Minotaur_/Minotaur_/60/197/2300/406/235/500/500
+Orc_Desolador/Orc_Desolador/60/60/750/80/207/300/2800
+Santa_Cabuncle/Santa_Cabuncle/60/90/10000/200/356/500/500
+Santa_Carbunkle/Santa_Carbunkle/60/90/10000/200/356/500/500
+Alt_Cabuncle/Alt_Cabuncle/65/184/2000/3000/231 43 8/40000/20000
+Alt_Carbuncle/Alt_Carbuncle/65/184/2000/312/231 43 8/40000/300
+At_Cabunkle/At_Cabunkle/65/184/2000/312/230 43 4/40000/300
+At_Cabunkle_/At_Cabunkle_/65/184/2000/312/230 43 4/40000/300
+Cabuncle/Cabuncle/65/184/2000/312/230/500/500
+Cabuncle_/Cabuncle_/65/190/2050/312/230/500/500
+Carbunkle/Carbunkle/65/184/2000/312/230/500/500
+Carbunkle_/Carbunkle_/65/190/2050/312/230/500/500
+Carbunkle_Anct/Carbunkle_Anct/65/390/2050/512/230 43 9/500/500
+Orc_Lord/Orc_Lord/65/350/10000/400/208/550/2000
+Hier-Carbunkle/Hier-Carbunkle/68/230/3000/540/231/500/500
+Hier-Carbunkle_/Hier-Carbunkle_/68/240/3100/540/231/500/500
+Krill_Agmo/Krill_Agmo/70/112/400/190/204 43 7/500/1000
+AncientGrem/AncientGrem/75/90/1000/120/222 43 7/500/1000
+Aparicao@/Aparicao@/75/60/1900/346/260 43 9/50000/10000
+Assombracao/Assombracao/75/380/5000/100/367/500/1000
+Ciclope_Inf/Ciclope_Inf/75/10/400/40/233/500/1000
+Ciclope_Rei/Ciclope_Rei/75/10/400/40/233 43 9/500/1000
+Esqueleto@/Esqueleto@/75/55/1000/166/260 43 6/4500/1000
+Guerreiro_Novel/Guerreiro_Novel/75/10/400/40/260/500/1000
+NewbieKnightOrc/NewbieKnightOrc/75/193/3600/140/207/72/480
+OrcKnight/OrcKnight/75/78/600/140/207/72/144
+OrcKnight_/OrcKnight_/75/85/650/140/207/72/160
+NainTroll/NainTroll/76/174/3000/347/212/160/192
+NainTrollChief/NainTrollChief/76/214/5500/404/212 43 9/160/225
+NewbieNainTroll/NewbieNainTroll/76/170/3500/347/212/160/490
+Baleia_Azul/Baleia_Azul/80/0/10000/8000/205/9999/25000
+Baleia_Natalina/Baleia_Natalina/80/0/10000/8000/205/9999/25000
+Batedor/Batedor/80/0/10000/8000/64 43 1 4 0/500/1000
+Carnavalesco/Carnavalesco/80/0/10000/32000/11/9999/1
+Caveira_/Caveira_/80/350/6300/900/260/500/2000
+Comander/Comander/80/0/10000/8000/59 67 1/500/1000
+Destiny_BM/Destiny_BM/80/700/7000/5000/32/9999/20000
+Destiny_FM/Destiny_FM/80/700/7000/5000/17/9999/20000
+Destiny_HT/Destiny_HT/80/700/7000/5000/39/9999/20000
+Destiny_TK/Destiny_TK/80/700/7000/5000/6/9999/20000
+Dragao_Armia/Dragao_Armia/80/500/10000/3000/200 43 9/0/0
+Dragao_Azran/Dragao_Azran/80/0/10000/8000/200/9999/25000
+Dragao_de_Azran/Dragao_de_Azran/80/500/10000/3000/200 43 0/500/1000
+Dragao_Dourado/Dragao_Dourado/80/500/10000/3000/200 43 9/500/1000
+Dragao_Prateado/Dragao_Prateado/80/500/10000/3000/201 43 251/500/1000
+Dragao_teste/Dragao_teste/80/500/10000/3000/200 119 253/500/1000
+Dragao_Vermelho/Dragao_Vermelho/80/500/10000/500/200 43 4/500/1000
+Ent_Noel/Ent_Noel/80/0/10000/8000/191/9999/25000
+GoldDragon/GoldDragon/80/500/10000/500/200 43 9/500/1000
+Gold_Dragon/Gold_Dragon/80/500/10000/3000/200 43 9/500/1000
+Guarda/Guarda/80/0/10000/8000/1 43 1 100 4/500/1000
+Guarda_Helgardh/Guarda_Helgardh/80/0/10000/8000/58 43 1 86 1 100 5/500/1000
+Guarda_Karma/Guarda_Karma/80/0/10000/8000/11/9999/25000
+Guarda_Nordico/Guarda_Nordico/80/0/10000/8000/58/500/1000
+Guarda_Real_1/Guarda_Real_1/80/0/10000/8000/1/9999/25000
+Jardineiro/Jardineiro/80/0/10000/8000/11 43 1 100 1/500/1000
+July/July/80/500/10000/3000/36 43 9 1 0/500/1000
+Lanceiro_Novel/Lanceiro_Novel/80/10/400/40/260/500/1000
+Lider_Alquino/Lider_Alquino/80/210/5000/320/207 43 9/9999/2000
+Madeirao/Madeirao/80/0/10000/8000/351/9999/25000
+Mestre_Noel/Mestre_Noel/80/0/10000/32000/356/9999/1
+Noel/Noel/80/0/10000/8000/28/9999/25000
+NoelTrend/NoelTrend/80/0/10000/8000/356/9999/1
+Noelzao/Noelzao/80/0/10000/8000/190/0/1
+OrcWarrior_/OrcWarrior_/80/130/2500/156/208/110/226
+Orc_Alquino/Orc_Alquino/80/180/3000/250/207/9999/2000
+Patrulha/Patrulha/80/0/10000/8000/21 43 1 100 3/9999/25000
+Patrulha_/Patrulha_/80/0/10000/8000/21 43 1 100 2/9999/25000
+Patrulha__/Patrulha__/80/0/10000/8000/21 43 1 100 15/9999/25000
+Porteiro_Infern/Porteiro_Infern/80/0/10000/8000/58 43 1 86 1 100 5/9999/25000
+Representante/Representante/80/0/10000/8000/1 43 1 6 0/9999/25000
+Santa_Noel/Santa_Noel/80/0/10000/32000/11/9999/1
+Santo_Noel/Santo_Noel/80/0/10000/32000/11/9999/1
+Santo_Odin/Santo_Odin/80/0/10000/32000/11/9999/1
+Basilisco/Basilisco/81/190/4000/600/241/500/1000
+Bazilisk/Bazilisk/81/190/4000/600/241/500/1000
+Chefe_Ghoul/Chefe_Ghoul/82/203/2600/460/229/500/1000
+Chefe_Ghoul_/Chefe_Ghoul_/82/210/2700/460/229/500/1000
+Chief_Ghoul/Chief_Ghoul/82/203/2600/460/229/40000/10000
+Chief_Ghoul_/Chief_Ghoul_/82/210/2700/460/229/40000/10000
+Dreadtaurs/Dreadtaurs/82/254/4200/654/236/500/1000
+Dreadtaurs_/Dreadtaurs_/82/263/4300/654/236/500/1000
+GhoulChief/GhoulChief/82/203/2600/460/229/500/1000
+GhoulChief_/GhoulChief_/82/210/2700/460/229/500/1000
+Caveira/Caveira/84/195/3300/496/260/500/1000
+Esqueleto_Novel/Esqueleto_Novel/84/115/3300/296/260/500/1000
+Fantasmaa/Fantasmaa/84/0/100/0/188/500/1000
+Guer_Amon_Inf/Guer_Amon_Inf/84/195/25000/496/370/300/9130
+HalfOrc/HalfOrc/85/93/800/200/208/500/1000
+HalfOrc_/HalfOrc_/85/100/850/200/208/500/1000
+NewbieHalfOrc/NewbieHalfOrc/85/193/3500/200/296/86/510
+Basilisco_Ifrit/Basilisco_Ifrit/89/270/5000/600/241/500/1000
+EfreetBazilisk/EfreetBazilisk/89/270/5000/350/241/500/1000
+AgmoTroll/AgmoTroll/90/270/8000/400/213 43 7/500/1000
+Agmo_Troll/Agmo_Troll/90/270/8000/400/213 43 7/500/1000
+Carb_High/Carb_High/90/230/3000/540/231/500/1000
+Carb_High_/Carb_High_/90/240/3100/540/231/500/1000
+DragonPappy/DragonPappy/90/89/1000/190/300/500/1000
+Ghoul_Agmo/Ghoul_Agmo/90/270/7700/510/229 43 9/500/1000
+Hier-Cabuncle/Hier-Cabuncle/90/230/3000/540/231/40000/99999
+Hier-Cabuncle_/Hier-Cabuncle_/90/240/3100/540/231/40000/99999
+HighCabuncle/HighCabuncle/90/230/3000/540/231/500/1000
+HighCabuncle_/HighCabuncle_/90/240/3100/540/231/500/1000
+NewbieDragon/NewbieDragon/90/193/3200/300/300/100/540
+ForceOrc/ForceOrc/91/250/15000/500/208/500/1000
+Orc_Forte/Orc_Forte/91/250/15000/500/208/0/2500
+Chaos_Troll/Chaos_Troll/93/273/5000/710/213/500/1000
+Chaos_Troll_/Chaos_Troll_/93/285/5100/710/213/500/1000
+Caveira_Agmo/Caveira_Agmo/94/255/8300/696/260/500/1000
+Draco_Lich/Draco_Lich/94/300/6000/450/239/500/1000
+E-Dracolich/E-Dracolich/94/300/6000/450/239/500/1000
+EfreetDracolich/EfreetDracolich/94/300/6000/450/239/500/1000
+Guardian/Guardian/95/150/2200/180/213 43 5/500/1000
+Guardian_/Guardian_/95/150/2200/180/213 43 5/500/1000
+Guardian__/Guardian__/95/150/2200/180/213 43 5/500/1000
+Guardian___/Guardian___/95/150/2200/180/213 43 5/500/1000
+Guardian____/Guardian____/95/150/2200/180/213 43 5/500/1000
+Guardian_____/Guardian_____/95/150/2200/180/213 43 5/500/1000
+Rei_Gremlin__/Rei_Gremlin__/95/338/4720/850/222/0/0
+Aparicao/Aparicao/98/90/2200/356/260 43 253/500/3000
+Lobo__/Lobo__/98/352/4990/873/299/500/1000
+Orc_Shaman/Orc_Shaman/98/285/5000/770/232/850/2635
+Orc_Shaman_/Orc_Shaman_/99/295/5100/770/232/850/2250
+Boneco_de_Neve/Boneco_de_Neve/100/1/30000/1000/2974/500/8500
+Carbuncle_Bronz/Carbuncle_Bronz/100/1/30000/1000/230 122 245/500/8500
+Carbunkle_Noel/Carbunkle_Noel/100/1/30000/50/356/500/8500
+Coelho_Natalino/Coelho_Natalino/100/1/30000/1000/356/500/8500
+Guarda_Camper/Guarda_Camper/100/500/9000/500/60/0/2000
+Guarda_do_Vale/Guarda_do_Vale/100/1447/24000/3130/60 43 1 100 13/500/4000
+Hera_Venenosa/Hera_Venenosa/100/1/30000/1000/396/500/8500
+Ice_Lich_Novel/Ice_Lich_Novel/100/320/32000/100/70 43 254/500/1000
+Musa/Musa/100/1/30000/1000/396/500/8500
+Sand_Lich_Novel/Sand_Lich_Novel/100/320/32000/100/69 43 253/500/1000
+Chefe_Krill__/Chefe_Krill__/102/369/5200/889/204/500/1000
+Orc_Sniper_/Orc_Sniper_/104/280/12000/550/209/450/0
+Ciclope/Ciclope/105/270/4800/720/233/500/1500
+Ciclope_/Ciclope_/105/280/4900/720/233/500/1500
+Cyclops/Cyclops/105/270/4800/720/233/500/1500
+Cyclops_/Cyclops_/105/280/4900/720/233/500/1500
+HiperTaurus/HiperTaurus/105/228/4900/460/237 43 253/500/1500
+Chefe_Taurus/Chefe_Taurus/107/1000/20000/460/237 43 253/500/1500
+AncientCaban/AncientCaban/110/190/3000/200/230 43 7/500/1500
+ArqEsqueleto/ArqEsqueleto/110/170/5000/828/277 43 9/1000/750
+Guer_Caveira/Guer_Caveira/110/468/8100/1236/260/500/1500
+OrcShaman/OrcShaman/113/285/5000/770/232/90/420
+OrcShaman_/OrcShaman_/113/295/5100/770/232/90/430
+Orc_Mago/Orc_Mago/113/350/15000/600/232/0/2000
+Caveira_Lanc/Caveira_Lanc/115/382/6200/1018/260/500/1500
+Orc_Arqueiro__/Orc_Arqueiro__/119/422/6580/938/209/0/0
+Andhrimnir/Andhrimnir/120/385/6400/1010/271/500/1500
+ArcherCyclop/ArcherCyclop/120/103/5200/840/242/500/1500
+ArcherCyclop_/ArcherCyclop_/120/103/5300/840/242/500/1500
+Archer_Cyclop/Archer_Cyclop/120/103/5200/840/242/40000/300
+Arqueiro_Zakum/Arqueiro_Zakum/120/350/8000/500/257/500/1500
+ChaosTroll___/ChaosTroll___/120/304/6000/630/213/500/1500
+Ciclope_Arq/Ciclope_Arq/120/103/5200/840/242/500/1500
+Ciclope_Arq_/Ciclope_Arq_/120/103/5300/840/242/500/1500
+Conj_Caveira/Conj_Caveira/120/385/6400/1010/271/500/1500
+GiantCrill_/GiantCrill_/120/89/2000/165/204/500/1500
+GremlinKing__/GremlinKing__/120/66/1000/82/222/500/1500
+Guarda_Zakum/Guarda_Zakum/120/340/15000/460/259/500/1500
+HalfOrc___/HalfOrc___/120/192/3500/265/208/500/1500
+HunterTroll/HunterTroll/120/155/1600/280/213/500/1500
+HunterTroll_/HunterTroll_/120/165/1700/280/213/500/1500
+Krill_Gigante_/Krill_Gigante_/120/89/2000/165/204/500/1500
+MeioOrc@@/MeioOrc@@/120/192/3500/265/208/500/2402
+NewbieHunter/NewbieHunter/120/193/3400/400/213/115/560
+NewbieTrolly/NewbieTrolly/120/193/3200/420/212/100/700
+OrcKnight__/OrcKnight__/120/128/2500/210/207/40/264
+OrcLutador/OrcLutador/120/128/2500/210/207/40/2402
+Orc_Curandeiro/Orc_Curandeiro/120/200/10000/200/232 43 3/550/2000
+Orc_Gladiador/Orc_Gladiador/120/150/2000/150/208 43 1/550/2000
+ReiGremlin@@/ReiGremlin@@/120/66/1000/82/222/500/1500
+Esqueleto/Esqueleto/124/195/3300/496/260/500/1500
+NewbieSkeleton/NewbieSkeleton/124/233/3500/296/260/75/1200
+AgmoCabuncle/AgmoCabuncle/125/360/12000/500/231 43 7/500/1500
+Agmo_Cabuncle/Agmo_Cabuncle/125/360/12000/500/231 43 7/500/1500
+Agmo_Carbunkle/Agmo_Carbunkle/125/360/12000/500/231 43 7/500/1500
+Arqueiro_Zakum_/Arqueiro_Zakum_/125/350/8000/500/257/500/1500
+FreakTroll/FreakTroll/125/184/2000/410/212/500/1500
+FreakTroll_/FreakTroll_/125/193/2100/410/212/500/1500
+Mob_Gold/Mob_Gold/125/1/1/1/231 43 9/500/1500
+NewbieFreak/NewbieFreak/125/250/3500/430/212/130/740
+Orc_Sha_Trooper/Orc_Sha_Trooper/125/515/9000/1200/232/800/2400
+Hidra/Hidra/126/414/7200/1120/218/500/1500
+Orc_L_Trooper/Orc_L_Trooper/126/550/12000/1500/208/0/2500
+Rei_Taurus/Rei_Taurus/127/338/5900/930/237/500/1500
+Rei_Taurus_/Rei_Taurus_/127/350/6100/930/237/500/1500
+Orc_Selvagem/Orc_Selvagem/128/400/20000/650/207/600/1850
+AgmoSkelton/AgmoSkelton/130/360/20000/620/260 43 7/500/1500
+Agmo_Caveira/Agmo_Caveira/130/360/20000/620/260 43 7/500/1500
+Agmo_Skelton/Agmo_Skelton/130/360/20000/620/260 43 7/500/1500
+Cav.Caveira/Cav.Caveira/130/468/8100/1236/260/500/1500
+Cav.Melkor/Cav.Melkor/130/1500/28000/4000/260 120 9/500/120000
+Hidra_Dourada_/Hidra_Dourada_/130/706/9200/2320/218 43 9/500/1500
+NewbieBear/NewbieBear/130/238/2464/340/291/90/1200
+Orc_L_Trooper_/Orc_L_Trooper_/130/995/22000/2590/208/0/1685
+Arq_Caveira/Arq_Caveira/132/170/5000/828/277/500/1500
+NewbieArcher/NewbieArcher/132/234/2464/328/277/100/1200
+NewbieTroll/NewbieTroll/133/253/2464/350/208/110/1200
+Elfo_Negro/Elfo_Negro/135/423/7500/1130/284/0/2500
+BolldyCyclops/BolldyCyclops/136/395/6500/1090/234/500/1500
+BolldyCyclops_/BolldyCyclops_/136/415/6800/1090/234/500/1500
+Ciclope_Sang/Ciclope_Sang/136/395/6500/1090/234/500/1500
+Ciclope_Sang_/Ciclope_Sang_/136/415/6800/1090/234/500/1500
+Argos_Errante_/Argos_Errante_/137/446/8000/1170/238/40000/2000
+Argos_Wanderer/Argos_Wanderer/137/446/8000/1170/238/40000/40000
+Iguana/Iguana/137/455/7000/956/202 43 2/500/1500
+FallenTroll/FallenTroll/138/205/2400/420/213/500/1500
+FallenTroll_/FallenTroll_/138/215/2500/420/213/500/1500
+NewbieFallen/NewbieFallen/138/250/3700/420/213/145/860
+ChaosTroll/ChaosTroll/140/273/5000/710/213/500/2000
+ChaosTroll_/ChaosTroll_/140/285/5100/710/213/500/2000
+God_Bay/God_Bay/140/2/20000/2500/391/500/2000
+God_Bay_/God_Bay_/140/0/25000/500/391/500/2000
+God_Villi/God_Villi/140/5/15000/2500/393/500/2000
+God_Villi_/God_Villi_/140/0/25000/500/393/500/2000
+NewbieChaos/NewbieChaos/140/250/4000/400/213/100/900
+Orc_Wild/Orc_Wild/140/550/30000/1100/208/35000/0
+Rei_Taurus@/Rei_Taurus@/140/314/6000/610/236 43 9/500/2000
+Orc_Cavaleiro__/Orc_Cavaleiro__/142/464/7533/966/207/0/0
+OrcDoctor/OrcDoctor/143/430/6800/1080/232/110/580
+OrcDoctor_/OrcDoctor_/143/440/6900/1080/232/500/580
+Orc_Doctor/Orc_Doctor/143/430/6800/1080/232/40000/99999
+Orc_Doctor_/Orc_Doctor_/143/440/6900/1080/232/40000/99999
+Orc_Medico/Orc_Medico/143/430/6800/1080/232/110/2862
+Orc_Medico_/Orc_Medico_/143/440/6900/1080/232/500/2862
+F.Troll/F.Troll/145/84/800/300/212 43 4/40000/99999
+M.Troll/M.Troll/145/84/800/300/212 43 4/40000/99999
+Cav_Esqueleto/Cav_Esqueleto/147/268/4100/500/260 43 4/40000/30000
+Cav__Kaizen/Cav__Kaizen/147/268/8100/500/260 43 8/40000/25000
+Dragao_Menor_/Dragao_Menor_/147/477/7855/969/300/500/2000
+Dragao_Menor__/Dragao_Menor__/147/477/7855/969/300/500/2000
+Guer_Esqueleto/Guer_Esqueleto/147/468/8100/1236/260 43 9/1000/850
+Anciao_Ciclops/Anciao_Ciclops/150/455/7500/1200/234/500/2000
+Anciao_Ciclops_/Anciao_Ciclops_/150/465/7600/1200/234/500/2000
+Aqua_Golem___/Aqua_Golem___/150/770/20000/1250/309/500/2000
+Argos_/Argos_/150/400/7000/1080/238/500/2000
+CiclopeAnciao/CiclopeAnciao/150/455/7500/1200/234/500/3002
+CiclopeAnciao_/CiclopeAnciao_/150/465/7600/1200/234/500/3002
+Ciclope_Cruel__/Ciclope_Cruel__/150/950/9500/1300/234 43 5/500/7500
+ElderCyclops/ElderCyclops/150/455/7500/1200/234/500/2000
+ElderCyclops_/ElderCyclops_/150/465/7600/1200/234/500/2000
+Elfo_ABJ__/Elfo_ABJ__/150/400/30000/1500/287 43 9/500/2000
+God_Odin/God_Odin/150/360/25000/2500/390/500/2000
+God_Odin_/God_Odin_/150/0/25000/500/390/500/2000
+GremlinKing@/GremlinKing@/150/540/7600/0/222 43 3/500/2000
+Grim_Lock_D/Grim_Lock_D/150/565/11200/1600/294/500/2000
+InionTroll/InionTroll/150/263/4600/552/213/500/2000
+InionTrollChief/InionTrollChief/150/343/6800/647/213 43 9/500/2000
+OrcGuardian_/OrcGuardian_/150/300/15000/700/210 43 3/0/200
+Rei_Gremlin@@/Rei_Gremlin@@/150/540/7600/0/222 43 3/40/2000
+CheifOrc_/CheifOrc_/151/97/6000/180/208/500/2000
+Esq_Lanceiro/Esq_Lanceiro/151/382/6200/1018/260/500/2000
+Guarda_Orc/Guarda_Orc/151/97/4000/160/208/60/200
+Lobo@/Lobo@/151/545/7650/0/299 43 3/500/2000
+Lobo@@/Lobo@@/151/545/7650/0/299 43 3/500/2000
+NewbieSpearman/NewbieSpearman/151/239/2464/190/260/110/1200
+OrcGuard_/OrcGuard_/151/97/4000/160/208/60/200
+OrcKeeper_/OrcKeeper_/151/130/3000/156/208/70/184
+OrcLord/OrcLord/151/119/10000/200/208/60/400
+Chefe_Krill@/Chefe_Krill@/152/550/7700/0/204 43 3/500/2000
+Chefe_Krill@@/Chefe_Krill@@/152/550/7700/0/204 43 3/500/2000
+ChiefCrill@/ChiefCrill@/152/550/7700/0/204 43 3/500/2000
+ArcOrcTrooper/ArcOrcTrooper/153/500/9800/1266/209/500/2000
+Arc_Orc_Trooper/Arc_Orc_Trooper/153/500/9800/1266/209/500/2000
+Lagarto@@/Lagarto@@/153/555/7750/0/240 43 3/500/2000
+Lizard@/Lizard@/153/555/7750/0/240 43 3/500/2000
+OrcTrooper/OrcTrooper/153/510/10500/1320/208/150/660
+Orc_Trooper/Orc_Trooper/153/510/10500/1320/208/800/2400
+ArcherOrc@/ArcherOrc@/154/560/7800/0/209 43 3/500/2000
+Lanceiro_Zakum/Lanceiro_Zakum/154/461/8000/1266/259/500/2000
+Orc_Arqueiro@/Orc_Arqueiro@/154/560/7800/0/209 43 3/60/2000
+Orc_Arqueiro@@/Orc_Arqueiro@@/154/560/7800/0/209 43 3/60/2000
+Esq_Conjurador/Esq_Conjurador/155/385/6400/1010/271/220/560
+Iguana@/Iguana@/155/565/7850/0/240 43 3/500/2000
+Iguana@@/Iguana@@/155/565/7850/0/240 43 3/500/2000
+NewbieConjurer/NewbieConjurer/155/255/5600/180/271/110/1200
+Protecter/Protecter/155/460/13000/630/237 43 6/150/300
+Protecter_/Protecter_/155/460/13000/630/237 43 6/150/300
+Protecter__/Protecter__/155/460/13000/630/237 43 6/150/300
+Protecter___/Protecter___/155/460/13000/630/237 43 6/150/300
+Protecter____/Protecter____/155/460/13000/630/237 43 6/150/300
+Protetor/Protetor/155/460/13000/630/237 43 6/150/300
+Protetor_/Protetor_/155/460/13000/630/237 43 6/150/300
+Protetor__/Protetor__/155/460/13000/630/237 43 6/150/300
+Protetor___/Protetor___/155/460/13000/630/237 43 6/150/300
+Protetor____/Protetor____/155/460/13000/630/237 43 6/150/300
+Cavaleiro_Orc@@/Cavaleiro_Orc@@/156/568/7900/0/207 43 3/500/2000
+OrcKnight@/OrcKnight@/156/568/7900/0/207 43 3/72/2000
+Orc_Cavaleiro@/Orc_Cavaleiro@/156/568/7900/0/207 43 3/72/2000
+Dragao_Menor@/Dragao_Menor@/157/569/7950/0/300 43 3/500/2000
+Dragao_Menor@@/Dragao_Menor@@/157/569/7950/0/300 43 3/500/2000
+DragonPappy@/DragonPappy@/157/569/7950/0/300 43 3/500/2000
+CiclopeCruel/CiclopeCruel/158/510/8500/1320/234 43 5/40000/5000
+CiclopeCruel_/CiclopeCruel_/158/525/8500/1320/234 43 5/40000/5000
+Ciclope_Cruel/Ciclope_Cruel/158/510/8500/1320/234 43 5/500/2000
+Ciclope_Cruel_/Ciclope_Cruel_/158/525/9000/1320/234 43 5/500/2000
+Cruel-Cyclops/Cruel-Cyclops/158/510/8500/1320/234 43 5/40000/5000
+Cruel-Cyclops_/Cruel-Cyclops_/158/525/8500/1320/234 43 5/40000/5000
+CruelCyclops/CruelCyclops/158/510/8500/1320/234 43 5/500/2000
+CruelCyclops_/CruelCyclops_/158/525/9000/1320/234 43 5/500/2000
+HalfOrc@/HalfOrc@/158/570/8000/0/208 43 3/500/2000
+Meio_Orc@@/Meio_Orc@@/158/570/8000/0/208 43 3/500/2000
+AgmoGhoul/AgmoGhoul/160/440/26000/1000/229 43 7/500/2000
+Agmo_Ghoul/Agmo_Ghoul/160/440/26000/1000/229 43 7/500/2000
+Argos___/Argos___/160/480/9000/1450/238/500/2000
+HunterTroll@/HunterTroll@/160/570/8500/0/213 43 3/500/2000
+Bruxa_Elfica/Bruxa_Elfica/162/600/12500/1680/284/500/2000
+Chefe_Troll/Chefe_Troll/162/540/9300/1105/213 43 6/500/20
+FreakTroll@/FreakTroll@/162/572/8700/0/212 43 3/500/2000
+FallenTroll@/FallenTroll@/164/625/10000/0/213 43 3/500/2000
+AncientArgo/AncientArgo/165/490/20000/750/238 43 7/500/2000
+Ancient_Argo/Ancient_Argo/165/490/20000/750/238 43 7/500/2000
+Grim_Lock/Grim_Lock/165/565/11200/1600/294/500/2000
+Ghoul@/Ghoul@/166/286/8800/0/228 43 3/500/2000
+Ghoul@@/Ghoul@@/166/586/8800/0/228 43 3/500/2000
+Cabuncle@/Cabuncle@/168/590/8500/0/230 43 3/500/2000
+Carbunkle@/Carbunkle@/168/590/8500/0/230 43 3/500/2000
+Carbunkle@@/Carbunkle@@/168/590/8500/0/230 43 3/500/2000
+Ghoul_/Ghoul_/168/358/10800/1148/228/500/2000
+Grande_Carb/Grande_Carb/170/214/2000/382/230 43 253/500/2000
+Hydra/Hydra/170/414/7200/1120/218/500/2000
+Meio_Orc____/Meio_Orc____/170/490/8100/995/208/500/2000
+Minotaur@/Minotaur@/170/597/9000/0/235 43 3/500/2000
+Minotauro@/Minotauro@/170/597/9000/0/235 43 3/500/2000
+Minotauro@@/Minotauro@@/170/597/9000/0/235 43 3/500/2000
+NewbieHydra/NewbieHydra/170/235/5200/170/218/120/1200
+Carbunkle__/Carbunkle__/171/567/11050/1199/230/500/2000
+Ciclope_Forte/Ciclope_Forte/171/550/15000/1000/234/500/2000
+Force_Cyclops/Force_Cyclops/171/550/15000/1000/234/500/2000
+Chefe_Ghoul@/Chefe_Ghoul@/172/600/8900/0/229 43 3/500/2000
+Chefe_Ghoul@@/Chefe_Ghoul@@/172/600/8900/0/229 43 3/500/2000
+GhoulChief@/GhoulChief@/172/600/8900/0/229 43 3/500/2000
+Lord_Trooper@@/Lord_Trooper@@/172/550/12000/1500/208/500/2000
+OrcLordTrooper/OrcLordTrooper/172/550/12000/1500/208/120/840
+Carb_High@/Carb_High@/174/605/8700/0/231 43 6/500/2000
+HighCabuncle@/HighCabuncle@/174/605/8700/0/231 43 6/500/2000
+AgmoFroggy/AgmoFroggy/175/570/30000/1010/252 43 7/500/2500
+Agmo_Froggy/Agmo_Froggy/175/570/30000/1010/252 43 7/500/2500
+Ciclope@/Ciclope@/176/610/10200/0/233 43 3/500/2500
+Ciclope@@/Ciclope@@/176/610/10200/0/233 43 3/500/2500
+Cyclops@/Cyclops@/176/610/10200/0/233 43 3/500/2500
+OrcShaman@/OrcShaman@/176/700/8200/0/232 43 3/185/2000
+Orc_Shama@@/Orc_Shama@@/176/700/8200/0/232 43 3/185/2000
+Orc_Shaman@/Orc_Shaman@/176/700/8200/0/232 43 3/185/2000
+Ghoul_Chefe/Ghoul_Chefe/177/590/12000/1250/229/500/2500
+Esqueleto@@/Esqueleto@@/178/620/9100/0/260 43 3/500/2500
+Alto_Carbunkle/Alto_Carbunkle/179/599/12350/1265/231/500/2500
+Arq_Caveira@/Arq_Caveira@/182/477/9000/0/277 43 3/500/2500
+Ciclope__/Ciclope__/182/611/12400/1270/233/500/2500
+Esq_Arqueiro@@/Esq_Arqueiro@@/182/477/9000/0/277 43 3/500/2500
+Rubra/Rubra/183/565/5200/1600/353/40000/99999
+Rubra_A_Dourada/Rubra_A_Dourada/183/565/6200/1600/353 43 9/40000/60000
+Rubra_Dourada/Rubra_Dourada/183/565/6200/1600/353 43 9/40000/99999
+Rubra_N_Dourada/Rubra_N_Dourada/183/565/6200/1600/353 43 9/40000/60000
+AgmoCyclops/AgmoCyclops/186/780/30000/1620/234 43 7/500/2500
+AgmoCyclops@/AgmoCyclops@/186/780/30000/800/234 43 7/500/2500
+Agmo_Cyclops/Agmo_Cyclops/186/780/30000/1620/234 43 7/500/2500
+Esqueleto_/Esqueleto_/187/628/12900/1290/260/500/2500
+Esqueleto__/Esqueleto__/187/628/12900/1290/260/500/2500
+DarkElf/DarkElf/190/423/7500/1130/284/500/2500
+NewbieElf/NewbieElf/190/284/5000/430/212/130/1200
+NewbieWarrior/NewbieWarrior/192/285/5400/220/260/128/1200
+Esqueleto_Arq/Esqueleto_Arq/193/648/13350/1334/277/500/2500
+AgmoArgos/AgmoArgos/195/940/32000/1900/238 43 7/500/2500
+Agmo_Argos/Agmo_Argos/195/940/32000/1900/238 43 7/500/2500
+NewbieKnight/NewbieKnight/195/293/5000/350/260 43 2/0/1200
+DemoBM/DemoBM/199/538/9900/1530/21/200/200
+DemoFM/DemoFM/199/538/9900/1530/11/200/200
+DemoHT/DemoHT/199/538/9900/1530/31/200/200
+DemoTK/DemoTK/199/538/9900/1530/1/200/200
+God_Bor/God_Bor/199/5/25000/2500/365 43 233/500/2500
+God_Bor_/God_Bor_/199/0/30000/500/365 43 9/500/2500
+Archer_Cyclops/Archer_Cyclops/200/850/20000/2100/242/40000/300
+Arq_Ciclope/Arq_Ciclope/200/850/20000/1700/242/500/2500
+Cav.Mortal_/Cav.Mortal_/200/500/8000/500/283 43 5/40000/5000
+Caveira_Inf/Caveira_Inf/200/1000/12000/450/260/12000/4000
+Ciclope_Sang__/Ciclope_Sang__/200/1410/31000/2480/234/500/2500
+Espectro/Espectro/200/1/12000/600/260/500/2500
+Espectro_/Espectro_/200/1/12000/600/260/500/2500
+Espectro__/Espectro__/200/1/12000/600/260/500/2500
+Espectro___/Espectro___/200/1/12000/600/277/500/2500
+GoldHydra/GoldHydra/200/540/30000/1440/218 43 6/500/2500
+HydraOuro/HydraOuro/200/540/30000/1440/218 43 6/500/2500
+Kefrinha/Kefrinha/200/10/10/10/363 116 1/500/2500
+Murmy/Murmy/200/30000/60000/30000/71/420/10000
+PerGagoil/PerGagoil/200/50/6000/500/295/7000/3000
+PerGargula/PerGargula/200/100/6000/500/295/2000/3000
+PerGorgon/PerGorgon/200/100/6000/500/301/2000/3000
+PerKnight/PerKnight/200/100/6000/500/283/2000/3000
+PerSpider/PerSpider/200/100/6000/500/353/2000/660
+Rei_Cav.Mortal_/Rei_Cav.Mortal_/200/500/15000/500/283 43 8/40000/9999
+Sephirot_BM/Sephirot_BM/200/1300/8000/1500/392/9999/140000
+Sephirot_FM/Sephirot_FM/200/1300/8000/1500/391/9999/140000
+Sephirot_HT/Sephirot_HT/200/1300/8000/1500/393/9999/140000
+Sephirot_TK/Sephirot_TK/200/1300/8000/1500/2186/9999/140000
+Anf_Ninja/Anf_Ninja/201/485/9800/1360/252/140/880
+Gargula_Inf/Gargula_Inf/201/508/10100/1296/295 43 253/0/40000
+Gargula_Servo/Gargula_Servo/201/488/8100/1096/295 43 0/500/2500
+OddFrog/OddFrog/201/485/9800/1360/252/140/880
+Golem_de_Pedra/Golem_de_Pedra/205/525/10800/1480/297/500/2500
+Hazling/Hazling/208/800/17000/2500/201/500/2500
+Hezling/Hezling/208/800/17000/2500/201/500/2500
+GrimLock/GrimLock/210/565/11200/1600/294/500/3000
+Mage_Cyclops/Mage_Cyclops/215/950/20000/1900/243/40000/99999
+Mago_Ciclope/Mago_Ciclope/215/950/20000/1900/243/500/3000
+Fire_Golem/Fire_Golem/218/710/18000/2000/298/40000/99999
+Golem_Inferno/Golem_Inferno/218/5000/30000/8000/298/500/3000
+Anf_Assassino/Anf_Assassino/220/585/12000/1640/247/500/3402
+Ciclop_Selvagem/Ciclop_Selvagem/220/1050/20000/2400/234/500/3000
+colioff/colioff/220/1050/20000/2400/234/500/3000
+colion/colion/220/1050/20000/2400/234 8 0/500/3000
+FroggyAssassin/FroggyAssassin/220/585/12000/1640/247/500/3000
+Orc_Arq_Penado/Orc_Arq_Penado/220/900/15000/1950/209/2500/2500
+Orc_Mago_Penado/Orc_Mago_Penado/220/1200/15000/1950/232/2500/2500
+Cav._Mortal___/Cav._Mortal___/221/720/18000/2150/283/500/3000
+Cav._Mortal____/Cav._Mortal____/221/750/22000/2290/283 43 9/500/3000
+DarkKnightKing@/DarkKnightKing@/225/620/16000/1260/283 43 7/500/3000
+DeathKnight@/DeathKnight@/225/580/8800/1124/283/500/3000
+Agmo_Ciclope/Agmo_Ciclope/226/780/30000/1620/234 43 7/500/3000
+Cav._Servo/Cav._Servo/230/500/17100/800/260 43 6/500/3000
+Cav_Kaizen/Cav_Kaizen/230/428/9400/1729/260 43 9/500/3000
+EsqGuerreiro@/EsqGuerreiro@/230/328/7100/1056/260 43 6/130/1256
+Guer_Caveira@@/Guer_Caveira@@/230/468/8100/1236/260/500/1500
+KaizenAmald/KaizenAmald/230/1/1/1/260 43 6/500/3000
+KaizenKnight/KaizenKnight/230/828/19400/1729/260 43 9/500/3000
+Gargula_Sabio/Gargula_Sabio/232/800/30000/2600/295 43 230/500/3000
+AgmoHydra/AgmoHydra/235/890/32000/2060/218 43 7/500/3000
+Agmo_Hidra/Agmo_Hidra/235/890/32000/2060/218 43 7/500/3000
+Agmo_Hydra/Agmo_Hydra/235/890/32000/2060/218 43 7/500/3000
+Aqua_Golem/Aqua_Golem/236/800/20000/2450/309/500/3000
+Dragao_de_Cobre/Dragao_de_Cobre/239/50/19000/50/332/500/3000
+Anf_Ninja__/Anf_Ninja__/240/461/12000/1240/252/160/378
+ArqEsquel__/ArqEsquel__/240/367/9500/828/277/500/3000
+Arq_Caveira__/Arq_Caveira__/240/367/9500/828/277/500/3000
+Bruxa_Elfa/Bruxa_Elfa/240/600/12500/1680/284/500/3000
+Cabuncle_High@/Cabuncle_High@/240/300/3200/484/231 43 9/500/3000
+Cabuncle_High_/Cabuncle_High_/240/200/3200/384/231 43 6/500/3000
+CarbunAmald/CarbunAmald/240/1/1/384/231 43 6/500/3000
+Carb_Invasor@/Carb_Invasor@/240/300/3200/484/231 43 9/500/2000
+Carb_Invasor_/Carb_Invasor_/240/200/3200/384/231 43 6/500/2000
+DarkElfWitch/DarkElfWitch/240/600/12500/1680/284/500/3000
+DarkKnight___/DarkKnight___/240/648/13800/1480/283/500/3000
+DemonLord__/DemonLord__/240/728/14600/1560/301 43 7/500/3000
+Esq_Lanceiro_/Esq_Lanceiro_/240/382/10000/1018/260/500/3000
+GrimLock___/GrimLock___/240/565/12800/1380/294/500/3000
+Guer_Caveira__/Guer_Caveira__/240/428/11000/1110/260/500/3000
+OddFrog__/OddFrog__/240/461/12000/1240/252/160/378
+Cav._Kaizen/Cav._Kaizen/241/208/8100/800/260 43 6/500/3000
+Cav._Mortal/Cav._Mortal/243/1400/28000/3000/283 43 7/500/3000
+CavElfoNegro/CavElfoNegro/248/550/13000/50/287 43 8/40000/8000
+DarkElfKnight_/DarkElfKnight_/248/730/17000/1780/287 43 2/500/3500
+ElfoNegro_/ElfoNegro_/248/730/17000/1780/287 43 2/500/3500
+Aranha(A)/Aranha(A)/250/600/20000/1500/352/0/200000
+Argos_Pesa(A)/Argos_Pesa(A)/250/400/7000/1080/238/0/200000
+Argos_Pesa(A)_/Argos_Pesa(A)_/250/400/7000/1080/238/0/200000
+Boar_/Boar_/250/800/6000/150/216 43 4/500/3500
+Ciclope_Wild/Ciclope_Wild/250/1300/30000/2800/234 8 0/500/3500
+Ciclope_Wild_/Ciclope_Wild_/250/300/12000/1300/234 8 0/0/155200
+Dragao_Amald/Dragao_Amald/250/1560/32000/3250/293 43 253/500/3500
+Dragao_Selvagem/Dragao_Selvagem/250/50/19000/50/332/500/3500
+Elfo(A)/Elfo(A)/250/500/13000/1600/59/0/200000
+Elfo(A)_/Elfo(A)_/250/500/12000/1600/59/0/200000
+Event_Drop/Event_Drop/250/100/100/100/202/0/250
+Gagoil/Gagoil/250/645/14000/1820/295/500/3500
+Gargula/Gargula/250/645/14000/1820/295/0/2000
+Gargula@/Gargula@/250/345/14000/820/295/0/50000
+Imp/Imp/250/525/10800/1480/239 43 3/500/3500
+Manticora_(A)/Manticora_(A)/250/850/12000/1620/354/9999/200000
+Manticora_(A)_/Manticora_(A)_/250/850/12000/1620/354/9999/200000
+Mino_Pesa(A)/Mino_Pesa(A)/250/191/2200/406/235/0/200000
+OrcTrooper@/OrcTrooper@/250/800/30000/1000/208 43 6/270/3000
+Orc_Trooper@/Orc_Trooper@/250/800/30000/1000/208 43 6/270/3000
+DragonPappy__/DragonPappy__/251/805/6500/150/300 43 4/500/3500
+Eagle_/Eagle_/252/810/7000/150/206 43 4/500/3500
+BowOrc/BowOrc/253/815/7500/150/209 43 4/500/3500
+CabuncleOrder/CabuncleOrder/254/820/8000/150/230 43 4/500/3500
+DeathKnight__/DeathKnight__/255/700/18000/1600/283 43 7/500/3500
+FireGolem/FireGolem/255/710/18000/2000/298/500/3500
+Gagoil@/Gagoil@/255/481/8000/1011/295/500/3500
+GagoilChief/GagoilChief/255/571/14500/1099/295 43 9/500/3500
+Ghoul__/Ghoul__/255/325/8500/150/228 43 4/500/3500
+Golem_de_Fogo/Golem_de_Fogo/255/710/18000/2000/298/500/3500
+M.Elfo_Negro/M.Elfo_Negro/255/620/10000/650/287 43 9/40000/99999
+Arqueira_Pen/Arqueira_Pen/256/1200/20000/2500/31/500/3500
+Bruxa_Pen/Bruxa_Pen/256/1200/20000/2500/11/500/3500
+Demon_Gorgon/Demon_Gorgon/256/1960/28467/4100/301 43 9/500/3500
+Elemental_Pen/Elemental_Pen/256/1200/20000/2500/21/500/3500
+Guerreiro_Pen/Guerreiro_Pen/256/1200/20000/2500/1/500/3500
+Meio_Orc__/Meio_Orc__/256/190/3850/500/208/500/3500
+Orc_Penado/Orc_Penado/256/1000/15000/1950/207/2550/2500
+Rei_Taurus__/Rei_Taurus__/256/645/9000/150/237 43 4/500/3500
+HunterTroll___/HunterTroll___/257/835/9500/150/213 43 4/500/3500
+FreakTroll___/FreakTroll___/258/840/10500/150/212 43 4/500/3500
+AgmoGolem/AgmoGolem/260/1050/32000/2450/298 43 7/500/3500
+Agmo_Golem/Agmo_Golem/260/1050/32000/3000/298 43 7/500/3500
+ElfMagician/ElfMagician/260/860/19000/2050/287 43 6/500/3500
+Elfo_Maligno/Elfo_Maligno/260/86/4000/205/287 43 6/500/3500
+P_Elfos/P_Elfos/260/400/30000/1500/287 43 9/9999/99999
+P_Elfos_/P_Elfos_/260/400/30000/1500/287 43 9/9999/99999
+Carb_High___/Carb_High___/261/855/12000/150/231 43 4/500/3500
+HighCabuncle___/HighCabuncle___/261/855/12000/150/231 43 4/500/3500
+Bruxa_Elfa__/Bruxa_Elfa__/264/870/13500/150/284 43 4/500/3500
+Ciclope_Anct/Ciclope_Anct/264/930/8500/2520/234 43 8/500/3500
+DarkElfWitch__/DarkElfWitch__/264/870/13500/150/284 43 4/500/3500
+Ciclope___/Ciclope___/265/875/14000/150/233 43 4/500/3500
+Cyclops___/Cyclops___/265/875/14000/150/233 43 4/500/3500
+CombatCyclops/CombatCyclops/267/885/15000/150/233 43 4/500/3500
+Argos__/Argos__/268/890/15500/150/238 43 4/500/1500
+Golem_Agmo/Golem_Agmo/268/1010/29500/2700/298 43 8/500/3500
+Mestre_Golem/Mestre_Golem/268/1/29500/2000/298 121 9/500/0
+CruelZakum_/CruelZakum_/269/895/16000/150/259 43 4/500/3500
+FroggyPhantom/FroggyPhantom/270/900/16500/150/247 43 4/500/3500
+DarkElfArcher__/DarkElfArcher__/271/906/17000/150/284 43 4/500/3500
+ElfoArqNegro_/ElfoArqNegro_/271/906/17000/150/284 43 4/500/3500
+ElfoArqNegro__/ElfoArqNegro__/271/906/17000/150/284 43 4/500/3500
+BanditsTaron_/BanditsTaron_/272/910/17500/150/312 43 4/500/3500
+Ladrao_Tauron_/Ladrao_Tauron_/272/910/17500/150/312 43 4/500/3500
+CH_Troll_Ghoul/CH_Troll_Ghoul/275/1100/23500/2800/306/500/3500
+CH_Troll_Zumbi/CH_Troll_Zumbi/275/1380/29500/2800/306/500/3500
+AgmoTrollChief/AgmoTrollChief/280/1450/32000/2700/306 43 7/500/4000
+Agmo_TrollChief/Agmo_TrollChief/280/1450/32000/2700/306 43 7/500/4000
+Cavaleiro_Orc@/Cavaleiro_Orc@/280/350/10000/400/207/0/40000
+Krill_Gigante@/Krill_Gigante@/280/300/10000/400/204/0/40000
+Meio_Orc@/Meio_Orc@/280/350/10000/265/208/0/40000
+Orc_Caos@@/Orc_Caos@@/280/330/13200/110/207 43 4/72/4400
+Rei_Gremlin@/Rei_Gremlin@/280/350/10000/200/222/0/40000
+CopperDragon/CopperDragon/282/850/22000/2600/201/500/4000
+BoneDragon/BoneDragon/290/1100/26000/2800/293/500/4000
+BossNesses/BossNesses/290/1430/30000/8000/312/40000/80000
+Cavaleiro_Negro/Cavaleiro_Negro/290/950/24000/2700/283/500/4000
+ChaosOrc____/ChaosOrc____/290/363/14520/121/207 43 8/500/4000
+ChaosOrc_____/ChaosOrc_____/290/363/14520/121/207 43 8/500/4000
+DarkKnight/DarkKnight/290/950/24000/2700/283/500/4000
+Dracorich/Dracorich/290/1100/26000/2800/293/500/4000
+Ladrao_Taron/Ladrao_Taron/290/1430/30000/3395/312/40000/20000
+AgmoElf/AgmoElf/295/1800/32000/3100/287 43 7/500/4000
+Agmo_Elf/Agmo_Elf/295/1800/32000/3100/287 43 7/500/4000
+Caveira_Lanc_/Caveira_Lanc_/299/575/6200/1200/260/500/4000
+HelaGuardia/HelaGuardia/299/0/29000/1000/395/0/0
+LichCaos/LichCaos/299/0/29000/1000/364 122 251/0/0
+Lich_Caos/Lich_Caos/299/0/29000/1000/364/0/0
+Lich_Infernal/Lich_Infernal/299/1800/29000/4000/364/0/103000
+AgmoArgos@/AgmoArgos@/300/940/32000/500/238 43 7/500/4000
+Aparicao_/Aparicao_/300/1/30000/1/260 43 253/500/1000
+Archer_Taron/Archer_Taron/300/1500/30000/3000/313/40000/20000
+Argos/Argos/300/400/7000/1080/238/500/1000
+ArgosWanderer/ArgosWanderer/300/446/8000/1170/238/500/4000
+Argos_Errante/Argos_Errante/300/446/8000/1170/238/500/1000
+Arqueiro_Taron/Arqueiro_Taron/300/1200/30000/2800/313/40000/15000
+BerserkerElf__/BerserkerElf__/300/484/11180/133/284 43 8/500/4000
+Camponesa/Camponesa/300/50/10000/50/140 43 0 100 24/500/4000
+Camponesa_Amald/Camponesa_Amald/300/10000/30000/15000/382/500/4000
+Cap._Amon/Cap._Amon/300/1795/28000/4050/371/0/6000
+DeathKnight/DeathKnight/300/1400/28000/3000/283 43 7/500/4000
+Demon_Lord_/Demon_Lord_/300/1600/30000/3200/311 43 7/500/4000
+Elfo_Negro__/Elfo_Negro__/300/671/3000/900/284/500/7500
+Espectro_Negro/Espectro_Negro/300/1200/32000/2000/367/500/4000
+Espectro_Negro_/Espectro_Negro_/300/1200/32000/2000/367/500/4000
+Feit._Perversa/Feit._Perversa/300/500/22000/2800/42/500/4000
+Grinch/Grinch/300/1000/32000/5000/238 118 250/500/4000
+Guer._Perversa/Guer._Perversa/300/500/22000/2800/44/500/4000
+Guer._Perverso/Guer._Perverso/300/500/22000/2800/41/500/4000
+Hidra_/Hidra_/300/870/8000/1270/218/500/7500
+Ladrao_Pen/Ladrao_Pen/300/1/22000/2000/390/500/4000
+Ladrao_Pen_/Ladrao_Pen_/300/600/22000/2000/391/500/4000
+Ladrao_Pen__/Ladrao_Pen__/300/400/22000/2000/392/500/4000
+Ladrao_Pen___/Ladrao_Pen___/300/200/22000/2000/393/500/4000
+Lich_Infernal_/Lich_Infernal_/300/1800/29000/4000/364/0/103000
+Lobo_Amald/Lobo_Amald/300/5000/30000/5000/299 43 1/500/4000
+Mago._Perverso/Mago._Perverso/300/500/8000/2800/43/500/4000
+MeioOrk@/MeioOrk@/300/470/15000/1250/208/500/3500
+Mestre_ABJ/Mestre_ABJ/300/1250/20000/1000/287 43 9/500/4000
+Morlock___/Morlock___/300/1250/20000/1350/301 43 253/500/4000
+Perseguidor/Perseguidor/300/1/30000/1/260 43 253/500/1000
+Rei_Lich_Crunt_/Rei_Lich_Crunt_/300/1800/29000/4000/364/0/103000
+Aberes/Aberes/301/1302/27000/2900/52/500/4000
+Aberest__/Aberest__/301/1302/27000/2900/52/500/4000
+Averest/Averest/301/1302/27000/2900/52/500/4000
+Bardes/Bardes/301/15000/29000/15000/16/0/10800
+Bruxa/Bruxa/301/1000/24000/2170/11/500/4000
+Cav._Real/Cav._Real/301/1447/24000/3130/60/500/4000
+Combatente/Combatente/301/960/27000/2800/60/500/4000
+FCombatant__/FCombatant__/301/960/27000/2800/60/500/4000
+Feiticeira/Feiticeira/301/1338/26000/2545/11/500/4000
+FieldCombatant/FieldCombatant/301/960/27000/2800/60/500/4000
+FieldCombatant_/FieldCombatant_/301/960/27000/2800/60/500/4000
+Field_Combatant/Field_Combatant/301/960/27000/2800/60/500/4000
+Guarda_do_Rei/Guarda_do_Rei/301/1202/24000/3000/60/500/4000
+Guarda_do_Rei_/Guarda_do_Rei_/301/1202/24000/3000/60/500/4000
+Guarda_Real/Guarda_Real/301/1447/24000/3130/60 43 1 100 13/500/4000
+GuardChief/GuardChief/301/1447/29000/3130/60/500/4000
+K's_GuardChief/K's_GuardChief/301/1447/24000/3130/60/500/4000
+King'sGuard/King'sGuard/301/1202/28000/3000/60/500/4000
+King's_Guard/King's_Guard/301/1202/24000/3000/60/500/4000
+Lanceiro/Lanceiro/301/828/25000/2582/60/500/4000
+Magician/Magician/301/1000/24000/2170/53/500/4000
+Magician__/Magician__/301/1000/24000/2170/53/500/4000
+MHumphrey/MHumphrey/301/1000/25000/2582/60/0/250
+MSabina/MSabina/301/1000/24000/2500/52/0/250
+Pikeman/Pikeman/301/828/25000/2582/60/0/100
+Pikeman__/Pikeman__/301/828/25000/2582/60/0/100
+Aberest_/Aberest_/302/1270/27000/2900/17/500/4000
+Averest_/Averest_/302/1270/27000/2900/52/500/4000
+Batorero_Guarda/Batorero_Guarda/302/2790/30000/4850/361 43 8/500/4000
+Bruxa_/Bruxa_/302/1000/24000/2200/11/500/4000
+Cav._Real_/Cav._Real_/302/1600/24000/3200/305/500/4000
+Chefe_Treino/Chefe_Treino/302/1/10000/8000/305 67 1 100 13/0/2500
+Combatente_/Combatente_/302/948/27000/2800/60/500/4000
+Feiticeira_/Feiticeira_/302/1500/26000/2600/11/500/4000
+Guarda_Capa/Guarda_Capa/302/1600/24000/3200/305 43 1 100 13/500/4000
+Guarda_Real_/Guarda_Real_/302/1600/24000/3200/305 43 1 100 13/500/4000
+GuardChief_/GuardChief_/302/1600/29000/3200/305/500/4000
+K's_GuardChief_/K's_GuardChief_/302/1600/24000/3200/305/500/4000
+King'sGuard_/King'sGuard_/302/1231/28000/3000/305/500/4000
+King_Glantuar_/King_Glantuar_/302/6500/30000/5000/304/40000/10000
+Lanceiro_/Lanceiro_/302/838/25000/2600/60/500/4000
+Magician_/Magician_/302/1000/24000/2200/53/500/4000
+MElizabeth/MElizabeth/302/1000/24000/2500/52/0/250
+MIrena/MIrena/302/1000/24000/2200/53/0/250
+MNichael/MNichael/302/1100/25000/2600/60/0/250
+Pikeman_/Pikeman_/302/838/25000/2600/60/0/100
+Redmiran/Redmiran/302/15000/29000/15000/16/0/10800
+Redmiron/Redmiron/302/15000/29000/15000/16/0/10800
+BlackOracle/BlackOracle/303/500/9000/500/53/500/4000
+Black_Oracle/Black_Oracle/303/500/9000/500/18 43 0 19 0/500/4000
+BlueOracle/BlueOracle/303/500/9000/500/53/500/4000
+KingdomBrocker/KingdomBrocker/303/500/9000/500/60/500/4000
+Kingdom_Brocker/Kingdom_Brocker/303/500/9000/500/60 43 1 16 0/500/4000
+Kingdom_Broker/Kingdom_Broker/303/500/9000/500/60/500/4000
+Oraculo_Azul/Oraculo_Azul/303/500/9000/500/18 43 1 86 17/0/25000
+Oraculo_Negro/Oraculo_Negro/303/500/9000/500/18/0/1742
+Oraculo_Rubro/Oraculo_Rubro/303/500/9000/500/18 43 1 86 17/0/25000
+RedOracle/RedOracle/303/500/9000/500/53/0/0
+Aquagolem/Aquagolem/305/800/20000/2450/309/500/4000
+Moloch/Moloch/305/1200/25000/2950/301 43 7/500/4000
+Morlock/Morlock/305/900/25000/2950/301 43 7/500/2000
+Assassin_Taron/Assassin_Taron/310/1550/30000/3600/313/40000/10000
+Cav._Elfo_Negro/Cav._Elfo_Negro/310/870/21000/2600/287 43 7/500/4000
+DarkElfAbjurer/DarkElfAbjurer/310/975/22000/2650/287 43 9/500/4000
+DarkElfKnight/DarkElfKnight/310/870/21000/2600/287 43 7/500/4000
+ElfoMistico/ElfoMistico/310/975/22000/2650/287 43 9/500/4000
+ElfoNegro/ElfoNegro/310/870/21000/2600/287 43 7/500/4000
+Elfo_Negro_Abj/Elfo_Negro_Abj/310/975/22000/2650/287 43 9/500/4000
+FireGagoil/FireGagoil/310/1800/30000/3500/310 43 7/500/4000
+GargulaFogo/GargulaFogo/310/1800/30000/3500/310 43 7/500/4000
+GoldHydra@/GoldHydra@/310/991/23000/961/218 43 6/500/4000
+Gold_Hydra/Gold_Hydra/310/991/23000/1650/218 43 6/40000/10000
+HidraAmald/HidraAmald/310/1/1/1/218 43 6/500/4000
+Hidra_de_Ouro_/Hidra_de_Ouro_/310/411/10000/1050/218 43 8/40000/5000
+Hidra_Dourada/Hidra_Dourada/310/991/23000/961/218 43 6/500/40000
+HydraOuro@/HydraOuro@/310/591/23000/961/218 43 6/500/4500
+Lobo_Infernal/Lobo_Infernal/310/2190/32000/4320/373/500/4000
+Hidra_Imortal/Hidra_Imortal/311/421/7200/811/218 43 3/500/40000
+Hydra@/Hydra@/311/221/7200/811/218 43 3/500/900
+Funer_Scyther_/Funer_Scyther_/312/1890/30000/3050/367/500/4000
+Lovey/Lovey/314/1000/150/1500/301 43 7/500/4000
+Minion/Minion/314/1000/15000/1500/301 43 7/500/4000
+AgmoWorm/AgmoWorm/315/1930/32000/3850/355 43 6/500/4500
+DemoGorgon/DemoGorgon/315/1920/30000/4100/301 43 9/500/4500
+Purple_Worm/Purple_Worm/315/1630/30000/3685/355/40000/10000
+Argos____/Argos____/320/821/15000/1980/238/500/1000
+Beastmaster_Pen/Beastmaster_Pen/320/2200/30000/3500/21/500/4500
+BerserkerElf/BerserkerElf/320/1400/9240/1100/284/500/6000
+ChaosOrc_/ChaosOrc_/320/330/13200/110/207 43 4/500/4000
+Elfo_Templario/Elfo_Templario/320/1170/31000/3600/287 43 7/500/4500
+Foema_Pen/Foema_Pen/320/2200/30000/3200/11/500/4500
+Huntress_Pen/Huntress_Pen/320/1500/20000/3000/31/500/4500
+Lich_Vatama/Lich_Vatama/320/2000/32000/5000/365/0/0
+Funer_Guarda/Funer_Guarda/322/1590/30000/3750/366/500/4500
+Agmo_Tauron/Agmo_Tauron/325/1900/30000/3750/314 43 7/500/4500
+Aranha_Inf/Aranha_Inf/325/1160/31000/2900/352/500/8102
+CH_Troll_Agmo/CH_Troll_Agmo/325/1450/30500/3400/306 43 8/500/4500
+DarkKnight__/DarkKnight__/325/900/24000/2650/283/500/9500
+Dracorich_/Dracorich_/325/1000/26000/2750/293/500/10500
+Gargula_/Gargula_/325/700/18000/2000/295/500/9500
+Golem_Flame/Golem_Flame/325/710/18000/2000/298/500/9500
+Iron_Taron/Iron_Taron/325/1600/30000/3600/314/40000/10000
+Lobo_Maldito/Lobo_Maldito/325/2390/20000/4520/389/500/4500
+Morlock__/Morlock__/325/1100/24000/2250/301 43 7/500/9500
+Aranha_Inferno/Aranha_Inferno/330/1250/28000/2950/352/500/5500
+DarkElf@/DarkElf@/330/1002/19300/1290/287 43 1/500/4500
+DarkElfMaster/DarkElfMaster/330/1075/28000/1902/287 43 7/500/4500
+DarkElgMaster/DarkElgMaster/330/1275/28000/1602/287 43 7/500/9500
+ElfoDev/ElfoDev/330/1/1/1/287 43 1/500/4500
+Gargula_Gigante/Gargula_Gigante/330/1694/30000/3050/295 43 2/500/4500
+Mestre_Elfo/Mestre_Elfo/330/600/24000/1500/287 43 7/500/4500
+Aranha_Venenosa/Aranha_Venenosa/331/1300/30000/2500/353/500/4500
+Balrog_Agmo/Balrog_Agmo/331/500/15000/2500/397 43 3/500/4500
+Carb_Noel/Carb_Noel/331/100/15000/500/356/500/4500
+Batorero_Mortal/Batorero_Mortal/332/2100/30000/4550/361/500/4500
+Guarda_Lich_/Guarda_Lich_/332/2990/23000/4050/364/500/4500
+Gold_Carbunkle/Gold_Carbunkle/335/1534/26000/3178/231 43 8/500/4500
+Dragao_Lich/Dragao_Lich/338/1100/32000/2800/293/0/4500
+BerserkerElf_/BerserkerElf_/340/84/10160/121/284 43 4/500/6000
+Bruxa_Elfa_/Bruxa_Elfa_/340/600/12500/1800/284/500/3500
+ChaosOrc__/ChaosOrc__/340/363/14520/121/207 43 8/500/4000
+ChaosOrc___/ChaosOrc___/340/363/14520/121/207 43 8/500/4000
+Chefe_Ghoul___/Chefe_Ghoul___/340/330/5000/800/229/500/3500
+CiclopAnciao__/CiclopAnciao__/340/551/14000/1480/234/500/3000
+EsqInvok/EsqInvok/340/425/8000/1180/271/500/3500
+Grinlock/Grinlock/340/498/12500/1320/294 43 8/500/3000
+Manticora_A/Manticora_A/340/1750/20000/8000/354/40000/50000
+SapoMatador/SapoMatador/340/600/16000/1600/247/500/3500
+Imp_/Imp_/341/525/10800/1480/239 43 3/500/4000
+InvasorTauron/InvasorTauron/345/1150/21000/1900/312/500/17500
+InvTauron/InvTauron/345/1150/21000/1900/312/500/19500
+AgmoTaron/AgmoTaron/350/1760/32000/3680/314 43 5/500/5000
+Aranha_Inferno_/Aranha_Inferno_/350/1160/24000/2300/352/500/7002
+ArcherTaron_/ArcherTaron_/350/1200/28000/2400/313/500/5000
+ArqueiroTauron/ArqueiroTauron/350/1200/28000/2400/313/500/5000
+Boss_Gremilin/Boss_Gremilin/350/1120/32000/2100/222 43 9/500/45000
+CabuncleOrder@/CabuncleOrder@/350/1400/20000/400/230 43 7/500/5000
+ChaosOrc/ChaosOrc/350/1100/12000/1000/207/500/5500
+Chefe_Amon_Inf/Chefe_Amon_Inf/350/195/25000/496/371/300/100000
+Chefe_Amon_Inf_/Chefe_Amon_Inf_/350/195/25000/496/371/300/100000
+Ciclope____/Ciclope____/350/761/12800/1710/233/500/5000
+Cyclops____/Cyclops____/350/761/12800/1710/233/500/5000
+DarkElfAbjurer_/DarkElfAbjurer_/350/891/17000/2100/287 43 9/500/5000
+Demon_Lord/Demon_Lord/350/2000/32000/2000/301 43 7/0/75000
+ElfoMistico_/ElfoMistico_/350/891/17000/2100/287 43 9/500/5000
+Fire_Gagoil/Fire_Gagoil/350/1800/30000/3500/310 43 7/40000/15000
+Flame_Gargula/Flame_Gargula/350/1800/30000/3500/310 43 9/500/5000
+Flame_Gargula_/Flame_Gargula_/350/1930/30000/3800/310 43 7/500/5000
+FZ_DemonLord/FZ_DemonLord/350/2500/32000/4600/311 43 7/500/5000
+Ghoul___/Ghoul___/350/1425/22000/400/228 43 7/500/5000
+Golem_de_F_/Golem_de_F_/350/760/18000/2000/298/500/5000
+Gremilin_Solar/Gremilin_Solar/350/1120/32000/2100/222 43 9/500/45000
+Guardiao_Orc/Guardiao_Orc/350/1200/32000/1200/210 43 11/570/5000
+HellSpider_/HellSpider_/350/1160/24000/2300/352/500/5000
+Inv_Gremilin/Inv_Gremilin/350/120/32000/500/222 43 9/500/15000
+Inv_Lobo/Inv_Lobo/350/900/32000/700/226 43 7/0/15000
+IronTaron_/IronTaron_/350/1250/30000/2540/314/500/5000
+IronTauron_/IronTauron_/350/1250/30000/2540/314/500/5000
+Lanceiro_Zakum_/Lanceiro_Zakum_/350/800/13500/1801/259/500/5000
+Lobo_Lunar/Lobo_Lunar/350/1900/32000/1700/226 117 9/0/45000
+Mantc_/Mantc_/350/1380/30000/2650/354/500/5000
+Manticora_/Manticora_/350/1380/30000/2650/354/500/2000
+Minotauro__/Minotauro__/350/730/11500/1690/235/500/5000
+Minotaur__/Minotaur__/350/730/11500/1690/235/500/5000
+OrcGuardian/OrcGuardian/350/1200/32000/1200/210 43 11/570/5000
+Rainha_Rubra/Rainha_Rubra/350/3500/32000/3700/353/1250/15000
+ReiLich/ReiLich/350/0/29000/4000/364 122 251/0/0
+Rei_Lich/Rei_Lich/350/0/29000/4000/364 122 9/0/0
+Aqua_Golem_/Aqua_Golem_/351/850/20000/2350/309/0/6000
+Aranha_Inferno@/Aranha_Inferno@/351/1160/24000/2300/352/500/15000
+Argos@/Argos@/351/821/15000/1980/238/500/15000
+Arqueira_Elite/Arqueira_Elite/351/2500/20000/3500/31/500/5000
+Arq_Taron@/Arq_Taron@/351/1200/28000/2400/313/500/15000
+Assass._Tauron/Assass._Tauron/351/1750/30000/3400/313/500/5000
+Assassino_Anf@/Assassino_Anf@/351/461/12000/1240/252/500/5000
+Bruxa_Elfica_/Bruxa_Elfica_/351/600/12500/1800/284/500/5000
+Bruxa_Elite/Bruxa_Elite/351/2500/20000/3500/11/500/5000
+Cav._Mortal_/Cav._Mortal_/351/1400/28000/3000/283 43 7/500/5000
+Caveira_Negra@/Caveira_Negra@/351/648/13800/1480/283/500/5000
+Cav_Negro@/Cav_Negro@/351/648/13800/1480/283/500/5000
+Cria_de_Aranha/Cria_de_Aranha/351/1150/30000/2900/353/500/5000
+Demonio_do_Vale/Demonio_do_Vale/351/1150/20000/2900/294/500/5000
+Elemental_Elite/Elemental_Elite/351/2500/20000/3500/21/500/5000
+Elfo_Negro@/Elfo_Negro@/351/891/17000/2100/287 43 9/500/15000
+Elfo_Negro_/Elfo_Negro_/351/423/7500/1130/284/0/3500
+Elfo_Supremo/Elfo_Supremo/351/4000/29000/5000/284 122 230/500/7500
+Esqueleto_Arq@/Esqueleto_Arq@/351/367/9500/828/277/500/5000
+FreakTroll@@/FreakTroll@@/351/1475/25000/400/212 43 7/500/5000
+Gargula_Sabio_/Gargula_Sabio_/351/1000/30000/2600/295 43 250/500/5000
+GrimLock_/GrimLock_/351/540/11000/1590/294/500/3500
+Grim_Lock__/Grim_Lock__/351/540/11000/1590/294/500/5000
+Guerreiro_Elite/Guerreiro_Elite/351/2500/20000/3500/1/500/5000
+HeavyTaron/HeavyTaron/351/1250/30000/2900/312/500/5000
+HunterTroll@@/HunterTroll@@/351/1450/23000/400/213 43 7/500/5000
+Lanceiro_Zakum@/Lanceiro_Zakum@/351/800/13500/1801/259/500/15000
+Lugefer_Maligno/Lugefer_Maligno/351/1000/32000/6552/174/0/7000
+Manticora@/Manticora@/351/1380/30000/2650/354/500/15000
+Morlock@/Morlock@/351/728/14600/1560/301 43 7/500/5000
+Seguidor_Arvak/Seguidor_Arvak/351/1150/30000/2900/352/500/5000
+Seguidor_Treant/Seguidor_Treant/351/1500/30000/1000/351 43 4/500/5000
+Guarda_Kefra/Guarda_Kefra/352/3060/30000/5150/363/500/5000
+Minotauro___/Minotauro___/352/1500/27000/400/235 43 7/500/5000
+Minotaur___/Minotaur___/352/1500/27000/400/235 43 7/500/5000
+OrcMage/OrcMage/352/350/15000/600/232/90/950
+OrcSniper_/OrcSniper_/352/280/12000/550/209/150/900
+SavageOrc/SavageOrc/352/400/20000/650/207/500/5000
+GrimLock__/GrimLock__/353/1550/29000/400/294 43 7/500/5000
+Carb_High@@/Carb_High@@/354/1600/31000/400/231 43 7/500/5000
+ChaosTroll__/ChaosTroll__/354/1625/32000/400/213 43 7/500/5000
+Deus_Fisico/Deus_Fisico/354/1500/16000/3000/371/0/32000
+Deus_Mago/Deus_Mago/354/1500/16000/3000/371/0/32000
+Guarda_Amon/Guarda_Amon/354/1800/30000/2800/369/40000/15000
+HighCabuncle@@/HighCabuncle@@/354/1600/31000/400/231 43 7/500/5000
+Aeon_Tauron_/Aeon_Tauron_/355/1500/20000/3500/314/500/5000
+Anf_Assassino__/Anf_Assassino__/355/1050/28000/2670/247/0/32600
+Ape/Ape/355/1330/32000/4300/368/500/5000
+ApeBleg/ApeBleg/355/2180/32000/3900/368/500/5000
+Ape_/Ape_/355/1300/22000/3100/368/500/5000
+Ape__/Ape__/355/2530/32000/4300/368 43 8/500/5000
+Aqua_Golem__/Aqua_Golem__/355/970/23000/2450/309/500/5000
+AranhaDourada@/AranhaDourada@/355/1630/25000/2800/352 43 7/500/5000
+Aranha_Dourada/Aranha_Dourada/355/1410/20000/2650/352 43 7/500/5000
+Aranha_Dourada@/Aranha_Dourada@/355/1630/25000/2800/352 43 7/500/5000
+Aranha_Rubra/Aranha_Rubra/355/1610/23000/3000/353/500/5000
+Aranha_Rubra@/Aranha_Rubra@/355/1600/26000/3100/353/500/5000
+ArqGelo/ArqGelo/355/3135/15000/800/393/500/5000
+BanditsTaron/BanditsTaron/355/1430/30000/2975/312/500/5000
+Batorero/Batorero/355/3360/32000/4300/361/0/70000
+BatoreroCristal/BatoreroCristal/355/3360/32000/4300/361 43 235/500/5000
+Batorero__/Batorero__/355/2360/32000/4300/361 43 8/500/5000
+BlazingRanger/BlazingRanger/355/3135/15000/800/393/500/5000
+BlazingShaman/BlazingShaman/355/3042/15000/800/392/500/5000
+BlazingSorcerer/BlazingSorcerer/355/3042/15000/800/391/500/5000
+BlazingTemplar/BlazingTemplar/355/3160/15000/800/390/500/5000
+Bruxa_Elfica__/Bruxa_Elfica__/355/1050/28000/2700/284/0/32600
+Cav.Caveira_/Cav.Caveira_/355/1198/29500/2036/260/500/5000
+Cav._Negro_/Cav._Negro_/355/950/28000/2700/283/500/5000
+CepraGuard/CepraGuard/355/100/22000/3000/363/500/5000
+CepraGuard@/CepraGuard@/355/100/30000/3500/363/500/5000
+CrimsonWidow/CrimsonWidow/355/1610/23000/3000/353/500/5000
+CrimsonWidow@/CrimsonWidow@/355/1600/26000/3100/353/500/5000
+CruelZakum__/CruelZakum__/355/1675/32000/400/259 43 7/500/5000
+DarkStonGolem/DarkStonGolem/355/225/10000/210/297/500/7500
+DarkStonGolem_/DarkStonGolem_/355/225/15000/210/297 43 3/500/7500
+DarkStonGolem__/DarkStonGolem__/355/225/15000/210/297 43 7/500/7500
+Dark_Shadow_/Dark_Shadow_/355/4690/25000/4840/174/500/5000
+Elfo_ABJ_/Elfo_ABJ_/355/1050/30000/1500/287 43 9/0/32600
+Elfo_Negro_Abj_/Elfo_Negro_Abj_/355/3050/10000/1200/287/500/15000
+FroggyKnight/FroggyKnight/355/95/3000/100/247/500/7000
+FroggyKnight_/FroggyKnight_/355/95/3000/100/247 43 4/500/7000
+FroggyKnight__/FroggyKnight__/355/95/3000/100/247 43 7/500/7000
+FrozenRanger/FrozenRanger/355/3135/15000/800/393/500/5000
+FrozenShaman/FrozenShaman/355/3042/15000/800/392/500/5000
+FrozenSorcerer/FrozenSorcerer/355/3042/15000/800/391/500/5000
+FrozenTemplar/FrozenTemplar/355/3160/15000/800/390/500/5000
+FunerMomenter/FunerMomenter/355/2100/32000/3900/366 43 7/500/5000
+FunerScyther/FunerScyther/355/1900/32000/3400/367/500/5000
+FunerSeamer/FunerSeamer/355/1900/32000/3400/366/0/7000
+FunerSeamer@/FunerSeamer@/355/2100/32000/3500/366/500/5000
+FunerSeamer_/FunerSeamer_/355/1240/17000/2800/366/500/5000
+FunerSeamer__/FunerSeamer__/355/1300/32000/4200/366 43 9/500/5000
+FunerSickler_/FunerSickler_/355/1300/22000/3100/368/500/5000
+FunerSickler__/FunerSickler__/355/1300/32000/4000/367 43 9/500/5000
+Funer_Momenter/Funer_Momenter/355/2100/32000/3900/366 43 7/500/5000
+Funer_Scyther/Funer_Scyther/355/1900/32000/3400/367/500/5000
+Funer_Seamer/Funer_Seamer/355/1900/32000/3400/366/500/5000
+Gargula__/Gargula__/355/1050/19000/1990/295/500/5000
+GoldenWidower/GoldenWidower/355/1410/20000/2650/352 43 7/500/5000
+GoldenWidower@/GoldenWidower@/355/1630/25000/2800/352 43 7/500/5000
+GrubSwarm/GrubSwarm/355/910/21000/1850/355/500/7000
+GrubSwarm@/GrubSwarm@/355/1600/22000/3100/355/500/5000
+Guarda_Negro/Guarda_Negro/355/925/20000/3750/174/40000/23000
+GuardGrimLock/GuardGrimLock/355/500/32000/700/294/500/2500
+GuardGrimLock_/GuardGrimLock_/355/500/32000/700/294/500/2500
+GuardGrimLock__/GuardGrimLock__/355/500/32000/700/294/500/2500
+Guer._Caveira_/Guer._Caveira_/355/1050/28000/2700/260/0/32600
+HorizonCropper/HorizonCropper/355/1950/27000/3250/283/0/12600
+Horizon_Cropper/Horizon_Cropper/355/1650/27000/3250/283/0/12600
+Horizon_Inf/Horizon_Inf/355/2010/30000/3695/283/500/5000
+Ladrao_Tauron/Ladrao_Tauron/355/1430/30000/2975/312/500/5000
+LiggleSwarm/LiggleSwarm/355/1650/21000/2850/355 43 7/500/5000
+Lugefer_/Lugefer_/355/1800/32000/3550/174/500/5000
+Lugefer__/Lugefer__/355/1800/32000/3550/174/500/5000
+MagoGelo/MagoGelo/355/3042/15000/800/391/500/5000
+Mago_do_Caos/Mago_do_Caos/355/6000/30000/1200/287/500/0
+Manticora/Manticora/355/1750/32000/3620/354/500/2000
+MasterGelo/MasterGelo/355/3042/15000/800/392/500/5000
+PerAranha/PerAranha/355/520/8000/640/353/0/660
+PerAranha_/PerAranha_/355/520/8000/640/353/0/660
+PerGagoil_/PerGagoil_/355/50/8000/600/295/7000/660
+PerGargula_/PerGargula_/355/520/8000/600/295/0/660
+PerGorgon_/PerGorgon_/355/50/8000/600/301/7000/660
+PerKnight_/PerKnight_/355/50/8000/620/283/7000/6600
+PerSpider_/PerSpider_/355/50/8000/640/353/7000/660
+RujeperChief/RujeperChief/355/1000/25000/2500/175 43 3/0/1100
+Seamer_Cristal/Seamer_Cristal/355/1900/32000/3400/366 43 235/500/5000
+DarkElfArcher_/DarkElfArcher_/356/1610/32000/400/284 43 7/500/5000
+Rei_Taurus___/Rei_Taurus___/356/1540/32000/400/237 43 6/500/5000
+DarkKnight_/DarkKnight_/357/1750/32000/400/283 43 7/500/5000
+Hidra_Venenosa/Hidra_Venenosa/357/1775/32000/400/218 43 7/230/2500
+PoisonHydra/PoisonHydra/357/1775/32000/400/218 43 7/230/2500
+FroggyMutant/FroggyMutant/358/1800/32000/400/247 43 8/500/5000
+GoldHezling/GoldHezling/358/1825/32000/400/201 43 9/500/5000
+OrcDoctor__/OrcDoctor__/359/1875/32000/400/232 43 7/210/2500
+Orc_Medico__/Orc_Medico__/359/1875/32000/400/232 43 7/210/7182
+ArcherCyclops/ArcherCyclops/360/850/20000/1700/242/500/5000
+Cav.Negro/Cav.Negro/360/2200/10000/4000/175 43 3/40000/5000
+Cav.Negro_/Cav.Negro_/360/2200/10000/4000/175 43 3/40000/5000
+Cav.Negro__/Cav.Negro__/360/2200/10000/4000/175 43 3/40000/5000
+Cav.Negro___/Cav.Negro___/360/2200/10000/4000/175 43 3/40000/5000
+Cav._Negro/Cav._Negro/360/2200/10000/4000/175 43 3/40000/5000
+Guer_Caveira_/Guer_Caveira_/360/1900/32000/400/260 43 7/500/5000
+HellSpider/HellSpider/360/1250/31000/2950/352/500/5000
+IcelandBear/IcelandBear/360/1400/32000/2500/372/500/5000
+PerAmon/PerAmon/360/1550/22000/2000/370/0/40000
+PerAmon_/PerAmon_/360/1350/28000/2000/370/0/700
+PerBear/PerBear/360/1350/28000/2000/372/0/40000
+PerBear_/PerBear_/360/1350/28000/2000/372/0/700
+PerEnt/PerEnt/360/1350/28000/2000/374/0/40000
+PerEnt_/PerEnt_/360/1350/28000/2000/374/0/700
+PerLobo/PerLobo/360/1350/28000/2000/389/0/700
+PerLobo_/PerLobo_/360/1350/28000/2000/389/0/700
+PerUrso/PerUrso/360/1350/28000/2000/372/0/700
+PerUrso_/PerUrso_/360/1350/28000/2000/372/0/700
+PerWolf/PerWolf/360/1350/28000/2000/389/0/40000
+PerWolf_/PerWolf_/360/1350/28000/2000/389/0/700
+P_Lugefer/P_Lugefer/360/3523/27000/3400/175 43 3/40000/29000
+P_Lugefer_/P_Lugefer_/360/3523/27000/3400/175 43 3/40000/29000
+SantaCabuncle/SantaCabuncle/360/90/10/200/356/500/5000
+ChaosMoloch/ChaosMoloch/361/1950/32000/400/301 43 7/500/5000
+FireGolem_/FireGolem_/361/1975/32000/400/298 43 7/500/5000
+IcelandWolf/IcelandWolf/361/1360/32000/2500/373/500/5000
+Lobo_Polar/Lobo_Polar/361/1360/32000/2500/373/500/5000
+Lobo_Polar_INV/Lobo_Polar_INV/361/1360/32000/2500/373/500/5000
+Seamer_Inf/Seamer_Inf/362/2190/30000/4850/366 43 233/500/5000
+FrozenTroll/FrozenTroll/363/1560/30000/2800/388/500/5000
+Ancient_Ape/Ancient_Ape/365/1640/30000/2950/375/500/5000
+Ancient_Ent/Ancient_Ent/365/1640/30000/2920/374/500/5000
+Ent_Anciao/Ent_Anciao/365/1640/30000/2920/374/500/5000
+Grande_Lobo/Grande_Lobo/365/1560/30000/2720/389/500/5000
+Kheser_Wolf/Kheser_Wolf/365/1560/30000/2720/389/500/5000
+AgmoElf@/AgmoElf@/370/1800/32000/800/287 43 7/500/5000
+Amon_Chief/Amon_Chief/370/1860/30000/3240/371/500/5000
+Amon_Soldier/Amon_Soldier/370/1700/30000/3060/369/500/5000
+Amon_Warrior/Amon_Warrior/370/1780/30000/3120/370/500/5000
+Ape@/Ape@/370/2400/32000/4600/368/500/5000
+ArcherTaron/ArcherTaron/370/1500/32000/3000/313/500/5000
+Arqueiro_Tauron/Arqueiro_Tauron/370/1500/32000/3000/313/500/5000
+AssassinTaron/AssassinTaron/370/1550/30000/3400/313/500/5000
+Capitao_Amon/Capitao_Amon/370/1860/30000/3240/371/500/5000
+Chefe_Amon/Chefe_Amon/370/1860/30000/3240/371/500/5000
+Guerreiro_Amon/Guerreiro_Amon/370/1780/30000/3120/370/500/5000
+Inv_Amon/Inv_Amon/370/4/1000/20/370/500/22000
+AdamantTaron/AdamantTaron/375/1863/32000/3650/314/500/5000
+AdamantTauron/AdamantTauron/375/1863/32000/3650/314/500/5000
+Adamant_Tauron/Adamant_Tauron/375/1863/32000/3650/314/500/5000
+Aeon_Tauron/Aeon_Tauron/375/1600/30000/3500/314/500/5000
+Cav._Negro__/Cav._Negro__/375/950/28000/2700/283/500/5000
+GrubSwarn__/GrubSwarn__/375/950/28000/2700/355/500/5000
+Homem_Kalintz/Homem_Kalintz/375/1910/30000/3200/376/500/5000
+Homem_Kalitz/Homem_Kalitz/375/1910/30000/3200/376/500/5000
+IronTaron/IronTaron/375/1600/30000/3500/314/500/5000
+IronTauron/IronTauron/375/1600/30000/3500/314/500/5000
+Kalintz_Man/Kalintz_Man/375/1910/30000/3200/376/500/5000
+Kalintz_Womon/Kalintz_Womon/375/1910/30000/3200/382/500/5000
+Mantc/Mantc/375/1750/32000/3620/354/500/5000
+Mulher_Kalintz/Mulher_Kalintz/375/1910/30000/3200/382/325/4985
+Mulher_Kalitz/Mulher_Kalitz/375/1910/30000/3200/382/500/5000
+PurpleWorm/PurpleWorm/375/1630/32000/3485/355/330/5350
+Aranha_Dourada_/Aranha_Dourada_/379/1578/30500/2492/352 43 9/500/5000
+Aranha_Inf__/Aranha_Inf__/379/1578/31000/2550/352/500/5000
+Gargula_Sabio__/Gargula_Sabio__/379/1578/30000/1900/295 43 250/500/5000
+GrubSwarm_/GrubSwarm_/379/1578/30000/1820/355/500/5000
+Lobo_Polar_/Lobo_Polar_/379/1578/30000/2580/373/500/5000
+Alquiniano/Alquiniano/380/3135/10000/3700/393/330/5500
+ArcherCyclop__/ArcherCyclop__/380/850/20000/1700/242/500/5000
+ArqLendario/ArqLendario/380/3135/20000/3700/393/330/5500
+Batorero@/Batorero@/380/2500/32000/4600/361/500/5000
+Bruxo_Amald/Bruxo_Amald/380/2075/11300/1/391/40000/20000
+Ciclope_Arq__/Ciclope_Arq__/380/850/20000/1700/242/500/5000
+Cursed_Ranger/Cursed_Ranger/380/3135/10000/3700/393/330/5500
+Cursed_Shaman/Cursed_Shaman/380/2042/10000/3700/392/330/5500
+Cursed_Sorcerer/Cursed_Sorcerer/380/2042/10000/3700/391/330/5500
+Cursed_Templar/Cursed_Templar/380/3160/10000/3700/390/330/5500
+Demo_Gorgon/Demo_Gorgon/380/1960/28467/4100/301 43 9/500/5000
+ForceCyclop_/ForceCyclop_/380/550/20000/1000/234/500/5000
+GuerTemplario/GuerTemplario/380/3160/20000/3700/390/330/5500
+H._Kalintz/H._Kalintz/380/2780/30000/4850/376/500/5000
+Kalintz(H)/Kalintz(H)/380/2780/30000/4850/376/500/5000
+Kalintz(M)/Kalintz(M)/380/2780/30000/4850/382/500/5000
+Lagarto_Inferno/Lagarto_Inferno/380/3000/30000/3000/241/500/5000
+M._Kalintz/M._Kalintz/380/2780/30000/4850/382/500/5000
+MagoTemplario/MagoTemplario/380/2042/20000/3700/391/330/5500
+Mago_Amald/Mago_Amald/380/2042/10000/3700/391/330/5500
+MasterLendario/MasterLendario/380/2042/20000/3700/392/330/5500
+MightyTalos/MightyTalos/380/1450/20000/2950/360 8 0/500/5000
+Ranger_Amald/Ranger_Amald/380/3135/10000/3700/393/330/5500
+Ranger_Curse/Ranger_Curse/380/3135/10000/3700/393/330/6500
+SavageCyclops_/SavageCyclops_/380/1050/20000/2400/234 8 0/500/5000
+Funer_Sickler/Funer_Sickler/382/2290/30000/4950/367 43 6/0/13500
+Guarda_Lich/Guarda_Lich/382/3990/30000/6050/364/500/5000
+Rei_Lich_Batama/Rei_Lich_Batama/382/3090/29000/4950/365/0/103000
+Rei_Lich_Crunt/Rei_Lich_Crunt/382/2990/29000/5050/364/0/103000
+Rubra_/Rubra_/383/565/11200/1600/353/40000/14000
+Rubra_Dourada_/Rubra_Dourada_/383/565/11200/1600/353 43 9/40000/15000
+Batorero_/Batorero_/385/1170/15000/1250/361/500/5500
+Cav_Lugefer_/Cav_Lugefer_/385/1865/32000/4300/175 43 3/866/7702
+RujeperBroken_/RujeperBroken_/385/1865/32000/4300/175 43 3/866/19812
+Coelho_Noel/Coelho_Noel/390/1/8000/3200/356 43 9/1/0
+CruelZakum/CruelZakum/390/700/30000/500/259/500/5500
+Dominatrix/Dominatrix/390/1/32000/4200/395/1/0
+FireGagoil___/FireGagoil___/390/3100/30000/3300/310 43 7/500/5500
+GargulaFogo___/GargulaFogo___/390/3100/30000/3300/310 43 7/500/5500
+Lady/Lady/390/4000/32000/4200/395/1/0
+Porquin/Porquin/390/1/32000/1/315 118 251/1/0
+Rainha_/Rainha_/390/1/32000/1/395/40000/99999
+Berserker_Ref/Berserker_Ref/395/3270/32000/4400/181/500/5500
+Berserker_Titan/Berserker_Titan/395/3270/32000/4400/181/500/5500
+Guarda_Beriel/Guarda_Beriel/395/2770/32000/3300/181/0/0
+Guarda_Negra/Guarda_Negra/395/3770/32000/3300/181 120 9/0/0
+Kalintz(M)_/Kalintz(M)_/395/1470/28000/2950/382/500/5500
+Morlock____/Morlock____/395/1470/28000/2950/301 43 7/500/5500
+ActKerdanChief/ActKerdanChief/399/90/850/180/306/920/8800
+AkeCanon/AkeCanon/399/4000/30000/1/351/500/5500
+AkeCommander/AkeCommander/399/5000/15000/1/53/500/5500
+AkeEnt/AkeEnt/399/4000/20000/1/351/500/5500
+AkeGuardTower/AkeGuardTower/399/4000/30000/1000/357/500/5500
+AkeProtector/AkeProtector/399/7500/20000/1/472/500/5500
+AkeTraining/AkeTraining/399/8000/20000/1000/53/500/5500
+Alphrad/Alphrad/399/600/16000/1600/1/500/5500
+Amazona_Negra/Amazona_Negra/399/6000/22000/7000/393/500/5500
+Amon_Inferno/Amon_Inferno/399/2500/30000/3500/371/40000/100000
+Anf_Assassino_/Anf_Assassino_/399/600/16000/1600/247/500/5500
+Anf_Ninja_/Anf_Ninja_/399/498/8700/1320/252/0/3000
+Anubis/Anubis/399/15000/28000/15000/2973/500/5500
+Aquagolem_/Aquagolem_/399/850/20000/2350/309/500/4500
+Arcade_Tor/Arcade_Tor/399/4200/32000/6750/394 43 253/920/14800
+ArcherCyclop___/ArcherCyclop___/399/147/6500/1060/242/500/5500
+Arkanaun/Arkanaun/399/600/16000/1600/247/500/5500
+Arvak/Arvak/399/6000/32000/10000/352 43 233/500/5500
+BlockDragon/BlockDragon/399/5000/30000/3500/200/0/0
+BoneDragon@/BoneDragon@/399/15000/26000/8000/293/670/160000
+BoneDragon__/BoneDragon__/399/15000/26000/8000/293/670/160000
+Bruxa_Negra/Bruxa_Negra/399/6000/22000/7000/391/500/5500
+Cake/Cake/399/4/25000/2500/348/500/5500
+Canhao/Canhao/399/4000/30000/1/178/500/5500
+Canhao_Blue/Canhao_Blue/399/4000/30000/1/53/500/5500
+Canhao_Real/Canhao_Real/399/4000/30000/1/53/500/5500
+Canhao_Real_/Canhao_Real_/399/4000/30000/1/351/500/5500
+Canhao_Red/Canhao_Red/399/4000/30000/1/351/500/5500
+Caveira_X/Caveira_X/399/1950/-32536/496/260 43 5/500/1000
+Cav_Negro/Cav_Negro/399/400/20000/1000/283/0/29600
+ChaosTaron/ChaosTaron/399/1863/32000/3650/314/733/4975
+ChaosTaurs/ChaosTaurs/399/254/4200/654/236/75/380
+Chefe_Ghoul__/Chefe_Ghoul__/399/330/5000/800/229/500/5500
+Chefe_Orc/Chefe_Orc/399/2900/30000/1000/210 43 7/570/3000
+Ciclope_Anc/Ciclope_Anc/399/551/14000/1480/234/500/5500
+Ciclope_Arq___/Ciclope_Arq___/399/147/6500/1060/242/500/5500
+Ciclope_Elder/Ciclope_Elder/399/1500/20000/1000/234/0/29000
+Clan_Beast/Clan_Beast/399/3100/32000/4900/205 43 7/1500/6000
+Clan_Commander/Clan_Commander/399/3100/32000/4900/311 43 7/1500/6000
+Clan_Leader/Clan_Leader/399/3800/32000/5750/364 43 253/920/14800
+Clan_Warrior/Clan_Warrior/399/3100/32000/4900/360 43 7/1500/6000
+Conj_Caveira_/Conj_Caveira_/399/425/8000/1180/271/500/5500
+Cursed_Verid/Cursed_Verid/399/3600/32000/4500/365 43 233/500/5500
+DarkElfWitch_/DarkElfWitch_/399/600/12500/1800/284/500/5500
+DarkElf_/DarkElf_/399/423/7500/1130/284/500/5500
+DarkMage/DarkMage/399/5000/32000/5000/364/500/5500
+DarkRanger/DarkRanger/399/6135/30000/3700/393/500/5500
+DarkShaman/DarkShaman/399/4042/30000/3700/392/500/5500
+Darksorcerer/Darksorcerer/399/4042/10000/3700/391/500/5500
+DarkTemplar/DarkTemplar/399/5160/30000/3700/390/500/5500
+DarkVerid/DarkVerid/399/4135/32000/3700/365 43 233/500/5500
+Dark_Shadow__/Dark_Shadow__/399/5690/25000/5840/174/500/5500
+DeathKnight___/DeathKnight___/399/2800/28000/3000/283 43 7/500/5500
+Defesa/Defesa/399/8000/20000/1000/53/500/5500
+Defesa_/Defesa_/399/8000/20000/1000/53/500/5500
+Demi_Lord/Demi_Lord/399/1200/15000/3000/301 43 7/500/5500
+Demonio_Alado/Demonio_Alado/399/700/24000/4000/397/500/5500
+DemonLord/DemonLord/399/3800/26000/5300/301 43 7/500/5500
+Dragao_Agmo/Dragao_Agmo/399/1/29000/2000/293 118 9/500/0
+Dragao_Lich_/Dragao_Lich_/399/400/20000/1000/293/0/29600
+Dragao_Lunar/Dragao_Lunar/399/2600/30000/1200/307 43 9/0/100000
+Dragao_Trevas/Dragao_Trevas/399/7800/29000/2900/201 118 9/500/5500
+Dragon_/Dragon_/399/13000/30000/12000/307 43 9/0/160
+Dragon__/Dragon__/399/15000/30000/13000/200/0/16
+EastBerserker/EastBerserker/399/2150/32000/5000/181/0/393
+ElderCyclops__/ElderCyclops__/399/551/14000/1480/234/500/5500
+ElderLich/ElderLich/399/8600/32000/9350/365/920/8800
+Escorpiao/Escorpiao/399/1900/32000/3500/2969/500/110000
+Escorpiao_X/Escorpiao_X/399/3200/32000/3500/2969 43 9/500/90000
+EsqGuerreiro/EsqGuerreiro/399/3600/22000/1700/260 43 7/0/10900
+EsqGuerreiro_/EsqGuerreiro_/399/3600/22000/1700/260 43 7/0/1400
+EvilBandits/EvilBandits/399/1430/30000/2975/312/290/5050
+EvilCyclops/EvilCyclops/399/1300/30000/2800/234 8 0/275/1150
+EvilTaron/EvilTaron/399/1150/30000/2900/312/280/4564
+FreazyArk/FreazyArk/399/7200/32000/5100/311 43 9/500/5500
+FrenzyDemon/FrenzyDemon/399/4200/32000/5100/311 43 7/500/5500
+FrenzyDemonLord/FrenzyDemonLord/399/4200/32000/5100/311 43 7/500/5500
+FrogAssassin_/FrogAssassin_/399/600/16000/1600/247/500/5500
+Gagoil_/Gagoil_/399/700/18000/2000/295/500/5500
+Gargula___/Gargula___/399/400/10000/1100/295/0/29000
+GhoulChief___/GhoulChief___/399/330/5000/800/229/500/5500
+GoldGrimLock/GoldGrimLock/399/498/12500/1320/294 43 8/500/5500
+Golem_Anciao/Golem_Anciao/399/1500/30000/1000/297/500/5500
+Golem_Anciao_/Golem_Anciao_/399/2000/30000/2000/298 43 253/500/5500
+Golem_Anciao__/Golem_Anciao__/399/5000/30000/3000/309 43 250/500/5500
+Golem_de_Fogo_/Golem_de_Fogo_/399/400/30000/8000/298/0/29600
+Grande_Dragao/Grande_Dragao/399/3800/25000/2900/201 118 9/500/5500
+Grim_Lock_/Grim_Lock_/399/498/12500/1320/294 43 8/500/5500
+Guerreiro/Guerreiro/399/7500/20000/1/472/500/5500
+Guerreiro_/Guerreiro_/399/7500/20000/1/472/500/5500
+Haden/Haden/399/18000/30000/16000/290/0/0
+HalfOrc__/HalfOrc__/399/470/15000/1250/208/500/5500
+HCBracya/HCBracya/399/2000/-15536/6000/36/500/5500
+HCRayna/HCRayna/399/2000/-24288/6000/16/500/5500
+HC_Bracya/HC_Bracya/399/2000/-15536/6000/36/500/5500
+HC_Rayna/HC_Rayna/399/2000/-24288/6000/16/500/5500
+HekalCanon/HekalCanon/399/4000/30000/1/53/500/5500
+HekalCommander/HekalCommander/399/5000/15000/1/60/500/5500
+HekalEnt/HekalEnt/399/4000/20000/1/351/500/5500
+HekalGuardTower/HekalGuardTower/399/4000/30000/1000/357/500/5500
+HekalProtector/HekalProtector/399/7500/20000/1/472/500/5500
+HekalTraining/HekalTraining/399/8000/20000/1000/53/500/5500
+HunterTroll____/HunterTroll____/399/245/4000/550/213/500/5500
+Kerdan_Wanted/Kerdan_Wanted/399/1100/12000/800/259/500/5500
+KillKerdanChief/KillKerdanChief/399/80/800/180/360/500/5500
+KingGlantuar/KingGlantuar/399/1400/30000/3500/304/500/5500
+KingHarabard/KingHarabard/399/1600/30000/3400/303/500/5500
+King_Glantuar/King_Glantuar/399/4000/19000/5000/304/500/5500
+King_Harabard/King_Harabard/399/4000/19000/5000/303/500/5500
+Lagarto_de_Fogo/Lagarto_de_Fogo/399/2000/32000/20000/241/500/5500
+Lagarto_Robusto/Lagarto_Robusto/399/2000/32000/25000/240/500/5500
+Legend_Verid/Legend_Verid/399/9500/32000/9500/399/500/5500
+Legend_Verid_/Legend_Verid_/399/14000/32000/12000/399/420/260000
+LichCrunt/LichCrunt/399/4600/32000/5350/364/500/5500
+LichVatama/LichVatama/399/4600/32000/5350/365/500/5500
+Lich_Batama/Lich_Batama/399/4600/32000/5350/365/500/5500
+Lich_Batama_X/Lich_Batama_X/399/4200/32000/6000/365 43 5/500/5500
+Lich_Crunt/Lich_Crunt/399/4600/32000/5350/364/500/5500
+Lich_Crunt_/Lich_Crunt_/399/3200/25000/4000/364/40000/68000
+Lich_X/Lich_X/399/4200/32000/6000/365 43 5/500/5500
+Lobo_X/Lobo_X/399/450/30000/2550/299 43 5/500/500
+Mad_Valkyrie/Mad_Valkyrie/399/4200/32000/6750/394 43 253/920/14800
+Mago_Negro/Mago_Negro/399/5000/32000/5000/364 43 249/500/5500
+Meio_Orc___/Meio_Orc___/399/470/15000/1250/208/500/5500
+MightyTalos_/MightyTalos_/399/6850/30000/3750/360 8 0/500/5500
+Morlock_Amald/Morlock_Amald/399/400/20000/1000/301 43 7/0/29600
+Nesses/Nesses/399/18000/30000/16000/52/0/0
+NorthKalintz/NorthKalintz/399/2150/32000/5000/376/0/393
+OddFrog_/OddFrog_/399/498/8700/1320/252/293/1830
+OrcLeader/OrcLeader/399/2900/30000/1000/210 43 7/570/3000
+PerBerserker/PerBerserker/399/2150/32000/2300/181/0/393
+PerBerserker_/PerBerserker_/399/2150/32000/2300/181/0/393
+PerKalintz_F/PerKalintz_F/399/2150/32000/2300/382/0/393
+PerKalintz_F_/PerKalintz_F_/399/2150/32000/2300/382/0/393
+PerKalintz_M/PerKalintz_M/399/2150/32000/2300/376/0/393
+PerKalintz_M_/PerKalintz_M_/399/2150/32000/2300/376/0/393
+PerValkyrie/PerValkyrie/399/2150/32000/2300/394/0/393
+PerValkyrie_/PerValkyrie_/399/2150/32000/2300/394/0/393
+PerValquiria/PerValquiria/399/2150/32000/2300/394/0/393
+PerValquiria_/PerValquiria_/399/2150/32000/2300/394/0/393
+PreKalintz_M/PreKalintz_M/399/2150/32000/2300/376/0/393
+PreKalintz_M_/PreKalintz_M_/399/2150/32000/2300/376/0/393
+PreKalintz_W/PreKalintz_W/399/2150/32000/2300/382/0/393
+PreKalintz_W_/PreKalintz_W_/399/2150/32000/2300/382/0/393
+Rei_Glantuar/Rei_Glantuar/399/5000/32000/5000/304/1450/400
+Rei_Harabard/Rei_Harabard/399/5000/32000/5000/303/1450/400
+RookieWarrior/RookieWarrior/399/500/32000/1000/209/100/60
+Santa_Boss/Santa_Boss/399/4200/32000/6750/356 43 9/920/14800
+Santa_Follower/Santa_Follower/399/4200/32000/6750/356 43 9/920/14800
+Aquagolem__/Aquagolem__/400/430/18000/1160/309/500/5500
+Aranha_Rubra_/Aranha_Rubra_/400/1850/27600/3050/353/500/5000
+ArcBiney/ArcBiney/400/1000/30000/2000/26/500/5500
+ArchLich/ArchLich/400/3600/30000/4300/365/500/5500
+ArcRyo/ArcRyo/400/1000/30000/2000/26/500/5500
+Arc_Biney/Arc_Biney/400/1000/30000/2000/26/500/5500
+Arc_Ryo/Arc_Ryo/400/1000/30000/2000/26/500/5500
+Azmodan/Azmodan/400/90/32000/40/397/500/5500
+Balrog/Balrog/400/3390/30000/5240/397/500/5500
+Balrog_/Balrog_/400/3390/30000/5240/397/500/5500
+Berserker_Ref_/Berserker_Ref_/400/1850/20500/3620/182/500/5000
+Cav._Mortal__/Cav._Mortal__/400/1950/28000/3300/283/500/5000
+Cepra/Cepra/400/2400/32000/6300/362/500/5500
+CLBiong/CLBiong/400/1500/30000/4000/6/500/5500
+CLRidyney/CLRidyney/400/1500/30000/4000/6/500/5500
+CL_Biong/CL_Biong/400/1500/30000/4000/6/500/5500
+CL_Ridyney/CL_Ridyney/400/1500/30000/4000/6/500/5500
+Cropper_Inf/Cropper_Inf/400/500/25000/500/283 43 4/40000/20000
+DarkLord/DarkLord/400/9000/30000/9000/174/500/5500
+DarkShadow/DarkShadow/400/6000/22000/7000/174/500/5500
+Darkside/Darkside/400/9000/30000/9000/174/500/5500
+Dark_Shade/Dark_Shade/400/6000/22000/7000/174/500/5500
+Dark_Shadow___/Dark_Shadow___/400/8690/25000/6040/174/500/5500
+DeathKnight_/DeathKnight_/400/1400/28000/3000/283 43 7/500/5500
+DemonLord_/DemonLord_/400/1600/30000/3200/301 43 7/500/5500
+Demon_Lord__/Demon_Lord__/400/1850/20000/3200/311 43 7/500/5000
+Eden_/Eden_/400/100/12000/900/25/0/155200
+ElfMagician_/ElfMagician_/400/1050/22000/2100/287 43 5/500/5500
+FireGolem__/FireGolem__/400/710/18000/2000/298/500/5500
+G._de_Beriel_/G._de_Beriel_/400/1630/30000/3485/181/500/5500
+GoldHydra_/GoldHydra_/400/540/30000/1440/218 43 6/500/5500
+Grande_Talos/Grande_Talos/400/3300/25000/6000/360/50000/15000
+Guerreiro_Amon_/Guerreiro_Amon_/400/1850/20000/3600/370/500/500
+HellLich/HellLich/400/1600/30000/4300/364/500/5500
+HydraOuro_/HydraOuro_/400/540/30000/1440/218 43 6/500/5500
+IceQueenVerid/IceQueenVerid/400/8500/32000/8500/395/500/5500
+IceQueen_Mirror/IceQueen_Mirror/400/7000/22000/8500/395/500/5500
+Kalintz(H)_/Kalintz(H)_/400/1850/30000/3850/376/500/5000
+Kefra/Kefra/400/7000/30000/7000/362/50000/15000
+Lich_Inferno/Lich_Inferno/400/1600/30000/4300/364/500/5500
+Lobo_Azul/Lobo_Azul/400/1500/30000/2500/373 43 6/40000/24000
+Mago_Esqueleto/Mago_Esqueleto/400/2400/6400/1010/271 43 9/1000/750
+Meio_Orc_VIP/Meio_Orc_VIP/400/93/1800/1600/208 43 252/99999/12000
+Mestre_Sombrio/Mestre_Sombrio/400/9000/30000/9000/174/500/5500
+Mini_Carbunkle/Mini_Carbunkle/400/1/30000/500/230/500/5500
+Moloch__/Moloch__/400/1100/24000/2250/301 43 7/500/5500
+Nazgul/Nazgul/400/1000/32000/4000/174/490/140000
+BoneDragon_/BoneDragon_/402/1000/26000/2750/293/500/5500
+DeathKnight_K/DeathKnight_K/402/4000/30000/4000/283 43 7/500/5500
+Demon_Lord_King/Demon_Lord_King/402/4100/30000/4000/311 43 7/500/5500
+Dracorich@/Dracorich@/402/1000/26000/2750/293/500/5500
+Frenzy_Cabuncle/Frenzy_Cabuncle/402/3900/27000/3800/231 43 5/500/5500
+Frenzy_Frog/Frenzy_Frog/402/4000/30000/3700/247 43 5/500/5500
+Frenzy_Ghoul/Frenzy_Ghoul/402/3700/28000/3700/228 43 9/500/5500
+Frenzy_Golem/Frenzy_Golem/402/3700/30000/3700/297 43 5/500/5500
+Frenzy_Hidra/Frenzy_Hidra/402/4000/30000/3700/218 43 5/500/5500
+Frenzy_Hydra/Frenzy_Hydra/402/4000/30000/3700/218 43 5/500/5500
+Frenzy_Taurs/Frenzy_Taurs/402/3700/30000/3600/236 43 5/500/5500
+SandTaron/SandTaron/403/1080/30000/2800/312/500/5500
+Moloch_/Moloch_/404/1100/30000/2900/301 43 7/500/5500
+Morlock_/Morlock_/404/1100/30000/2900/301 43 7/500/5500
+MightySpider/MightySpider/405/1160/31000/2900/352/500/5500
+SandPurpleWorm/SandPurpleWorm/406/1280/25000/3200/355/500/5500
+AssassinTaron_/AssassinTaron_/410/1250/25000/3250/313 43 7/500/5500
+Ass_Taron__/Ass_Taron__/410/200/12000/800/313/0/152500
+BanditsTaron__/BanditsTaron__/410/1200/30000/2925/312/500/5500
+FireGagoil_/FireGagoil_/410/1480/25000/3000/310 43 7/500/5500
+FireGagoil__/FireGagoil__/410/1550/30000/3300/310 43 7/500/5500
+GargulaFogo_/GargulaFogo_/410/1480/25000/3000/310 43 7/500/4500
+GargulaFogo__/GargulaFogo__/410/1550/30000/3300/310 43 7/500/5500
+Ladrao_Tauron__/Ladrao_Tauron__/410/1200/30000/2925/312/500/5500
+RujeperEvil/RujeperEvil/410/1452/30000/3400/174/866/1120
+NPC_1/NPC_1/444/5000/50/3000/16/500/500
+NPC_10/NPC_10/444/5000/50/3000/16/500/500
+NPC_11/NPC_11/444/5000/50/3000/16/500/500
+NPC_12/NPC_12/444/5000/50/3000/16/500/500
+NPC_13/NPC_13/444/5000/50/3000/26/500/500
+NPC_2/NPC_2/444/5000/50/3000/36/500/500
+NPC_3/NPC_3/444/5000/50/3000/16/500/500
+NPC_4/NPC_4/444/5000/50/3000/16/500/500
+NPC_5/NPC_5/444/5000/50/3000/16/500/500
+NPC_6/NPC_6/444/5000/50/3000/26/500/500
+NPC_7/NPC_7/444/5000/50/3000/26/500/500
+NPC_8/NPC_8/444/5000/50/3000/16/500/500
+NPC_9/NPC_9/444/5000/50/3000/26/500/500
+BruHydra/BruHydra/449/1820/4000/800/218/500/6000
+ChaosCyclops/ChaosCyclops/449/1600/3500/280/234/500/6000
+Elfo_Branco/Elfo_Branco/455/150/10000/1000/287 43 6/0/152500
+Bandits_Taron_/Bandits_Taron_/490/200/12000/800/312/0/155200
+Cav._Lugefer/Cav._Lugefer/499/2500/28000/2900/175 43 3/500/7000
+Cav_Lugefer/Cav_Lugefer/499/5000/32000/4900/175 43 3/866/9982
+ChaosRujeper/ChaosRujeper/499/3700/30000/3850/174/766/5330
+ElderCarbuncle/ElderCarbuncle/499/6000/32000/4900/230 43 3/866/5745
+LichCruntKing/LichCruntKing/499/5600/32000/5350/364/500/8500
+Lugefer/Lugefer/499/3700/30000/3850/174/766/9982
+Rujeper/Rujeper/499/3700/30000/3850/174/766/5330
+RujeperBroken/RujeperBroken/499/5000/32000/4900/175 43 3/866/5745
+AkeMerchant/AkeMerchant/500/500/9000/500/59/500/7000
+Anubis_illusion/Anubis_illusion/500/3000/100000/30000/74/420/10000
+Arq_Taron__/Arq_Taron__/500/200/12000/1500/313/0/152500
+Arvore_de_Natal/Arvore_de_Natal/500/1/32000/32000/220/500/7000
+BM_Celestial/BM_Celestial/500/6250/22000/10600/28/99999/1400000
+Cristal/Cristal/500/1/32000/32000/220/500/7000
+DeathWorm/DeathWorm/500/30000/32000/30000/72/420/10000
+DeathWorm_/DeathWorm_/500/30000/32000/30000/72/420/10000
+EndlessTower/EndlessTower/500/0/20000/2000/219/500/7000
+EventCoupon/EventCoupon/500/20000/20000/600/59/0/0
+Fame_BeastSB/Fame_BeastSB/500/16843252/9000/0/59/0/0
+Fame_FoemaSB/Fame_FoemaSB/500/16843252/9000/0/59/0/0
+Fame_HunterSB/Fame_HunterSB/500/16843252/9000/0/59/0/0
+Fame_TransSB/Fame_TransSB/500/10000/50000/500/59/0/0
+FM_Celestial/FM_Celestial/500/6250/22000/10600/17/99999/1400000
+Gate/Gate/500/4100/32000/22000/220/500/7000
+Gate_Noatun/Gate_Noatun/500/4100/32000/5000/220/500/7000
+GuardTower/GuardTower/500/3000/30000/4000/357/500/7000
+GuardTower_/GuardTower_/500/3000/30000/4000/357/500/7000
+HT_Celestial/HT_Celestial/500/6250/22000/10600/39/99999/1400000
+Lich_Kefra/Lich_Kefra/500/2300/25000/11000/364/40000/68000
+Mestre_de_Honra/Mestre_de_Honra/500/20000/20000/600/59/0/0
+Muro_Akelonia/Muro_Akelonia/500/0/22000/5000/220/500/7000
+Muro_Hekalotia/Muro_Hekalotia/500/0/22000/5000/220/500/7000
+Pontos_Shop/Pontos_Shop/500/20000/20000/600/59/0/0
+Rainha_do_Gelo/Rainha_do_Gelo/500/2500/20000/2000/394/500/7000
+Scorpion/Scorpion/500/30000/32000/30000/70/420/10000
+Scorpion_/Scorpion_/500/30000/32000/30000/70/420/10000
+BruHydra_/BruHydra_/559/1820/4500/810/218 43 4/500/7500
+ChaosCyclops_/ChaosCyclops_/559/1600/4000/310/234 43 4/500/7500
+Dark_Shadow/Dark_Shadow/560/6690/25000/6240/174/500/8000
+Archer_Elf/Archer_Elf/599/3000/32000/3500/284/500/8500
+Arqueiro_Elfo/Arqueiro_Elfo/599/1600/32000/3500/284/500/8500
+Barlog/Barlog/599/7000/32000/6000/397/500/8500
+Barlog_Trevas/Barlog_Trevas/599/9000/32000/6000/397 122 9/500/8500
+Batorero_Inf/Batorero_Inf/599/2360/32000/3200/361/500/8500
+BruHydra__/BruHydra__/599/1820/5000/840/218 43 8/500/8500
+CabuncleKing/CabuncleKing/599/5600/32000/8000/230/500/8500
+Carbuncle_Ouro/Carbuncle_Ouro/599/2000/32000/3700/230 43 8/500/8500
+ChaosCyclops__/ChaosCyclops__/599/1600/4500/350/234 43 8/500/8500
+DarkShadows/DarkShadows/599/7500/20000/5800/174/500/8500
+Fighter_Elf/Fighter_Elf/599/3300/32000/4000/284/500/8500
+GoldCabuncle/GoldCabuncle/599/3300/32000/4350/230 43 8/500/8500
+Guerreiro_Elfo/Guerreiro_Elfo/599/1600/32000/4000/284/500/8500
+Guer_Kalintz/Guer_Kalintz/599/2210/30000/3000/376/500/8500
+HellAmonChief/HellAmonChief/599/2860/30000/3140/371/500/90000
+HellAmonWarrior/HellAmonWarrior/599/2780/30000/3120/370/500/90000
+HellBatorero/HellBatorero/599/4360/32000/4300/361/500/8500
+HellLich_/HellLich_/599/7682/30000/4000/364/500/8500
+HellRanger/HellRanger/599/3035/20800/3700/393/500/8500
+HellShaman/HellShaman/599/3030/20800/4000/392/500/8500
+HellSorcerer/HellSorcerer/599/3570/20800/3700/391/500/8500
+HellTemplar/HellTemplar/599/3260/20800/4240/390/500/8500
+HellZakum/HellZakum/599/2900/32000/4000/259/500/25500
+HellZakum_/HellZakum_/599/2800/32000/3800/259/500/8500
+Hell_Rujeper/Hell_Rujeper/599/2925/30000/4750/174/500/8500
+Hell_Rujeper_/Hell_Rujeper_/599/2825/30000/4250/174/500/8500
+KalintzFight/KalintzFight/599/3210/30000/4800/376/500/8500
+KalintzMage/KalintzMage/599/3910/32000/3500/382/500/8500
+KalintzMago/KalintzMago/599/3910/32000/3500/382/500/8500
+KalintzMago_/KalintzMago_/599/3910/32000/3500/382/500/8500
+Kalintz_Mago/Kalintz_Mago/599/3910/32000/3500/382/500/8500
+Kalintz_Mago_/Kalintz_Mago_/599/3910/32000/3500/382/500/8500
+Kalitz_Mago/Kalitz_Mago/599/3910/32000/6000/382/500/8500
+Kalitz_Mago_/Kalitz_Mago_/599/2210/32000/3000/382/500/8500
+Lich_Demo/Lich_Demo/599/2000/30000/3000/364/500/8500
+Lugefer_Inf/Lugefer_Inf/599/2000/30000/2750/174/500/8500
+Lugefer_Inf_/Lugefer_Inf_/599/2000/30000/2750/174/500/8500
+MageKalintz/MageKalintz/599/6000/32000/5350/382/500/8500
+MagoKalintz/MagoKalintz/599/3300/32000/4000/382/500/8500
+Mago_Inf/Mago_Inf/599/2570/20800/3200/391/500/8500
+Ranger_Inf/Ranger_Inf/599/2570/20800/3200/393/430/1900
+Rei_Carbuncle/Rei_Carbuncle/599/2600/32000/4000/230/123/14800
+Rei_Carbunkle/Rei_Carbunkle/599/5600/32000/8000/230/500/8500
+RujeperKing/RujeperKing/599/2950/32000/4050/175 43 3/500/8500
+Alma_de_Odin/Alma_de_Odin/600/5000/30000/32000/3145/500/8500
+Ciclope_Arqs/Ciclope_Arqs/600/2850/20000/1700/242/500/105000
+Demon/Demon/600/7200/32000/5100/347/500/100000
+ForceCyclops/ForceCyclops/600/3550/32000/2000/234/500/105000
+Imp_Inferno/Imp_Inferno/600/8000/30000/6000/239 43 0/500/8500
+Imp_Inferno_/Imp_Inferno_/600/8000/30000/3000/239 43 0/500/8500
+MageCyclops/MageCyclops/600/1950/20000/1900/243/500/90000
+Orc_Shaman__/Orc_Shaman__/600/295/5100/770/232/40000/12000
+ReiThor/ReiThor/600/10000/10000/8000/26/50000/100000
+ReiZeus/ReiZeus/600/10000/10000/8000/6/50000/100000
+Rei_Thor/Rei_Thor/600/10000/8000/8000/26/50000/100000
+Rei_Zeus/Rei_Zeus/600/10000/8000/8000/6/50000/100000
+SavageCyclops/SavageCyclops/600/3050/30000/2400/234 8 0/500/100000
+Barrack/Barrack/652/8000/5000/8000/53/500/9000
+Barracka/Barracka/652/8000/5000/8000/53/500/9000
+Barrack_/Barrack_/652/8000/5000/8000/53/500/9000
+Saehrimnir/Saehrimnir/900/5000/30000/10000/216 125 9/50000/15000
+Noel_big/Noel_big/950/0/30000/0/356/500/5500

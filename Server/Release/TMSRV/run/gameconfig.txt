@@ -1,7 +1,7 @@
 Drop Item Event Settings:
   evindex 0  evdelete 0  evon 1  evitem 4055  evrate 400  evstart 1 20000 20000 1
 Etc Event Settings:
-  double 0  deadpoint 1  dungeonevent 1  statsapphire 10  battleroyal 0  VS: 2  translevel: 300
+  double 0  deadpoint 1  dungeonevent 1  statsapphire 10  battleroyal 0  VS: 0  translevel: 300
 Billing Settings:
   billmode 0  freeexp 35  charselbill 0  potioncount 10  partybonus 100  guildboard 0
 Item Drop Bonus Settings:
@@ -56,10 +56,10 @@ Game Option Settings:
 NonePKServer: 0  GambleServer: 1 KhepraOpen: 1
 ItemDestroy: 100 ItemMaster: 0 EXP_NOT_DOUBLE_ZONE: 0
 USE_GUILDWAR_MANTLE: 0 USE_FREE_GAMBLE: 1  casinoticket: 0
-lottoTicket: 0 maxlevel: 400 createchar: 1
+lottoTicket: 0 maxlevel: 399 createchar: 1
 maxlevelticket: 2 eventhour: 18
-duelletterlimit: 0 400
-TownTax: 828359085 139300992 18857391 167777852 6546321694
+duelletterlimit: 0 399
+TownTax: 828367435 139339313 18949851 167778902 6546464675
 randomquiz: 0 exp: 0 coin: 0
 itemprice: 0 0 sealofsoul: 0
 nightmare: 0
@@ -69,7 +69,7 @@ kingdomfield 1
 ItemDeleteMode 0
 GameBleMoney 0
 CreateHardCharactor 1
-KhepraGuld 67 RuneGate 67
+KhepraGuld 67 RuneGate 0
 AGBlue 0 Read 0
 EventCoupon 2 
 Gr4State 0 Mantle 7 Day 0

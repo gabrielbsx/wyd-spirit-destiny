@@ -90,6 +90,9 @@
     <Filter Include="Manager\MobKilled">
       <UniqueIdentifier>{96b387af-ae94-4e2b-8a21-791594e71f9d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Manager\Core\HookMgr\Fix">
+      <UniqueIdentifier>{3e8de455-0ca3-420b-8ac5-4af728a2d2f5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -180,6 +183,9 @@
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
     <ClInclude Include="CMobKilled.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="CFix.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
   </ItemGroup>
@@ -275,6 +281,9 @@
     </ClCompile>
     <ClCompile Include="CMobKilled.cpp">
       <Filter>Manager\MobKilled</Filter>
+    </ClCompile>
+    <ClCompile Include="CFix.cpp">
+      <Filter>Manager\Core\HookMgr\Fix</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

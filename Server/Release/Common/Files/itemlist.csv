@@ -1,5 +1,5 @@
 Index,Global_Name,Mesh-Texture,REQ_SIDC,Unique,EF_PRICE,EF_POS,Extreme,Grade,N0,V0,N1,V1,N2,V2,N3,V3,N4,V4,N5,V5,N6,V6,N7,V7,N8,V8,N9,V9,N10,V10,N11,V11
-//인벤토리에는 index 399까지만 셋팅할 수 있음,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+////O inventario so pode ser configurado para o indice 399,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 //,**,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1,Transknight,0,0,0,0,1,0,0,EF_CLASS,1,EF_RANGE,1,EF_REGENHP,2,EF_REGENMP,2,EF_CRITICAL,10,,,,,,,,,,,,,,
 6,TransKnight,40,0,0,0,1,0,0,EF_CLASS,1,EF_RANGE,1,EF_REGENHP,2,EF_REGENMP,2,EF_CRITICAL,10,,,,,,,,,,,,,,
@@ -50,7 +50,7 @@ Index,Global_Name,Mesh-Texture,REQ_SIDC,Unique,EF_PRICE,EF_POS,Extreme,Grade,N0,
 66,Shiner's_face(Type_B),91,0,0,0,1,0,0,EF_CLASS,2,EF_GRID,0,,
 67,Shiner's_face(Type_C),92,0,0,0,1,0,0,EF_CLASS,2,EF_GRID,0,,
 68,Tiny,91,0,0,0,1,0,0,EF_CLASS,2,EF_GRID,0,,
-// 자투리 아이템(희귀 아이템 등록 예비아이템 특수 아이템) 인덱스101 ~ 200,,,,,,,,,,,,,,
+// Itens Zaturi (Itens Raros Registro de Itens Especiais de Itens Preliminares) Indice 101 a 200,,,,,,,,,,,,,,
 100,Steel_Helmet,9,134.0.93.0,0,70000,2,0,0,EF_CLASS,1,EF_GRID,5,EF_AC,30
 101,Steel-Armor,9,124.0.58.0,0,99000,4,0,0,EF_CLASS,1,EF_GRID,5,EF_AC,41
 102,Steel_Pants,9,140.0.71.0,0,26200,8,0,0,EF_CLASS,1,EF_GRID,6,EF_AC,36
@@ -131,7 +131,7 @@ Index,Global_Name,Mesh-Texture,REQ_SIDC,Unique,EF_PRICE,EF_POS,Extreme,Grade,N0,
 177,Korean_Clothes_Body,91,0,0,0,4,0,0,EF_CLASS,2,EF_GRID,0
 178,Cannon,2888,0,0,0,1,0,0,EF_CLASS,44,EF_RANGE,7
 
-//*몬스터*  인덱스 181~400까지 몬스터 ,,,,,,,,,,,,
+//*Monstros* Monstros ate o indice 181-400 ,,,,,,,,,,,,
 181,Berserker_Face,17,0,0,0,1,0,0,EF_CLASS,60,EF_RANGE,2
 182,Berserker_Helmet,17,0,0,0,1,0,0,EF_CLASS,60,EF_RANGE,2
 183,Berserker_Armor,17,0,0,0,1,0,0,EF_CLASS,60,EF_RANGE,2
@@ -252,7 +252,7 @@ Index,Global_Name,Mesh-Texture,REQ_SIDC,Unique,EF_PRICE,EF_POS,Extreme,Grade,N0,
 312,New_Troll1,13,0,0,0,1,0,0,EF_CLASS,25,EF_RANGE,2
 313,New_Troll1,14,0,0,0,1,0,0,EF_CLASS,25,EF_RANGE,2
 314,New_Troll1,15,0,0,0,1,0,0,EF_CLASS,25,EF_RANGE,2
-//마운트 성마 인덱스,,,,,,,,,,,,
+//Indice Montarias,,,,,,,,,,,,
 315,Pig,0,0.0.0.0.0,0,0,16384,0,0,EF_CLASS,22,EF_RANGE,2
 316,Tamed_Boar,1,60.0.0.0.0,0,0,16384,0,0,EF_CLASS,22,EF_RANGE,2
 317,Tamed_Wolf,0,80.0.0.0.0,0,0,16384,0,0,EF_CLASS,27,EF_RANGE,2
@@ -284,7 +284,7 @@ Index,Global_Name,Mesh-Texture,REQ_SIDC,Unique,EF_PRICE,EF_POS,Extreme,Grade,N0,
 343,Thoroughbred_Horse,7,0.0.0.0.0,0,0,16384,0,0,EF_CLASS,43,EF_RANGE,2
 344,Clydesdale_Horse,7,0.0.0.0.0,0,0,16384,0,0,EF_CLASS,43,EF_RANGE,2
 345,Gullfaxi_Horse,7,0.0.0.0.0,0,0,16384,0,0,EF_CLASS,43,EF_RANGE,2
-//*몬스터*  인덱스 351~400까지 몬스터 ,,,,,,,,,,,,
+//*Monstros* Monstros ate o indice 351-400,,,,,,,,,,,,
 351,Trant,0,0,0,0,1,0,0,EF_CLASS,46,EF_RANGE,2
 352,Hell_Spider,0,0,0,0,1,0,0,EF_CLASS,47,EF_RANGE,2,,
 353,Tarantula,1,0,0,0,1,0,0,EF_CLASS,47,EF_RANGE,2,,
@@ -334,8 +334,8 @@ Index,Global_Name,Mesh-Texture,REQ_SIDC,Unique,EF_PRICE,EF_POS,Extreme,Grade,N0,
 397,Balrog,0,0,0,0,1,0,0,EF_CLASS,64,EF_RANGE,7
 398,Barrack,2889,0,0,0,1,0,0,EF_CLASS,64,EF_RANGE,7
 
-// 아이템 (장착용아이템 소비성아이템 액세서리) 인덱스401~800,,,,,,,,,,,,,,
-// 소비성 아이템(포션 스크롤 허브등등) 인덱스 401-450,,,,,,,,,,,,,,
+// Item (item acessorios de item para uso) indice 401-800,,,,,,,,,,,,,,
+// Indice de item de consumo (hubs de pergaminho de formacao) 401-450,,,,,,,,,,,,,,
 400,Healing_Potion(S),53,0,0,150,0,0,0,EF_CLASS,255,EF_VOLATILE,1,EF_HP,50
 401,Healing_Potion(M),54,0,0,400,0,0,0,EF_CLASS,255,EF_VOLATILE,1,EF_HP,200
 402,Healing_Potion(ML),54,0,0,800,0,0,0,EF_CLASS,255,EF_VOLATILE,1,EF_HP,300
@@ -385,7 +385,7 @@ Index,Global_Name,Mesh-Texture,REQ_SIDC,Unique,EF_PRICE,EF_POS,Extreme,Grade,N0,
 450,Pure_Divine_Circle,100,0,0,4040000,8192,0,0,EF_CLASS,255,EF_INIT3,3,,
 
 
-// 이벤트용 아이템(이벤트를 수행하기 위해 필요한 아이템) 인덱스451-500,,,,,,,,,,,,,,
+// Itens para eventos (itens necessarios para realizar eventos) Indice 451-500,,,,,,,,,,,,,,
 451,First_Gate_Key,60,0,0,0,0,0,0,EF_CLASS,255,EF_VOLATILE,3,EF_KEYID,2
 452,Second_Gate_Key,60,0,0,0,0,0,0,EF_CLASS,255,EF_VOLATILE,3,EF_KEYID,3
 453,Final_Gate_Key,60,0,0,0,0,0,0,EF_CLASS,255,EF_VOLATILE,3,EF_KEYID,4
@@ -435,7 +435,7 @@ Index,Global_Name,Mesh-Texture,REQ_SIDC,Unique,EF_PRICE,EF_POS,Extreme,Grade,N0,
 499,Condition_Recovery_Item,83,0,0,3000,0,0,0,EF_CLASS,255,EF_VOLATILE,1,EF_AMOUNT,5,,
 500,Condition_Recovery_Item,83,0,0,3000,0,0,0,EF_CLASS,255,EF_VOLATILE,1,EF_AMOUNT,5,,
 
-//1번 슬롯 장착 아이템 인덱스 501-550,,,,,,,,,,,,,,,,
+//Indice de itens 501-550 com slot 1,,,,,,,,,,,,,,,,
 501,Power_Ring,70,34.0.0.0.0,0,15000,256,0,0,EF_CLASS,255,EF_DAMAGE,10,EF_REFLEVEL,1,,
 502,Mana's_Ring,70,36.0.0.0.0,0,13000,256,0,0,EF_CLASS,255,EF_MPADD,10,EF_REFLEVEL,1,,
 503,Physical_Strength_Ring,70,34.0.0.0.0,0,14000,256,0,0,EF_CLASS,255,EF_HPADD,10,EF_REFLEVEL,1,,
@@ -478,7 +478,7 @@ Index,Global_Name,Mesh-Texture,REQ_SIDC,Unique,EF_PRICE,EF_POS,Extreme,Grade,N0,
 
 
 
-// 1번 ~4번 공용장착 아이템 왕국관련 아이템(540 - 550),,,,,,,,,,,,,,,,
+// Itens 1 a 4 comumente em itens comuns relacionados ao reino (540 - 550),,,,,,,,,,,,,,,,
 540,Spirit_Stone,26,255.0.0.0.0,0,500000,3840,0,9,EF_CLASS,255,EF_HP,100,EF_REFLEVEL,5,,
 541,Spirit_Stone,26,255.0.0.0.0,0,500000,3840,0,10,EF_CLASS,255,EF_HP,100,EF_REFLEVEL,5,,
 542,Moon_Stone,25,0.0.0.0.0,0,0,3840,0,0,EF_CLASS,255,EF_AC,0,EF_REFLEVEL,3,,
@@ -490,7 +490,7 @@ Index,Global_Name,Mesh-Texture,REQ_SIDC,Unique,EF_PRICE,EF_POS,Extreme,Grade,N0,
 548,Cape_Of_Wanderer,27.6,219.0.0.0.0,0,0,32768,0,0,EF_CLASS,255,EF_AC,75,EF_HP,100,EF_REFLEVEL,4
 549,Cape_Of_Adventurer,27.7,255.0.0.0.0,0,0,32768,0,0,EF_CLASS,255,EF_AC,150,EF_HP,200,EF_REFLEVEL,4
 550,Monster_White_Cape,27.6,219.0.0.0.0,0,0,32768,0,0,EF_CLASS,255,,,,,,
-//2번 슬롯 장착 아이템 인덱스 551-600,,,,,,,,,,,,,,,,
+//Indice de itens 551-600 com slot 2,,,,,,,,,,,,,,,,
 551,Silver_Amulet,77,15.0.0.0.0,0,10000,512,0,0,EF_CLASS,255,EF_SPECIAL1,2,EF_REFLEVEL,3,,
 552,Silver_Amulet,77,15.0.0.0.0,0,10000,512,0,0,EF_CLASS,255,EF_SPECIAL2,2,EF_REFLEVEL,3,,
 553,Silver_Amulet,77,15.0.0.0.0,0,10000,512,0,0,EF_CLASS,255,EF_SPECIAL3,2,EF_REFLEVEL,3,,
@@ -512,7 +512,7 @@ Index,Global_Name,Mesh-Texture,REQ_SIDC,Unique,EF_PRICE,EF_POS,Extreme,Grade,N0,
 569,Arcane_Amulet,2861,150.0.0.0.0,0,150000,512,0,22,EF_CLASS,255,EF_SPECIAL3,15,EF_REFLEVEL,5
 570,Arcane_Amulet,2861,150.0.0.0.0,0,150000,512,0,22,EF_CLASS,255,EF_SPECIAL4,15,EF_REFLEVEL,5,,
 
-//챔피언망토변경아이템,,,,,,,,,,,,,,,,
+//Item de mudanca de capa do campeao,,,,,,,,,,,,,,,,
 572,Campion's_Cape,27.15,255.0.0.0.0,0,0,32768,0,0,EF_CLASS,255,EF_AC,190,EF_HP,230,EF_REFLEVEL,4
 573,Campion's_Cape,2880.36,0,0,0,32768,0,0,EF_CLASS,255,EF_AC,210,EF_HP,230,EF_REFLEVEL,4
 574,Campion's_Cape,27.17,255.0.0.0.0,0,0,32768,0,0,EF_CLASS,255,EF_AC,150,EF_HP,200,EF_REFLEVEL,4
@@ -523,7 +523,7 @@ Index,Global_Name,Mesh-Texture,REQ_SIDC,Unique,EF_PRICE,EF_POS,Extreme,Grade,N0,
 578,Adamantite_Ore,2.6,0.0.0.0.0,34,2500,0,0,0,EF_VOLATILE,9,EF_GRID,0,,,,
 579,Final_Defensive_Weapon_Legend_Ore,,0.0.0.0.0,,5000000,0,0,0,EF_VOLATILE,9,EF_GRID,0,,,,
 
-//1번슬롯악세사리추가(591~600),,,,,,,,,,,,,,,,
+//#1 Slotak SesariChu (591-600),,,,,,,,,,,,,,,,
 591,Mana's_earing,740,151.0.0.0.0,0,125000,256,0,0,EF_CLASS,255,EF_MPADD,17,EF_REFLEVEL,4,,
 592,Physical_Strength_earing,741,159.0.0.0.0,0,125000,256,0,0,EF_CLASS,255,EF_HPADD,17,EF_REFLEVEL,4,,
 593,Dexterity_earing,742,159.0.0.0.0,0,125000,256,0,0,EF_CLASS,255,EF_ATTSPEED,21,EF_REFLEVEL,4,,,,,,
@@ -532,10 +532,10 @@ Index,Global_Name,Mesh-Texture,REQ_SIDC,Unique,EF_PRICE,EF_POS,Extreme,Grade,N0,
 
 
 
-//중국드래곤볼트패스티벌이벤트아이템,,,,,,,,,,,,,,,,,,,,
+//China DragonBolt PassTival Item de evento,,,,,,,,,,,,,,,,,,,,
 599,Fragrant_Pouch,319,0.0.0.0.0,0,50000,1024,0,0,EF_CLASS,255,EF_RESISTALL,5,,,,,,,,
 600,Dumplings,320,0,0,400000,0,0,0,EF_CLASS,255,EF_VOLATILE,53,EF_AMOUNT,1,,,,,,
-//3번 슬롯 장착 아이템 (인덱스601-650) ,,,,,,,,,,,,,,,,,,,,
+//Item com slot 3 (indice 601-650) ,,,,,,,,,,,,,,,,,,,,
 601,Fire_Orb,63,27.0.0.0.0,0,30000,1024,0,0,EF_CLASS,255,EF_RESIST1,3,EF_RESIST2,0,EF_RESIST3,0,EF_RESIST4,0,EF_REFLEVEL,1
 602,Ice_Orb,64,26.0.0.0.0,0,28000,1024,0,0,EF_CLASS,255,EF_RESIST1,0,EF_RESIST2,3,EF_RESIST3,0,EF_RESIST4,0,EF_REFLEVEL,1
 603,Thunder_Orb,65,27.0.0.0.0,0,30000,1024,0,0,EF_CLASS,255,EF_RESIST1,0,EF_RESIST2,0,EF_RESIST3,0,EF_RESIST4,3,EF_REFLEVEL,1
@@ -559,28 +559,28 @@ Index,Global_Name,Mesh-Texture,REQ_SIDC,Unique,EF_PRICE,EF_POS,Extreme,Grade,N0,
 621,Wisdom_Pearl,499,0.0.0.0.0,0,50000,16384,0,0,EF_CLASS,255,,,,,,,,,EF_REFLEVEL,5
 622,Wisdom_Pearl,500,0.0.0.0.0,0,50000,16384,0,0,EF_CLASS,255,,,,,,,,,EF_REFLEVEL,5
 
-//355LV 스피릿 스톤 추가 아이템(인덱스 631-633),,,,,,,,,,,,,,
+//355LV Spirit Stone Add-on (Indice 631-633),,,,,,,,,,,,,,
 631,Spirit_Stone,26,255.0.0.0.0,0,500000,3840,0,20,EF_CLASS,255,EF_HP,100,EF_REFLEVEL,6
 632,Spirit_Stone,26,255.0.0.0.0,0,500000,3840,0,21,EF_CLASS,255,EF_HP,100,EF_REFLEVEL,6
 633,Spirit_Stone,26,255.0.0.0.0,0,500000,3840,0,22,EF_CLASS,255,EF_HP,100,EF_REFLEVEL,6
 
-//추가된 악세서리(인덱스 634 ~ 639),,,,,,,,,,,,,,
+//Acessorios adicionados (indices 634 a 639),,,,,,,,,,,,,,
 634,not_used,,,,,,,,,,,,,
 635,not_used,,,,,,,,,,,,,
 636,not_used,,,,,,,,,,,,,
 637,not_used,,,,,,,,,,,,,
 
-// 추가된 목걸이 아이템 (인덱스 640-650),,,,,,,,,,,,,,
+// Itens de colar adicionados (Indice 640-650),,,,,,,,,,,,,,
 640,Mana's_Necklace,2.4,255.0.0.0.0,0,125000,256,0,0,EF_CLASS,255,EF_MPADD,19,EF_REFLEVEL,5
 641,Physical_Strength_Necklace,2,255.0.0.0.0,0,125000,256,0,0,EF_CLASS,255,EF_HPADD,19,EF_REFLEVEL,5
 642,Magical_Necklace,2.6,255.0.0.0.0,0,125000,256,0,0,EF_CLASS,255,EF_MAGIC,22,EF_REFLEVEL,5
 643,Power_Necklace,2.5,255.0.0.0.0,0,125000,256,0,0,EF_CLASS,255,EF_DAMAGE,63,EF_REFLEVEL,5
 
-// 정탄 아이템(인덱스 646~648),,,,,,,,,,,,,,
+// Item quadrado (indice 646-648),,,,,,,,,,,,,,
 646,Secret_Medicine_Of_Courage,2886,0,0,1500000,0,0,0,EF_CLASS,255,EF_AMOUNT,10,EF_VOLATILE,230
 647,Wonder_Drug_Of_Courage,2886,0,0,3000000,0,0,0,EF_CLASS,255,EF_AMOUNT,10,EF_VOLATILE,230
 
-// 버프 아이템 (인덱스 649 ~ 650),,,,,,,,,,,,,,
+// Itens buff (indices 649 a 650),,,,,,,,,,,,,,
 649,not_used,736,0,0,0,0,0,0,EF_CLASS,255,EF_VOLATILE,204,EF_AMOUNT,10
 650,not_used,736,0,0,0,0,0,0,EF_CLASS,255,EF_VOLATILE,204,EF_AMOUNT,10
 

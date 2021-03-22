@@ -10,3 +10,5 @@ src/Database/Debug/*
 src/GamePatch/Debug/*
 src/GameServer/Debug/*
 Release/outputTM/
+
+Server/Client/Client/

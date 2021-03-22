@@ -12,15 +12,15 @@
 	<FlagConst Address="0x195EF8" Add="0" Type="DWORD" Value="199" />
 	
 	<!-- QuestExp Cemitério  -->
-	<FlagConst Address="0x1966CC" Add="0" Type="DWORD" Value="7500" />
+	<FlagConst Address="0x1966CC" Add="0" Type="DWORD" Value="30000" />
 	<!-- QuestExp Jardim     -->
-	<FlagConst Address="0x1966D0" Add="0" Type="DWORD" Value="15000" />
+	<FlagConst Address="0x1966D0" Add="0" Type="DWORD" Value="90000" />
 	<!-- QuestExp Kaizen     -->
-	<FlagConst Address="0x1966D4" Add="0" Type="DWORD" Value="75000" />
+	<FlagConst Address="0x1966D4" Add="0" Type="DWORD" Value="150000" />
 	<!-- QuestExp Hydra      -->
-	<FlagConst Address="0x1966DC" Add="0" Type="DWORD" Value="150000" />
+	<FlagConst Address="0x1966DC" Add="0" Type="DWORD" Value="400000" />
 	<!-- QuestExp Guarda -->
-	<FlagConst Address="0x1966E0" Add="0" Type="DWORD" Value="300000" />
+	<!--FlagConst Address="0x1966E0" Add="0" Type="DWORD" Value="800000" />
 	
 	<!-- QuestGold Cemitério  -->
 	<FlagConst Address="0x196708" Add="0" Type="DWORD" Value="700" />

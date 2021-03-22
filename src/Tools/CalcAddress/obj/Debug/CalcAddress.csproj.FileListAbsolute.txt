@@ -7,3 +7,4 @@ E:\Github\wyd-spirit-destiny\src\Tools\CalcAddress\obj\Debug\CalcAddress.csproj.
 E:\Github\wyd-spirit-destiny\src\Tools\CalcAddress\obj\Debug\CalcAddress.csproj.CoreCompileInputs.cache
 E:\Github\wyd-spirit-destiny\src\Tools\CalcAddress\obj\Debug\CalcAddress.exe
 E:\Github\wyd-spirit-destiny\src\Tools\CalcAddress\obj\Debug\CalcAddress.pdb
+E:\Github\wyd-spirit-destiny\src\Tools\CalcAddress\obj\Debug\CalcAddress.csprojAssemblyReference.cache
