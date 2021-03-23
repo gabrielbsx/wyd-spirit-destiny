@@ -59331,7 +59331,7 @@
 // no1232 (1812 Campo)
 // ********************************************
 #	[2273]
-	MinuteGenerate:	2
+	MinuteGenerate:	-1
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
@@ -68752,7 +68752,7 @@
 // no1555 (1512 Campo)
 // ********************************************
 #	[2602]
-	MinuteGenerate:	2
+	MinuteGenerate:	-1
 	MaxNumMob:	3
 	MinGroup:	1
 	MaxGroup:	1

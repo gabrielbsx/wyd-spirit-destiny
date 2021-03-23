@@ -7,8 +7,26 @@
 #include "CStoreBuy.h"
 #include "CRequestSell.h"
 #include "CDeleteItem.h"
-
+#include "Native.h"
+unsigned char* g_pHeightMap;
 #define PACKET_RECVSNIF 0
+
+struct MSG_Action
+{
+	unsigned short Size;
+	unsigned char KeyWord;
+	unsigned char CheckSum;
+	unsigned short Type;
+	unsigned short ID;
+	unsigned int Tick;
+	short PosX;
+	short PosY;
+	int Effect;
+	int Speed;
+	unsigned char Route[24];
+	unsigned short TargetX;
+	unsigned short TargetY;
+};
 
 int PacketController::ExecuteReceived(int clientID, char* pMsg)
 {

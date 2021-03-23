@@ -12,3 +12,5 @@ src/GameServer/Debug/*
 Release/outputTM/
 
 Server/Client/Client/
+
+Server/Release/TMSRV/run/log/

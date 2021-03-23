@@ -24,6 +24,8 @@
 	<FlagsSetup Address="0x0615A3" Add="1" Value="./Settings/Guild.txt" />
 	<FlagsSetup Address="0x0CDD0D" Add="1" Value="./Settings/IDprehibit.txt" />
 	<FlagsSetup Address="0x0BACE7" Add="1" Value="./Settings/mobname.csv" />
+	<FlagsSetup Address="0x060FDD" Add="1" Value="./Settings/RandomQuiz.txt" />
+	<FlagsSetup Address="0x006989" Add="1" Value="%d %d %d %d %d %d %d" />
 </Flags>
 
 

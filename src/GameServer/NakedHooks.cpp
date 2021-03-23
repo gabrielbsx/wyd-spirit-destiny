@@ -19,5 +19,8 @@ bool CHook::SetNakeds()
 	//Fix pista +5
 	PEHook::SETBYTE(0x0, ((DWORD)(BaseAddress + 0xD421B)));
 
+	// Fix grid error
+	PEHook::JMP_NEAR(0x503BDD, CFix::NKD_GridMulticast_FixPosition, 1);
+
 	return true;
 }
