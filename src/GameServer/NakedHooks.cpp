@@ -5,6 +5,8 @@
 #include "PacketController.h"
 #include "CMobKilled.h"
 #include "CFix.h"
+#include "CDropController.h"
+#include "CExpController.h"
 bool CHook::SetNakeds()
 {
 	if (!DeactiveOriginals::Initialize())
@@ -21,6 +23,12 @@ bool CHook::SetNakeds()
 
 	// Fix grid error
 	PEHook::JMP_NEAR(0x503BDD, CFix::NKD_GridMulticast_FixPosition, 1);
+
+	// Bonus de drop em area
+	PEHook::JMP_NEAR(0x05712AA, CDropController::NKD_DropArea);
+	PEHook::JMP_NEAR(0x0571301, CDropController::NKD_BlockDrop);
+
+	PEHook::JMP_NEAR(0x056FA46, CExpController::NKD_ExpMultiply, 7);
 
 	return true;
 }

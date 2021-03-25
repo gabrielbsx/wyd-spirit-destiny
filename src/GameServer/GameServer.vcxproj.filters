@@ -93,6 +93,12 @@
     <Filter Include="Manager\Core\HookMgr\Fix">
       <UniqueIdentifier>{3e8de455-0ca3-420b-8ac5-4af728a2d2f5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Manager\Core\ExpController">
+      <UniqueIdentifier>{69db0259-38f4-4732-830c-bbf1bafcf051}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Core\DropController">
+      <UniqueIdentifier>{3de199ae-c032-491b-8575-7300e9f10164}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -186,6 +192,12 @@
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
     <ClInclude Include="CFix.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="CExpController.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="CDropController.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
   </ItemGroup>
@@ -284,6 +296,12 @@
     </ClCompile>
     <ClCompile Include="CFix.cpp">
       <Filter>Manager\Core\HookMgr\Fix</Filter>
+    </ClCompile>
+    <ClCompile Include="CExpController.cpp">
+      <Filter>Manager\Core\ExpController</Filter>
+    </ClCompile>
+    <ClCompile Include="CDropController.cpp">
+      <Filter>Manager\Core\DropController</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

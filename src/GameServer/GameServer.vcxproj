@@ -170,6 +170,8 @@
   <ItemGroup>
     <ClInclude Include="CAttack.h" />
     <ClInclude Include="CDeleteItem.h" />
+    <ClInclude Include="CDropController.h" />
+    <ClInclude Include="CExpController.h" />
     <ClInclude Include="CExtra.h" />
     <ClInclude Include="CFix.h" />
     <ClInclude Include="CHook.h" />
@@ -203,6 +205,8 @@
   <ItemGroup>
     <ClCompile Include="CAttack.cpp" />
     <ClCompile Include="CDeleteItem.cpp" />
+    <ClCompile Include="CDropController.cpp" />
+    <ClCompile Include="CExpController.cpp" />
     <ClCompile Include="CExtra.cpp" />
     <ClCompile Include="CFix.cpp" />
     <ClCompile Include="CHook.cpp" />

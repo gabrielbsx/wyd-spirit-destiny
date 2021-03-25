@@ -24431,7 +24431,7 @@
 // no (보스몹 남는거) -보스몹 끝
 // ********************************************
 #	[1034]
-	MinuteGenerate:	1
+	MinuteGenerate:	-1
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
@@ -25191,8 +25191,8 @@
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
-	Leader:	Guarda
-	Follower:	Guarda
+	Leader:	GateKeeper
+	Follower:	GateKeeper
 	RouteType:	2
 	Formation:	0
 	StartX:	2150
@@ -25212,8 +25212,8 @@
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
-	Leader:	Guarda
-	Follower:	Guarda
+	Leader:	GateKeeper
+	Follower:	GateKeeper
 	RouteType:	2
 	Formation:	0
 	StartX:	2150
@@ -25233,8 +25233,8 @@
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
-	Leader:	Guarda_
-	Follower:	Guarda_
+	Leader:	GateKeeper
+	Follower:	GateKeeper
 	RouteType:	2
 	Formation:	0
 	StartX:	2115
@@ -25254,8 +25254,8 @@
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
-	Leader:	Guarda_
-	Follower:	Guarda_
+	Leader:	GateKeeper
+	Follower:	GateKeeper
 	RouteType:	2
 	Formation:	0
 	StartX:	2108
@@ -25439,7 +25439,7 @@
 // no35npc17 IMPOSTO
 // ********************************************
 #	[1082]
-	MinuteGenerate:	-1
+	MinuteGenerate:	1
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
@@ -47015,7 +47015,7 @@
 // 아르미아 마을 그리폰 조련사
 // ********************************************
 #	[1837]
-	MinuteGenerate:	-1
+	MinuteGenerate:	1
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
@@ -51956,8 +51956,8 @@
 // no977 (2016 Campo)
 // ********************************************
 #	[2010]
-	MinuteGenerate:	2
-	MaxNumMob:	2
+	MinuteGenerate:	-1
+	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
 	Leader:	Troll_Insano_
@@ -52102,7 +52102,7 @@
 // ********************************************
 #	[2015]
 	MinuteGenerate:	1
-	MaxNumMob:	2
+	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
 	Leader:	Troll_Caido
@@ -52130,7 +52130,7 @@
 // no983 (2016 Campo)
 // ********************************************
 #	[2016]
-	MinuteGenerate:	1
+	MinuteGenerate:	-1
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
@@ -52217,7 +52217,7 @@
 // no986 (2016 Campo)
 // ********************************************
 #	[2019]
-	MinuteGenerate:	1
+	MinuteGenerate:	-1
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
@@ -52334,7 +52334,7 @@
 // ********************************************
 #	[2023]
 	MinuteGenerate:	-1
-	MaxNumMob:	3
+	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
 	Leader:	Troll_Caido
@@ -52391,7 +52391,7 @@
 // no992 (2016 Campo)
 // ********************************************
 #	[2025]
-	MinuteGenerate:	2
+	MinuteGenerate:	-1
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
@@ -52420,7 +52420,7 @@
 // no993 (2016 Campo)
 // ********************************************
 #	[2026]
-	MinuteGenerate:	1
+	MinuteGenerate:	-1
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
@@ -52449,7 +52449,7 @@
 // no994 (2016 Campo)
 // ********************************************
 #	[2027]
-	MinuteGenerate:	1
+	MinuteGenerate:	-1
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
@@ -52507,7 +52507,7 @@
 // no996 (2016 Campo)
 // ********************************************
 #	[2029]
-	MinuteGenerate:	1
+	MinuteGenerate:	-1
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
@@ -52536,7 +52536,7 @@
 // no997 (2016 Campo)
 // ********************************************
 #	[2030]
-	MinuteGenerate:	1
+	MinuteGenerate:	-1
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
@@ -52826,7 +52826,7 @@
 // no1007 (2016 Campo)
 // ********************************************
 #	[2040]
-	MinuteGenerate:	1
+	MinuteGenerate:	-1
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
@@ -52885,7 +52885,7 @@
 // ********************************************
 #	[2042]
 	MinuteGenerate:	1
-	MaxNumMob:	2
+	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
 	Leader:	Troll_Caido
@@ -52943,7 +52943,7 @@
 // ********************************************
 #	[2044]
 	MinuteGenerate:	2
-	MaxNumMob:	3
+	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
 	Leader:	Troll_Caido_
@@ -53029,7 +53029,7 @@
 // no1014 (2016 Campo)
 // ********************************************
 #	[2047]
-	MinuteGenerate:	2
+	MinuteGenerate:	-1
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
@@ -53203,8 +53203,8 @@
 // no1020 (2016 Campo)
 // ********************************************
 #	[2053]
-	MinuteGenerate:	1
-	MaxNumMob:	3
+	MinuteGenerate:	-1
+	MaxNumMob:	1
 	MinGroup:	1
 	MaxGroup:	1
 	Leader:	Troll_Caido
@@ -53233,7 +53233,7 @@
 // ********************************************
 #	[2054]
 	MinuteGenerate:	2
-	MaxNumMob:	2
+	MaxNumMob:	1
 	MinGroup:	1
 	MaxGroup:	1
 	Leader:	Troll_Caido_
@@ -53262,7 +53262,7 @@
 // ********************************************
 #	[2055]
 	MinuteGenerate:	1
-	MaxNumMob:	3
+	MaxNumMob:	1
 	MinGroup:	1
 	MaxGroup:	1
 	Leader:	Troll_Caido
@@ -53291,7 +53291,7 @@
 // ********************************************
 #	[2056]
 	MinuteGenerate:	1
-	MaxNumMob:	3
+	MaxNumMob:	1
 	MinGroup:	1
 	MaxGroup:	1
 	Leader:	Troll_Caido
@@ -53320,7 +53320,7 @@
 // ********************************************
 #	[2057]
 	MinuteGenerate:	1
-	MaxNumMob:	3
+	MaxNumMob:	1
 	MinGroup:	1
 	MaxGroup:	1
 	Leader:	Troll_Caido
@@ -53348,8 +53348,8 @@
 // no1025 (2016 Campo)
 // ********************************************
 #	[2058]
-	MinuteGenerate:	1
-	MaxNumMob:	3
+	MinuteGenerate:	-1
+	MaxNumMob:	1
 	MinGroup:	1
 	MaxGroup:	1
 	Leader:	Troll_Caido
@@ -53378,7 +53378,7 @@
 // ********************************************
 #	[2059]
 	MinuteGenerate:	2
-	MaxNumMob:	3
+	MaxNumMob:	1
 	MinGroup:	1
 	MaxGroup:	1
 	Leader:	Troll_Caido_
@@ -53407,7 +53407,7 @@
 // ********************************************
 #	[2060]
 	MinuteGenerate:	1
-	MaxNumMob:	3
+	MaxNumMob:	1
 	MinGroup:	1
 	MaxGroup:	1
 	Leader:	Troll_Caido
@@ -53436,7 +53436,7 @@
 // ********************************************
 #	[2061]
 	MinuteGenerate:	1
-	MaxNumMob:	3
+	MaxNumMob:	1
 	MinGroup:	1
 	MaxGroup:	1
 	Leader:	Troll_Caido
@@ -53465,7 +53465,7 @@
 // ********************************************
 #	[2062]
 	MinuteGenerate:	1
-	MaxNumMob:	3
+	MaxNumMob:	1
 	MinGroup:	1
 	MaxGroup:	1
 	Leader:	Troll_Caido
@@ -53494,7 +53494,7 @@
 // ********************************************
 #	[2063]
 	MinuteGenerate:	1
-	MaxNumMob:	3
+	MaxNumMob:	1
 	MinGroup:	1
 	MaxGroup:	1
 	Leader:	Troll_Caido
@@ -53523,7 +53523,7 @@
 // ********************************************
 #	[2064]
 	MinuteGenerate:	-1
-	MaxNumMob:	2
+	MaxNumMob:	1
 	MinGroup:	1
 	MaxGroup:	1
 	Leader:	Troll_Caido_
@@ -53552,7 +53552,7 @@
 // ********************************************
 #	[2065]
 	MinuteGenerate:	-1
-	MaxNumMob:	3
+	MaxNumMob:	1
 	MinGroup:	1
 	MaxGroup:	1
 	Leader:	Troll_Caido
@@ -53581,11 +53581,11 @@
 // ********************************************
 #	[2066]
 	MinuteGenerate:	1
-	MaxNumMob:	2
+	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
-	Leader:	Troll_Caido
-	Follower:	Troll_Caido
+	Leader:	Troll_Caos
+	Follower:	Troll_Caos
 	RouteType:	2
 	Formation:	0
 	StartX:	2622
@@ -53613,8 +53613,8 @@
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
-	Leader:	Troll_Caido
-	Follower:	Troll_Caido
+	Leader:	Troll_Caos
+	Follower:	Troll_Caos
 	RouteType:	2
 	Formation:	0
 	StartX:	2622
@@ -53642,8 +53642,8 @@
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
-	Leader:	Troll_Caido_
-	Follower:	Troll_Caido_
+	Leader:	Troll_Caos_
+	Follower:	Troll_Caos_
 	RouteType:	2
 	Formation:	0
 	StartX:	2622
@@ -53668,11 +53668,11 @@
 // ********************************************
 #	[2069]
 	MinuteGenerate:	1
-	MaxNumMob:	3
+	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
-	Leader:	Troll_Caido
-	Follower:	Troll_Caido
+	Leader:	Troll_Caos
+	Follower:	Troll_Caos
 	RouteType:	2
 	Formation:	0
 	StartX:	2622
@@ -53697,11 +53697,11 @@
 // ********************************************
 #	[2070]
 	MinuteGenerate:	1
-	MaxNumMob:	2
+	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
-	Leader:	Troll_Caido
-	Follower:	Troll_Caido
+	Leader:	Troll_Caos
+	Follower:	Troll_Caos
 	RouteType:	2
 	Formation:	0
 	StartX:	2622
@@ -53729,8 +53729,8 @@
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
-	Leader:	Troll_Caido_
-	Follower:	Troll_Caido_
+	Leader:	Troll_Caos_
+	Follower:	Troll_Caos_
 	RouteType:	2
 	Formation:	0
 	StartX:	2630
@@ -53758,8 +53758,8 @@
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
-	Leader:	Troll_Caido
-	Follower:	Troll_Caido
+	Leader:	Troll_Caos
+	Follower:	Troll_Caos
 	RouteType:	2
 	Formation:	0
 	StartX:	2638
@@ -53787,8 +53787,8 @@
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
-	Leader:	Troll_Caido
-	Follower:	Troll_Caido
+	Leader:	Troll_Caos
+	Follower:	Troll_Caos
 	RouteType:	2
 	Formation:	0
 	StartX:	2646
@@ -53813,11 +53813,11 @@
 // ********************************************
 #	[2074]
 	MinuteGenerate:	1
-	MaxNumMob:	2
+	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
-	Leader:	Troll_Caido
-	Follower:	Troll_Caido
+	Leader:	Troll_Caos
+	Follower:	Troll_Caos
 	RouteType:	2
 	Formation:	0
 	StartX:	2654
@@ -53843,10 +53843,10 @@
 #	[2075]
 	MinuteGenerate:	2
 	MaxNumMob:	1
-	MinGroup:	0
-	MaxGroup:	0
-	Leader:	Troll_Caido_
-	Follower:	Troll_Caido_
+	MinGroup:	1
+	MaxGroup:	1
+	Leader:	Troll_Caos_
+	Follower:	Troll_Caos_
 	RouteType:	2
 	Formation:	0
 	StartX:	2660
@@ -53871,11 +53871,11 @@
 // ********************************************
 #	[2076]
 	MinuteGenerate:	1
-	MaxNumMob:	2
-	MinGroup:	1
-	MaxGroup:	1
-	Leader:	Troll_Caido
-	Follower:	Troll_Caido
+	MaxNumMob:	1
+	MinGroup:	0
+	MaxGroup:	0
+	Leader:	Troll_Caos
+	Follower:	Troll_Caos
 	RouteType:	2
 	Formation:	0
 	StartX:	2646
@@ -53900,11 +53900,11 @@
 // ********************************************
 #	[2077]
 	MinuteGenerate:	2
-	MaxNumMob:	2
+	MaxNumMob:	1
 	MinGroup:	1
 	MaxGroup:	1
-	Leader:	Troll_Caido_
-	Follower:	Troll_Caido_
+	Leader:	Troll_Caos_
+	Follower:	Troll_Caos_
 	RouteType:	2
 	Formation:	0
 	StartX:	2656
@@ -53929,11 +53929,11 @@
 // ********************************************
 #	[2078]
 	MinuteGenerate:	1
-	MaxNumMob:	2
+	MaxNumMob:	1
 	MinGroup:	1
 	MaxGroup:	1
-	Leader:	Troll_Caido
-	Follower:	Troll_Caido
+	Leader:	Troll_Caos
+	Follower:	Troll_Caos
 	RouteType:	2
 	Formation:	0
 	StartX:	2646
@@ -53958,11 +53958,11 @@
 // ********************************************
 #	[2079]
 	MinuteGenerate:	1
-	MaxNumMob:	2
+	MaxNumMob:	1
 	MinGroup:	1
 	MaxGroup:	1
-	Leader:	Troll_Caido
-	Follower:	Troll_Caido
+	Leader:	Troll_Caos
+	Follower:	Troll_Caos
 	RouteType:	2
 	Formation:	0
 	StartX:	2656
@@ -53986,7 +53986,7 @@
 // no1047c1  (1913) - 아즈란 Cubo vendedor
 // ********************************************
 #	[2080]
-	MinuteGenerate:	-1
+	MinuteGenerate:	1
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
@@ -54385,7 +54385,7 @@
 // no1062c14  (1913) - 아즈란 IMPOSTO
 // ********************************************
 #	[2099]
-	MinuteGenerate:	-1
+	MinuteGenerate:	1
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
@@ -128592,21 +128592,21 @@
 	Follower:	Chefe_de_Treino
 	RouteType:	2
 	Formation:	0
-	StartX:	2107
-	StartY:	2080
+	StartX:	2125
+	StartY:	2043
 	StartRange:	0
 	StartWait:	9
 	StartAction:	Existe_um_Orc_no_final_dessa_regiao...
-	Segment1X:	2107
-	Segment1Y:	2080
+	Segment1X:	2125
+	Segment1Y:	2043
 	Segment1Wait:	8
 	Segment1Action:	Ele_possui_um_emblema_valioso!
-	Segment2X:	2107
-	Segment2Y:	2080
+	Segment2X:	2125
+	Segment2Y:	2043
 	Segment2Wait:	8
 	Segment2Action:	Consiga-o_para_mim_e_te_darei_recompensas!
-	DestX:	2107
-	DestY:	2080
+	DestX:	2125
+	DestY:	2043
 	DestRange:	0
 	DestWait:	10
 
@@ -128677,7 +128677,7 @@
 // no1062c14 (0813) - 노아툰성길드조합원 IMPOSTO
 // ********************************************
 #	[4695]
-	MinuteGenerate:	-1
+	MinuteGenerate:	1
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
@@ -142102,7 +142102,7 @@
 // map 2824 // 카르덴 마을 - 조합원브루스 IMPOSTO
 // ********************************************
 #	[5228]
-	MinuteGenerate:	-1
+	MinuteGenerate:	1
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0

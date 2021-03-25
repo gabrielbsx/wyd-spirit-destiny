@@ -244,7 +244,7 @@ Korean	MatchCode
 가고일대장	GagoilChief
 무기상인갈포드	Galford
 Gate	Gate
-문지기	GateKeeper
+문지기	Guarda
 구울	Ghoul
 구울_	Ghoul_
 구울__	Ghoul__
@@ -546,8 +546,8 @@ Gate	Gate
 상인테론	Theron
 3관문트레이너	ThirdTrainer
 토르의탑	TowerOfThor
-타운와쳐	TownWatcher
-타운와쳐_	TownWatcher_
+타운와쳐	Guardia
+타운와쳐_	Guardia_
 양성소교관	TrainerChief
 트램플타이거	TrampleTiger
 트렌스나이트	TransKnight
