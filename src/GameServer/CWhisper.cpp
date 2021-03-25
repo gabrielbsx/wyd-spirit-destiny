@@ -6,6 +6,8 @@
 #include "CMobKilled.h"
 #include "CQuest.h"
 #include "CStoreBuy.h"
+#include "CExpController.h"
+#include "CDropController.h"
 
 std::string ScriptCommandDir = "../../Settings/Scripts/Commands"; // Register.xml
 
@@ -82,28 +84,17 @@ bool CWhisper::Run(int conn, char* pMsg)
 
 		if (pMob[conn].Mob.CurrentScore.Level >= 1000 && !strcmp(p->MobName, "load"))
 		{
-			if (!strcmp(p->String, "all"))
-				!g_pMain->LoadFiles() ? SendClientMessage(conn, "+FAILED ON LOAD ALL SCRIPTS") : SendClientMessage(conn, "+SUCESS ON LOAD ALL SCRIPTS");
-
-			else if (!strcmp(p->String, "commands"))
-				!CWhisper::LoadScripts() ? SendClientMessage(conn, "+FAILED ON LOAD COMMANDS") : SendClientMessage(conn, "+SUCESS ON LOAD COMMANDS");
-
-			else if (!strcmp(p->String, "quests"))
-				!CQuest::LoadScripts() ? SendClientMessage(conn, "+FAILED ON LOAD QUESTS") : SendClientMessage(conn, "+SUCESS ON LOAD QUESTS");
-
-			else if (!strcmp(p->String, "volatiles"))
-				!CUseItem::LoadScripts() ? SendClientMessage(conn, "+FAILED ON LOAD VOLATILES") : SendClientMessage(conn, "+SUCESS ON LOAD VOLATILES");
-
-			else if (!strcmp(p->String, "mobkilled"))
-				!CMobKilled::LoadScripts() ? SendClientMessage(conn, "+FAILED ON LOAD MOBKILLED") : SendClientMessage(conn, "+SUCESS ON LOAD MOBKILLED");
-			else if (!strcmp(p->String, "storebuy"))
-				!CStoreBuy::LoadScripts() ? SendClientMessage(conn, "+FAILED ON LOAD STORE BUY") : SendClientMessage(conn, "+SUCESS ON LOAD STORE BUY");
-
-			else if (!strcmp(p->String, "hooks"))
-				!g_pMain->LoadHooks() ? SendClientMessage(conn, "+FAILED ON LOAD HOOKS") : SendClientMessage(conn, "+SUCESS ON LOAD HOOKS");
-
-			else
-				SendClientMessage(conn, "Comando secunário inválido!");
+			if (!strcmp(p->String, "all")) !g_pMain->LoadFiles() ? SendClientMessage(conn, "+FAILED ON LOAD ALL SCRIPTS") : SendClientMessage(conn, "+SUCESS ON LOAD ALL SCRIPTS");
+			else if (!strcmp(p->String, "commands")) !CWhisper::LoadScripts() ? SendClientMessage(conn, "+FAILED ON LOAD COMMANDS") : SendClientMessage(conn, "+SUCESS ON LOAD COMMANDS");
+			else if (!strcmp(p->String, "quests")) !CQuest::LoadScripts() ? SendClientMessage(conn, "+FAILED ON LOAD QUESTS") : SendClientMessage(conn, "+SUCESS ON LOAD QUESTS");
+			else if (!strcmp(p->String, "volatiles")) !CUseItem::LoadScripts() ? SendClientMessage(conn, "+FAILED ON LOAD VOLATILES") : SendClientMessage(conn, "+SUCESS ON LOAD VOLATILES");
+			else if (!strcmp(p->String, "mobkilled")) !CMobKilled::LoadScripts() ? SendClientMessage(conn, "+FAILED ON LOAD MOBKILLED") : SendClientMessage(conn, "+SUCESS ON LOAD MOBKILLED");
+			else if (!strcmp(p->String, "storebuy")) !CStoreBuy::LoadScripts() ? SendClientMessage(conn, "+FAILED ON LOAD STORE BUY") : SendClientMessage(conn, "+SUCESS ON LOAD STORE BUY");
+			else if (!strcmp(p->String, "hooks")) !g_pMain->LoadHooks() ? SendClientMessage(conn, "+FAILED ON LOAD HOOKS") : SendClientMessage(conn, "+SUCESS ON LOAD HOOKS");
+			else if (!strcmp(p->String, "exparea")) !CExpController::LoadExpArea() ? SendClientMessage(conn, "+FAILED ON LOAD EXP AREA") : SendClientMessage(conn, "+SUCESS ON LOAD EXPAREA");
+			else if (!strcmp(p->String, "expclass")) !CExpController::LoadExpClass() ? SendClientMessage(conn, "+FAILED ON LOAD EXP CLASS") : SendClientMessage(conn, "+SUCESS ON LOAD CLASS");
+			else if (!strcmp(p->String, "drop")) !CDropController::Initialize() ? SendClientMessage(conn, "+FAILED ON LOAD DROP") : SendClientMessage(conn, "+SUCESS ON DROP");
+			else SendClientMessage(conn, "Comando secunário inválido!");
 
 			return false;
 		}

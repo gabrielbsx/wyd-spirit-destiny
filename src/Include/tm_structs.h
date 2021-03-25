@@ -589,7 +589,6 @@ struct  MSG_CreateMobTrade
 	char Server;
 };
 
-
 /* 2646 */
 struct  MSG_CreateMob
 {

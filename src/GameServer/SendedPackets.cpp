@@ -23,6 +23,19 @@ int PacketController::ExecuteSended(char* pMsg, DWORD* socketId, int packetSize)
 			}
 
 		}
+	case 0x338:
+	{
+		
+		auto  p = reinterpret_cast<MSG_CNFMobKill*>(pMsg);
+		if (p->Killer > 0 && p->Killer < MAX_MOB)
+		{
+			if (pMob[p->Killer].SummonerID > 0 && pMob[p->Killer].SummonerID < MAX_USER && pUser[pMob[p->Killer].SummonerID].Mode == USER_PLAY)
+			{
+				p->Killer = static_cast<unsigned short>(pMob[p->Killer].SummonerID);
+			}
+		}
+		
+	}
 	default:
 		break;
 	}

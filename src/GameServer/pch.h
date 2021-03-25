@@ -22,6 +22,9 @@ constexpr auto MAX_ITEMLIST = 6500;
 constexpr auto MAX_EQUIP = 16;
 constexpr auto MAX_CARRY = 64;
 constexpr auto MAX_STORAGE = 128;
+constexpr auto MORTAL = 0;
+constexpr auto ARCH = 1;
+constexpr auto CELEORSUB = 2;
 
 #pragma endregion
 

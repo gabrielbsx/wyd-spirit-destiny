@@ -184,6 +184,22 @@ static void SaveUser(INT32 connId)
 	}
 }
 
+static int GetEvolution(INT32 connId)
+{
+	static DWORD callAddr = 0x04D1170;
+	static DWORD ptrMob = BaseAddress + 0x078D3AC0;
+	__asm
+	{
+		PUSH connId
+		MOV ECX, connId
+		IMUL ECX, ECX, 0x928
+		ADD ECX, ptrMob
+		CALL callAddr
+		ADD ESP, 0x4
+	}
+}
+
+
 
 #pragma endregion
 

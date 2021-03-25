@@ -6,7 +6,8 @@
 #include "CWhisper.h"
 #include "CQuest.h"
 #include "CStoreBuy.h"
-
+#include "CExpController.h"
+#include "CDropController.h"
 bool CMain::LoadFiles()
 {
 	if (!CUseItem::LoadScripts()) return false;
@@ -14,6 +15,9 @@ bool CMain::LoadFiles()
 	else if (!CWhisper::LoadScripts()) return false;
 	else if (!CQuest::LoadScripts()) return false;
 	else if (!CStoreBuy::LoadScripts()) return false;
+	else if (!CExpController::LoadExpClass()) return false;
+	else if (!CExpController::LoadExpArea()) return false;
+	else if (!CDropController::Initialize()) return false;
 
 
 

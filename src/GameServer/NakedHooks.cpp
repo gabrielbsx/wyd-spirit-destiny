@@ -25,6 +25,7 @@ bool CHook::SetNakeds()
 	PEHook::JMP_NEAR(0x503BDD, CFix::NKD_GridMulticast_FixPosition, 1);
 
 	// Bonus de drop em area
+	PEHook::FillWithNop(0x00570E6C, 6);
 	PEHook::JMP_NEAR(0x05712AA, CDropController::NKD_DropArea);
 	PEHook::JMP_NEAR(0x0571301, CDropController::NKD_BlockDrop);
 

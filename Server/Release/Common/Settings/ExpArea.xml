@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<ExpArea>
+	<!-- X/Y = coord/128, xMin, yMin xMax, yMax only if u need send bonus to small area, mult is a multiply exp -->
+	<Exp X="0" Y="0" XMin="0" YMin="0" XMax="4096" YMax="4096" Mult="1" />
+</ExpArea>

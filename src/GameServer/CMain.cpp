@@ -31,7 +31,7 @@ bool CMain::Initialize()
 		return false;
 
 #ifdef _DEBUG
-	std::cout << "BaseAdress:: 0x" << std::hex << std::uppercase  << BaseAddress << std::endl;
+	std::cout << "BaseAdress:: 0x" << std::hex << std::uppercase  << BaseAddress << std::dec << std::endl;
 #endif
 	return this->HookMgr->Initialize() & this->LoadFiles();
 }
