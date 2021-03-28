@@ -19,8 +19,6 @@ bool CMain::LoadFiles()
 	else if (!CExpController::LoadExpArea()) return false;
 	else if (!CDropController::Initialize()) return false;
 
-
-
 	return true;
 }
 

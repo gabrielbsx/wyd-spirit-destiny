@@ -107,10 +107,10 @@ int LuaSend::Lua_SendAffect(lua_State* L)
 
 int LuaSend::Lua_SetAffect(lua_State* L)
 {
-	int conn = static_cast<int>(lua_tonumber(L, -1));
-	int Affect = static_cast<int>(lua_tonumber(L, -2));
-	int Time = static_cast<int>(lua_tonumber(L, -3));
-	int Value = static_cast<int>(lua_tonumber(L, -4));
+	int conn = static_cast<int>(lua_tonumber(L, -4));
+	int Affect = static_cast<int>(lua_tonumber(L, -3));
+	int Time = static_cast<int>(lua_tonumber(L, -2));
+	int Value = static_cast<int>(lua_tonumber(L, -1));
 	SetAffect(conn, Affect, Time, Value);
 	return 0;
 }

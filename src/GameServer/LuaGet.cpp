@@ -37,10 +37,10 @@ void LuaGet::Initialize_MetaTable(lua_State* L)
 int LuaGet::Lua_GetDistance(lua_State* L)
 {
 	// testar depois
-	auto y2 = static_cast<short>(lua_tonumber(L, -1));
-	auto x2 = static_cast<short>(lua_tonumber(L, -2));
-	auto y1 = static_cast<short>(lua_tonumber(L, -3));
-	auto x1 = static_cast<short>(lua_tonumber(L, -4));
+	auto y2 = static_cast<short>(lua_tonumber(L, -4));
+	auto x2 = static_cast<short>(lua_tonumber(L, -3));
+	auto y1 = static_cast<short>(lua_tonumber(L, -2));
+	auto x1 = static_cast<short>(lua_tonumber(L, -1));
 	auto dist = BASE_GetDistance(x1, y1, x2, y2);
 	lua_pushnumber(L, dist);
 	return 1;
@@ -65,8 +65,8 @@ int LuaGet::Lua_GetItemSanc(lua_State* L)
 
 int LuaGet::Lua_GetItemAbility(lua_State* L)
 {
-	STRUCT_ITEM* item = (STRUCT_ITEM*)lua_touserdata(L, -1);
-	auto eff = static_cast<unsigned char>(lua_tonumber(L, -2));
+	STRUCT_ITEM* item = (STRUCT_ITEM*)lua_touserdata(L, -2);
+	auto eff = static_cast<unsigned char>(lua_tonumber(L, -1));
 	int hab = BASE_GetItemAbility(item, eff);
 	lua_pushnumber(L, hab);
 	return 1;
@@ -82,8 +82,8 @@ int LuaGet::Lua_GetClan(lua_State* L)
 
 int LuaGet::Lua_GetVillage(lua_State* L)
 {
-	auto x = static_cast<int>(lua_tonumber(L, -1));
-	auto y = static_cast<int>(lua_tonumber(L, -2));
+	auto x = static_cast<int>(lua_tonumber(L, -2));
+	auto y = static_cast<int>(lua_tonumber(L, -1));
 	auto village = BASE_GetVillage(x, y);
 	lua_pushnumber(L, village);
 	return 1;
@@ -91,8 +91,8 @@ int LuaGet::Lua_GetVillage(lua_State* L)
 
 int LuaGet::Lua_GetAffect(lua_State* L)
 {
-	auto mobID = static_cast<int>(lua_tonumber(L, -1));
-	auto AffectID = static_cast<int>(lua_tonumber(L, -2));
+	auto mobID = static_cast<int>(lua_tonumber(L, -2));
+	auto AffectID = static_cast<int>(lua_tonumber(L, -1));
 	for (int i = 0; i < ARRAYSIZE(pMob[mobID].Affects); i++)
 	{
 		if (pMob[mobID].Affects[i].Type == AffectID)
@@ -153,8 +153,8 @@ int LuaGet::Lua_IsJoinableItem(lua_State* L)
 
 int LuaGet::Lua_CheckQuestBit(lua_State* L)
 {
-	auto quest = static_cast<char>(lua_tonumber(L, -1));
-	auto id = static_cast<int>(lua_tonumber(L, -2));
+	auto quest = static_cast<char>(lua_tonumber(L, -2));
+	auto id = static_cast<int>(lua_tonumber(L, -1));
 	auto questflag = BASE_CheckQuestBit(quest, id);
 	lua_pushboolean(L, questflag);
 	return 1;
@@ -167,3 +167,4 @@ int LuaGet::Lua_Rand(lua_State* L)
 	lua_pushinteger(L, rnd);
 	return 1;
 }
+

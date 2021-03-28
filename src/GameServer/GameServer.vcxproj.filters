@@ -99,6 +99,9 @@
     <Filter Include="Manager\Core\DropController">
       <UniqueIdentifier>{3de199ae-c032-491b-8575-7300e9f10164}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Manager\Core\Extra\CAccount">
+      <UniqueIdentifier>{09a21474-deb1-4fab-8154-71cf0ae184bb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -198,6 +201,9 @@
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
     <ClInclude Include="CDropController.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="CAccount.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
   </ItemGroup>
@@ -302,6 +308,9 @@
     </ClCompile>
     <ClCompile Include="CDropController.cpp">
       <Filter>Manager\Core\DropController</Filter>
+    </ClCompile>
+    <ClCompile Include="CAccount.cpp">
+      <Filter>Manager\Core\Extra\CAccount</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

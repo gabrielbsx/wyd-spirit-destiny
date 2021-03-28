@@ -203,8 +203,8 @@ int LuaSet::Lua_GenerateItem(lua_State* L)
 
 int LuaSet::Lua_SetLevel(lua_State* L)
 {
-	short conn = static_cast<short>(lua_tonumber(L, 1));
-	short level = static_cast<short>(lua_tonumber(L, 2));
+	short conn = static_cast<short>(lua_tonumber(L, -2));
+	short level = static_cast<short>(lua_tonumber(L, -1));
 	pMob[conn].Mob.CurrentScore.Level = level;
 	pMob[conn].Mob.BaseScore.Level = level;
 	return 0;

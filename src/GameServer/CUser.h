@@ -3,6 +3,7 @@
 #include <structs.h>
 
 #define ACCOUNTNAME_LENGTH 16
+#define ACCOUNTPASS_LENGTH 12
 #define MOB_PER_ACCOUNT 4
 
 struct MSG_Trade
@@ -74,7 +75,7 @@ public:
 	int ReqHp; // 2484 - 2487 = 61AB46C
 	int ReqMp; // 2488 - 2491 = 61AB470
 	int bQuaff; // 2492 - 2495 = 61AB474
-	int Mac[4]; // 2496 - 2511 = 61AB478
+	char Mac[16]; // 2496 - 2511 = 61AB478
 	int RankingMode; // 2512 - 2515 = 61AB488
 	int RankingTarget; // 2516 - 2519 = 61AB48C
 	int RankingType; // 2520 - 2523 = 61AB490

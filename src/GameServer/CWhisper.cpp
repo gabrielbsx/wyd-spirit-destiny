@@ -8,6 +8,7 @@
 #include "CStoreBuy.h"
 #include "CExpController.h"
 #include "CDropController.h"
+#include "CExtra.h"
 
 std::string ScriptCommandDir = "../../Settings/Scripts/Commands"; // Register.xml
 
@@ -57,15 +58,12 @@ bool CWhisper::Run(int conn, char* pMsg)
 
 	if (pUser[conn].Mode == USER_PLAY)
 	{
-		auto lvl = pMob[conn].Mob.CurrentScore.Level;
-		lvl -= 1000;
-
 		for (auto& i : CWhisper::CommandScripts)
 		{
 			if (!i->Status)
 				continue;
 
-			if (i->Level != 0 && lvl < i->Level)
+			if (i->Level != 0 && g_pExtra[conn].Account.Admin.AccessLevel < i->Level)
 				continue;
 
 			if (!i->Command.compare(p->MobName))
@@ -82,7 +80,7 @@ bool CWhisper::Run(int conn, char* pMsg)
 			}
 		}
 
-		if (pMob[conn].Mob.CurrentScore.Level >= 1000 && !strcmp(p->MobName, "load"))
+		if (g_pExtra[conn].InGame.Admin.isAdmin && g_pExtra[conn].Account.Admin.AccessLevel >= 10 && !strcmp(p->MobName, "load"))
 		{
 			if (!strcmp(p->String, "all")) !g_pMain->LoadFiles() ? SendClientMessage(conn, "+FAILED ON LOAD ALL SCRIPTS") : SendClientMessage(conn, "+SUCESS ON LOAD ALL SCRIPTS");
 			else if (!strcmp(p->String, "commands")) !CWhisper::LoadScripts() ? SendClientMessage(conn, "+FAILED ON LOAD COMMANDS") : SendClientMessage(conn, "+SUCESS ON LOAD COMMANDS");

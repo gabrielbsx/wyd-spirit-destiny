@@ -168,6 +168,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="CAccount.h" />
     <ClInclude Include="CAttack.h" />
     <ClInclude Include="CDeleteItem.h" />
     <ClInclude Include="CDropController.h" />
@@ -203,6 +204,7 @@
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CAccount.cpp" />
     <ClCompile Include="CAttack.cpp" />
     <ClCompile Include="CDeleteItem.cpp" />
     <ClCompile Include="CDropController.cpp" />

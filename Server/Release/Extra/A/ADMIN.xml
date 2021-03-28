@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<info>
+  <AccountInfo AccessLevel="10" banStatus="false" LastMac="" CurrentMac="" IsLocked="false" />
+  <Quest>
+    <QuestInfo Index="0" Value="3" />
+    <QuestInfo Index="1" Value="0" />
+    <QuestInfo Index="2" Value="0" />
+    <QuestInfo Index="3" Value="0" />
+    <QuestInfo Index="4" Value="0" />
+    <QuestInfo Index="5" Value="0" />
+    <QuestInfo Index="6" Value="0" />
+    <QuestInfo Index="7" Value="0" />
+    <QuestInfo Index="8" Value="0" />
+    <QuestInfo Index="9" Value="0" />
+  </Quest>
+</info>

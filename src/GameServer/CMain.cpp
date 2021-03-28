@@ -12,6 +12,8 @@ CMain* g_pMain = nullptr;
 CMain::CMain()
 {
 	this->HookMgr = new CHook();
+	this->Maitence = true;
+	this->BanMac.clear();
 	g_pMain = this;
 }
 

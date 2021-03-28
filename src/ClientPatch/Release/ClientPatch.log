@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  dllmain.cpp
+E:\Github\wyd-spirit-destiny\src\ClientPatch\dllmain.cpp(23,65): error C2664: 'BOOL SetConsoleTitleW(LPCWSTR)': não é possível converter um argumento 1 de 'const char [31]' em 'LPCWSTR'
+E:\Github\wyd-spirit-destiny\src\ClientPatch\dllmain.cpp(23,33): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\consoleapi2.h(510,1): message : consulte a declaração de 'SetConsoleTitleW'
+E:\Github\wyd-spirit-destiny\src\ClientPatch\dllmain.cpp(21,17): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Helper.cpp
+E:\Github\wyd-spirit-destiny\src\ClientPatch\UIHelper.h(113,3): error C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Github\wyd-spirit-destiny\src\ClientPatch\Helper.cpp(54,3): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Github\wyd-spirit-destiny\src\ClientPatch\Helper.cpp(79,3): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Github\wyd-spirit-destiny\src\ClientPatch\Helper.cpp(91,4): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Github\wyd-spirit-destiny\src\ClientPatch\Helper.cpp(95,4): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Github\wyd-spirit-destiny\src\ClientPatch\Helper.cpp(99,4): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Github\wyd-spirit-destiny\src\ClientPatch\Helper.cpp(107,4): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Github\wyd-spirit-destiny\src\ClientPatch\Helper.cpp(111,4): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HookMgr.cpp
+E:\Github\wyd-spirit-destiny\src\ClientPatch\pe_Hook.h(91,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Naked.cpp

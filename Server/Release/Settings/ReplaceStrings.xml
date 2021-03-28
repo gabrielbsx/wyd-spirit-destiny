@@ -3,8 +3,8 @@
 	<FlagsSetup Address="0x033E3D" Add="1" Value="./Settings/hellgate/HellGateRate_Weapon.txt" />
 	<FlagsSetup Address="0x0344CD" Add="1" Value="./Settings/hellgate/HellGateRate_Armor.txt" />
 	<FlagsSetup Address="0x034B3D" Add="1" Value="./Settings/hellgate/HellGateRate_Accessory.txt" />
-	<FlagsSetup Address="0x0BAD1E" Add="1" Value="../../Common/Files/heightmap.dat" />
-	<FlagsSetup Address="0x012CB6" Add="1" Value="../../Common/Files/AttributeMap.dat" />
+	<!--FlagsSetup Address="0x0BAD1E" Add="1" Value="../../Common/Files/heightmap.dat" />
+	<FlagsSetup Address="0x012CB6" Add="1" Value="../../Common/Files/AttributeMap.dat" /-->
 	<FlagsSetup Address="0x011CFD" Add="1" Value="../../Common/Files/InitItem.csv" />
 	<FlagsSetup Address="0x00F847" Add="1" Value="../../Common/Files/ItemEffect.h" />
 	<FlagsSetup Address="0x00E7B4" Add="1" Value="../../Common/Files/ItemList.csv" />

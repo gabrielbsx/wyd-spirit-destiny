@@ -3,7 +3,7 @@
 	<!--Types = BYTE, SHORT, DWORD, FLOAT, DOUBLE, NOP (using nop, value is a count of bytes to set 0x90 -->
 	
 	<!-- Setup Client Version -->
-	<FlagConst Address="0x019659C" Add="0" Type="DWORD" Value="778" />
+	<FlagConst Address="0x019659C" Add="0" Type="DWORD" Value="757" />
 	<!-- Set MaxLevel Mortal -->
 	<FlagConst Address="0x195EF4" Add="0" Type="DWORD" Value="399" />
 	<!-- Set MaxLevel Mortal -->
@@ -55,30 +55,30 @@
 	<FlagConst Address="0x195F00" Add="1" Type="DWORD" Value="0" />
 	
 	<!-- Set Multiply Exp Celestial/Sub --> 
-	<!-- Level 350+ -->
+	<!-- Level 350+ >
 	<FlagConst Address="0xCFDE0" Add="1" Type="DWORD" Value="768" />
-	<!-- Level 300+ -->
+	<!-- Level 300+ >
 	<FlagConst Address="0xCFDC4" Add="1" Type="DWORD" Value="512" />
-	<!-- Level 250+ -->
+	<!-- Level 250+ >
 	<FlagConst Address="0xCFD9F" Add="1" Type="DWORD" Value="256" />
-	<!-- Level 190+ -->
+	<!-- Level 190+ >
 	<FlagConst Address="0xCFD7A" Add="1" Type="DWORD" Value="180" />
-	<!-- Level 180+ -->
+	<!-- Level 180+ >
 	<FlagConst Address="0xCFD55" Add="1" Type="BYTE" Value="72" />
-	<!-- Level 170+ -->
+	<!-- Level 170+ >
 	<FlagConst Address="0xCFD30" Add="1" Type="BYTE" Value="51" />
-	<!-- Level 160+ -->
+	<!-- Level 160+ >
 	<FlagConst Address="0xCFD0B" Add="1" Type="BYTE" Value="32" />
-	<!-- Level 150+ -->
+	<!-- Level 150+ >
 	<FlagConst Address="0xCFCE6" Add="1" Type="BYTE" Value="16" />
-	<!-- Level 80+ -->
+	<!-- Level 80+ >
 	<FlagConst Address="0xCFCC1" Add="1" Type="BYTE" Value="8" />
-	<!-- Level 40+ -->
+	<!-- Level 40+ >
 	<FlagConst Address="0xCFC9C" Add="1" Type="BYTE" Value="4" />
-	<!-- Level 1+ -->
+	<!-- Level 1+>
 	<FlagConst Address="0xCFC7A" Add="1" Type="BYTE" Value="2" />
 	<!-- Finish Exp multiply Cele/Sub -->
 	
-	<!-- Tmp Desable check Key Opcode -->
-	<FlagConst Address="0x25A52" Add="0" Type="BYTE" Value="0xEB" />
+	<!-- Tmp Desable check Key Opcode >
+	<FlagConst Address="0x25A52" Add="0" Type="BYTE" Value="0xEB" /-->
 </Constants>

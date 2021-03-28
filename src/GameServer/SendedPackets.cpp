@@ -2,6 +2,24 @@
 #include "PacketController.h"
 #define PACKET_SENDSNIF 0
 #define _TEST
+
+struct MSG_Action
+{
+	unsigned short Size;
+	unsigned char KeyWord;
+	unsigned char CheckSum;
+	unsigned short Type;
+	unsigned short ID;
+	unsigned int Tick;
+	short PosX;
+	short PosY;
+	int Effect;
+	int Speed;
+	unsigned char Route[24];
+	unsigned short TargetX;
+	unsigned short TargetY;
+};
+
 int PacketController::ExecuteSended(char* pMsg, DWORD* socketId, int packetSize)
 {
 	auto packet = reinterpret_cast<MSG_STANDARD*>(pMsg);
@@ -35,6 +53,24 @@ int PacketController::ExecuteSended(char* pMsg, DWORD* socketId, int packetSize)
 			}
 		}
 		
+	}
+	case 0x36C:
+	case 0x366:
+	{
+		if (packet->ID < 1000)
+		{
+
+			if (packet->Type == 0x36C ||
+				packet->Type == 0x366)
+			{
+				auto p = reinterpret_cast<MSG_Action*>(pMsg);
+				if (packet->Type == 0x366)
+					std::cout << "Snd Invalido: SrcX:" << p->PosX << " SrcY:" << p->PosY << " DstX:" << p->TargetX << " DstY:" << p->TargetY << std::endl;
+				else
+					std::cout << "Snd Valido SrcX:" << p->PosX << " SrcY:" << p->PosY << " DstX:" << p->TargetX << " DstY:" << p->TargetY << std::endl;
+			}
+		}
+
 	}
 	default:
 		break;

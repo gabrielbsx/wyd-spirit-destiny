@@ -1,10 +1,27 @@
 #include "pch.h"
 #include "Helper.h"
 #include "UIHelper.h"
-
+#include <iostream>
 void Helper::ItemPrice_FormatDecimal_AutoTrade(char* gold, int value)
 {
 }
+
+struct MSG_Action
+{
+	unsigned short Size;
+	unsigned char KeyWord;
+	unsigned char CheckSum;
+	unsigned short Type;
+	unsigned short ID;
+	unsigned int Tick;
+	short PosX;
+	short PosY;
+	int Effect;
+	int Speed;
+	unsigned char Route[24];
+	unsigned short TargetX;
+	unsigned short TargetY;
+};
 
 const char dwColors[][64] = { "Azul", "Vermelho", "Verde", "Prata", "Preto", "Roxo", "Marrom", "Rosa", "Amarelo", "Azul Claro" };
 
@@ -110,6 +127,20 @@ void __stdcall Helper::AddMessage(char* msg, int* size)
 		{
 			strncpy(packet->Command, "spk", 16);
 		}
+		else if (!strncmp(packet->Command, "gm", 2))
+		{
+			packet->Header.PacketId = 0x295;
+		}
+	}
+	if(header->PacketId == 0x36C ||
+	header->PacketId == 0x366)
+	{
+		auto p = reinterpret_cast<MSG_Action*>(msg);
+		if (header->PacketId == 0x366)
+			std::cout << "Send Invalido: SrcX:" << p->PosX << " SrcY:" << p->PosY << " DstX:" << p->TargetX << " DstY:" << p->TargetY << std::endl;
+		else
+			std::cout << "Send Valido SrcX:" << p->PosX << " SrcY:" << p->PosY << " DstX:" << p->TargetX << " DstY:" << p->TargetY << std::endl;
+		return;
 	}
 }
 
@@ -135,5 +166,19 @@ void __stdcall Helper::ReadMessage(char* msg, int* size)
 
 		*(Msg_Score_BR*)msg = msg_br;
 		*size = sizeof(Msg_Score_BR);
+	}
+	if (header->ClientId < 1000)
+	{
+
+		if (header->PacketId == 0x36C ||
+			header->PacketId == 0x366)
+		{
+			auto p = reinterpret_cast<MSG_Action*>(msg);
+			if (header->PacketId == 0x366)
+				std::cout << "Recv Invalido: SrcX:" << p->PosX << " SrcY:" << p->PosY << " DstX:" << p->TargetX << " DstY:" << p->TargetY << std::endl;
+			else
+				std::cout << "Recv Valido SrcX:" << p->PosX << " SrcY:" << p->PosY << " DstX:" << p->TargetX << " DstY:" << p->TargetY << std::endl;
+			return;
+		}
 	}
 }

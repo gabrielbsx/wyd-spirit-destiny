@@ -86,6 +86,9 @@ bool HookMgr::InitializeNakeds()
 		// Fix Serverlist online users
 		PEHook::FillWithNop(0x04B2D05, 8);
 		PEHook::FillWithNop(0x046DDC6, 11);
+		//teste height
+		PEHook::FillWithNop(0x054DA76, 5);
+		PEHook::SETBYTE( 0, 0x054DAE9 + 1);
 
 
 		return true;

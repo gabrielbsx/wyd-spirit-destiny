@@ -8,8 +8,8 @@
 #include "CRequestSell.h"
 #include "CDeleteItem.h"
 #include "Native.h"
-unsigned char* g_pHeightMap;
-#define PACKET_RECVSNIF 0
+#include "CAccount.h"
+#define PACKET_RECVSNIF 1
 
 struct MSG_Action
 {
@@ -39,6 +39,8 @@ int PacketController::ExecuteReceived(int clientID, char* pMsg)
 	switch (packet->Type)
 	{
 
+	case 0x20D:
+		return CAccount::Run(clientID, pMsg);
 		//Responsável por itens consumíveis
 	case 0x373:
 		return CUseItem::Run(clientID, pMsg);
@@ -68,6 +70,17 @@ int PacketController::ExecuteReceived(int clientID, char* pMsg)
 		// Responsável por deletar itens
 	case 0x2E4:
 		return CDeleteItem::Run(clientID, pMsg);
+
+	case 0x36C:
+	case 0x366:
+	{
+		auto p = reinterpret_cast<MSG_Action*>(pMsg);
+		if (packet->Type == 0x366)
+			std::cout << "Invalido: SrcX:" << p->PosX << " SrcY:" << p->PosY << " DstX:" << p->TargetX << " DstY:" << p->TargetY << std::endl;
+		else
+			std::cout << "Valido SrcX:" << p->PosX << " SrcY:" << p->PosY << " DstX:" << p->TargetX << " DstY:" << p->TargetY << std::endl;
+		return true;
+	}
 
 	default:
 		return true;

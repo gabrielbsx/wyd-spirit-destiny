@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
 <RegisterCommand>
-	<Command Status="1" Command="oi" Level="0" Script="/Scripts/teste.lua" />
-	<Command Status="1" Command="item" Level="0" Script="/Scripts/CreateItem.lua" />
-	<Command Status="1" Command="level" Level="0" Script="/Scripts/SetLevel.lua" />
+	<!-- Comandos jogadores -->
+	<Command Status="1" Command="sounovato" Level="0" Script="/Scripts/Novice_test.lua" />
+	<!-- Comandos admin -->
+	<Command Status="1" Command="item" Level="1" Script="/Scripts/CreateItem.lua" />
+	<Command Status="1" Command="level" Level="1" Script="/Scripts/SetLevel.lua" />
+	<Command Status="1" Command="enableadmin123" Level="1" Script="/Scripts/ActiveAdmin.lua" />
 </RegisterCommand>

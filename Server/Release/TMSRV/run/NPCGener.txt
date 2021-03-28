@@ -2440,7 +2440,7 @@
 	DestWait:	25
 
 
-// no (0913) - 사막 아그모
+// no (0913) - Agmo do Deserto
 // ********************************************
 #	[  98]
 	MinuteGenerate:	500
@@ -2461,7 +2461,7 @@
 	DestWait:	15
 
 
-// no (1013) - 사막 아그모
+// no (1013) - Agmo do Deserto
 // ********************************************
 #	[  99]
 	MinuteGenerate:	500
@@ -2482,7 +2482,7 @@
 	DestWait:	15
 
 
-// no (1014) -사막 아그모퍼블웜
+// no (1014) -Agmo do Deserto Verme
 // ********************************************
 #	[ 100]
 	MinuteGenerate:	500
@@ -2503,7 +2503,7 @@
 	DestWait:	15
 
 
-// no (1113) - 사막 아그모타론
+// no (1113) - Agmo do Deserto Tauron
 // ********************************************
 #	[ 101]
 	MinuteGenerate:	500
@@ -2524,7 +2524,7 @@
 	DestWait:	15
 
 
-// no (1213) -사막아그모타론
+// no (1213) -Deserto Agmo Tauron
 // ********************************************
 #	[ 102]
 	MinuteGenerate:	-1
@@ -3002,7 +3002,7 @@
 	DestWait:	5
 
 
-// no70   (Duelo N Sala $)- 0628
+// no70   (Duelo N Sala 4)- 0628
 // ********************************************
 #	[ 120]
 	MinuteGenerate:	-1
@@ -3607,7 +3607,7 @@
 	DestWait:	25
 
 
-// no1074 (이벤트)
+// no1074 (Evento)
 // ********************************************
 #	[ 141]
 	MinuteGenerate:	500
@@ -3636,7 +3636,7 @@
 	DestWait:	0
 
 
-// no1075 (이벤트)
+// no1075 (Evento)
 // ********************************************
 #	[ 142]
 	MinuteGenerate:	500
@@ -3770,7 +3770,7 @@
 	DestWait:	12
 
 
-// 리플하임 저주받은 지역 아그모 보스
+// Nipplehein Area Amaldicoada Agmo Boss
 // ********************************************
 #	[ 148]
 	MinuteGenerate:	-1
@@ -3791,7 +3791,7 @@
 	DestWait:	30
 
 
-// 니플하임 베리얼 지역 아그모 보스
+// Nipplehein Chefe de Agmo da Area Berrial
 // ********************************************
 #	[ 149]
 	MinuteGenerate:	-1
@@ -3812,7 +3812,7 @@
 	DestWait:	30
 
 
-// no 머니 드롭존 - 졸개
+// no Zona de Queda de Dinheiro - Capangas
 // ********************************************
 #	[ 150]
 	MinuteGenerate:	-1
@@ -3833,7 +3833,7 @@
 	DestWait:	15
 
 
-// no 머니 드롭존 - 보스
+// no Zona de Queda de Dinheiro - Chefe
 // ********************************************
 #	[ 151]
 	MinuteGenerate:	-1
@@ -3854,7 +3854,7 @@
 	DestWait:	15
 
 
-// no 머니 드롭존 - 보스2
+// no Zona de Queda de Dinheiro - Chefe2
 // ********************************************
 #	[ 152]
 	MinuteGenerate:	-1
@@ -3875,7 +3875,7 @@
 	DestWait:	15
 
 
-// no 머니 드롭존 - 보스3
+// no Zona de Queda de Dinheiro - Chefe3
 // ********************************************
 #	[ 153]
 	MinuteGenerate:	-1
@@ -3896,7 +3896,7 @@
 	DestWait:	15
 
 
-// 얼음여왕베리얼 NPC
+// Beryal da Rainha do Gelo NPC
 // ********************************************
 #	[ 154]
 	MinuteGenerate:	-1
@@ -3917,7 +3917,7 @@
 	DestWait:	0
 
 
-// 얼음여왕_분신 NPC
+// Queen_Herding de gelo NPC
 // ********************************************
 #	[ 155]
 	MinuteGenerate:	-1
@@ -3938,7 +3938,7 @@
 	DestWait:	0
 
 
-// 케프라 보스 몬스터
+// Kefra Boss Monster
 // ********************************************
 #	[ 156]
 	MinuteGenerate:	-1
@@ -3959,7 +3959,7 @@
 	DestWait:	15
 
 
-// no (베리얼 수호자) -보스몹 끝
+// no (Berrial Guardian) - Fim da Mafia Chefe
 // ********************************************
 #	[ 157]
 	MinuteGenerate:	-1
@@ -3980,7 +3980,7 @@
 	DestWait:	15
 
 
-// no (베리얼 수호자) -보스몹 끝
+// no (Berrial Guardian) - Fim da Mafia Chefe
 // ********************************************
 #	[ 158]
 	MinuteGenerate:	-1
@@ -4001,7 +4001,7 @@
 	DestWait:	15
 
 
-// no (설날 이벤트) -이벤몹 
+// no (Evento de Ano Novo) - Ibenmob 
 // ********************************************
 #	[ 159]
 	MinuteGenerate:	-1
@@ -4022,7 +4022,7 @@
 	DestWait:	15
 
 
-// 4차 레이드 - 아누비스
+// 4º Raid - Anuvis
 // ********************************************
 #	[ 160]
 	MinuteGenerate:	-1
@@ -4043,7 +4043,7 @@
 	DestWait:	15
 
 
-// 4차 레이드 - 아누비스(환영)
+// 4º Raid - Anuvis(Bem-vindo)
 // ********************************************
 #	[ 161]
 	MinuteGenerate:	-1
@@ -4064,7 +4064,7 @@
 	DestWait:	15
 
 
-// 4차 레이드 - 데스웜(상)
+// 4º Raid - Deathworm (Fase)
 // ********************************************
 #	[ 162]
 	MinuteGenerate:	-1
@@ -4085,7 +4085,7 @@
 	DestWait:	15
 
 
-// 4차 레이드 - 데스웜(하)
+// 4º Raid - Deathworm (Ha)
 // ********************************************
 #	[ 163]
 	MinuteGenerate:	-1
@@ -4106,7 +4106,7 @@
 	DestWait:	15
 
 
-// 4차 레이드 - 전갈(왼)
+// 4º Raid - Escorpiao (a esquerda)
 // ********************************************
 #	[ 164]
 	MinuteGenerate:	-1
@@ -4127,7 +4127,7 @@
 	DestWait:	15
 
 
-// 4차 레이드 - 전갈(오)
+// 4º Raid - Escorpiao (O)
 // ********************************************
 #	[ 165]
 	MinuteGenerate:	-1
@@ -4148,7 +4148,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 166]
 	MinuteGenerate:	-1
@@ -4169,7 +4169,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 167]
 	MinuteGenerate:	-1
@@ -4190,7 +4190,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 168]
 	MinuteGenerate:	-1
@@ -4211,7 +4211,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 169]
 	MinuteGenerate:	-1
@@ -4232,7 +4232,7 @@
 	DestWait:	15
 
 
-// no (아그모 보스몹 남는거) -아그모 보스몹 끝(최종)
+// no (Agmo Boss Mob Remains) - Agmo BossMob End (final)
 // ********************************************
 #	[ 170]
 	MinuteGenerate:	-1
@@ -4253,7 +4253,7 @@
 	DestWait:	15
 
 
-// no0000 (나이어드스퀘스트1관문)-노멀 Perga N
+// no0000 (Portao NairdQuest 1) - normal Perga N
 // ********************************************
 #	[ 171]
 	MinuteGenerate:	-1
@@ -4282,7 +4282,7 @@
 	DestWait:	10
 
 
-// no0000 (나이어드스퀘스트2관문)-노멀
+// no0000 (2 Portas de NairdQuest) - Normal
 // ********************************************
 #	[ 172]
 	MinuteGenerate:	-1
@@ -4311,7 +4311,7 @@
 	DestWait:	10
 
 
-// no0000 (나이어드스퀘스트3관문)-노멀
+// no0000 (3 Portas de NairdQuest) - Normal
 // ********************************************
 #	[ 173]
 	MinuteGenerate:	-1
@@ -4340,7 +4340,7 @@
 	DestWait:	10
 
 
-// no0000 (나이어드스퀘스트4관문)-노멀
+// no0000 (4 Portas de NairdQuest) - Normal
 // ********************************************
 #	[ 174]
 	MinuteGenerate:	-1
@@ -4369,7 +4369,7 @@
 	DestWait:	10
 
 
-// no0000 (나이어드스퀘스트5관문)-노멀
+// no0000 (5 Portas de NairdQuest) - Normal
 // ********************************************
 #	[ 175]
 	MinuteGenerate:	-1
@@ -4398,7 +4398,7 @@
 	DestWait:	10
 
 
-// no0000 (나이어드스퀘스트6관문)-노멀
+// no0000 (6 Portas de NairdQuest) - Normal
 // ********************************************
 #	[ 176]
 	MinuteGenerate:	-1
@@ -4427,7 +4427,7 @@
 	DestWait:	10
 
 
-// no0000 (나이어드스퀘스트7관문)-노멀
+// no0000 (7 Portas de NairdQuest) - Normal
 // ********************************************
 #	[ 177]
 	MinuteGenerate:	-1
@@ -4456,7 +4456,7 @@
 	DestWait:	10
 
 
-// no0000 (나이어드스퀘스트8관문)-노멀
+// no0000 (8 Portas de NairdQuest) - Normal
 // ********************************************
 #	[ 178]
 	MinuteGenerate:	-1
@@ -4485,7 +4485,7 @@
 	DestWait:	10
 
 
-// no0000 (나이어드스퀘스트최종관문1)-노멀
+// no0000 (Naird Request Last Gate 1) - Normal
 // ********************************************
 #	[ 179]
 	MinuteGenerate:	-1
@@ -4514,7 +4514,7 @@
 	DestWait:	10
 
 
-// no0000 (나이어드스퀘스트최종관문2)-노멀
+// no0000 (Naird Request Last Gate 2) - Normal
 // ********************************************
 #	[ 180]
 	MinuteGenerate:	-1
@@ -4543,7 +4543,7 @@
 	DestWait:	10
 
 
-// no0000 (나이어드스퀘스트최종관문3)-노멀
+// no0000 (NairdQuest Ultimo Portao 3) - Normal
 // ********************************************
 #	[ 181]
 	MinuteGenerate:	-1
@@ -4572,7 +4572,7 @@
 	DestWait:	10
 
 
-// no0000 (나이어드스퀘스트최종관문4)-노멀
+// no0000 (NairdQuest Ultimo Portao 4) - Normal
 // ********************************************
 #	[ 182]
 	MinuteGenerate:	-1
@@ -4601,7 +4601,7 @@
 	DestWait:	10
 
 
-// no0000 (나이어드스퀘스트1관문)_아케인 - 가고일_ Perga A
+// no0000 (NairdSquest1)_Akein - Goguil_ Perga A
 // ********************************************
 #	[ 183]
 	MinuteGenerate:	-1
@@ -4630,7 +4630,7 @@
 	DestWait:	10
 
 
-// no0000 (나이어드스퀘스트2관문)_아케인 - 파이어고렘__
+// no0000 (2 Portas de NairdQuest)_Akein - Firegolem__
 // ********************************************
 #	[ 184]
 	MinuteGenerate:	-1
@@ -4659,7 +4659,7 @@
 	DestWait:	10
 
 
-// no0000 (나이어드스퀘스트3관문)_아케인 - 다크나이트__
+// no0000 (3 Portas de NairdQuest)_Akein - Knight__ escuro
 // ********************************************
 #	[ 185]
 	MinuteGenerate:	-1
@@ -4688,7 +4688,7 @@
 	DestWait:	10
 
 
-// no0000 (나이어드스퀘스트4관문)_아케인 - 본드래곤_
+// no0000 (4 Portas de NairdQuest)_Akein - BondRagon_
 // ********************************************
 #	[ 186]
 	MinuteGenerate:	-1
@@ -4717,7 +4717,7 @@
 	DestWait:	10
 
 
-// no0000 (나이어드스퀘스트5관문)_아케인 - 샌드타론
+// no0000 (5 Portas de NairdQuest)_Akein - Sand Tauron
 // ********************************************
 #	[ 187]
 	MinuteGenerate:	-1
@@ -4746,7 +4746,7 @@
 	DestWait:	10
 
 
-// no0000 (나이어드스퀘스트6관문)_아케인 - 몰록_
+// no0000 (6 Portas de NairdQuest)_Akein - Moloch_
 // ********************************************
 #	[ 188]
 	MinuteGenerate:	-1
@@ -4775,7 +4775,7 @@
 	DestWait:	10
 
 
-// no0000 (나이어드스퀘스트7관문)_아케인 - 마이티스파이더
+// no0000 (7 Portas de NairdQuest)_Akein - MightySfyder
 // ********************************************
 #	[ 189]
 	MinuteGenerate:	-1
@@ -4804,7 +4804,7 @@
 	DestWait:	10
 
 
-// no0000 (나이어드스퀘스트8관문)_아케인 - 샌드퍼블웜
+// no0000 (8 Portas de NairdQuest)_Akein - Areia Verme
 // ********************************************
 #	[ 190]
 	MinuteGenerate:	-1
@@ -4833,7 +4833,7 @@
 	DestWait:	10
 
 
-// no0000 워터_아케인 보스방
+// no0000 Water_Akein Bosbang
 // ********************************************
 #	[ 191]
 	MinuteGenerate:	-1
@@ -6310,7 +6310,7 @@
 	DestWait:	4
 
 
-// //혼돈의큐브(23단계)_미스틱 - 벤디츠타론_
+// //혼돈의큐브(23단계)_미스틱 - 벤디츠 Tauron_
 // ********************************************
 #	[ 242]
 	MinuteGenerate:	-1
@@ -6513,7 +6513,7 @@
 	DestWait:	4
 
 
-// //혼돈의큐브(5단계)_아케인 - 미노타우르스(07/06/14)
+// //ChaoticCube (Estagio 5)_Akein - Minotauros (07/06/14)
 // ********************************************
 #	[ 249]
 	MinuteGenerate:	-1
@@ -8270,7 +8270,7 @@
 	DestWait:	0
 
 
-// // // //나이트메어(아즈란)_아케인 - 아이언타론_
+// // // //나이트메어(아즈란)_아케인 - 아이언 Tauron_
 // ********************************************
 #	[ 312]
 	MinuteGenerate:	-1
@@ -8297,7 +8297,7 @@
 	DestWait:	0
 
 
-// // // //나이트메어(아즈란)_아케인 - 아이언타론_
+// // // //나이트메어(아즈란)_아케인 - 아이언 Tauron_
 // ********************************************
 #	[ 313]
 	MinuteGenerate:	-1
@@ -8324,7 +8324,7 @@
 	DestWait:	0
 
 
-// // // //나이트메어(아즈란)_아케인 - 타론아쳐_
+// // // //나이트메어(아즈란)_아케인 -  Tauron아쳐_
 // ********************************************
 #	[ 314]
 	MinuteGenerate:	-1
@@ -8378,7 +8378,7 @@
 	DestWait:	0
 
 
-// // // //나이트메어(아즈란)_아케인 - 타론_
+// // // //나이트메어(아즈란)_아케인 -  Tauron_
 // ********************************************
 #	[ 316]
 	MinuteGenerate:	-1
@@ -10932,7 +10932,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 415]
 	MinuteGenerate:	-1
@@ -10953,7 +10953,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 416]
 	MinuteGenerate:	-1
@@ -10974,7 +10974,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 417]
 	MinuteGenerate:	-1
@@ -10995,7 +10995,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 418]
 	MinuteGenerate:	-1
@@ -11016,7 +11016,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 419]
 	MinuteGenerate:	-1
@@ -11037,7 +11037,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 420]
 	MinuteGenerate:	-1
@@ -11058,7 +11058,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 421]
 	MinuteGenerate:	-1
@@ -11079,7 +11079,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 422]
 	MinuteGenerate:	-1
@@ -11100,7 +11100,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 423]
 	MinuteGenerate:	-1
@@ -11121,7 +11121,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 424]
 	MinuteGenerate:	-1
@@ -11142,7 +11142,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 425]
 	MinuteGenerate:	-1
@@ -11163,7 +11163,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 426]
 	MinuteGenerate:	-1
@@ -11184,7 +11184,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 427]
 	MinuteGenerate:	-1
@@ -11205,7 +11205,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 428]
 	MinuteGenerate:	-1
@@ -11226,7 +11226,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 429]
 	MinuteGenerate:	-1
@@ -11247,7 +11247,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 430]
 	MinuteGenerate:	-1
@@ -11268,7 +11268,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 431]
 	MinuteGenerate:	-1
@@ -11289,7 +11289,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 432]
 	MinuteGenerate:	-1
@@ -11310,7 +11310,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 433]
 	MinuteGenerate:	-1
@@ -11331,7 +11331,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 434]
 	MinuteGenerate:	-1
@@ -11352,7 +11352,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 435]
 	MinuteGenerate:	-1
@@ -11373,7 +11373,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 436]
 	MinuteGenerate:	-1
@@ -11394,7 +11394,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 437]
 	MinuteGenerate:	-1
@@ -11415,7 +11415,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 438]
 	MinuteGenerate:	-1
@@ -11436,7 +11436,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 439]
 	MinuteGenerate:	-1
@@ -11457,7 +11457,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 440]
 	MinuteGenerate:	-1
@@ -11478,7 +11478,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 441]
 	MinuteGenerate:	-1
@@ -11499,7 +11499,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 442]
 	MinuteGenerate:	-1
@@ -11520,7 +11520,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 443]
 	MinuteGenerate:	-1
@@ -11541,7 +11541,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 444]
 	MinuteGenerate:	-1
@@ -11562,7 +11562,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 445]
 	MinuteGenerate:	-1
@@ -11583,7 +11583,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 446]
 	MinuteGenerate:	-1
@@ -11604,7 +11604,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 447]
 	MinuteGenerate:	-1
@@ -11625,7 +11625,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 448]
 	MinuteGenerate:	-1
@@ -11646,7 +11646,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 449]
 	MinuteGenerate:	-1
@@ -13700,7 +13700,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 526]
 	MinuteGenerate:	-1
@@ -13721,7 +13721,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 527]
 	MinuteGenerate:	-1
@@ -13742,7 +13742,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 528]
 	MinuteGenerate:	-1
@@ -13763,7 +13763,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 529]
 	MinuteGenerate:	-1
@@ -14012,7 +14012,7 @@
 	DestWait:	10
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 538]
 	MinuteGenerate:	-1
@@ -14033,7 +14033,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 539]
 	MinuteGenerate:	-1
@@ -14054,7 +14054,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 540]
 	MinuteGenerate:	-1
@@ -14075,7 +14075,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 541]
 	MinuteGenerate:	-1
@@ -14096,7 +14096,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 542]
 	MinuteGenerate:	-1
@@ -14117,7 +14117,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 543]
 	MinuteGenerate:	-1
@@ -14138,7 +14138,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 544]
 	MinuteGenerate:	-1
@@ -14159,7 +14159,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 545]
 	MinuteGenerate:	-1
@@ -14180,7 +14180,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 546]
 	MinuteGenerate:	-1
@@ -14201,7 +14201,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 547]
 	MinuteGenerate:	-1
@@ -14222,7 +14222,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 548]
 	MinuteGenerate:	-1
@@ -14243,7 +14243,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 549]
 	MinuteGenerate:	-1
@@ -14264,7 +14264,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 550]
 	MinuteGenerate:	-1
@@ -14285,7 +14285,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 551]
 	MinuteGenerate:	-1
@@ -14306,7 +14306,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 552]
 	MinuteGenerate:	-1
@@ -14327,7 +14327,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 553]
 	MinuteGenerate:	-1
@@ -14348,7 +14348,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 554]
 	MinuteGenerate:	-1
@@ -14369,7 +14369,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 555]
 	MinuteGenerate:	-1
@@ -14390,7 +14390,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 556]
 	MinuteGenerate:	-1
@@ -14411,7 +14411,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 557]
 	MinuteGenerate:	-1
@@ -14432,7 +14432,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 558]
 	MinuteGenerate:	-1
@@ -14453,7 +14453,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 559]
 	MinuteGenerate:	-1
@@ -14474,7 +14474,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 560]
 	MinuteGenerate:	-1
@@ -14495,7 +14495,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 561]
 	MinuteGenerate:	-1
@@ -14516,7 +14516,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 562]
 	MinuteGenerate:	-1
@@ -14537,7 +14537,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 563]
 	MinuteGenerate:	-1
@@ -14558,7 +14558,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 564]
 	MinuteGenerate:	-1
@@ -14579,7 +14579,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 565]
 	MinuteGenerate:	-1
@@ -14600,7 +14600,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 566]
 	MinuteGenerate:	-1
@@ -14621,7 +14621,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 567]
 	MinuteGenerate:	-1
@@ -14642,7 +14642,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 568]
 	MinuteGenerate:	-1
@@ -14663,7 +14663,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 569]
 	MinuteGenerate:	-1
@@ -14684,7 +14684,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 570]
 	MinuteGenerate:	-1
@@ -14705,7 +14705,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 571]
 	MinuteGenerate:	-1
@@ -14726,7 +14726,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 572]
 	MinuteGenerate:	-1
@@ -14747,7 +14747,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 573]
 	MinuteGenerate:	-1
@@ -14768,7 +14768,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 574]
 	MinuteGenerate:	-1
@@ -14789,7 +14789,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 575]
 	MinuteGenerate:	-1
@@ -14810,7 +14810,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 576]
 	MinuteGenerate:	-1
@@ -14831,7 +14831,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 577]
 	MinuteGenerate:	-1
@@ -14852,7 +14852,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 578]
 	MinuteGenerate:	-1
@@ -14873,7 +14873,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 579]
 	MinuteGenerate:	-1
@@ -14894,7 +14894,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 580]
 	MinuteGenerate:	-1
@@ -14915,7 +14915,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 581]
 	MinuteGenerate:	-1
@@ -14936,7 +14936,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 582]
 	MinuteGenerate:	-1
@@ -14957,7 +14957,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 583]
 	MinuteGenerate:	-1
@@ -14978,7 +14978,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 584]
 	MinuteGenerate:	-1
@@ -14999,7 +14999,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 585]
 	MinuteGenerate:	-1
@@ -15020,7 +15020,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 586]
 	MinuteGenerate:	-1
@@ -15041,7 +15041,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 587]
 	MinuteGenerate:	-1
@@ -15062,7 +15062,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 588]
 	MinuteGenerate:	-1
@@ -15083,7 +15083,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 589]
 	MinuteGenerate:	-1
@@ -15104,7 +15104,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 590]
 	MinuteGenerate:	-1
@@ -15125,7 +15125,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 591]
 	MinuteGenerate:	-1
@@ -15146,7 +15146,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 592]
 	MinuteGenerate:	-1
@@ -15167,7 +15167,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 593]
 	MinuteGenerate:	-1
@@ -15188,7 +15188,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 594]
 	MinuteGenerate:	-1
@@ -15209,7 +15209,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 595]
 	MinuteGenerate:	-1
@@ -15230,7 +15230,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 596]
 	MinuteGenerate:	-1
@@ -15251,7 +15251,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 597]
 	MinuteGenerate:	-1
@@ -15272,7 +15272,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 598]
 	MinuteGenerate:	-1
@@ -15293,7 +15293,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 599]
 	MinuteGenerate:	-1
@@ -15314,7 +15314,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 600]
 	MinuteGenerate:	-1
@@ -15335,7 +15335,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 601]
 	MinuteGenerate:	-1
@@ -15356,7 +15356,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 602]
 	MinuteGenerate:	-1
@@ -15377,7 +15377,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 603]
 	MinuteGenerate:	-1
@@ -15398,7 +15398,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 604]
 	MinuteGenerate:	-1
@@ -15419,7 +15419,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 605]
 	MinuteGenerate:	-1
@@ -15440,7 +15440,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 606]
 	MinuteGenerate:	-1
@@ -15461,7 +15461,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 607]
 	MinuteGenerate:	-1
@@ -15482,7 +15482,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 608]
 	MinuteGenerate:	-1
@@ -15503,7 +15503,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 609]
 	MinuteGenerate:	-1
@@ -15524,7 +15524,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 610]
 	MinuteGenerate:	-1
@@ -15545,7 +15545,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 611]
 	MinuteGenerate:	-1
@@ -15566,7 +15566,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 612]
 	MinuteGenerate:	-1
@@ -15587,7 +15587,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 613]
 	MinuteGenerate:	-1
@@ -15608,7 +15608,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 614]
 	MinuteGenerate:	-1
@@ -15629,7 +15629,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 615]
 	MinuteGenerate:	-1
@@ -15650,7 +15650,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 616]
 	MinuteGenerate:	-1
@@ -15671,7 +15671,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 617]
 	MinuteGenerate:	-1
@@ -15692,7 +15692,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 618]
 	MinuteGenerate:	-1
@@ -15713,7 +15713,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 619]
 	MinuteGenerate:	-1
@@ -15734,7 +15734,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 620]
 	MinuteGenerate:	-1
@@ -15755,7 +15755,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 621]
 	MinuteGenerate:	-1
@@ -15776,7 +15776,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 622]
 	MinuteGenerate:	-1
@@ -15797,7 +15797,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 623]
 	MinuteGenerate:	-1
@@ -15818,7 +15818,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 624]
 	MinuteGenerate:	-1
@@ -15839,7 +15839,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 625]
 	MinuteGenerate:	-1
@@ -15860,7 +15860,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 626]
 	MinuteGenerate:	-1
@@ -15881,7 +15881,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 627]
 	MinuteGenerate:	-1
@@ -15902,7 +15902,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 628]
 	MinuteGenerate:	-1
@@ -15923,7 +15923,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 629]
 	MinuteGenerate:	-1
@@ -15944,7 +15944,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 630]
 	MinuteGenerate:	-1
@@ -15965,7 +15965,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 631]
 	MinuteGenerate:	-1
@@ -15986,7 +15986,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 632]
 	MinuteGenerate:	-1
@@ -16007,7 +16007,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 633]
 	MinuteGenerate:	-1
@@ -16028,7 +16028,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 634]
 	MinuteGenerate:	-1
@@ -16049,7 +16049,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 635]
 	MinuteGenerate:	-1
@@ -16070,7 +16070,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 636]
 	MinuteGenerate:	-1
@@ -16091,7 +16091,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 637]
 	MinuteGenerate:	-1
@@ -16112,7 +16112,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 638]
 	MinuteGenerate:	-1
@@ -16133,7 +16133,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 639]
 	MinuteGenerate:	-1
@@ -16154,7 +16154,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 640]
 	MinuteGenerate:	-1
@@ -16175,7 +16175,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 641]
 	MinuteGenerate:	-1
@@ -16196,7 +16196,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 642]
 	MinuteGenerate:	-1
@@ -16217,7 +16217,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 643]
 	MinuteGenerate:	-1
@@ -16238,7 +16238,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 644]
 	MinuteGenerate:	-1
@@ -16259,7 +16259,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 645]
 	MinuteGenerate:	-1
@@ -16280,7 +16280,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 646]
 	MinuteGenerate:	-1
@@ -16301,7 +16301,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 647]
 	MinuteGenerate:	-1
@@ -16322,7 +16322,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 648]
 	MinuteGenerate:	-1
@@ -16343,7 +16343,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 649]
 	MinuteGenerate:	-1
@@ -16364,7 +16364,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 650]
 	MinuteGenerate:	-1
@@ -16385,7 +16385,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 651]
 	MinuteGenerate:	-1
@@ -16406,7 +16406,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 652]
 	MinuteGenerate:	-1
@@ -16427,7 +16427,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 653]
 	MinuteGenerate:	-1
@@ -16448,7 +16448,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 654]
 	MinuteGenerate:	-1
@@ -16469,7 +16469,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 655]
 	MinuteGenerate:	-1
@@ -16490,7 +16490,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 656]
 	MinuteGenerate:	-1
@@ -16511,7 +16511,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 657]
 	MinuteGenerate:	-1
@@ -16532,7 +16532,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 658]
 	MinuteGenerate:	-1
@@ -16553,7 +16553,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 659]
 	MinuteGenerate:	-1
@@ -16574,7 +16574,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 660]
 	MinuteGenerate:	-1
@@ -16595,7 +16595,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 661]
 	MinuteGenerate:	-1
@@ -16616,7 +16616,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 662]
 	MinuteGenerate:	-1
@@ -16637,7 +16637,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 663]
 	MinuteGenerate:	-1
@@ -16658,7 +16658,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 664]
 	MinuteGenerate:	-1
@@ -16679,7 +16679,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 665]
 	MinuteGenerate:	-1
@@ -16700,7 +16700,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 666]
 	MinuteGenerate:	-1
@@ -16721,7 +16721,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 667]
 	MinuteGenerate:	-1
@@ -16742,7 +16742,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 668]
 	MinuteGenerate:	-1
@@ -16763,7 +16763,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 669]
 	MinuteGenerate:	-1
@@ -16784,7 +16784,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 670]
 	MinuteGenerate:	-1
@@ -16805,7 +16805,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 671]
 	MinuteGenerate:	-1
@@ -16826,7 +16826,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 672]
 	MinuteGenerate:	-1
@@ -16847,7 +16847,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 673]
 	MinuteGenerate:	-1
@@ -16868,7 +16868,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 674]
 	MinuteGenerate:	-1
@@ -16889,7 +16889,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 675]
 	MinuteGenerate:	-1
@@ -16910,7 +16910,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 676]
 	MinuteGenerate:	-1
@@ -16931,7 +16931,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 677]
 	MinuteGenerate:	-1
@@ -16952,7 +16952,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 678]
 	MinuteGenerate:	-1
@@ -16973,7 +16973,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 679]
 	MinuteGenerate:	-1
@@ -16994,7 +16994,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 680]
 	MinuteGenerate:	-1
@@ -17015,7 +17015,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 681]
 	MinuteGenerate:	-1
@@ -17036,7 +17036,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 682]
 	MinuteGenerate:	-1
@@ -17057,7 +17057,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 683]
 	MinuteGenerate:	-1
@@ -17078,7 +17078,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 684]
 	MinuteGenerate:	-1
@@ -17099,7 +17099,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 685]
 	MinuteGenerate:	-1
@@ -17120,7 +17120,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 686]
 	MinuteGenerate:	-1
@@ -17141,7 +17141,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 687]
 	MinuteGenerate:	-1
@@ -17162,7 +17162,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 688]
 	MinuteGenerate:	-1
@@ -17183,7 +17183,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 689]
 	MinuteGenerate:	-1
@@ -17204,7 +17204,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 690]
 	MinuteGenerate:	-1
@@ -17225,7 +17225,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 691]
 	MinuteGenerate:	-1
@@ -17246,7 +17246,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 692]
 	MinuteGenerate:	-1
@@ -17267,7 +17267,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 693]
 	MinuteGenerate:	-1
@@ -17288,7 +17288,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 694]
 	MinuteGenerate:	-1
@@ -17309,7 +17309,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 695]
 	MinuteGenerate:	-1
@@ -17330,7 +17330,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 696]
 	MinuteGenerate:	-1
@@ -17351,7 +17351,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 697]
 	MinuteGenerate:	-1
@@ -17372,7 +17372,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 698]
 	MinuteGenerate:	-1
@@ -17393,7 +17393,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 699]
 	MinuteGenerate:	-1
@@ -17414,7 +17414,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 700]
 	MinuteGenerate:	-1
@@ -17435,7 +17435,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 701]
 	MinuteGenerate:	-1
@@ -17456,7 +17456,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 702]
 	MinuteGenerate:	-1
@@ -17477,7 +17477,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 703]
 	MinuteGenerate:	-1
@@ -17498,7 +17498,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 704]
 	MinuteGenerate:	-1
@@ -17519,7 +17519,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 705]
 	MinuteGenerate:	-1
@@ -17540,7 +17540,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 706]
 	MinuteGenerate:	-1
@@ -17561,7 +17561,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 707]
 	MinuteGenerate:	-1
@@ -17582,7 +17582,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 708]
 	MinuteGenerate:	-1
@@ -17603,7 +17603,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 709]
 	MinuteGenerate:	-1
@@ -17624,7 +17624,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 710]
 	MinuteGenerate:	-1
@@ -17645,7 +17645,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 711]
 	MinuteGenerate:	-1
@@ -17666,7 +17666,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 712]
 	MinuteGenerate:	-1
@@ -17687,7 +17687,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 713]
 	MinuteGenerate:	-1
@@ -17708,7 +17708,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 714]
 	MinuteGenerate:	-1
@@ -17729,7 +17729,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 715]
 	MinuteGenerate:	-1
@@ -17750,7 +17750,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 716]
 	MinuteGenerate:	-1
@@ -17771,7 +17771,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 717]
 	MinuteGenerate:	-1
@@ -17792,7 +17792,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 718]
 	MinuteGenerate:	-1
@@ -17813,7 +17813,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 719]
 	MinuteGenerate:	-1
@@ -17834,7 +17834,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 720]
 	MinuteGenerate:	-1
@@ -17855,7 +17855,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 721]
 	MinuteGenerate:	-1
@@ -17876,7 +17876,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 722]
 	MinuteGenerate:	-1
@@ -17897,7 +17897,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 723]
 	MinuteGenerate:	-1
@@ -17918,7 +17918,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 724]
 	MinuteGenerate:	-1
@@ -17939,7 +17939,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 725]
 	MinuteGenerate:	-1
@@ -17960,7 +17960,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 726]
 	MinuteGenerate:	-1
@@ -17981,7 +17981,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 727]
 	MinuteGenerate:	-1
@@ -18002,7 +18002,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 728]
 	MinuteGenerate:	-1
@@ -18023,7 +18023,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 729]
 	MinuteGenerate:	-1
@@ -18044,7 +18044,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 730]
 	MinuteGenerate:	-1
@@ -18065,7 +18065,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 731]
 	MinuteGenerate:	-1
@@ -18086,7 +18086,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 732]
 	MinuteGenerate:	-1
@@ -18107,7 +18107,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 733]
 	MinuteGenerate:	-1
@@ -18128,7 +18128,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 734]
 	MinuteGenerate:	-1
@@ -18149,7 +18149,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 735]
 	MinuteGenerate:	-1
@@ -18170,7 +18170,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 736]
 	MinuteGenerate:	-1
@@ -18191,7 +18191,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 737]
 	MinuteGenerate:	-1
@@ -18212,7 +18212,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 738]
 	MinuteGenerate:	-1
@@ -18233,7 +18233,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 739]
 	MinuteGenerate:	-1
@@ -18254,7 +18254,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 740]
 	MinuteGenerate:	-1
@@ -18275,7 +18275,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 741]
 	MinuteGenerate:	-1
@@ -18296,7 +18296,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 742]
 	MinuteGenerate:	-1
@@ -18317,7 +18317,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 743]
 	MinuteGenerate:	-1
@@ -18338,7 +18338,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 744]
 	MinuteGenerate:	-1
@@ -18359,7 +18359,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 745]
 	MinuteGenerate:	-1
@@ -18380,7 +18380,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 746]
 	MinuteGenerate:	-1
@@ -18401,7 +18401,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 747]
 	MinuteGenerate:	-1
@@ -18422,7 +18422,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 748]
 	MinuteGenerate:	-1
@@ -18443,7 +18443,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 749]
 	MinuteGenerate:	-1
@@ -18464,7 +18464,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 750]
 	MinuteGenerate:	-1
@@ -18485,7 +18485,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 751]
 	MinuteGenerate:	-1
@@ -18506,7 +18506,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 752]
 	MinuteGenerate:	-1
@@ -18527,7 +18527,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 753]
 	MinuteGenerate:	-1
@@ -18548,7 +18548,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 754]
 	MinuteGenerate:	-1
@@ -18569,7 +18569,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 755]
 	MinuteGenerate:	-1
@@ -18590,7 +18590,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 756]
 	MinuteGenerate:	-1
@@ -18611,7 +18611,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 757]
 	MinuteGenerate:	-1
@@ -18632,7 +18632,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 758]
 	MinuteGenerate:	-1
@@ -18653,7 +18653,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 759]
 	MinuteGenerate:	-1
@@ -18674,7 +18674,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 760]
 	MinuteGenerate:	-1
@@ -18695,7 +18695,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 761]
 	MinuteGenerate:	-1
@@ -18716,7 +18716,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 762]
 	MinuteGenerate:	-1
@@ -18737,7 +18737,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 763]
 	MinuteGenerate:	-1
@@ -18758,7 +18758,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 764]
 	MinuteGenerate:	-1
@@ -18779,7 +18779,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 765]
 	MinuteGenerate:	-1
@@ -18800,7 +18800,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 766]
 	MinuteGenerate:	-1
@@ -18821,7 +18821,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 767]
 	MinuteGenerate:	-1
@@ -18842,7 +18842,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 768]
 	MinuteGenerate:	-1
@@ -18863,7 +18863,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 769]
 	MinuteGenerate:	-1
@@ -18884,7 +18884,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 770]
 	MinuteGenerate:	-1
@@ -18905,7 +18905,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 771]
 	MinuteGenerate:	-1
@@ -18926,7 +18926,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 772]
 	MinuteGenerate:	-1
@@ -18947,7 +18947,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 773]
 	MinuteGenerate:	-1
@@ -18968,7 +18968,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 774]
 	MinuteGenerate:	-1
@@ -18989,7 +18989,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 775]
 	MinuteGenerate:	-1
@@ -19010,7 +19010,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 776]
 	MinuteGenerate:	-1
@@ -19031,7 +19031,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 777]
 	MinuteGenerate:	-1
@@ -19052,7 +19052,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 778]
 	MinuteGenerate:	-1
@@ -19073,7 +19073,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 779]
 	MinuteGenerate:	-1
@@ -19094,7 +19094,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 780]
 	MinuteGenerate:	-1
@@ -19115,7 +19115,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 781]
 	MinuteGenerate:	-1
@@ -19136,7 +19136,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 782]
 	MinuteGenerate:	-1
@@ -19157,7 +19157,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 783]
 	MinuteGenerate:	-1
@@ -19178,7 +19178,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 784]
 	MinuteGenerate:	-1
@@ -19199,7 +19199,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 785]
 	MinuteGenerate:	-1
@@ -19220,7 +19220,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 786]
 	MinuteGenerate:	-1
@@ -19241,7 +19241,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 787]
 	MinuteGenerate:	-1
@@ -19262,7 +19262,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 788]
 	MinuteGenerate:	-1
@@ -19283,7 +19283,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 789]
 	MinuteGenerate:	-1
@@ -19304,7 +19304,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 790]
 	MinuteGenerate:	-1
@@ -19325,7 +19325,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 791]
 	MinuteGenerate:	-1
@@ -19346,7 +19346,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 792]
 	MinuteGenerate:	-1
@@ -19367,7 +19367,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 793]
 	MinuteGenerate:	-1
@@ -19388,7 +19388,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 794]
 	MinuteGenerate:	-1
@@ -19409,7 +19409,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 795]
 	MinuteGenerate:	-1
@@ -19430,7 +19430,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 796]
 	MinuteGenerate:	-1
@@ -19451,7 +19451,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 797]
 	MinuteGenerate:	-1
@@ -19472,7 +19472,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 798]
 	MinuteGenerate:	-1
@@ -19493,7 +19493,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 799]
 	MinuteGenerate:	-1
@@ -19514,7 +19514,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 800]
 	MinuteGenerate:	-1
@@ -19535,7 +19535,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 801]
 	MinuteGenerate:	-1
@@ -19556,7 +19556,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 802]
 	MinuteGenerate:	-1
@@ -19577,7 +19577,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 803]
 	MinuteGenerate:	-1
@@ -19598,7 +19598,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 804]
 	MinuteGenerate:	-1
@@ -19619,7 +19619,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 805]
 	MinuteGenerate:	-1
@@ -19640,7 +19640,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 806]
 	MinuteGenerate:	-1
@@ -19661,7 +19661,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 807]
 	MinuteGenerate:	-1
@@ -19682,7 +19682,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 808]
 	MinuteGenerate:	-1
@@ -19703,7 +19703,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 809]
 	MinuteGenerate:	-1
@@ -19724,7 +19724,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 810]
 	MinuteGenerate:	-1
@@ -19745,7 +19745,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 811]
 	MinuteGenerate:	-1
@@ -19766,7 +19766,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 812]
 	MinuteGenerate:	-1
@@ -19787,7 +19787,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 813]
 	MinuteGenerate:	-1
@@ -19808,7 +19808,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 814]
 	MinuteGenerate:	-1
@@ -19829,7 +19829,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 815]
 	MinuteGenerate:	-1
@@ -19850,7 +19850,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 816]
 	MinuteGenerate:	-1
@@ -19871,7 +19871,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 817]
 	MinuteGenerate:	-1
@@ -19892,7 +19892,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 818]
 	MinuteGenerate:	-1
@@ -19913,7 +19913,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 819]
 	MinuteGenerate:	-1
@@ -19934,7 +19934,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 820]
 	MinuteGenerate:	-1
@@ -19955,7 +19955,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 821]
 	MinuteGenerate:	-1
@@ -19976,7 +19976,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 822]
 	MinuteGenerate:	-1
@@ -19997,7 +19997,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 823]
 	MinuteGenerate:	-1
@@ -20018,7 +20018,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 824]
 	MinuteGenerate:	-1
@@ -20039,7 +20039,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 825]
 	MinuteGenerate:	-1
@@ -20060,7 +20060,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 826]
 	MinuteGenerate:	-1
@@ -20081,7 +20081,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 827]
 	MinuteGenerate:	-1
@@ -20102,7 +20102,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 828]
 	MinuteGenerate:	-1
@@ -20123,7 +20123,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 829]
 	MinuteGenerate:	-1
@@ -20144,7 +20144,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 830]
 	MinuteGenerate:	-1
@@ -20165,7 +20165,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 831]
 	MinuteGenerate:	-1
@@ -20186,7 +20186,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 832]
 	MinuteGenerate:	-1
@@ -20207,7 +20207,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 833]
 	MinuteGenerate:	-1
@@ -20228,7 +20228,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 834]
 	MinuteGenerate:	-1
@@ -20249,7 +20249,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 835]
 	MinuteGenerate:	-1
@@ -20270,7 +20270,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 836]
 	MinuteGenerate:	-1
@@ -20291,7 +20291,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 837]
 	MinuteGenerate:	-1
@@ -20312,7 +20312,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 838]
 	MinuteGenerate:	-1
@@ -20333,7 +20333,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 839]
 	MinuteGenerate:	-1
@@ -20354,7 +20354,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 840]
 	MinuteGenerate:	-1
@@ -20375,7 +20375,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 841]
 	MinuteGenerate:	-1
@@ -20396,7 +20396,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 842]
 	MinuteGenerate:	-1
@@ -20417,7 +20417,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 843]
 	MinuteGenerate:	-1
@@ -20438,7 +20438,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 844]
 	MinuteGenerate:	-1
@@ -20459,7 +20459,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 845]
 	MinuteGenerate:	-1
@@ -20480,7 +20480,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 846]
 	MinuteGenerate:	-1
@@ -20501,7 +20501,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 847]
 	MinuteGenerate:	-1
@@ -20522,7 +20522,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 848]
 	MinuteGenerate:	-1
@@ -20543,7 +20543,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 849]
 	MinuteGenerate:	-1
@@ -20564,7 +20564,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 850]
 	MinuteGenerate:	-1
@@ -20585,7 +20585,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 851]
 	MinuteGenerate:	-1
@@ -20606,7 +20606,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 852]
 	MinuteGenerate:	-1
@@ -20627,7 +20627,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 853]
 	MinuteGenerate:	-1
@@ -20648,7 +20648,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 854]
 	MinuteGenerate:	-1
@@ -20669,7 +20669,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 855]
 	MinuteGenerate:	-1
@@ -20690,7 +20690,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 856]
 	MinuteGenerate:	-1
@@ -20711,7 +20711,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 857]
 	MinuteGenerate:	-1
@@ -20732,7 +20732,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 858]
 	MinuteGenerate:	-1
@@ -20753,7 +20753,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 859]
 	MinuteGenerate:	-1
@@ -20774,7 +20774,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 860]
 	MinuteGenerate:	-1
@@ -20795,7 +20795,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 861]
 	MinuteGenerate:	-1
@@ -20816,7 +20816,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 862]
 	MinuteGenerate:	-1
@@ -20837,7 +20837,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 863]
 	MinuteGenerate:	-1
@@ -20858,7 +20858,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 864]
 	MinuteGenerate:	-1
@@ -20879,7 +20879,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 865]
 	MinuteGenerate:	-1
@@ -20900,7 +20900,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 866]
 	MinuteGenerate:	-1
@@ -20921,7 +20921,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 867]
 	MinuteGenerate:	-1
@@ -20942,7 +20942,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 868]
 	MinuteGenerate:	-1
@@ -20963,7 +20963,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 869]
 	MinuteGenerate:	-1
@@ -20984,7 +20984,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 870]
 	MinuteGenerate:	-1
@@ -21005,7 +21005,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 871]
 	MinuteGenerate:	-1
@@ -21026,7 +21026,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 872]
 	MinuteGenerate:	-1
@@ -21047,7 +21047,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 873]
 	MinuteGenerate:	-1
@@ -21068,7 +21068,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 874]
 	MinuteGenerate:	-1
@@ -21089,7 +21089,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 875]
 	MinuteGenerate:	-1
@@ -21110,7 +21110,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 876]
 	MinuteGenerate:	-1
@@ -21131,7 +21131,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 877]
 	MinuteGenerate:	-1
@@ -21152,7 +21152,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 878]
 	MinuteGenerate:	-1
@@ -21173,7 +21173,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 879]
 	MinuteGenerate:	-1
@@ -21194,7 +21194,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 880]
 	MinuteGenerate:	-1
@@ -21215,7 +21215,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 881]
 	MinuteGenerate:	-1
@@ -21236,7 +21236,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 882]
 	MinuteGenerate:	-1
@@ -21257,7 +21257,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 883]
 	MinuteGenerate:	-1
@@ -21278,7 +21278,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 884]
 	MinuteGenerate:	-1
@@ -21299,7 +21299,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 885]
 	MinuteGenerate:	-1
@@ -21320,7 +21320,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 886]
 	MinuteGenerate:	-1
@@ -21341,7 +21341,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 887]
 	MinuteGenerate:	-1
@@ -21362,7 +21362,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 888]
 	MinuteGenerate:	-1
@@ -21383,7 +21383,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 889]
 	MinuteGenerate:	-1
@@ -21404,7 +21404,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 890]
 	MinuteGenerate:	-1
@@ -21425,7 +21425,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 891]
 	MinuteGenerate:	-1
@@ -21446,7 +21446,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 892]
 	MinuteGenerate:	-1
@@ -21467,7 +21467,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 893]
 	MinuteGenerate:	-1
@@ -21488,7 +21488,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 894]
 	MinuteGenerate:	-1
@@ -21509,7 +21509,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 895]
 	MinuteGenerate:	-1
@@ -21530,7 +21530,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 896]
 	MinuteGenerate:	-1
@@ -21551,7 +21551,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 897]
 	MinuteGenerate:	-1
@@ -21572,7 +21572,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 898]
 	MinuteGenerate:	-1
@@ -21593,7 +21593,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 899]
 	MinuteGenerate:	-1
@@ -21614,7 +21614,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 900]
 	MinuteGenerate:	-1
@@ -21635,7 +21635,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 901]
 	MinuteGenerate:	-1
@@ -21656,7 +21656,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 902]
 	MinuteGenerate:	-1
@@ -21677,7 +21677,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 903]
 	MinuteGenerate:	-1
@@ -21698,7 +21698,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 904]
 	MinuteGenerate:	-1
@@ -21719,7 +21719,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 905]
 	MinuteGenerate:	-1
@@ -21740,7 +21740,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 906]
 	MinuteGenerate:	-1
@@ -21761,7 +21761,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 907]
 	MinuteGenerate:	-1
@@ -21782,7 +21782,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 908]
 	MinuteGenerate:	-1
@@ -21803,7 +21803,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 909]
 	MinuteGenerate:	-1
@@ -21824,7 +21824,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 910]
 	MinuteGenerate:	-1
@@ -21845,7 +21845,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 911]
 	MinuteGenerate:	-1
@@ -21866,7 +21866,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 912]
 	MinuteGenerate:	-1
@@ -21887,7 +21887,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 913]
 	MinuteGenerate:	-1
@@ -21908,7 +21908,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 914]
 	MinuteGenerate:	-1
@@ -21929,7 +21929,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 915]
 	MinuteGenerate:	-1
@@ -21950,7 +21950,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 916]
 	MinuteGenerate:	-1
@@ -21971,7 +21971,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 917]
 	MinuteGenerate:	-1
@@ -21992,7 +21992,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 918]
 	MinuteGenerate:	-1
@@ -22013,7 +22013,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 919]
 	MinuteGenerate:	-1
@@ -22034,7 +22034,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 920]
 	MinuteGenerate:	-1
@@ -22055,7 +22055,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 921]
 	MinuteGenerate:	-1
@@ -22076,7 +22076,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 922]
 	MinuteGenerate:	-1
@@ -22097,7 +22097,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 923]
 	MinuteGenerate:	-1
@@ -22118,7 +22118,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 924]
 	MinuteGenerate:	-1
@@ -22139,7 +22139,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 925]
 	MinuteGenerate:	-1
@@ -22160,7 +22160,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 926]
 	MinuteGenerate:	-1
@@ -22181,7 +22181,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 927]
 	MinuteGenerate:	-1
@@ -22202,7 +22202,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 928]
 	MinuteGenerate:	-1
@@ -22223,7 +22223,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 929]
 	MinuteGenerate:	-1
@@ -22244,7 +22244,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 930]
 	MinuteGenerate:	-1
@@ -22265,7 +22265,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 931]
 	MinuteGenerate:	-1
@@ -22286,7 +22286,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 932]
 	MinuteGenerate:	-1
@@ -22307,7 +22307,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 933]
 	MinuteGenerate:	-1
@@ -22328,7 +22328,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 934]
 	MinuteGenerate:	-1
@@ -22349,7 +22349,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 935]
 	MinuteGenerate:	-1
@@ -22370,7 +22370,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 936]
 	MinuteGenerate:	-1
@@ -22391,7 +22391,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 937]
 	MinuteGenerate:	-1
@@ -22412,7 +22412,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 938]
 	MinuteGenerate:	-1
@@ -22433,7 +22433,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 939]
 	MinuteGenerate:	-1
@@ -22454,7 +22454,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 940]
 	MinuteGenerate:	-1
@@ -22475,7 +22475,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 941]
 	MinuteGenerate:	-1
@@ -22496,7 +22496,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 942]
 	MinuteGenerate:	-1
@@ -22517,7 +22517,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 943]
 	MinuteGenerate:	-1
@@ -22538,7 +22538,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 944]
 	MinuteGenerate:	-1
@@ -22559,7 +22559,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 945]
 	MinuteGenerate:	-1
@@ -22580,7 +22580,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 946]
 	MinuteGenerate:	-1
@@ -22601,7 +22601,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 947]
 	MinuteGenerate:	-1
@@ -22622,7 +22622,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 948]
 	MinuteGenerate:	-1
@@ -22643,7 +22643,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 949]
 	MinuteGenerate:	-1
@@ -22664,7 +22664,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 950]
 	MinuteGenerate:	-1
@@ -22685,7 +22685,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 951]
 	MinuteGenerate:	-1
@@ -22706,7 +22706,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 952]
 	MinuteGenerate:	-1
@@ -22727,7 +22727,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 953]
 	MinuteGenerate:	-1
@@ -22748,7 +22748,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 954]
 	MinuteGenerate:	-1
@@ -22769,7 +22769,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 955]
 	MinuteGenerate:	-1
@@ -22790,7 +22790,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 956]
 	MinuteGenerate:	-1
@@ -22811,7 +22811,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 957]
 	MinuteGenerate:	-1
@@ -22832,7 +22832,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 958]
 	MinuteGenerate:	-1
@@ -22853,7 +22853,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 959]
 	MinuteGenerate:	-1
@@ -22874,7 +22874,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 960]
 	MinuteGenerate:	-1
@@ -22895,7 +22895,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 961]
 	MinuteGenerate:	-1
@@ -22916,7 +22916,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 962]
 	MinuteGenerate:	-1
@@ -22937,7 +22937,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 963]
 	MinuteGenerate:	-1
@@ -22958,7 +22958,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 964]
 	MinuteGenerate:	-1
@@ -22979,7 +22979,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 965]
 	MinuteGenerate:	-1
@@ -23000,7 +23000,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 966]
 	MinuteGenerate:	-1
@@ -23021,7 +23021,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 967]
 	MinuteGenerate:	-1
@@ -23042,7 +23042,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 968]
 	MinuteGenerate:	-1
@@ -23063,7 +23063,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 969]
 	MinuteGenerate:	-1
@@ -23084,7 +23084,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 970]
 	MinuteGenerate:	-1
@@ -23105,7 +23105,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 971]
 	MinuteGenerate:	-1
@@ -23126,7 +23126,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 972]
 	MinuteGenerate:	-1
@@ -23147,7 +23147,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 973]
 	MinuteGenerate:	-1
@@ -23168,7 +23168,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 974]
 	MinuteGenerate:	-1
@@ -23189,7 +23189,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 975]
 	MinuteGenerate:	-1
@@ -23210,7 +23210,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 976]
 	MinuteGenerate:	-1
@@ -23231,7 +23231,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 977]
 	MinuteGenerate:	-1
@@ -23252,7 +23252,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 978]
 	MinuteGenerate:	-1
@@ -23273,7 +23273,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 979]
 	MinuteGenerate:	-1
@@ -23294,7 +23294,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 980]
 	MinuteGenerate:	-1
@@ -23315,7 +23315,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 981]
 	MinuteGenerate:	-1
@@ -23336,7 +23336,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 982]
 	MinuteGenerate:	-1
@@ -23357,7 +23357,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 983]
 	MinuteGenerate:	-1
@@ -23378,7 +23378,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 984]
 	MinuteGenerate:	-1
@@ -23399,7 +23399,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 985]
 	MinuteGenerate:	-1
@@ -23420,7 +23420,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 986]
 	MinuteGenerate:	-1
@@ -23441,7 +23441,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 987]
 	MinuteGenerate:	-1
@@ -23462,7 +23462,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 988]
 	MinuteGenerate:	-1
@@ -23483,7 +23483,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 989]
 	MinuteGenerate:	-1
@@ -23504,7 +23504,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 990]
 	MinuteGenerate:	-1
@@ -23525,7 +23525,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 991]
 	MinuteGenerate:	-1
@@ -23546,7 +23546,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 992]
 	MinuteGenerate:	-1
@@ -23567,7 +23567,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 993]
 	MinuteGenerate:	-1
@@ -23588,7 +23588,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 994]
 	MinuteGenerate:	-1
@@ -23609,7 +23609,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 995]
 	MinuteGenerate:	-1
@@ -23630,7 +23630,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 996]
 	MinuteGenerate:	-1
@@ -23651,7 +23651,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 997]
 	MinuteGenerate:	-1
@@ -23672,7 +23672,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 998]
 	MinuteGenerate:	-1
@@ -23693,7 +23693,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[ 999]
 	MinuteGenerate:	-1
@@ -23714,7 +23714,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1000]
 	MinuteGenerate:	-1
@@ -23735,7 +23735,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1001]
 	MinuteGenerate:	-1
@@ -23756,7 +23756,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1002]
 	MinuteGenerate:	-1
@@ -23777,7 +23777,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1003]
 	MinuteGenerate:	-1
@@ -23798,7 +23798,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1004]
 	MinuteGenerate:	-1
@@ -23819,7 +23819,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1005]
 	MinuteGenerate:	-1
@@ -23840,7 +23840,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1006]
 	MinuteGenerate:	-1
@@ -23861,7 +23861,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1007]
 	MinuteGenerate:	-1
@@ -23882,7 +23882,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1008]
 	MinuteGenerate:	-1
@@ -23903,7 +23903,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1009]
 	MinuteGenerate:	-1
@@ -23924,7 +23924,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1010]
 	MinuteGenerate:	-1
@@ -23945,7 +23945,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1011]
 	MinuteGenerate:	-1
@@ -23966,7 +23966,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1012]
 	MinuteGenerate:	-1
@@ -23987,7 +23987,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1013]
 	MinuteGenerate:	-1
@@ -24008,7 +24008,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1014]
 	MinuteGenerate:	-1
@@ -24029,7 +24029,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1015]
 	MinuteGenerate:	-1
@@ -24050,7 +24050,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1016]
 	MinuteGenerate:	-1
@@ -24071,7 +24071,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1017]
 	MinuteGenerate:	-1
@@ -24092,7 +24092,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1018]
 	MinuteGenerate:	-1
@@ -24113,7 +24113,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1019]
 	MinuteGenerate:	-1
@@ -24134,7 +24134,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1020]
 	MinuteGenerate:	-1
@@ -24155,7 +24155,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1021]
 	MinuteGenerate:	-1
@@ -24176,7 +24176,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1022]
 	MinuteGenerate:	-1
@@ -24197,7 +24197,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1023]
 	MinuteGenerate:	-1
@@ -24218,7 +24218,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1024]
 	MinuteGenerate:	-1
@@ -24239,7 +24239,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1025]
 	MinuteGenerate:	-1
@@ -24260,7 +24260,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1026]
 	MinuteGenerate:	-1
@@ -24281,7 +24281,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1027]
 	MinuteGenerate:	-1
@@ -24302,7 +24302,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1028]
 	MinuteGenerate:	-1
@@ -24323,7 +24323,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1029]
 	MinuteGenerate:	-1
@@ -24344,7 +24344,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1030]
 	MinuteGenerate:	-1
@@ -24365,7 +24365,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1031]
 	MinuteGenerate:	-1
@@ -24386,7 +24386,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1032]
 	MinuteGenerate:	-1
@@ -24407,7 +24407,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1033]
 	MinuteGenerate:	-1
@@ -24428,7 +24428,7 @@
 	DestWait:	0
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1034]
 	MinuteGenerate:	-1
@@ -24449,7 +24449,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1035]
 	MinuteGenerate:	-1
@@ -24470,7 +24470,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1036]
 	MinuteGenerate:	-1
@@ -24491,7 +24491,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1037]
 	MinuteGenerate:	1
@@ -24512,7 +24512,7 @@
 	DestWait:	4
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1038]
 	MinuteGenerate:	1
@@ -24533,7 +24533,7 @@
 	DestWait:	8
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1039]
 	MinuteGenerate:	1
@@ -24554,7 +24554,7 @@
 	DestWait:	4
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1040]
 	MinuteGenerate:	1
@@ -24575,10 +24575,10 @@
 	DestWait:	4
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1041]
-	MinuteGenerate:	-1
+	MinuteGenerate:	1
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
@@ -24596,10 +24596,10 @@
 	DestWait:	0
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1042]
-	MinuteGenerate:	-1
+	MinuteGenerate:	1
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
@@ -24617,10 +24617,10 @@
 	DestWait:	0
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1043]
-	MinuteGenerate:	-1
+	MinuteGenerate:	1
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
@@ -24638,10 +24638,10 @@
 	DestWait:	0
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1044]
-	MinuteGenerate:	-1
+	MinuteGenerate:	1
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	0
@@ -24659,10 +24659,10 @@
 	DestWait:	0
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1045]
-	MinuteGenerate:	-1
+	MinuteGenerate:	1
 	MaxNumMob:	1
 	MinGroup:	1
 	MaxGroup:	1
@@ -24680,7 +24680,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1046]
 	MinuteGenerate:	-1
@@ -24701,7 +24701,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1047]
 	MinuteGenerate:	-1
@@ -24722,7 +24722,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1048]
 	MinuteGenerate:	-1
@@ -24743,7 +24743,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1049]
 	MinuteGenerate:	-1
@@ -24764,7 +24764,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1050]
 	MinuteGenerate:	-1
@@ -24785,7 +24785,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1051]
 	MinuteGenerate:	-1
@@ -24806,7 +24806,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1052]
 	MinuteGenerate:	-1
@@ -24827,7 +24827,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1053]
 	MinuteGenerate:	-1
@@ -24848,7 +24848,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1054]
 	MinuteGenerate:	-1
@@ -24869,7 +24869,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1055]
 	MinuteGenerate:	-1
@@ -24890,7 +24890,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1056]
 	MinuteGenerate:	-1
@@ -24911,7 +24911,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1057]
 	MinuteGenerate:	-1
@@ -24932,7 +24932,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1058]
 	MinuteGenerate:	-1
@@ -24953,7 +24953,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1059]
 	MinuteGenerate:	-1
@@ -24974,7 +24974,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1060]
 	MinuteGenerate:	-1
@@ -24995,7 +24995,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1061]
 	MinuteGenerate:	-1
@@ -25016,7 +25016,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1062]
 	MinuteGenerate:	-1
@@ -25037,7 +25037,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1063]
 	MinuteGenerate:	-1
@@ -25058,7 +25058,7 @@
 	DestWait:	15
 
 
-// no (보스몹 남는거) -보스몹 끝
+// no (chefe mob remains) - Fim da mafia chefe
 // ********************************************
 #	[1064]
 	MinuteGenerate:	-1
@@ -54688,7 +54688,7 @@
 	DestAction:	Seguimos_em_batalha!
 
 
-// no1074 (이벤트)
+// no1074 (Evento)
 // ********************************************
 #	[2113]
 	MinuteGenerate:	-1
@@ -54717,7 +54717,7 @@
 	DestWait:	0
 
 
-// no1075 (이벤트)
+// no1075 (Evento)
 // ********************************************
 #	[2114]
 	MinuteGenerate:	-1
@@ -54746,7 +54746,7 @@
 	DestWait:	0
 
 
-// no1074 (이벤트)
+// no1074 (Evento)
 // ********************************************
 #	[2115]
 	MinuteGenerate:	-1
@@ -54775,7 +54775,7 @@
 	DestWait:	0
 
 
-// no1075 (이벤트)
+// no1075 (Evento)
 // ********************************************
 #	[2116]
 	MinuteGenerate:	-1
@@ -128695,7 +128695,7 @@
 	DestWait:	8
 
 
-// no3541 (타론) - 0913 Campo시작
+// no3541 ( Tauron) - 0913 Campo시작
 // ********************************************
 #	[4696]
 	MinuteGenerate:	2
@@ -128724,7 +128724,7 @@
 	DestWait:	6
 
 
-// no3542 (헤비타론) - 0913
+// no3542 (헤비 Tauron) - 0913
 // ********************************************
 #	[4697]
 	MinuteGenerate:	2
@@ -128753,7 +128753,7 @@
 	DestWait:	9
 
 
-// no3543 (타론) - 0913
+// no3543 ( Tauron) - 0913
 // ********************************************
 #	[4698]
 	MinuteGenerate:	2
@@ -128782,7 +128782,7 @@
 	DestWait:	6
 
 
-// no3544 (타론) - 0913
+// no3544 ( Tauron) - 0913
 // ********************************************
 #	[4699]
 	MinuteGenerate:	2
@@ -128811,7 +128811,7 @@
 	DestWait:	6
 
 
-// no3545 (타론) - 0913
+// no3545 ( Tauron) - 0913
 // ********************************************
 #	[4700]
 	MinuteGenerate:	2
@@ -128840,7 +128840,7 @@
 	DestWait:	6
 
 
-// no3546 (타론) - 0913
+// no3546 ( Tauron) - 0913
 // ********************************************
 #	[4701]
 	MinuteGenerate:	2
@@ -128869,7 +128869,7 @@
 	DestWait:	6
 
 
-// no3547 (타론) - 0913
+// no3547 ( Tauron) - 0913
 // ********************************************
 #	[4702]
 	MinuteGenerate:	3
@@ -128898,7 +128898,7 @@
 	DestWait:	6
 
 
-// no3548 (헤비타론)
+// no3548 (헤비 Tauron)
 // ********************************************
 #	[4703]
 	MinuteGenerate:	3
@@ -128927,7 +128927,7 @@
 	DestWait:	9
 
 
-// no3549 (타론) - 0913
+// no3549 ( Tauron) - 0913
 // ********************************************
 #	[4704]
 	MinuteGenerate:	2
@@ -128956,7 +128956,7 @@
 	DestWait:	6
 
 
-// no3550 (타론) - 0913
+// no3550 ( Tauron) - 0913
 // ********************************************
 #	[4705]
 	MinuteGenerate:	2
@@ -128985,7 +128985,7 @@
 	DestWait:	6
 
 
-// no3551 (타론) - 0913
+// no3551 ( Tauron) - 0913
 // ********************************************
 #	[4706]
 	MinuteGenerate:	3
@@ -129014,7 +129014,7 @@
 	DestWait:	9
 
 
-// no3552 (타론) - 0913  /SLOT LIVRE DE TAURON
+// no3552 ( Tauron) - 0913  /SLOT LIVRE DE TAURON
 // ********************************************
 #	[4707]
 	MinuteGenerate:	-1
@@ -129043,7 +129043,7 @@
 	DestWait:	9
 
 
-// no3553 (타론) - 0913
+// no3553 ( Tauron) - 0913
 // ********************************************
 #	[4708]
 	MinuteGenerate:	2
@@ -129072,7 +129072,7 @@
 	DestWait:	6
 
 
-// no3637 (타론) - 0913
+// no3637 ( Tauron) - 0913
 // ********************************************
 #	[4709]
 	MinuteGenerate:	2
@@ -129101,7 +129101,7 @@
 	DestWait:	6
 
 
-// no3638 (타론) - 0913
+// no3638 ( Tauron) - 0913
 // ********************************************
 #	[4710]
 	MinuteGenerate:	2
@@ -129130,7 +129130,7 @@
 	DestWait:	6
 
 
-// no3554 (타론) - 0913
+// no3554 ( Tauron) - 0913
 // ********************************************
 #	[4711]
 	MinuteGenerate:	2
@@ -129159,7 +129159,7 @@
 	DestWait:	6
 
 
-// no3555 (해비타론) - 0913
+// no3555 (해비 Tauron) - 0913
 // ********************************************
 #	[4712]
 	MinuteGenerate:	3
@@ -129188,7 +129188,7 @@
 	DestWait:	6
 
 
-// no3556 (타론) - 0913
+// no3556 ( Tauron) - 0913
 // ********************************************
 #	[4713]
 	MinuteGenerate:	3
@@ -129217,7 +129217,7 @@
 	DestWait:	9
 
 
-// no3557 (타론)  - 0913
+// no3557 ( Tauron)  - 0913
 // ********************************************
 #	[4714]
 	MinuteGenerate:	2
@@ -129246,7 +129246,7 @@
 	DestWait:	6
 
 
-// no3558 (타론) - 0913 SLOT LIVRE TAURON
+// no3558 ( Tauron) - 0913 SLOT LIVRE TAURON
 // ********************************************
 #	[4715]
 	MinuteGenerate:	-1
@@ -129275,7 +129275,7 @@
 	DestWait:	6
 
 
-// no3559 (타론) - 0913
+// no3559 ( Tauron) - 0913
 // ********************************************
 #	[4716]
 	MinuteGenerate:	2
@@ -129304,7 +129304,7 @@
 	DestWait:	6
 
 
-// no3560 (타론) - 0913
+// no3560 ( Tauron) - 0913
 // ********************************************
 #	[4717]
 	MinuteGenerate:	3
@@ -129333,7 +129333,7 @@
 	DestWait:	6
 
 
-// no3561 (타론) - 0913
+// no3561 ( Tauron) - 0913
 // ********************************************
 #	[4718]
 	MinuteGenerate:	2
@@ -129362,7 +129362,7 @@
 	DestWait:	6
 
 
-// no3562 (타론) - 0913 SLOT VAGO TAURON
+// no3562 ( Tauron) - 0913 SLOT VAGO TAURON
 // ********************************************
 #	[4719]
 	MinuteGenerate:	-1
@@ -129391,7 +129391,7 @@
 	DestWait:	6
 
 
-// no3563 (해비타론) - 0913
+// no3563 (해비 Tauron) - 0913
 // ********************************************
 #	[4720]
 	MinuteGenerate:	2
@@ -129420,7 +129420,7 @@
 	DestWait:	6
 
 
-// no3564 (타론) - 0913 SLOT VAGO TAURON
+// no3564 ( Tauron) - 0913 SLOT VAGO TAURON
 // ********************************************
 #	[4721]
 	MinuteGenerate:	-1
@@ -129449,7 +129449,7 @@
 	DestWait:	6
 
 
-// no3565 (해비타론) - 0913
+// no3565 (해비 Tauron) - 0913
 // ********************************************
 #	[4722]
 	MinuteGenerate:	2
@@ -129478,7 +129478,7 @@
 	DestWait:	6
 
 
-// no3566 (타론) - 0913
+// no3566 ( Tauron) - 0913
 // ********************************************
 #	[4723]
 	MinuteGenerate:	2
@@ -129507,7 +129507,7 @@
 	DestWait:	6
 
 
-// no3567 (타론) - 0913
+// no3567 ( Tauron) - 0913
 // ********************************************
 #	[4724]
 	MinuteGenerate:	-1
@@ -130087,7 +130087,7 @@
 	DestWait:	6
 
 
-// no3587 (벤디츠타론) - 0913
+// no3587 (벤디츠 Tauron) - 0913
 // ********************************************
 #	[4744]
 	MinuteGenerate:	3
@@ -130116,7 +130116,7 @@
 	DestWait:	6
 
 
-// no3588 (벤디츠타론) - 0913
+// no3588 (벤디츠 Tauron) - 0913
 // ********************************************
 #	[4745]
 	MinuteGenerate:	3
@@ -130145,7 +130145,7 @@
 	DestWait:	6
 
 
-// no3589 (벤디츠타론) - 0913
+// no3589 (벤디츠 Tauron) - 0913
 // ********************************************
 #	[4746]
 	MinuteGenerate:	3
@@ -130174,7 +130174,7 @@
 	DestWait:	6
 
 
-// no3590 (벤디츠타론) - 0913
+// no3590 (벤디츠 Tauron) - 0913
 // ********************************************
 #	[4747]
 	MinuteGenerate:	3
@@ -130203,7 +130203,7 @@
 	DestWait:	6
 
 
-// no3591 (벤디츠타론) - 0913
+// no3591 (벤디츠 Tauron) - 0913
 // ********************************************
 #	[4748]
 	MinuteGenerate:	3
@@ -130232,7 +130232,7 @@
 	DestWait:	6
 
 
-// no3592 (벤디츠타론) - 0913
+// no3592 (벤디츠 Tauron) - 0913
 // ********************************************
 #	[4749]
 	MinuteGenerate:	2
@@ -130261,7 +130261,7 @@
 	DestWait:	6
 
 
-// no3593 (벤디츠타론) - 0913
+// no3593 (벤디츠 Tauron) - 0913
 // ********************************************
 #	[4750]
 	MinuteGenerate:	3
@@ -130290,7 +130290,7 @@
 	DestWait:	6
 
 
-// no3594 (벤디츠타론) - 0913
+// no3594 (벤디츠 Tauron) - 0913
 // ********************************************
 #	[4751]
 	MinuteGenerate:	3
@@ -131914,7 +131914,7 @@
 	DestWait:	6
 
 
-// no3599 (아다만트타론) -1014
+// no3599 (아다만트 Tauron) -1014
 // ********************************************
 #	[4807]
 	MinuteGenerate:	4
@@ -131943,7 +131943,7 @@
 	DestWait:	6
 
 
-//  no3600 (아다만트타론) -1014
+//  no3600 (아다만트 Tauron) -1014
 // ********************************************
 #	[4808]
 	MinuteGenerate:	4
@@ -131972,7 +131972,7 @@
 	DestWait:	6
 
 
-//  no3601 (아다만트타론) -1014
+//  no3601 (아다만트 Tauron) -1014
 // ********************************************
 #	[4809]
 	MinuteGenerate:	4
@@ -132001,7 +132001,7 @@
 	DestWait:	6
 
 
-//  no3602 (아다만트타론) -1014
+//  no3602 (아다만트 Tauron) -1014
 // ********************************************
 #	[4810]
 	MinuteGenerate:	4
@@ -132030,7 +132030,7 @@
 	DestWait:	6
 
 
-//  no3603 (아다만트타론) -1014
+//  no3603 (아다만트 Tauron) -1014
 // ********************************************
 #	[4811]
 	MinuteGenerate:	4
@@ -132059,7 +132059,7 @@
 	DestWait:	6
 
 
-//  no3604 (아다만트타론) -1014
+//  no3604 (아다만트 Tauron) -1014
 // ********************************************
 #	[4812]
 	MinuteGenerate:	4
@@ -132088,7 +132088,7 @@
 	DestWait:	6
 
 
-//  no3605 (아다만트타론) -1014
+//  no3605 (아다만트 Tauron) -1014
 // ********************************************
 #	[4813]
 	MinuteGenerate:	4
@@ -132117,7 +132117,7 @@
 	DestWait:	6
 
 
-//  no3606 (아다만트타론) -1014
+//  no3606 (아다만트 Tauron) -1014
 // ********************************************
 #	[4814]
 	MinuteGenerate:	4
@@ -132146,7 +132146,7 @@
 	DestWait:	6
 
 
-//  no3607 (아다만트타론) -1014
+//  no3607 (아다만트 Tauron) -1014
 // ********************************************
 #	[4815]
 	MinuteGenerate:	4
@@ -132175,7 +132175,7 @@
 	DestWait:	6
 
 
-//  no3608 (아다만트타론) -1014
+//  no3608 (아다만트 Tauron) -1014
 // ********************************************
 #	[4816]
 	MinuteGenerate:	4
@@ -132204,7 +132204,7 @@
 	DestWait:	6
 
 
-//  no3609 (아다만트타론) -1014
+//  no3609 (아다만트 Tauron) -1014
 // ********************************************
 #	[4817]
 	MinuteGenerate:	4
@@ -132233,7 +132233,7 @@
 	DestWait:	6
 
 
-//  no3610 (아다만트타론) -1014
+//  no3610 (아다만트 Tauron) -1014
 // ********************************************
 #	[4818]
 	MinuteGenerate:	4
@@ -133217,7 +133217,7 @@
 	DestWait:	6
 
 
-// no3639 (퍼블웜) -1113 Campo시작(왼쪽)
+// no3639 ( Verme) -1113 Campo시작(왼쪽)
 // ********************************************
 #	[4852]
 	MinuteGenerate:	3
@@ -133246,7 +133246,7 @@
 	DestWait:	6
 
 
-// no3640 (퍼블웜) - 1113
+// no3640 ( Verme) - 1113
 // ********************************************
 #	[4853]
 	MinuteGenerate:	3
@@ -133275,7 +133275,7 @@
 	DestWait:	6
 
 
-// no3641 (퍼블웜) - 1113
+// no3641 ( Verme) - 1113
 // ********************************************
 #	[4854]
 	MinuteGenerate:	3
@@ -133304,7 +133304,7 @@
 	DestWait:	6
 
 
-// no3642 (퍼블웜) - 1113
+// no3642 ( Verme) - 1113
 // ********************************************
 #	[4855]
 	MinuteGenerate:	3
@@ -133333,7 +133333,7 @@
 	DestWait:	6
 
 
-// no3643 (퍼블웜) - 1113
+// no3643 ( Verme) - 1113
 // ********************************************
 #	[4856]
 	MinuteGenerate:	3
@@ -133362,7 +133362,7 @@
 	DestWait:	6
 
 
-// no3644 (퍼블웜) -1113
+// no3644 ( Verme) -1113
 // ********************************************
 #	[4857]
 	MinuteGenerate:	3
@@ -133391,7 +133391,7 @@
 	DestWait:	6
 
 
-// no3645 (퍼블웜) - 1113
+// no3645 ( Verme) - 1113
 // ********************************************
 #	[4858]
 	MinuteGenerate:	3
@@ -133420,7 +133420,7 @@
 	DestWait:	6
 
 
-// no3646 (퍼블웜)-1113 Campo끝(오른쪽)
+// no3646 ( Verme)-1113 Campo끝(오른쪽)
 // ********************************************
 #	[4859]
 	MinuteGenerate:	3
@@ -133449,7 +133449,7 @@
 	DestWait:	6
 
 
-// no3647 (퍼블웜)-1113 Campo끝(왼쪽)
+// no3647 ( Verme)-1113 Campo끝(왼쪽)
 // ********************************************
 #	[4860]
 	MinuteGenerate:	3
@@ -133478,7 +133478,7 @@
 	DestWait:	6
 
 
-// no3648 (타론아쳐)-1113 Campo시작(왼쪽)
+// no3648 ( Tauron아쳐)-1113 Campo시작(왼쪽)
 // ********************************************
 #	[4861]
 	MinuteGenerate:	2
@@ -133507,7 +133507,7 @@
 	DestWait:	6
 
 
-// no3649 (타론아쳐) - 1113
+// no3649 ( Tauron아쳐) - 1113
 // ********************************************
 #	[4862]
 	MinuteGenerate:	2
@@ -133536,7 +133536,7 @@
 	DestWait:	6
 
 
-// no3650 (타론아쳐) - 1113
+// no3650 ( Tauron아쳐) - 1113
 // ********************************************
 #	[4863]
 	MinuteGenerate:	2
@@ -133565,7 +133565,7 @@
 	DestWait:	6
 
 
-// no3651 (타론아쳐) - 1113
+// no3651 ( Tauron아쳐) - 1113
 // ********************************************
 #	[4864]
 	MinuteGenerate:	2
@@ -133594,7 +133594,7 @@
 	DestWait:	9
 
 
-// no3652 (타론아쳐) - 1113
+// no3652 ( Tauron아쳐) - 1113
 // ********************************************
 #	[4865]
 	MinuteGenerate:	2
@@ -133623,7 +133623,7 @@
 	DestWait:	6
 
 
-// no3653 (타론아쳐) - 1113
+// no3653 ( Tauron아쳐) - 1113
 // ********************************************
 #	[4866]
 	MinuteGenerate:	2
@@ -133652,7 +133652,7 @@
 	DestWait:	6
 
 
-// no3654 (타론아쳐) - 1113
+// no3654 ( Tauron아쳐) - 1113
 // ********************************************
 #	[4867]
 	MinuteGenerate:	2
@@ -133681,7 +133681,7 @@
 	DestWait:	6
 
 
-// no3655 (타론아쳐) - 1113
+// no3655 ( Tauron아쳐) - 1113
 // ********************************************
 #	[4868]
 	MinuteGenerate:	3
@@ -133710,7 +133710,7 @@
 	DestWait:	9
 
 
-// no3656 (타론아쳐) - 1113
+// no3656 ( Tauron아쳐) - 1113
 // ********************************************
 #	[4869]
 	MinuteGenerate:	3
@@ -133739,7 +133739,7 @@
 	DestWait:	6
 
 
-// no3657 (타론아쳐) - 1113
+// no3657 ( Tauron아쳐) - 1113
 // ********************************************
 #	[4870]
 	MinuteGenerate:	2
@@ -133768,7 +133768,7 @@
 	DestWait:	6
 
 
-// no3658 (타론아쳐) - 1113
+// no3658 ( Tauron아쳐) - 1113
 // ********************************************
 #	[4871]
 	MinuteGenerate:	3
@@ -133797,7 +133797,7 @@
 	DestWait:	6
 
 
-// no3659 (타론아쳐) - 1113
+// no3659 ( Tauron아쳐) - 1113
 // ********************************************
 #	[4872]
 	MinuteGenerate:	2
@@ -133826,7 +133826,7 @@
 	DestWait:	6
 
 
-// no3660 (타론어쎄신) - 1113
+// no3660 ( Tauron어쎄신) - 1113
 // ********************************************
 #	[4873]
 	MinuteGenerate:	3
@@ -133855,7 +133855,7 @@
 	DestWait:	9
 
 
-// no3661 (타론어쎄신) - 1113
+// no3661 ( Tauron어쎄신) - 1113
 // ********************************************
 #	[4874]
 	MinuteGenerate:	3
@@ -133884,7 +133884,7 @@
 	DestWait:	6
 
 
-// no3662 (타론어쎄신) - 1113
+// no3662 ( Tauron어쎄신) - 1113
 // ********************************************
 #	[4875]
 	MinuteGenerate:	3
@@ -133913,7 +133913,7 @@
 	DestWait:	9
 
 
-// no3663 (타론어쎄신) - 1113
+// no3663 ( Tauron어쎄신) - 1113
 // ********************************************
 #	[4876]
 	MinuteGenerate:	2
@@ -133942,7 +133942,7 @@
 	DestWait:	6
 
 
-// no3664 (타론어쎄신) - 1113
+// no3664 ( Tauron어쎄신) - 1113
 // ********************************************
 #	[4877]
 	MinuteGenerate:	3
@@ -133971,7 +133971,7 @@
 	DestWait:	9
 
 
-// no3665 (타론어쎄신) - 1113
+// no3665 ( Tauron어쎄신) - 1113
 // ********************************************
 #	[4878]
 	MinuteGenerate:	3
@@ -134000,7 +134000,7 @@
 	DestWait:	6
 
 
-// no3666 (타론어쎄신) - 1113
+// no3666 ( Tauron어쎄신) - 1113
 // ********************************************
 #	[4879]
 	MinuteGenerate:	3
@@ -134029,7 +134029,7 @@
 	DestWait:	6
 
 
-// no3667 (타론어쎄신) - 1113
+// no3667 ( Tauron어쎄신) - 1113
 // ********************************************
 #	[4880]
 	MinuteGenerate:	3
@@ -134058,7 +134058,7 @@
 	DestWait:	6
 
 
-// no3668 (타론어쎄신) - 1113
+// no3668 ( Tauron어쎄신) - 1113
 // ********************************************
 #	[4881]
 	MinuteGenerate:	3
@@ -134087,7 +134087,7 @@
 	DestWait:	6
 
 
-// no3669 (타론어쎄신) - 1113
+// no3669 ( Tauron어쎄신) - 1113
 // ********************************************
 #	[4882]
 	MinuteGenerate:	2
@@ -134116,7 +134116,7 @@
 	DestWait:	6
 
 
-// no3670 (타론어쎄신) - 1113
+// no3670 ( Tauron어쎄신) - 1113
 // ********************************************
 #	[4883]
 	MinuteGenerate:	3
@@ -134145,7 +134145,7 @@
 	DestWait:	6
 
 
-// no3671 (타론어쎄신) - 1113
+// no3671 ( Tauron어쎄신) - 1113
 // ********************************************
 #	[4884]
 	MinuteGenerate:	2
@@ -134174,7 +134174,7 @@
 	DestWait:	6
 
 
-// no3672 (타론어쎄신) - 1113 Campo끝(오른?)
+// no3672 ( Tauron어쎄신) - 1113 Campo끝(오른?)
 // ********************************************
 #	[4885]
 	MinuteGenerate:	2
@@ -134203,7 +134203,7 @@
 	DestWait:	6
 
 
-// no3673 (타론어쎄신) - 1113
+// no3673 ( Tauron어쎄신) - 1113
 // ********************************************
 #	[4886]
 	MinuteGenerate:	3
@@ -134232,7 +134232,7 @@
 	DestWait:	6
 
 
-// no3674 (타론어쎄신) - 1113
+// no3674 ( Tauron어쎄신) - 1113
 // ********************************************
 #	[4887]
 	MinuteGenerate:	2
@@ -142141,7 +142141,7 @@
 	DestWait:	0
 
 
-// // map 2823 // 니플하임  Campo시작
+// // map 2823 // Nipplehein  Campo시작
 // ********************************************
 #	[5230]
 	MinuteGenerate:	3
@@ -142170,7 +142170,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5231]
 	MinuteGenerate:	3
@@ -142199,7 +142199,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5232]
 	MinuteGenerate:	3
@@ -142228,7 +142228,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5233]
 	MinuteGenerate:	3
@@ -142257,7 +142257,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5234]
 	MinuteGenerate:	3
@@ -142286,7 +142286,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5235]
 	MinuteGenerate:	3
@@ -142315,7 +142315,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5236]
 	MinuteGenerate:	3
@@ -142344,7 +142344,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5237]
 	MinuteGenerate:	3
@@ -142373,7 +142373,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5238]
 	MinuteGenerate:	3
@@ -142402,7 +142402,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5239]
 	MinuteGenerate:	3
@@ -142431,7 +142431,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5240]
 	MinuteGenerate:	3
@@ -142460,7 +142460,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5241]
 	MinuteGenerate:	3
@@ -142489,7 +142489,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5242]
 	MinuteGenerate:	3
@@ -142518,7 +142518,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5243]
 	MinuteGenerate:	3
@@ -142547,7 +142547,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5244]
 	MinuteGenerate:	3
@@ -142576,7 +142576,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5245]
 	MinuteGenerate:	3
@@ -142605,7 +142605,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5246]
 	MinuteGenerate:	3
@@ -142663,7 +142663,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5248]
 	MinuteGenerate:	3
@@ -142692,7 +142692,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5249]
 	MinuteGenerate:	3
@@ -142721,7 +142721,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5250]
 	MinuteGenerate:	3
@@ -142750,7 +142750,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5251]
 	MinuteGenerate:	3
@@ -142779,7 +142779,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5252]
 	MinuteGenerate:	3
@@ -142808,7 +142808,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5253]
 	MinuteGenerate:	3
@@ -142837,7 +142837,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5254]
 	MinuteGenerate:	3
@@ -142866,7 +142866,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5255]
 	MinuteGenerate:	3
@@ -142895,7 +142895,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5256]
 	MinuteGenerate:	3
@@ -142924,7 +142924,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5257]
 	MinuteGenerate:	3
@@ -142953,7 +142953,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5258]
 	MinuteGenerate:	3
@@ -142982,7 +142982,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5259]
 	MinuteGenerate:	3
@@ -143011,7 +143011,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5260]
 	MinuteGenerate:	3
@@ -143040,7 +143040,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5261]
 	MinuteGenerate:	3
@@ -143069,7 +143069,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5262]
 	MinuteGenerate:	3
@@ -143098,7 +143098,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5263]
 	MinuteGenerate:	3
@@ -143127,7 +143127,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5264]
 	MinuteGenerate:	3
@@ -143156,7 +143156,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5265]
 	MinuteGenerate:	3
@@ -143185,7 +143185,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5266]
 	MinuteGenerate:	3
@@ -143214,7 +143214,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5267]
 	MinuteGenerate:	3
@@ -143243,7 +143243,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5268]
 	MinuteGenerate:	3
@@ -143272,7 +143272,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5269]
 	MinuteGenerate:	4
@@ -143301,7 +143301,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5270]
 	MinuteGenerate:	3
@@ -143330,7 +143330,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5271]
 	MinuteGenerate:	3
@@ -143359,7 +143359,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5272]
 	MinuteGenerate:	3
@@ -143388,7 +143388,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5273]
 	MinuteGenerate:	3
@@ -143417,7 +143417,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5274]
 	MinuteGenerate:	3
@@ -143446,7 +143446,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5275]
 	MinuteGenerate:	3
@@ -143475,7 +143475,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5276]
 	MinuteGenerate:	3
@@ -143504,7 +143504,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5277]
 	MinuteGenerate:	3
@@ -143533,7 +143533,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5278]
 	MinuteGenerate:	3
@@ -143562,7 +143562,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5279]
 	MinuteGenerate:	3
@@ -143591,7 +143591,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5280]
 	MinuteGenerate:	3
@@ -143620,7 +143620,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5281]
 	MinuteGenerate:	3
@@ -143649,7 +143649,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5282]
 	MinuteGenerate:	3
@@ -143678,7 +143678,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5283]
 	MinuteGenerate:	4
@@ -143707,7 +143707,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5284]
 	MinuteGenerate:	4
@@ -143736,7 +143736,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5285]
 	MinuteGenerate:	3
@@ -143765,7 +143765,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5286]
 	MinuteGenerate:	3
@@ -143794,7 +143794,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5287]
 	MinuteGenerate:	4
@@ -143823,7 +143823,7 @@
 	DestWait:	10
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5288]
 	MinuteGenerate:	4
@@ -143852,7 +143852,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5289]
 	MinuteGenerate:	3
@@ -143881,7 +143881,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5290]
 	MinuteGenerate:	3
@@ -143910,7 +143910,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5291]
 	MinuteGenerate:	3
@@ -143939,7 +143939,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5292]
 	MinuteGenerate:	3
@@ -143968,7 +143968,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5293]
 	MinuteGenerate:	4
@@ -143997,7 +143997,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5294]
 	MinuteGenerate:	3
@@ -144026,7 +144026,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5295]
 	MinuteGenerate:	3
@@ -144055,7 +144055,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5296]
 	MinuteGenerate:	3
@@ -144084,7 +144084,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5297]
 	MinuteGenerate:	4
@@ -144113,7 +144113,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5298]
 	MinuteGenerate:	3
@@ -144142,7 +144142,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5299]
 	MinuteGenerate:	3
@@ -144171,7 +144171,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5300]
 	MinuteGenerate:	3
@@ -144200,7 +144200,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5301]
 	MinuteGenerate:	3
@@ -144229,7 +144229,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5302]
 	MinuteGenerate:	3
@@ -144258,7 +144258,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5303]
 	MinuteGenerate:	3
@@ -144287,7 +144287,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5304]
 	MinuteGenerate:	3
@@ -144316,7 +144316,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5305]
 	MinuteGenerate:	3
@@ -144345,7 +144345,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5306]
 	MinuteGenerate:	3
@@ -144374,7 +144374,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5307]
 	MinuteGenerate:	3
@@ -144403,7 +144403,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5308]
 	MinuteGenerate:	4
@@ -144432,7 +144432,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5309]
 	MinuteGenerate:	3
@@ -144461,7 +144461,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5310]
 	MinuteGenerate:	3
@@ -144490,7 +144490,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5311]
 	MinuteGenerate:	3
@@ -144519,7 +144519,7 @@
 	DestWait:	11
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5312]
 	MinuteGenerate:	3
@@ -144548,7 +144548,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5313]
 	MinuteGenerate:	3
@@ -144577,7 +144577,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5314]
 	MinuteGenerate:	3
@@ -144606,7 +144606,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5315]
 	MinuteGenerate:	3
@@ -144635,7 +144635,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5316]
 	MinuteGenerate:	4
@@ -144664,7 +144664,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5317]
 	MinuteGenerate:	3
@@ -144693,7 +144693,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5318]
 	MinuteGenerate:	3
@@ -144722,7 +144722,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5319]
 	MinuteGenerate:	3
@@ -144751,7 +144751,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5320]
 	MinuteGenerate:	3
@@ -144780,7 +144780,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5321]
 	MinuteGenerate:	3
@@ -144809,7 +144809,7 @@
 	DestWait:	6
 
 
-// // map 2723 // 니플하임  Campo
+// // map 2723 // Nipplehein  Campo
 // ********************************************
 #	[5322]
 	MinuteGenerate:	3
@@ -144838,7 +144838,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5323]
 	MinuteGenerate:	4
@@ -144867,7 +144867,7 @@
 	DestWait:	6
 
 
-// // map 2823 // 니플하임  Campo
+// // map 2823 // Nipplehein  Campo
 // ********************************************
 #	[5324]
 	MinuteGenerate:	3
@@ -144896,7 +144896,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5325]
 	MinuteGenerate:	4
@@ -144925,7 +144925,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5326]
 	MinuteGenerate:	4
@@ -144954,7 +144954,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5327]
 	MinuteGenerate:	4
@@ -144983,7 +144983,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5328]
 	MinuteGenerate:	4
@@ -145012,7 +145012,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5329]
 	MinuteGenerate:	4
@@ -145041,7 +145041,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5330]
 	MinuteGenerate:	4
@@ -145070,7 +145070,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5331]
 	MinuteGenerate:	3
@@ -145099,7 +145099,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5332]
 	MinuteGenerate:	3
@@ -145128,7 +145128,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5333]
 	MinuteGenerate:	3
@@ -145157,7 +145157,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5334]
 	MinuteGenerate:	4
@@ -145186,7 +145186,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5335]
 	MinuteGenerate:	4
@@ -145215,7 +145215,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5336]
 	MinuteGenerate:	4
@@ -145244,7 +145244,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5337]
 	MinuteGenerate:	4
@@ -145273,7 +145273,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5338]
 	MinuteGenerate:	4
@@ -145302,7 +145302,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5339]
 	MinuteGenerate:	4
@@ -145331,7 +145331,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5340]
 	MinuteGenerate:	3
@@ -145360,7 +145360,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5341]
 	MinuteGenerate:	3
@@ -145389,7 +145389,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5342]
 	MinuteGenerate:	4
@@ -145418,7 +145418,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5343]
 	MinuteGenerate:	3
@@ -145447,7 +145447,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5344]
 	MinuteGenerate:	3
@@ -145476,7 +145476,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5345]
 	MinuteGenerate:	3
@@ -145505,7 +145505,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5346]
 	MinuteGenerate:	3
@@ -145534,7 +145534,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5347]
 	MinuteGenerate:	3
@@ -145563,7 +145563,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5348]
 	MinuteGenerate:	3
@@ -145592,7 +145592,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5349]
 	MinuteGenerate:	4
@@ -145621,7 +145621,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5350]
 	MinuteGenerate:	4
@@ -145650,7 +145650,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5351]
 	MinuteGenerate:	4
@@ -145679,7 +145679,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5352]
 	MinuteGenerate:	4
@@ -145708,7 +145708,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5353]
 	MinuteGenerate:	3
@@ -145737,7 +145737,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5354]
 	MinuteGenerate:	4
@@ -145766,7 +145766,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5355]
 	MinuteGenerate:	4
@@ -145795,7 +145795,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5356]
 	MinuteGenerate:	4
@@ -145824,7 +145824,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5357]
 	MinuteGenerate:	3
@@ -145853,7 +145853,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5358]
 	MinuteGenerate:	3
@@ -145882,7 +145882,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5359]
 	MinuteGenerate:	3
@@ -145911,7 +145911,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5360]
 	MinuteGenerate:	4
@@ -145940,7 +145940,7 @@
 	DestWait:	6
 
 
-// // map 2722 // 니플하임  Campo
+// // map 2722 // Nipplehein  Campo
 // ********************************************
 #	[5361]
 	MinuteGenerate:	4
@@ -145969,7 +145969,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5362]
 	MinuteGenerate:	4
@@ -145998,7 +145998,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5363]
 	MinuteGenerate:	4
@@ -146027,7 +146027,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5364]
 	MinuteGenerate:	4
@@ -146056,7 +146056,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5365]
 	MinuteGenerate:	4
@@ -146085,7 +146085,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5366]
 	MinuteGenerate:	4
@@ -146114,7 +146114,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5367]
 	MinuteGenerate:	4
@@ -146143,7 +146143,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5368]
 	MinuteGenerate:	4
@@ -146172,7 +146172,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5369]
 	MinuteGenerate:	4
@@ -146201,7 +146201,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5370]
 	MinuteGenerate:	4
@@ -146230,7 +146230,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5371]
 	MinuteGenerate:	4
@@ -146259,7 +146259,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5372]
 	MinuteGenerate:	4
@@ -146288,7 +146288,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5373]
 	MinuteGenerate:	4
@@ -146317,7 +146317,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5374]
 	MinuteGenerate:	4
@@ -146346,7 +146346,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5375]
 	MinuteGenerate:	4
@@ -146375,7 +146375,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5376]
 	MinuteGenerate:	4
@@ -146404,7 +146404,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5377]
 	MinuteGenerate:	4
@@ -146433,7 +146433,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5378]
 	MinuteGenerate:	4
@@ -146462,7 +146462,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5379]
 	MinuteGenerate:	4
@@ -146491,7 +146491,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5380]
 	MinuteGenerate:	4
@@ -146520,7 +146520,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5381]
 	MinuteGenerate:	4
@@ -146549,7 +146549,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5382]
 	MinuteGenerate:	4
@@ -146578,7 +146578,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5383]
 	MinuteGenerate:	4
@@ -146607,7 +146607,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5384]
 	MinuteGenerate:	4
@@ -146636,7 +146636,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5385]
 	MinuteGenerate:	4
@@ -146665,7 +146665,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5386]
 	MinuteGenerate:	4
@@ -146694,7 +146694,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5387]
 	MinuteGenerate:	4
@@ -146723,7 +146723,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5388]
 	MinuteGenerate:	4
@@ -146752,7 +146752,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5389]
 	MinuteGenerate:	4
@@ -146781,7 +146781,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5390]
 	MinuteGenerate:	4
@@ -146810,7 +146810,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5391]
 	MinuteGenerate:	4
@@ -146839,7 +146839,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5392]
 	MinuteGenerate:	4
@@ -146868,7 +146868,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5393]
 	MinuteGenerate:	3
@@ -146897,7 +146897,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5394]
 	MinuteGenerate:	3
@@ -146926,7 +146926,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5395]
 	MinuteGenerate:	4
@@ -146955,7 +146955,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5396]
 	MinuteGenerate:	4
@@ -146984,7 +146984,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5397]
 	MinuteGenerate:	4
@@ -147013,7 +147013,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5398]
 	MinuteGenerate:	4
@@ -147042,7 +147042,7 @@
 	DestWait:	6
 
 
-// // map 2822 // 니플하임  Campo
+// // map 2822 // Nipplehein  Campo
 // ********************************************
 #	[5399]
 	MinuteGenerate:	4
@@ -147071,7 +147071,7 @@
 	DestWait:	6
 
 
-// // map 2923 // 니플하임  Campo
+// // map 2923 // Nipplehein  Campo
 // ********************************************
 #	[5400]
 	MinuteGenerate:	3
@@ -147100,7 +147100,7 @@
 	DestWait:	6
 
 
-// // map 2923 // 니플하임  Campo
+// // map 2923 // Nipplehein  Campo
 // ********************************************
 #	[5401]
 	MinuteGenerate:	4
@@ -147129,7 +147129,7 @@
 	DestWait:	9
 
 
-// // map 2923 // 니플하임  Campo
+// // map 2923 // Nipplehein  Campo
 // ********************************************
 #	[5402]
 	MinuteGenerate:	4
@@ -147158,7 +147158,7 @@
 	DestWait:	9
 
 
-// // map 2923 // 니플하임  Campo
+// // map 2923 // Nipplehein  Campo
 // ********************************************
 #	[5403]
 	MinuteGenerate:	4
@@ -147187,7 +147187,7 @@
 	DestWait:	9
 
 
-// // map 2923 // 니플하임  Campo
+// // map 2923 // Nipplehein  Campo
 // ********************************************
 #	[5404]
 	MinuteGenerate:	4
@@ -147216,7 +147216,7 @@
 	DestWait:	9
 
 
-// // map 2923 // 니플하임  Campo
+// // map 2923 // Nipplehein  Campo
 // ********************************************
 #	[5405]
 	MinuteGenerate:	4
@@ -147245,7 +147245,7 @@
 	DestWait:	6
 
 
-// // map 2923 // 니플하임  Campo
+// // map 2923 // Nipplehein  Campo
 // ********************************************
 #	[5406]
 	MinuteGenerate:	4
@@ -147274,7 +147274,7 @@
 	DestWait:	9
 
 
-// // map 2923 // 니플하임  Campo
+// // map 2923 // Nipplehein  Campo
 // ********************************************
 #	[5407]
 	MinuteGenerate:	4
@@ -147303,7 +147303,7 @@
 	DestWait:	9
 
 
-// // map 2923 // 니플하임  Campo
+// // map 2923 // Nipplehein  Campo
 // ********************************************
 #	[5408]
 	MinuteGenerate:	4
@@ -147332,7 +147332,7 @@
 	DestWait:	9
 
 
-// // map 2923 // 니플하임  Campo
+// // map 2923 // Nipplehein  Campo
 // ********************************************
 #	[5409]
 	MinuteGenerate:	4
@@ -147361,7 +147361,7 @@
 	DestWait:	9
 
 
-// // map 2923 // 니플하임  Campo
+// // map 2923 // Nipplehein  Campo
 // ********************************************
 #	[5410]
 	MinuteGenerate:	4
@@ -147390,7 +147390,7 @@
 	DestWait:	6
 
 
-// // map 2923 // 니플하임  Campo
+// // map 2923 // Nipplehein  Campo
 // ********************************************
 #	[5411]
 	MinuteGenerate:	4
@@ -147419,7 +147419,7 @@
 	DestWait:	6
 
 
-// // map 2923 // 니플하임  Campo
+// // map 2923 // Nipplehein  Campo
 // ********************************************
 #	[5412]
 	MinuteGenerate:	4
@@ -147448,7 +147448,7 @@
 	DestWait:	9
 
 
-// // map 2923 // 니플하임  Campo
+// // map 2923 // Nipplehein  Campo
 // ********************************************
 #	[5413]
 	MinuteGenerate:	4
@@ -147477,7 +147477,7 @@
 	DestWait:	9
 
 
-// // map 2923 // 니플하임  Campo
+// // map 2923 // Nipplehein  Campo
 // ********************************************
 #	[5414]
 	MinuteGenerate:	4
@@ -147506,7 +147506,7 @@
 	DestWait:	9
 
 
-// // map 2923 // 니플하임  Campo
+// // map 2923 // Nipplehein  Campo
 // ********************************************
 #	[5415]
 	MinuteGenerate:	4
@@ -147535,7 +147535,7 @@
 	DestWait:	9
 
 
-// // map 2923 // 니플하임  Campo
+// // map 2923 // Nipplehein  Campo
 // ********************************************
 #	[5416]
 	MinuteGenerate:	3
@@ -147564,7 +147564,7 @@
 	DestWait:	6
 
 
-// // map 2923 // 니플하임  Campo
+// // map 2923 // Nipplehein  Campo
 // ********************************************
 #	[5417]
 	MinuteGenerate:	4
@@ -147593,7 +147593,7 @@
 	DestWait:	6
 
 
-// // map 2923 // 니플하임  Campo
+// // map 2923 // Nipplehein  Campo
 // ********************************************
 #	[5418]
 	MinuteGenerate:	4
@@ -147622,7 +147622,7 @@
 	DestWait:	9
 
 
-// // map 2923 // 니플하임  Campo
+// // map 2923 // Nipplehein  Campo
 // ********************************************
 #	[5419]
 	MinuteGenerate:	4
@@ -147651,7 +147651,7 @@
 	DestWait:	9
 
 
-// // map 2923 // 니플하임  Campo
+// // map 2923 // Nipplehein  Campo
 // ********************************************
 #	[5420]
 	MinuteGenerate:	4
@@ -147680,7 +147680,7 @@
 	DestWait:	9
 
 
-// // map 2923 // 니플하임  Campo
+// // map 2923 // Nipplehein  Campo
 // ********************************************
 #	[5421]
 	MinuteGenerate:	4
@@ -147709,7 +147709,7 @@
 	DestWait:	9
 
 
-// // map 2923 // 니플하임  Campo
+// // map 2923 // Nipplehein  Campo
 // ********************************************
 #	[5422]
 	MinuteGenerate:	3
@@ -147738,7 +147738,7 @@
 	DestWait:	9
 
 
-// // map 2923 // 니플하임  Campo
+// // map 2923 // Nipplehein  Campo
 // ********************************************
 #	[5423]
 	MinuteGenerate:	4
@@ -147767,7 +147767,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5424]
 	MinuteGenerate:	6
@@ -147788,7 +147788,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5425]
 	MinuteGenerate:	6
@@ -147809,7 +147809,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5426]
 	MinuteGenerate:	6
@@ -147830,7 +147830,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5427]
 	MinuteGenerate:	6
@@ -147851,7 +147851,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5428]
 	MinuteGenerate:	6
@@ -147872,7 +147872,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5429]
 	MinuteGenerate:	6
@@ -147893,7 +147893,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5430]
 	MinuteGenerate:	6
@@ -147914,7 +147914,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5431]
 	MinuteGenerate:	6
@@ -147935,7 +147935,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5432]
 	MinuteGenerate:	6
@@ -147956,7 +147956,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5433]
 	MinuteGenerate:	6
@@ -147977,7 +147977,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5434]
 	MinuteGenerate:	4
@@ -148006,7 +148006,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5435]
 	MinuteGenerate:	4
@@ -148035,7 +148035,7 @@
 	DestWait:	9
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5436]
 	MinuteGenerate:	4
@@ -148064,7 +148064,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5437]
 	MinuteGenerate:	4
@@ -148094,7 +148094,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5438]
 	MinuteGenerate:	4
@@ -148123,7 +148123,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5439]
 	MinuteGenerate:	4
@@ -148152,7 +148152,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5440]
 	MinuteGenerate:	4
@@ -148181,7 +148181,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5441]
 	MinuteGenerate:	4
@@ -148210,7 +148210,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5442]
 	MinuteGenerate:	3
@@ -148239,7 +148239,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5443]
 	MinuteGenerate:	3
@@ -148268,7 +148268,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5444]
 	MinuteGenerate:	4
@@ -148297,7 +148297,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5445]
 	MinuteGenerate:	4
@@ -148326,7 +148326,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5446]
 	MinuteGenerate:	4
@@ -148355,7 +148355,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5447]
 	MinuteGenerate:	4
@@ -148384,7 +148384,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5448]
 	MinuteGenerate:	4
@@ -148413,7 +148413,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5449]
 	MinuteGenerate:	3
@@ -148442,7 +148442,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5450]
 	MinuteGenerate:	4
@@ -148471,7 +148471,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5451]
 	MinuteGenerate:	3
@@ -148500,7 +148500,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5452]
 	MinuteGenerate:	3
@@ -148529,7 +148529,7 @@
 	DestWait:	6
 
 
-// // map 2821 // 니플하임  Campo
+// // map 2821 // Nipplehein  Campo
 // ********************************************
 #	[5453]
 	MinuteGenerate:	4
@@ -148558,7 +148558,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5454]
 	MinuteGenerate:	-1
@@ -148587,7 +148587,7 @@
 	DestWait:	9
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5455]
 	MinuteGenerate:	-1
@@ -148616,7 +148616,7 @@
 	DestWait:	9
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5456]
 	MinuteGenerate:	-1
@@ -148645,7 +148645,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5457]
 	MinuteGenerate:	-1
@@ -148674,7 +148674,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5458]
 	MinuteGenerate:	-1
@@ -148703,7 +148703,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5459]
 	MinuteGenerate:	-1
@@ -148732,7 +148732,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5460]
 	MinuteGenerate:	-1
@@ -148761,7 +148761,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5461]
 	MinuteGenerate:	-1
@@ -148790,7 +148790,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5462]
 	MinuteGenerate:	-1
@@ -148819,7 +148819,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5463]
 	MinuteGenerate:	-1
@@ -148844,7 +148844,7 @@
 	DestWait:	0
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5464]
 	MinuteGenerate:	-1
@@ -148865,7 +148865,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5465]
 	MinuteGenerate:	-1
@@ -148886,7 +148886,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5466]
 	MinuteGenerate:	-1
@@ -148907,7 +148907,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5467]
 	MinuteGenerate:	-1
@@ -148928,7 +148928,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5468]
 	MinuteGenerate:	-1
@@ -148957,7 +148957,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5469]
 	MinuteGenerate:	-1
@@ -148986,7 +148986,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5470]
 	MinuteGenerate:	-1
@@ -149015,7 +149015,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5471]
 	MinuteGenerate:	-1
@@ -149044,7 +149044,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5472]
 	MinuteGenerate:	-1
@@ -149073,7 +149073,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5473]
 	MinuteGenerate:	-1
@@ -149102,7 +149102,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5474]
 	MinuteGenerate:	-1
@@ -149131,7 +149131,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5475]
 	MinuteGenerate:	-1
@@ -149160,7 +149160,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5476]
 	MinuteGenerate:	-1
@@ -149189,7 +149189,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5477]
 	MinuteGenerate:	-1
@@ -149218,7 +149218,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5478]
 	MinuteGenerate:	-1
@@ -149247,7 +149247,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5479]
 	MinuteGenerate:	-1
@@ -149276,7 +149276,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5480]
 	MinuteGenerate:	-1
@@ -149305,7 +149305,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo
+// // map 2922 // Nipplehein  Campo
 // ********************************************
 #	[5481]
 	MinuteGenerate:	-1
@@ -149334,7 +149334,7 @@
 	DestWait:	6
 
 
-// // map 2922 // 니플하임  Campo 끝
+// // map 2922 // Nipplehein  Campo 끝
 // ********************************************
 #	[5482]
 	MinuteGenerate:	-1
@@ -149380,7 +149380,7 @@
 	DestWait:	8
 
 
-// 스피릿스톤제련 NPC - 니플하임마을 Campo
+// 스피릿스톤제련 NPC - Nipplehein마을 Campo
 // ********************************************
 #	[5484]
 	MinuteGenerate:	1
@@ -152601,7 +152601,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 노멀 시작
+// // // // map 2826 PC방 Evento 노멀 시작
 // ********************************************
 #	[5613]
 	MinuteGenerate:	1
@@ -152622,7 +152622,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 노멀
+// // // // map 2826 PC방 Evento 노멀
 // ********************************************
 #	[5614]
 	MinuteGenerate:	1
@@ -152643,7 +152643,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 노멀
+// // // // map 2826 PC방 Evento 노멀
 // ********************************************
 #	[5615]
 	MinuteGenerate:	1
@@ -152664,7 +152664,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 노멀
+// // // // map 2826 PC방 Evento 노멀
 // ********************************************
 #	[5616]
 	MinuteGenerate:	1
@@ -152685,7 +152685,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 노멀
+// // // // map 2826 PC방 Evento 노멀
 // ********************************************
 #	[5617]
 	MinuteGenerate:	1
@@ -152706,7 +152706,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 노멀
+// // // // map 2826 PC방 Evento 노멀
 // ********************************************
 #	[5618]
 	MinuteGenerate:	1
@@ -152727,7 +152727,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 노멀
+// // // // map 2826 PC방 Evento 노멀
 // ********************************************
 #	[5619]
 	MinuteGenerate:	1
@@ -152748,7 +152748,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 노멀
+// // // // map 2826 PC방 Evento 노멀
 // ********************************************
 #	[5620]
 	MinuteGenerate:	1
@@ -152769,7 +152769,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 노멀
+// // // // map 2826 PC방 Evento 노멀
 // ********************************************
 #	[5621]
 	MinuteGenerate:	1
@@ -152790,7 +152790,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 노멀
+// // // // map 2826 PC방 Evento 노멀
 // ********************************************
 #	[5622]
 	MinuteGenerate:	1
@@ -152811,7 +152811,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 노멀
+// // // // map 2826 PC방 Evento 노멀
 // ********************************************
 #	[5623]
 	MinuteGenerate:	1
@@ -152832,7 +152832,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 노멀
+// // // // map 2826 PC방 Evento 노멀
 // ********************************************
 #	[5624]
 	MinuteGenerate:	1
@@ -152937,7 +152937,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 미스틱
+// // // // map 2826 PC방 Evento 미스틱
 // ********************************************
 #	[5629]
 	MinuteGenerate:	2
@@ -152958,7 +152958,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 미스틱
+// // // // map 2826 PC방 Evento 미스틱
 // ********************************************
 #	[5630]
 	MinuteGenerate:	2
@@ -152979,7 +152979,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 미스틱
+// // // // map 2826 PC방 Evento 미스틱
 // ********************************************
 #	[5631]
 	MinuteGenerate:	3
@@ -153000,7 +153000,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 미스틱
+// // // // map 2826 PC방 Evento 미스틱
 // ********************************************
 #	[5632]
 	MinuteGenerate:	3
@@ -153021,7 +153021,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 미스틱
+// // // // map 2826 PC방 Evento 미스틱
 // ********************************************
 #	[5633]
 	MinuteGenerate:	3
@@ -153042,7 +153042,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 미스틱
+// // // // map 2826 PC방 Evento 미스틱
 // ********************************************
 #	[5634]
 	MinuteGenerate:	3
@@ -153063,7 +153063,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 미스틱
+// // // // map 2826 PC방 Evento 미스틱
 // ********************************************
 #	[5635]
 	MinuteGenerate:	3
@@ -153084,7 +153084,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 미스틱
+// // // // map 2826 PC방 Evento 미스틱
 // ********************************************
 #	[5636]
 	MinuteGenerate:	3
@@ -153105,7 +153105,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 미스틱
+// // // // map 2826 PC방 Evento 미스틱
 // ********************************************
 #	[5637]
 	MinuteGenerate:	3
@@ -153126,7 +153126,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 미스틱
+// // // // map 2826 PC방 Evento 미스틱
 // ********************************************
 #	[5638]
 	MinuteGenerate:	3
@@ -153147,7 +153147,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 미스틱
+// // // // map 2826 PC방 Evento 미스틱
 // ********************************************
 #	[5639]
 	MinuteGenerate:	3
@@ -153168,7 +153168,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 미스틱
+// // // // map 2826 PC방 Evento 미스틱
 // ********************************************
 #	[5640]
 	MinuteGenerate:	3
@@ -153189,7 +153189,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 미스틱
+// // // // map 2826 PC방 Evento 미스틱
 // ********************************************
 #	[5641]
 	MinuteGenerate:	3
@@ -153210,7 +153210,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 미스틱
+// // // // map 2826 PC방 Evento 미스틱
 // ********************************************
 #	[5642]
 	MinuteGenerate:	3
@@ -153231,7 +153231,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 아케인
+// // // // map 2826 PC방 Evento 아케인
 // ********************************************
 #	[5643]
 	MinuteGenerate:	3
@@ -153252,7 +153252,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 아케인
+// // // // map 2826 PC방 Evento 아케인
 // ********************************************
 #	[5644]
 	MinuteGenerate:	3
@@ -153273,7 +153273,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 아케인
+// // // // map 2826 PC방 Evento 아케인
 // ********************************************
 #	[5645]
 	MinuteGenerate:	3
@@ -153294,7 +153294,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 아케인
+// // // // map 2826 PC방 Evento 아케인
 // ********************************************
 #	[5646]
 	MinuteGenerate:	3
@@ -153315,7 +153315,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 아케인
+// // // // map 2826 PC방 Evento 아케인
 // ********************************************
 #	[5647]
 	MinuteGenerate:	3
@@ -153336,7 +153336,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 아케인
+// // // // map 2826 PC방 Evento 아케인
 // ********************************************
 #	[5648]
 	MinuteGenerate:	3
@@ -153357,7 +153357,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 아케인
+// // // // map 2826 PC방 Evento 아케인
 // ********************************************
 #	[5649]
 	MinuteGenerate:	3
@@ -153378,7 +153378,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 아케인
+// // // // map 2826 PC방 Evento 아케인
 // ********************************************
 #	[5650]
 	MinuteGenerate:	3
@@ -153399,7 +153399,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 아케인
+// // // // map 2826 PC방 Evento 아케인
 // ********************************************
 #	[5651]
 	MinuteGenerate:	3
@@ -153420,7 +153420,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 아케인
+// // // // map 2826 PC방 Evento 아케인
 // ********************************************
 #	[5652]
 	MinuteGenerate:	3
@@ -153441,7 +153441,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 아케인
+// // // // map 2826 PC방 Evento 아케인
 // ********************************************
 #	[5653]
 	MinuteGenerate:	3
@@ -153462,7 +153462,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 아케인
+// // // // map 2826 PC방 Evento 아케인
 // ********************************************
 #	[5654]
 	MinuteGenerate:	3
@@ -153483,7 +153483,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 아케인
+// // // // map 2826 PC방 Evento 아케인
 // ********************************************
 #	[5655]
 	MinuteGenerate:	3
@@ -153504,7 +153504,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 아케인
+// // // // map 2826 PC방 Evento 아케인
 // ********************************************
 #	[5656]
 	MinuteGenerate:	3
@@ -153525,7 +153525,7 @@
 	DestWait:	6
 
 
-// // // // map 2826 PC방 이벤트 아케인
+// // // // map 2826 PC방 Evento 아케인
 // ********************************************
 #	[5657]
 	MinuteGenerate:	3
@@ -153546,7 +153546,7 @@
 	DestWait:	6
 
 
-// // // // // 운영팀 boss 이벤트 1st
+// // // // // 운영팀 boss Evento 1st
 // ********************************************
 #	[5658]
 	MinuteGenerate:	-1
@@ -153567,7 +153567,7 @@
 	DestWait:	0
 
 
-// // // // // 운영팀 boss 이벤트 2st
+// // // // // 운영팀 boss Evento 2st
 // ********************************************
 #	[5659]
 	MinuteGenerate:	-1
@@ -161337,7 +161337,7 @@
 	DestWait:	0
 
 
-// // // // // 운영팀 boss 이벤트 3st 6000번 부터
+// // // // // 운영팀 boss Evento 3st 6000번 부터
 // ********************************************
 #	[5992]
 	MinuteGenerate:	-1
@@ -161469,7 +161469,7 @@
 	DestWait:	8
 
 
-// // // // // 운영팀 저렙 boss 이벤트 1st
+// // // // // 운영팀 저렙 boss Evento 1st
 // ********************************************
 #	[5999]
 	MinuteGenerate:	-1
@@ -161490,7 +161490,7 @@
 	DestWait:	0
 
 
-// // // // // 운영팀 저랩 boss 이벤트 2st
+// // // // // 운영팀 저랩 boss Evento 2st
 // ********************************************
 #	[6000]
 	MinuteGenerate:	-1
@@ -162673,7 +162673,7 @@
 // // 아르미아 마일리지판매 NPC
 // ********************************************
 #	[6048]
-	MinuteGenerate:	1
+	MinuteGenerate:	-1
 	MaxNumMob:	1
 	MinGroup:	0
 	MaxGroup:	1
@@ -162838,7 +162838,7 @@
 	DestWait:	0
 	
 	
-// // // // // // // 이벤트 쿠폰 NPC
+// // // // // // // Evento 쿠폰 NPC
 // ********************************************
 #	[6056]
 	MinuteGenerate:	-1

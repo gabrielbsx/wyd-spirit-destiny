@@ -18,6 +18,9 @@
     <Filter Include="Manager\Core\HookMgr">
       <UniqueIdentifier>{9db79938-bd58-40ca-9d76-4227abba9373}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Manager\Core\ImportInfo">
+      <UniqueIdentifier>{39ef34d2-6db3-4497-9ef7-c52c29565401}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -31,6 +34,9 @@
     </ClInclude>
     <ClInclude Include="CMain.h">
       <Filter>Manager\Core\CMain</Filter>
+    </ClInclude>
+    <ClInclude Include="ImportInfo.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -48,5 +54,8 @@
     </ClCompile>
     <ClCompile Include="dllmain.cpp" />
     <ClCompile Include="pch.cpp" />
+    <ClCompile Include="ImportInfo.cpp">
+      <Filter>Manager\Core\ImportInfo</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

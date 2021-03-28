@@ -1,7 +1,2 @@
-﻿  pch.cpp
-  Helper.cpp
-  HookMgr.cpp
-  Naked.cpp
-  dllmain.cpp
-  Gerando Código...
+﻿  Helper.cpp
   ClientPatch.vcxproj -> E:\Github\wyd-spirit-destiny\Server\Client\Client\ClientPatch.dll
